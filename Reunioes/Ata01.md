@@ -24,20 +24,31 @@ Os presentes na reunião foram:
 
 ## 3. Pontos de Discussão Importantes
 
-- **Objetivo**: Planejar sobre como será a dinâmica do grupo durante o projeto e discutir sobre o site alvo.
+- Objetivo: Planejar sobre como será a dinâmica do grupo durante o projeto e discutir sobre o site alvo.
 
-  ### Dúvidas e discussões:
+- Dúvidas e discussões:
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
 
 | Identificador (Dn) | Tema |
 | - | - |
 | D1 | Como a equipe irá se organizar? | 
-| D2 | Qual será o site do projeto? |
+| D2 | Qual será a base do site do projeto? |
 | D3 | Elaboração inicial do cronograma |
 <p align="center"> Tabela 1. Dúvidas </p>
 
-## 4. Decisões:
+## 4. Conclusões: 
+
+De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
+
+| Identificador (Dn) | Decisão |
+| - | - |
+| D1 | - | 
+| D2 | - |
+| D3 | - |
+<p align="center"> Tabela 2. Dúvidas </p>
+
+## 5. Decisões:
 
 Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
@@ -50,11 +61,10 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 | Issue 3 | Enviar sugestões de sites com argumentos | Todos |
 | Issue 4 | Encontrar sugestões de ferramentas | - |
 | Issue 5 | Encontrar sugestões de metodologias | - |
-| Issue 6 | Definir as metas de usabilidade | - |
 
-<p align="center"> Tabela 2. Issues Sprint 0 </p>
+<p align="center"> Tabela 3. Issues Sprint 0 </p>
 
-## 5. Histórico de Versão
+## 6. Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
