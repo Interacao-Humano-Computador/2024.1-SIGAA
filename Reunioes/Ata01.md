@@ -49,7 +49,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | - | - |
 | D1 | Uma ou duas reuniões semanais pelo teams e discurssões sobre o desenvolvimento do projeto via whatzapp.| 
 | D2 | Há um conjunto de ideias, mas o foco inicial será no site do sigaa |
-| D3 | O cronograma será baseado de acordo com as datas de entrega dws tarefas definidas pelo cronograma da disciplina.  |
+| D3 | O cronograma será baseado de acordo com as datas de entrega das tarefas definidas pelo cronograma da disciplina.  |
 | D4 | A próxima reunião será no dia 28 de março às 20:30. |
 
 <p align="center"> Tabela 2. Dúvidas </p>
