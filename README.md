@@ -1,4 +1,8 @@
-# 2024.1-Grupo02
+# 2024.1-Grupo02 - SIGAA
+
+<div align="cehttps://autenticacao.unb.br/sso-server/images/icone_SIGAA.png" style="width:25vw"/>
+    <p> Figura 1:Simbolo SIGAA </p> 
+</div>
 
 ## :earth_americas: Sobre o projeto
    Este repositório é dedicado ao projeto de Interação Humano Computador desenvolvido pelo grupo 2 da turma do professor André Barros de Sales.
