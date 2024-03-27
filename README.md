@@ -1,6 +1,6 @@
 # 2024.1-Grupo02 - SIGAA
 
-<div align="cehttps://autenticacao.unb.br/sso-server/images/icone_SIGAA.png" style="width:25vw"/>
+<div align="https://autenticacao.unb.br/sso-server/images/icone_SIGAA.png" style="width:25vw"/>
     <p> Figura 1:Simbolo SIGAA </p> 
 </div>
 
