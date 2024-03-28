@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Projeto IHC
+nav:
+  - Início: index.md
+  - Atas de Reuniões:
+      - Ata 1: atas/ata1.md
+      - Ata 2: atas/ata2.md
