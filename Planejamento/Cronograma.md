@@ -18,8 +18,8 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 | Documentar Equipe                  | Início: 26/03 <br> Fim: 28/03 | Larissa            | Início: 29/03 <br> Fim: 29/03 | Luana            |
 | Realização do cronograma           | Início: 26/03 <br> Fim: 28/03 | Breno              | Início: 29/03 <br> Fim: 29/03 | Larissa          |
 | Implementar Git Page               | Início: 26/03 <br> Fim: 28/03 | Pedro              | Início: 29/03 <br> Fim: 29/03 | Breno            |
-| Selecionar ferramentas do projeto  | Início: 29/03 <br> Fim: 31/04 | Larissa e Luana    | Início: 01/04 <br> Fim: 01/04 | Bruno            |
-| Selecionar metodologias do projeto | Início: 29/03 <br> Fim: 31/04 | Bruno e Iago       | Início: 01/04 <br> Fim: 01/04 | Pedro            |
+| Selecionar ferramentas do projeto  | Início: 29/03 <br> Fim: 31/03 | Larissa e Luana    | Início: 01/04 <br> Fim: 01/04 | Bruno            |
+| Selecionar metodologias do projeto | Início: 29/03 <br> Fim: 31/03 | Bruno e Iago       | Início: 01/04 <br> Fim: 01/04 | Pedro            |
 | Processo de Design                 | Início: 01/04 <br> Fim: 04/04 | Todos              | Início: 05/04 <br> Fim: 05/04 | Iago             |
 | Gravar apresentação                | Início: 06/04 <br> Fim: 06/04 | Todos              | Início: 07/04 <br> Fim: 07/04 | Todos            |
 | Correção pós apresentação          | Início: 07/04 <br> Fim: 07/04 | Todos              | Início: 07/04 <br> Fim: 07/04 | Todos            |
