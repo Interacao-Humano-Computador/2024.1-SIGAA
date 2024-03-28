@@ -12,8 +12,8 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
 
-| Atividade                          | Período de desenvolvimento    | Autor(es)           | Revisão                       | Revisor(es)      |
-| ---------------------------------- | ----------------------------- | ------------------- | ----------------------------- | ---------------- |
+| Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
+| ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
 | Selecionar site                    | Início: 26/03 <br> Fim: 28/03 | Todos              | Início: 29/03 <br> Fim: 29/03 | Larissa          |
 | Documentar Equipe                  | Início: 26/03 <br> Fim: 28/03 | Larissa            | Início: 29/04 <br> Fim: 29/04 | Luana            |
 | Realização do cronograma           | Início: 26/03 <br> Fim: 28/03 | Breno              | Início: 29/03 <br> Fim: 29/03 | Larissa          |
@@ -32,8 +32,8 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
 
-| Atividade                          | Período de desenvolvimento    | Autor(es)           | Revisão                       | Revisor(es)      |
-| ---------------------------------- | ----------------------------- | ------------------- | ----------------------------- | ---------------- |
+| Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
+| ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
 | Selecionar site                    | Início: 26/03 <br> Fim: 28/03 | Todos              | Início: 29/03 <br> Fim: 29/03 | Larissa          |
 
 
