@@ -5,9 +5,9 @@
 ## 1. Data, Horário, Duração e Local
 
 - **Data:** 28/04/2024
-- **Horário de início previsto:** 20:00.
-- **Horário de início:** 
-- **Duração:** 
+- **Horário de início previsto:** 20:40.
+- **Horário de início:** 21:35
+- **Duração:** 12 minutos
 - **Local:** Teams 
 - **Link da reunião:** 
 
@@ -17,7 +17,6 @@ Os presentes na reunião foram:
 
 - Breno Alexandre Soares Garcia
 - Bruno Cunha Vasconcelos de Araujo
-- Caio Mesquita Vieira
 - Iago Passaglia Perereia
 - Larissa Stefane Barboza Santos
 - Pedro Augusto Dourado Izarias
@@ -33,12 +32,12 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | Identificador (Dn) | Tema |
 | - | - |
 | D1 | Qual os sites disponívies? | 
-| D2 | Precisamos criar um documento sobre o headmap|
-| D3 | Decidir o app (Ponto principal da runião) |
+| D2 | Precisamos criar um documento sobre o heatmap|
+| D3 | Decidir o site (Ponto principal da runião) |
 | D4 | Definir um padrão para o cronograma |
 | D5 | Precisamos melhorar a interface do gitpages |
 | D6 | Todos conseguiram entregar as suas tarefas definidas na reunião anterior? |
-| D7 | Quando será a gravação da reunião da apresentação? |
+| D7 | Quando será a próxima reunião da apresentação? |
 
 
 <p align="center"> Tabela 1. Dúvidas </p>
@@ -49,13 +48,13 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 | Identificador (Dn) | Decisão |
 | - | - |
-| D1 |  | 
-| D2 |  |
-| D3 |  |
-| D4 |  |
-| D5 |  |
-| D6 |  |
-| D7 |  |
+| D1 | Os integrantes vão pensar em opções de site e trazer para a próxima reunião. | 
+| D2 | Bruno e Iago ficarão responsáveis por isso. |
+| D3 | O site será escolhido na terça-feira, quando ocorrer a próxima reunião de IHC. |
+| D4 | O Bren e a Luana estão responsáveis pelo estudo do cronograma. |
+| D5 | Pedro está trabalhando com o gitpages. |
+| D6 | Devido ao curto tempo, não. |
+| D7 | Na terça-feira a noite. |
 
 <p align="center"> Tabela 2. Dúvidas </p>
 
@@ -69,14 +68,12 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 | - | - | - | - |
 | Issue 1 | Realizar a Ata da reunião  | Larissa Stéfane | |
 | Issue 2 | Trabalhar no gitpage | Pedro |  |
-| Issue 3 | Criar a documentação do headmap |  | |
-| Issue 4 | Atualizar o readme de apresentação |  | |
-| Issue 5 | Organizar o cronograma de acordo com o padrão definido |  | |
-| Issue 6 | Apresentação de sites disponíveis para a escolha com argumento | | |
-| Issue 8 | Responsável por revisar as ferramentas | | |
-| Issue 9 | Responsável por revisar o estudo das metodologias | | |
-| Issue 10 | Adicionar referências bibliográficas em todos os documentos | Todos os que fizeram documentos | |
-| Issue 11 | Fazer o cronograma do que foi feito até agora| | |
+| Issue 3 | Criar a documentação do heatmap | Bruno e Iago | |
+| Issue 4 | Organizar o cronograma de acordo com o padrão definido | Luana | |
+| Issue 5 | Apresentação de sites disponíveis para a escolha com argumento | Todos | |
+| Issue 6 | Responsável por revisar as ferramentas | Luana | |
+| Issue 7 | Adicionar referências bibliográficas em todos os documentos | Todos os que fizeram documentos | |
+| Issue 10 | Fazer o cronograma do que foi feito até agora| | |
 
 
 <p align="center"> Tabela 3. Issues Sprint 0 </p>
@@ -86,4 +83,4 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criando da base da Ata da Reunião | Larissa Stéfane Barboza Santos | - | 28/03 |
-| 1.1 | Atualiação da ata | Larissa Stéfane Barboza Santos |-| 28/03 |
+| 1.1 | Atualização da ata | Larissa Stéfane Barboza Santos |-| 28/03 |
