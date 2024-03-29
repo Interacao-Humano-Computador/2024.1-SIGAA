@@ -59,6 +59,6 @@
  
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento| Larissa Stéfane | - | 27/03/2024|
-| 2.0 | Adição de mais ferramentas e das referências bibliográficas | Larissa Stéfane | - | 28/03/2024|
+| 1.0 | Criação do documento| Larissa Stéfane | Luana Medeiros | 27/03/2024|
+| 2.0 | Adição de mais ferramentas e das referências bibliográficas | Larissa Stéfane | Luana Medeiros | 28/03/2024|
   
