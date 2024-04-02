@@ -1,10 +1,10 @@
 # Reunião 01
 
-## Ata da reunião do dia 26/04
+## Ata da reunião do dia 26/03
 
 ## 1. Data, Horário, Duração e Local
 
-- **Data:** 26/04/2024
+- **Data:** 26/03/2024
 - **Horário de início previsto:** 20:30.
 - **Horário de início:** 21:02
 - **Duração:** 21 minutos e 12 segundos.
@@ -75,5 +75,5 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criando da base da Ata da Reunião | Larissa Stéfane Barboza Santos | - | 25/03 |
-| 1.1 | Atualiação da ata | Larissa Stéfane Barboza Santos |-| 26/03 |
+| 1.0 | Criando da base da Ata da Reunião | Larissa Stéfane Barboza Santos | Luana Medeiros | 25/03 |
+| 1.1 | Atualiação da ata | Larissa Stéfane Barboza Santos | Luana Medeiros | 26/03 |
