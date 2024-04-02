@@ -55,7 +55,7 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Luana Medeiros | |
+| Issue 1 | Realizar a Ata da reunião  | Luana Medeiros | 02/04 |
 
 
 <p align="center"> Tabela 3. Issues Sprint 0 </p>
