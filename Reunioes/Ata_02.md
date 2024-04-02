@@ -1,6 +1,6 @@
 # Reunião 02
 
-## Ata da reunião do dia 28/003
+## Ata da reunião do dia 28/03
 
 ## 1. Data, Horário, Duração e Local
 
