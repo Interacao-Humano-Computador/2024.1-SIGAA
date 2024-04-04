@@ -4,7 +4,12 @@ nav:
   - Atas de Reuniões:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
-
+  - Apresentações:
+      - Teste2: apresentacao/teste2.md
+  - Planejamento:
+      - Teste3: planejamento/teste3.md
+  - Análise de requisitos:
+      - Teste1: analise-requisitos/teste.md
 theme: 
   name: dracula
   logo: assets/img/logo.jpg
