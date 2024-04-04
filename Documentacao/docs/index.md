@@ -14,4 +14,4 @@
 Este repositório é dedicado ao projeto de Interação Humano Computador 
 desenvolvido pelo grupo 2 da turma do professor André Barros de Sales.
 
-
+:snake:

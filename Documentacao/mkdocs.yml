@@ -1,6 +1,13 @@
-site_name: Projeto IHC
+site_name: Projeto SIGAA
 nav:
   - Início: index.md
   - Atas de Reuniões:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
+
+theme: 
+  name: dracula
+  logo: assets/img/logo.jpg
+markdown_extensions:
+  - pymdownx.emoji
+  
