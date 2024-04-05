@@ -1,4 +1,6 @@
+* [Início](/)
 * Reuniões
-  - [Reunião 01](atas/Ata01.md)
-  - [Reunião 02](reunioes/Ata_02.md)    
-  
+  * [Ata 1](/atas/Ata01.md)
+  * [Ata 2](/atas/Ata_02.md)
+* [API](/api)
+* [FAQ](/faq)
