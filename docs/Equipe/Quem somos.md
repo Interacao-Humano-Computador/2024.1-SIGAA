@@ -12,6 +12,8 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto que se d
 
 ## 👨‍🎓: Contribuidores
 
+## 👨‍🎓: Contribuidores
+
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
@@ -29,7 +31,7 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto que se d
        <td align="center">
             <a href="https://github.com/caiomesvie">
                 <img style="border-radius: 50%;" src="https://github.com/caiomesvie.png" width="150px;"/>
-                <h5 class="text-center"> Caio Mesquita Vieira <br>  <br> Github: caiomesvie</h5>
+                <h5 class="text-center"> Caio Mesquita Vieira <br> </h5>
             </a>
         </td>
       <td align="center">
@@ -58,6 +60,7 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto que se d
         </td>
       
 </table>
+
 
 ## 📑: Históricos de Versões:
 
