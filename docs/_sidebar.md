@@ -11,5 +11,6 @@
   - [Heatmap]
   - [Cronograma]
   - [Ferramentas utilizadas](planejamento/Ferramentas.md)
-  - [Site Escolhido](planejamento/Site-Escolhido:-SIGAA)
-  - [sites avaliados](planejamento/Sites-Avaliados)
+  * Site Escolhido
+    - [O que é SIGAA](planejamento/Site-Escolhido:-SIGAA/SIGAA.md)
+    - [Avaliação Heurística](planejamento/Site-Escolhido:-SIGAA/Avaliação_Heuristica_SIGAA.md)
