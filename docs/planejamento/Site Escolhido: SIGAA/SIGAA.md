@@ -6,7 +6,7 @@
 * [Objetivos e Funcionalidades](#Objetivos-e-Funcionalidades)
 * [Estudos realizados anteriormente](#Estudos-realizados-anteriormente)
 * [Motivações](#Motivações)
-* [Funcionalidades que serão estudadas]( Funcionalidades-que-serão-estudadas)
+* [Funcionalidades que serão estudadas](#Funcionalidades-que-serão-estudadas)
 * [Conclusão](#Conclusão)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
