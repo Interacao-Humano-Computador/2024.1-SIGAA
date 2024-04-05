@@ -1,4 +1,4 @@
-# 2024.1-Grupo02: Guardiões da saúde!
+# 2024.1-Grupo02: SIGAA!
 
 ## 
 
