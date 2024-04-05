@@ -126,6 +126,12 @@ A escolha do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) como
 
 ## Funcionalidades que serão estudadas
 
+<center>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa3.png">
+
+   **Figura 3**: Fonte: Site do SIGAA 
+ </center>
+
 Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do nosso projeto. Elas podem ser vistas junto com o responsável pela área na tabela 1.
 
 | Funcionalidade | Responsável |
