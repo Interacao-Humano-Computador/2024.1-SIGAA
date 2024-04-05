@@ -1,13 +1,11 @@
 # 2024.1-Grupo02: SIGAA!
 
-## Teste testando
-
-  
+## 
 
 
-Somos uma equipe que faz parte da disciplina de Requisitos de Software ministrada pelo professor André de Sales Barros na Universidade de Brasília (UnB). 
+Somos uma equipe que faz parte da disciplina de Interação Humano-Computador ministrada pelo professor André de Sales Barros na Universidade de Brasília (UnB). 
 
-Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se debruça sobre a análise dos requisitos necessários para o aplicativo “Guardiões da Saúde” .
+Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se debruça sobre a análise da usabilidade do o site "SIGAA" .
 ## 👨‍🎓: Contribuidores
 
 <table style="margin-left: auto; margin-right: auto;">
@@ -61,16 +59,9 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se 
 
   
 
-
-O projeto da equipe consiste em um estudo sobre o aplicativo "Guardiões da Saúde", cujo o objetivo principal é monitorar e armazenar dados de saúde de forma personalizada para cada usuário e assim, fornecer estatística sobre a comunidade. 
-
-A equipe se propõe a analisar os requisitos desse aplicativo, desde a coleta e armazenamento de dados até a interface do usuário e as funcionalidades de análise.
-
 ## 📑: Históricos de Versões:
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao da base | Larissa Stéfane | Caio Mesquita| 25/03/2024 |
-| 1.1 | Passagem para o gitpage | Caio Mesquita | Bruno Cunha | 26/03/2024 |
-| 1.2 | Atualização do readme | Larissa Stéfane  | Iago Passaglia | 31/03/2024 |
-| 1.3 | Correçao de versionamento | Iago Passaglia | Pedro Augusto | 02/04/2024 |
+| 1.0 | Criaçao da base |  Pedro Augusto |  -| 05/04/2024 |
+
