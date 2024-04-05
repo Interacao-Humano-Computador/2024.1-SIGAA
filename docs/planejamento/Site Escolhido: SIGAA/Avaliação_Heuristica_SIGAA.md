@@ -188,4 +188,4 @@ A avaliação revelou diferentes níveis de severidade em relação aos problema
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao e deenvolvimento do documento | Larissa Stéfane | - | 05/04/2024 |
+| 1.0 | Criaçao e desenvolvimento do documento | Larissa Stéfane | - | 05/04/2024 |
