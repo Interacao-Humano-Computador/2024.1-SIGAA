@@ -68,5 +68,5 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação da base da Ata da Reunião | Luana Medeiros | - | 02/04 |
-| 1.1 | Atualização da ata | Luana Medeiros | - | 02/04 |
+| 1.0 | Criação da base da Ata da Reunião | Luana Medeiros | Breno Alexandre | 02/04 |
+| 1.1 | Atualização da ata | Luana Medeiros | Breno Alexandre | 02/04 |
