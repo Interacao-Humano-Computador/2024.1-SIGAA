@@ -12,8 +12,6 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto que se d
 
 ## 👨‍🎓: Contribuidores
 
-## 👨‍🎓: Contribuidores
-
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
