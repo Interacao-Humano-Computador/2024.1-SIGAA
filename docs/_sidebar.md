@@ -11,6 +11,11 @@
   - [Heatmap]
   - [Cronograma]
   - [Ferramentas utilizadas](planejamento/Ferramentas.md)
+    
   * Site Escolhido
     - [O que é SIGAA](planejamento/Site-Escolhido:-SIGAA/SIGAA.md)
     - [Avaliação Heurística](planejamento/Site-Escolhido:-SIGAA/Avaliação_Heuristica_SIGAA.md)
+   
+  * Sites Avaliados
+    - [Metodologia da análise](planejamento/Sites-Avaliados/Análise-dos-sites.md)
+    - [Avaliação do site: Secretaria da Pessoa com Deficiência do GDF](planejamento/Sites-Avaliados/Site_Secretaria_PND_GDF.md)
