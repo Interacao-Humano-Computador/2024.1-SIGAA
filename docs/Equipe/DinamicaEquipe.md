@@ -62,4 +62,4 @@ Ao longo do desenvolvimento do projeto, será adotada uma abordagem iterativa, a
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao do documento | Larissa Stéfane |  05/04/2024 |
+| 1.0 | Criaçao do documento | Larissa Stéfane | - | 05/04/2024 |
