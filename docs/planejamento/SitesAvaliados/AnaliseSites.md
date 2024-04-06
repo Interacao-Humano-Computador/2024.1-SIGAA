@@ -34,6 +34,7 @@ Após a conclusão das avaliações individuais, a equipe se reuniu para revisar
 
 A tabela 1 a seguir apresenta as escolhas de cada integrante junto com os pdfs do planejamento e da
 execução das avaliações dos sites.
+
 | Nome | Site | Planejamento e Avaliação |
 | - | - | - | 
 | Breno Alexandre | - | -| 
@@ -41,7 +42,7 @@ execução das avaliações dos sites.
 | Iago Passaglia |  - | -| 
 | Larissa Stefane | Secretaria da Pessoa com Deficiência do GDF | [Análise](Site_Secretaria_PND_GDF.md) |
 | Luana de Lima | - | - |
-| Pedro Augusto | - | - | 
+| Pedro Augusto | Distribuição Linux Debian | [Análise](Site_Debian.md) | 
 
 Tabela 1. Fonte: Larissa Stéfane.
 
