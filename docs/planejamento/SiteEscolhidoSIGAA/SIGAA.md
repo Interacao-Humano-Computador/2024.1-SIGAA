@@ -2,7 +2,7 @@
 
 ## Sumário
 * [Introdução](#Introdução)
-* [O que é o SIGAA?](#O_que_é_o_SIGAA?)
+* [O que é o SIGAA?](#OqueéoSIGAA?)
 * [Objetivos e Funcionalidades](#Objetivos-e-Funcionalidades)
 * [Estudos realizados anteriormente](#Estudos-realizados-anteriormente)
 * [Motivações](#Motivações)
