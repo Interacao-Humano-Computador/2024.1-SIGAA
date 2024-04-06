@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O processo de design é um conjunto de atividades metodológicas e sistemáticas focadas em criar e melhorar a interação entre usuários e sistemas computacionais, tendo como objetivo desenvolver produtos que sejam não apenas funcionais e eficientes, mas também acessíveis, fáceis de usar, e que proporcionem experiências positivas aos usuários. Este processo envolve compreender profundamente as necessidades, comportamentos e contextos dos usuários, para então traduzir esses insights em soluções de design inovadoras e eficazes.
+O processo de design é um conjunto de atividades metodológicas e sistemáticas focadas em criar e melhorar a interação entre usuários e sistemas computacionais, tendo como objetivo desenvolver produtos que sejam não apenas funcionais e eficientes, mas também acessíveis, fáceis de usar e proporcionem experiências positivas aos usuários. Este processo envolve compreender profundamente as necessidades, comportamentos e contextos dos usuários, para então traduzir esses insights em soluções de design inovadoras e eficazes.
 
 ## Sobre o estudo
 
@@ -14,7 +14,7 @@ O estudo foi orientado pelo livro de Barbosa e Silva (2010). Segundo os autores,
 
 ## Da metodologia
 
-Foi escolhido como método a engenharia de usabilidade proposta por Deborah Mayhew, cujo objetivo visa melhorar a experiência do usuário ao interagir com produtos digitais, garantindo que sejam fáceis de aprender, eficientes de usar, e que satisfaçam suas necessidades e expectativas. Se trata de uma abordagem sistemática para o desenvolvimento de interfaces de usuário com foco na usabilidade, e é dividido em três fases principais:
+Foi escolhido como método a engenharia de usabilidade proposta por Deborah Mayhew, cujo objetivo visa melhorar a experiência do usuário ao interagir com produtos digitais, garantindo que sejam fáceis de aprender, eficientes de usar, e que satisfaçam suas necessidades e expectativas. Se trata de uma abordagem sistemática para o desenvolvimento de interfaces de usuário com foco na usabilidade e é dividido em três fases principais:
 
 ### Análise de Requisitos
 
