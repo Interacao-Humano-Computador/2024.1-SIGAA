@@ -78,5 +78,5 @@ Tabela 1. Fonte: Larissa Stéfane.
 | 2.0 | Adição e modificação de algumas ferramentas| Larissa Stéfane | Luana Medeiros | 31/03/2024|
 | 3.0 | Correçao de versionamento | Iago Passaglia | Larissa Stéfane| 02/04/2024 |
 | 4.0 | Adição de sumário e conclusão| ILarissa Stéfane | Pedro Augusto | 05/04/2024 |
-| 5.0 | Adição de mais ferramentas| ILarissa Stéfane | - | 05/04/2024 |
+| 5.0 | Adição de mais ferramentas| ILarissa Stéfane | Pedro Augusto | 05/04/2024 |
   
