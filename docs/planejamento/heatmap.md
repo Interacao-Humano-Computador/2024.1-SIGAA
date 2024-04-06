@@ -32,4 +32,4 @@ A utilização do heatmap de disponibilidade para reuniões se mostrou uma ferra
  
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento| Bruno Araújo | Iago Passaglia | 30/03/2024|
+| 1.0 | Criação do documento| Pedro Augusto | - | 06/04/2024|
