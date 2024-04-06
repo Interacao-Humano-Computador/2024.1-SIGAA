@@ -10,7 +10,7 @@
   - [Ata 2](atas/Ata_02.md)
     
 * Planejamento 
-  - [Cronograma](Cronograma.md)
+  - [Cronograma](planejamento/Cronograma.md)
   - [Ferramentas utilizadas](planejamento/Ferramentas.md)
     
   * Site Escolhido
