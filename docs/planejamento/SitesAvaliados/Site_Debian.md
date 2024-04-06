@@ -165,4 +165,4 @@ Disponível em < https://aprender3.unb.br/pluginfile.php/2843660/mod_resource/co
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao do documento | Pedro Augusto |  - | 06/04/2024 |
+| 1.0 | Criaçao do documento | Pedro Augusto | Luana Medeiros | 06/04/2024 |
