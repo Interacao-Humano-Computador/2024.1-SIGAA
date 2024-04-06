@@ -28,6 +28,10 @@
 * [Referências bibliográficas](#Referências-bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
+## Introdução 
+
+O planejamento de avaliação em Interação Humano-Computador é essencial para garantir que sistemas interativos atendam às necessidades e expectativas dos usuários. Nesse contexto, o framework DECIDE oferece uma estrutura sistemática e abrangente para orientar o processo de planejamento de avaliação, ajudando a garantir a qualidade de uso dos sistemas desenvolvidos.
+
 ## Planejamento da avaliação de acordo com o decide:
 
 ### D - Determinar os objetivos da avaliação de IHC
