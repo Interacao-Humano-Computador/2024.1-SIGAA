@@ -5,7 +5,7 @@
 * [Critérios](#Critérios)
 * [Método de análise](#Método-de-análise)
 * [Escolhas](#Escolhas)
-* [Templete](#Templete)
+* [Template](#Template)
 * [Motivos da escolha](#Motivos-da-escolha)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -48,7 +48,7 @@ Tabela 1. Fonte: Larissa Stéfane.
 
 
 
-## Templete:
+## Template:
 
 		- ## Nome do site:
 
@@ -99,3 +99,4 @@ A escolha do site SIGAA da UnB como base para o projeto foi motivada por diverso
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao do documento | Larissa Stéfane | Luana Medeiros |  05/04/2024 |
+| 1.1 | Adição da escolha do site | Pedro Augusto | - |  06/04/2024 |
