@@ -67,7 +67,7 @@ Desde o seu lançamento, em 2009, o SIGAA tem sido objeto de inúmeras pesquisas
 Alguns desses estudos realizados foram [Análise do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) na perspectiva do corpo docente e discente do curso Técnico Integrado em Edificações – IFSC Câmpus São Carlos](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) e [SATISFAÇÃO DO USUÁRIO DO SISTEMA INTEGRADO DE GESTÃO DAS ATIVIDADES ACADÊMICAS: UM ESTUDO NO INSTITUTO FEDERAL CATARINENSE](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/812/Artigo_vers%c3%a3o_corrigida_set_2018.pdf?sequence=1&isAllowed=y) 
 
 ### Sobre a opinião do usuário:
-Na pesquisa do IFCS⁴, a usabilidade do sistema também foi um critério analisado, uma vez que é um dos aspectos mais importantes na avaliação de um sistema. Dessa maneira, o ideal é que esse sistema seja bastante intuitivo e de fácil aprendizagem de maneira que o usuário consiga utilizar o sistema de maneira eficiente, sem grandes dificuldades. No entanto, de acordo a pesquisa em que o site podia ser avaliado entre de 1 a 10, a usabilidade não recebeu notas boas, com nenhuma escolha para 9 e 10 e com foco entre 5 e 7, como é possível observar na imagem 3. 
+Na pesquisa do IFSC⁴, a usabilidade do sistema também foi um critério analisado, uma vez que é um dos aspectos mais importantes na avaliação de um sistema. Dessa maneira, o ideal é que esse sistema seja bastante intuitivo e de fácil aprendizagem de maneira que o usuário consiga utilizar o sistema de maneira eficiente, sem grandes dificuldades. No entanto, de acordo a pesquisa em que o site podia ser avaliado entre de 1 a 10, a usabilidade não recebeu notas boas, com nenhuma escolha para 9 e 10 e com foco entre 5 e 7, como é possível observar na imagem 3. 
 
 <center>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/usabilidadeSigaa.png">
@@ -75,7 +75,7 @@ Na pesquisa do IFCS⁴, a usabilidade do sistema também foi um critério analis
    **Imagem 3**. Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
  </center>
 
-Na questão da facilidade de uso, na pesquisa do IFCS⁴, os docentes relataram o seguinte, como é mostrado na figura 4.
+Na questão da facilidade de uso, na pesquisa do IFSC⁴, os docentes relataram o seguinte, como é mostrado na figura 4.
 
 <center>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/UsabilidadeDocenteSigaa.png">
@@ -84,7 +84,7 @@ Na questão da facilidade de uso, na pesquisa do IFCS⁴, os docentes relataram 
  </center>
 
 
-Na questão da aparência, novamente de acordo com a pesquisa IFCS⁴, o SIGAA também não dispertou o agrado com grande parte das avaliações sendo classificadas entre 2 e 6, como é possível observar na imagem 5 .
+Na questão da aparência, novamente de acordo com a pesquisa IFSC⁴, o SIGAA também não dispertou o agrado com grande parte das avaliações sendo classificadas entre 2 e 6, como é possível observar na imagem 5 .
 
 <center>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/designSigaa.png">
@@ -171,3 +171,4 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 | ------ | --------------------------------------------- | --------------- | --------------- | ---------- | 
 | 1.0    | Criação e elaboração do documento             | Larissa Stéfane | Breno Alexandre | 05/04/2024 |
 | 1.1    | Adição de funcionalidades que serão estudadas | Breno Alexandre | -               | 06/04/2024 |
+| 1.2    | Correção de erros ortográficos | Pedro Augusto | -               | 06/04/2024 |
