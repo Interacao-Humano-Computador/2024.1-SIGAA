@@ -11,7 +11,7 @@ Neste documento, apresentamos o processo e os resultados obtidos através da an�
 ## Heatmap de Disponibilidade
 
 <center>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-GuardioesDaSaude/69cadef806b297ea29574016b3e8c14ee63b7467/docs/assets/imagem_2024-03-30_102818917.png" style="width:auto"/>
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/heatmpappppp.png?raw=true" style="width:auto"/>
 
 <font size="2"><p style="text-align: center">Imagem 1: Heatmap.</p></font>
   <font size="2"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
@@ -19,7 +19,7 @@ Neste documento, apresentamos o processo e os resultados obtidos através da an�
 
 
 ## Resultados
-O heatmap resultante nos proporcionou uma visão clara dos horários em que a maioria dos membros do grupo está disponível para reuniões. Identificamos os períodos de maior e menor disponibilidade ao longo da semana, o que nos permitiu planejar as reuniões de acordo com os horários mais convenientes para a maioria dos membros.
+O heatmap resultante da imagem 1 nos proporcionou uma visão clara dos horários em que a maioria dos membros do grupo está disponível para reuniões. Identificamos os períodos de maior e menor disponibilidade ao longo da semana, o que nos permitiu planejar as reuniões de acordo com os horários mais convenientes para a maioria dos membros.
 
 ## Aplicações
 - O heatmap de disponibilidade nos auxiliou na definição de horários para reuniões regulares, maximizando a participação dos membros do grupo.
@@ -32,4 +32,5 @@ A utilização do heatmap de disponibilidade para reuniões se mostrou uma ferra
  
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento| Pedro Augusto | - | 06/04/2024|
+| 1.0 | Criação do documento| Pedro Augusto | Iago Passaglia Pereira | 06/04/2024|
+| 1.1 | Adição da imagem correta e correção do documento| Iago Passaglia Pereira | - | 06/04/2024|
