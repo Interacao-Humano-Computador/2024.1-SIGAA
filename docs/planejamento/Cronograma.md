@@ -33,7 +33,16 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-| Selecionar site                    | Início: 26/03 <br> Fim: 28/03 | Todos              | Início: 29/03 <br> Fim: 29/03 | Larissa          |
+| Reunião 01                   | Início: 26/03/2024 <br> Fim: 26/03/2024 | Todos              | Início: 26/03/2024 <br> Fim: 26/03/2024 | Larissa Stéfane         |
+| Reunião 02                   | Início: 28/03/2024 <br> Fim: 28/03/2024 | Todos              | Início: 28/03/2024 <br> Fim: 28/03/2024 | Larissa Stéfane         |
+| Criação do documento de ferramentas      | Início: 28/03/2024 <br> Fim: 28/03/2024 | Larissa Stéfane   | Início: 28/03/2024 <br> Fim: 01/04/2024 |   Luana Medeiros      |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site da Secretaria da Pessoa com Deficiência do GDF.      | Início: 30/04/2024 <br> Fim: 30/04/2024 | Larissa Stéfane  | Início: 05/04/2024  <br> Fim: 06/04/2024 |   -      |
+| Selecionar site                    | Início: 02/04/2024 <br> Fim: 02/04/2024 | Todos              | Início: 05/04/2024 <br> Fim: 05/04/2024 | Larissa Stéfane  |
+|   Criação do documento que apresenta a metodologia de analise dos sites para a ecolha.  | Início: 05/04/2024 <br> Fim: 05/04/2024 | Larissa Stéfane    | Início: 05/04/2024 <br> Fim: 06/04/2024 | -  |
+|   Realização da avaliação por heurísticas do SIGAA e definição das suas funcionalidades.  | Início: 05/04/2024 <br> Fim: 05/04/2024 | Larissa Stéfane    | Início: 05/04/2024 <br> Fim: 06/04/2024 | -  |
+|   Apresentação do site SIGAA e exposição de dados coletados em pesquisas anteriores sobre o site.  | Início: 05/04/2024 <br> Fim: 05/04/2024 | Larissa Stéfane    | Início: 05/04/2024 <br> Fim: 06/04/2024 | -  |
+|  Criação de documento apresentando a Equipe.   | Início: 05/04/2024 <br> Fim: 05/04/2024 | Larissa Stéfane    | Início: 05/04/2024 <br> Fim: 06/04/2024 | -  |
+|  Criação de documento mostrando a dinâmica da equipe.  | Início: 05/04/2024 <br> Fim: 05/04/2024 | Larissa Stéfane    | Início: 05/04/2024 <br> Fim: 06/04/2024 | -  |
 <p align="center"> Tabela 1. Planejamento do Projeto </p>
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
@@ -280,6 +289,7 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 | Versão | Alteração           | Responsável | Revisor | Data      |
 | -      | -                   | -           | -       | -         |
-| 1.0    | Criação do documento| Breno       | -       | 28/03/2024|
-| 1.1    | Atualização do documento| Luana Medeiros       | -       | 04/04/2024|
+| 1.0    | Criação do documento| Breno       | Larissa Stéfane       | 28/03/2024|
+| 1.1    | Atualização do documento| Luana Medeiros       | Larissa Stéfane       | 04/04/2024|
+| 1.2    | Atualização do cronograma executado para entrega 1| Larissa Stéfane       | -       | 04/04/2024|
 
