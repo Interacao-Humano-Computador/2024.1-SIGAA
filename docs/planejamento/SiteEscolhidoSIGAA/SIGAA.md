@@ -136,8 +136,8 @@ Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do no
 
 | Funcionalidade | Responsável |
 | -------------------- | ------------------ | 
-| - | Breno Alexandre |
-| - | Breno Alexandre |
+| Adesão de Cadastro Único | Breno Alexandre |
+| Declaração de Discente Prioritário | Breno Alexandre |
 | Solicitação de Bolsas | Bruno Cunha |
 | Declaração de Bolsista | Bruno Cunha |
 | Pré-Cadastro de estágio | Iago Passaglia |
