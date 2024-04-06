@@ -3,7 +3,7 @@
 * Equipe
   - [Quem somos](Equipe/QuemSomos.md)
   - [Dinâmica da equipe](Equipe/DinamicaEquipe.md)
-  - [Heatmap]
+  - [Heatmap](Equipe/Heatmap.md)
     
 * Reuniões
   - [Ata 1](atas/Ata01.md)
