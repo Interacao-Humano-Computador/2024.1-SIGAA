@@ -6,11 +6,11 @@ O processo de design é um conjunto de atividades metodológicas e sistemáticas
 
 ## Sobre o estudo
 
-O estudo teve como base no livro de Barbosa e Silva (2010), segundo os autores, o processo de design pode ser dividido em três atividades básicas:
+O estudo foi orientado pelo livro de Barbosa e Silva (2010). Segundo os autores, o processo de design pode ser dividido em três atividades básicas:
 
-1. **Análise da Situação Atual:** Esta atividade envolve o estudo e interpretação da situação atual na qual o sistema será inserido. Isso inclui compreender as necessidades, características e restrições dos usuários, bem como identificar problemas e oportunidades de melhoria.
-2. **Síntese de uma Intervenção:** Nesta etapa, os designers de IHC planejam e executam uma intervenção no sistema para melhorar a interação entre os usuários e o computador. Isso pode envolver a criação de protótipos, o desenvolvimento de novas funcionalidades ou a reformulação de aspectos existentes do sistema.
-3. **Avaliação da Nova Situação:** Finalmente, é realizada uma avaliação para verificar o impacto da intervenção realizada, comparando a situação anterior à intervenção com a nova situação. Isso permite aos designers avaliar se as mudanças implementadas alcançaram os objetivos desejados e atenderam às necessidades dos usuários de forma satisfatória.
+1. **Análise da Situação Atual:** É o estudo e interpretação da situação atual na qual o sistema será inserido, isso inclui compreender as necessidades, características e restrições dos usuários, bem como identificar problemas e oportunidades de melhoria.
+2. **Síntese de uma Intervenção:** Nesta etapa, é planejado e executada uma intervenção no sistema para melhorar a interação entre os usuários e o computador. Isso pode envolver a criação de protótipos, o desenvolvimento de novas funcionalidades ou a reformulação de aspectos existentes do sistema.
+3. **Avaliação da Nova Situação:** Por fim, realizar uma avaliação para verificar o impacto da intervenção realizada, comparando a situação anterior à intervenção com a nova situação. Isso permite aos designers avaliar se as mudanças implementadas alcançaram os objetivos desejados e atenderam às necessidades dos usuários de forma satisfatória.
 
 ## Da metodologia
 
@@ -41,13 +41,13 @@ A Engenharia de Usabilidade de Mayhew destaca a importância de um processo iter
 
 ## Motivos para a escolha
 
-O método de Mayhew é adequado para a avaliação de sistemas complexos como o SIGAA por oferecer uma abordagem estruturada que abrange desde a análise de requisitos até a instalação e avaliação pós-implementação.
-
-Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível realizar uma avaliação detalhada que identifica não apenas os problemas de usabilidade, mas também fornece insights valiosos para melhorias contínuas no sistema.
+O método de Mayhew é adequado para a avaliação de sistemas complexos, como o SIGAA, pois oferece uma abordagem estruturada que abrange desde a análise de requisitos até a instalação e avaliação pós-implementação.
+Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível realizar uma avaliação detalhada que identifica não apenas os problemas de usabilidade, mas também fornece insights para melhorias contínuas no sistema.
 
 ## Referências
 
-Fonte: Barbosa, S. D. J., & Silva, B. S. da. (2010). Interação Humano-Computador. Elsevier.
+Fonte: Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
+
 
 ## Histórico de versões
 
