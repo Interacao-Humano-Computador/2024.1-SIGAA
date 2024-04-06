@@ -12,8 +12,7 @@
 * [Planejamento com o DECIDE](#Planejamento-com-o-DECIDE)
 * [Cronograma](#Cronograma)
 * [Execução](#Execução-do-planejamento)
-* [Objetivo-do-site](#Objetivo-do-site)
-* [Usuários-do-site](#Usuários-do-site)
+* [Objetivos-da-avaliação](#Objetivos-da-avaliação)
 * [Análise com base nos objetivos da avaliação decidida no planejamento](#Análise-com-base-nos-objetivos-da-avaliação-decidida-no-planejamento)
 * [Perguntas a serem respondidas](#Perguntas-a-serem-respondidas)
 * [Análise com base nos objetivos da avaliação](#Análise-com-base-nos-objetivos-da-avaliação)
@@ -138,7 +137,7 @@ Antes de cada participante realizar a interação com o sistema, foi entregue um
 - Pergunta 6: Sim, conseguiu entender o que fazer em seguida.
 - Pergunta 7: A dificuldade em encontrar a opção desejada.
 
- ## Conclusão (Análise)
+ ## Conclusão
 
 - Após os testes feitos com os participantes, foi analisado individualmente cada resultado do formulário em busca de discrepâncias que pudessem alterar de forma equivocada o juízo acerca da efetividade da interface. Isto posto, diante da inexistência de valores incongruentes, foi realizada uma análise em conjunto de todos os dados, com o objetivo de responder os dois questionamentos iniciais definidos na etapa de objetivos, que são: aferir se há uma complexidade excessiva para realizar operações no site e identificar quais as barreiras que impedem que os usuários realizem as operações que desejam com sucesso.
 - A partir dos dados coletados, pudemos perceber que houve unanimidade quanto ao sucesso em realizar as tarefas propostas a todos os participantes, porém, a duração prolongada dos testes nos mostra a dificuldade dos mesmos em concluir as operações. Grande parte dos participantes também relatou a dificuldade em encontrar a opção desejada ou mesmo de assimilar a opção com os rótulos em mostra na tela, descrevendo a falta de destaque nas opções do site. 
