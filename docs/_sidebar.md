@@ -4,8 +4,8 @@
   - [Ata 2](atas/Ata_02.md)
 
 * Equipe
-  - [Quem somos](Equipe/Quem-somos.md)
-  - [Dinâmica da equipe](Equipe/Dinâmica-da-Equipe.md)
+  - [Quem somos](Equipe/QuemSomos.md)
+  - [Dinâmica da equipe](Equipe/DinamicaEquipe.md)
     
 * Planejamento 
   - [Heatmap]
