@@ -70,13 +70,13 @@ Tabela 1. Fonte: Larissa Stéfane.
    15. Kdenlive. Disponível em:  [Kdenlive](https://kdenlive.org/) . Acesso em: 28 de março 2024.
    16. Uxpressia. Disponível em: [Uxpressia](https://uxpressia.com/?gs2id=CjsaCQiAqsitBhDlARIsAGMR1RixghUQjuWARa8LoLw9WNnE2i9HzhshG2-dyV_IS3ok6UH048kqGIMaAlbLEALw_wcB&ource=vaneadssgaolpo&edium=vasasdneraukilop2&ampaign=ganikolopare3da&ontent=ikoloete&via=sergei&erm=bananaterjikulop&gad_source=1&gclid=EAIaIQobChMIluCI_buXhQMVPQ2tBh15zwUgEAAYASAAEgKV__D_BwE) . Acesso em: 28 de março 2024.
 
- ## Histórico de versões:
+ ## Histórico de versão:
  
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento| Larissa Stéfane | Luana Medeiros | 28/03/2024|
 | 2.0 | Adição e modificação de algumas ferramentas| Larissa Stéfane | Luana Medeiros | 31/03/2024|
 | 3.0 | Correçao de versionamento | Iago Passaglia | Larissa Stéfane| 02/04/2024 |
-| 4.0 | Adição de sumário e conclusão| ILarissa Stéfane | - | 05/04/2024 |
+| 4.0 | Adição de sumário e conclusão| ILarissa Stéfane | Pedro Augusto | 05/04/2024 |
 | 5.0 | Adição de mais ferramentas| ILarissa Stéfane | - | 05/04/2024 |
   
