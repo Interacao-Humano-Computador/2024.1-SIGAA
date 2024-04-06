@@ -37,7 +37,10 @@ A última fase do ciclo de vida abrange a implementação final do sistema e a s
 
 A Engenharia de Usabilidade de Mayhew destaca a importância de um processo iterativo e centrado no usuário, onde a avaliação contínua e o refinamento do design são fundamentais para atingir altos níveis de usabilidade. Essa abordagem ajuda a garantir que os produtos finais sejam não apenas funcionais, mas também intuitivos, eficientes e agradáveis de usar.
 
-(colar imagem do livro)
+![Ciclo de Mayhew](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/109971590/92f6c7a8-26f8-440a-81db-9957343fd000)
+<font size="2"><p style="text-align: center">Imagem 1: Ciclo de Mayhew.</p></font>
+  <font size="2"><p style="text-align: center">Fonte: [SlidePlayer](https://slideplayer.com.br/slide/13462698/).</p></font>
+<center>
 
 ## Motivos para a escolha
 
@@ -53,4 +56,5 @@ Fonte: Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Séri
 
 | Versão | Alteração                     | Responsável    | Revisor        | Data       |
 |--------|-------------------------------|----------------|----------------|------------|
-| 1.0    | Criação da base               | Bruno Araújo | -             | 06/04/2024 |
+| 1.0    | Criação da base               | Bruno Araújo | Iago Passaglia | 06/04/2024 |
+| 1.1    |Adição da imagem e correção de erros | Iago Passaglia | -             | 06/04/2024 |
