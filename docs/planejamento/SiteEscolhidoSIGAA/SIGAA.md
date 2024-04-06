@@ -170,5 +170,5 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 | Versão | Alteração                                     | Responsável     | Revisor         | Data       |
 | ------ | --------------------------------------------- | --------------- | --------------- | ---------- | 
 | 1.0    | Criação e elaboração do documento             | Larissa Stéfane | Breno Alexandre | 05/04/2024 |
-| 1.1    | Adição de funcionalidades que serão estudadas | Breno Alexandre | -               | 06/04/2024 |
+| 1.1    | Adição de funcionalidades que serão estudadas | Breno Alexandre | Pedro Augusto   | 06/04/2024 |
 | 1.2    | Correção de erros ortográficos | Pedro Augusto | -               | 06/04/2024 |
