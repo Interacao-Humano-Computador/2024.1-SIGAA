@@ -3,7 +3,7 @@
  <center>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/Site_Debian.png">
 
-   **Figura 1**: Fonte: Site do Debian 
+   **Figura 1**: Fonte: Site debian.org 
  </center>
 
 ## Sumário
