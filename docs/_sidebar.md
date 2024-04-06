@@ -12,6 +12,7 @@
 * Planejamento 
   - [Cronograma](planejamento/Cronograma.md)
   - [Ferramentas utilizadas](planejamento/Ferramentas.md)
+  - [Processo de Design]
     
   * Site Escolhido
     - [O que é SIGAA](planejamento/SiteEscolhidoSIGAA/SIGAA.md)
