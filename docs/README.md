@@ -47,9 +47,6 @@ Mais informações sobre a equipe podem ser encontradas no tópico Equipe e info
         </td>
       
 </table>
-
-## 📘: Sobre o projeto:
-
   
 
 ## 📑: Históricos de Versões:
