@@ -24,162 +24,126 @@
 ## Planejamento da avaliação de acordo com o decide:
 
 ### D - Determinar os objetivos da avaliação de IHC.
-1. Avaliar a acessibilidade do site para pessoas com diferentes tipos de deficiência, como deficiência visual, auditiva, motora, cognitiva, entre outras.
-2. Verificar a usabilidade do site.
-3. Analisar a eficácia do site em fornecer informações.
-4. Avaliar a adequação do design e das funcionalidades do site.5. Identificar possíveis barreiras ou problemas de acessibilidade.
+
+A avaliação tem o objetivo de aferir a eficácia da interface e do design da página principal do Sistema Operacional Debian, além de identificar problemas como complexidade excessiva ou falta de acessibilidade, para que os possam ser corrigidos a fim de melhorar a usabilidade do site.
 
 ### E - Explorar perguntas a serem respondidas com a avaliação.
 
 De acordo com o tópico 11.8 do livro “Planejamento da avaliação de IHC”, de Barbosa e Silva, há um conjunto de perguntas que podem ser feitas para cada tipo de objetivo. Para esta avaliação, foram escolhidas as seguintes:
 
-#### Analisar a apropriação tecnológica:
-
-- De que maneira os usuários utilizam o sistema? Em que difere do planejado?
-- O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?
-- Quais são os pontos fortes e fracos do sistema?
-- A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? 
-
-#### Verificar a conformidade com um padrão:
-- O sistema está de acordo com os padrões de acessibilidade do W3C?
-- Os termos na interface seguem convenções estabelecidas no domínio? 
-
 #### Identificar problemas na interação e interface
-- O usuário consegue operar o sistema?
-- Que parte da interface o desmotiva a explorar novas funcionalidades?
-- Quais barreiras o usuário encontra para atingir seus objetivos?
-- Que parte da interface e da interação o deixa insatisfeito?
-- 
-### C - Escolher os métodos de avaliação a serem utilizados.
-O método escolhido foi o de inspeção por meio da avaliação heurística, uma vez que é o  método criado para encontrar problemas de usabilidade durante um processo de design iterativo, segundo o tópico 12.1.1 do livro “Planejamento da avaliação de IHC”, de Barbosa e Silva.
-**Os principais princípios a serem abordados serão:** 
-- Visibilidade do estado do sistema.
-- Correspondência entre o sistema e o mundo real.
-- Controle e liberdade do usuário.
-- Consistência e padronização.
-- Reconhecimento em vez de memorização.
-- flexibilidade e eficiência de uso.
-- Projeto estético e minimalista.
-- Prevenção de erros.
-### I - Identificar e administrar as questões práticas da avaliação.
-Para a avaliação, será necessário administrar os seguintes tópicos;
 
-- Estudar o histórico de usuários.
-- Definir a equipe a qual coordena o teste, ou seja, os inspetores. Neste caso, será uma estudante de software.
-- Acesso a um computador e a internete.
+- O usuário consegue operar o sistema?
+- Ele atinge seu objetivo? 
+- Em quanto tempo? 
+- Após cometer quantos erros?
+- Que parte da interface o desmotiva a explorar novas funcionalidades?
+- Ele vai entender o que deve fazer em seguida?
+- Quais barreiras o usuário encontra para atingir seus objetivos?
+
+### C - Escolher os métodos de avaliação a serem utilizados.
+
+O método escolhido para a avaliação foi o teste de usabilidade, que se define como uma abordagem de avaliação de interface homem-computador que ocorre em um ambiente de laboratório especialmente projetado para observar e registrar a interação do usuário com o sistema de forma controlada e livre de interferências externas. O teste de usabilidade é um método de avaliação em laboratório e por esse motivo, foi o mais apropriado para o sistema em questão.
+
+### I - Identificar e administrar as questões práticas da avaliação.
+
+- O recrutamento dos participantes da avaliação deve ocorrer por meio de divulgação em grupos do telegram da Universidade de Brasília, de forma a constituir um público alvo de usuários do sistema Debian em um contingente de até 10 pessoas, não sendo menor que 5 pessoas.
+- Um roteiro será escrito e entregue para cada participante, contendo um script que descreve as tarefas a serem executadas, que nesse caso serão: Baixar uma imagem ISO do Debian 11 bullseye na versão para processadores ARM e acessar a página wiki de tradução com as informações de como contribuir com o projeto.
+- O participante não deverá possuir nenhum recurso prévio para realização da avaliação, sendo fornecido um computador e acesso a internet para que seja realizada a mesma.
+
 
 ### D - Decidir como lidar com as questões éticas.
 
-Não há voluntários de usuários no teste, por isso, não há necessidade de focar na questão ética, como o termo de consentimento.
+Haverá um termo de consentimento entregue para cada participante, de forma a que o mesmo possa permitir sua participação na atividade mediante assinatura do documento.
 
 ### E - Avaliar, interpretar e apresentar os dados.
-Após a avaliação do site, as observações realizadas serão interpretadas e estudadas. Assim, caso seja oportuno, também serão elaboradas recomendações de melhoria do site.
+- Inicialmente deve-se fazer uma análise manual dos dados e posteriormente uma em conjunto, com o objetivo de encontrar recorrências e padrões. Esta análise coletiva permite distinguir entre características representativas do grupo e particularidades individuais. É essencial abordar as questões que motivaram o estudo e justificar eventuais lacunas nas respostas encontradas. Os resultados são influenciados por diversos fatores, incluindo o método de avaliação, o conhecimento dos avaliadores e a qualidade dos dados.
+- É importante ressaltar que os resultados da avaliação de IHC geralmente indicam tendências de problemas mas não garantem que esses problemas ocorrerão durante o uso do sistema. Além disso, a ausência de problemas detectados não implica necessariamente alta qualidade de uso, apenas que o estudo não revelou problemas dentro do escopo avaliado.
+
 
 ## Cronograma
 
 | Atividade | Data |
 | --------- | ---- |
-|Planejamento | 29/03/2024 |
-| Avaliação | 29/03/2024 |
+|Planejamento | 25/03/2024 |
+| Avaliação | 01/04/2024 |
 
 	
  ## Execução do planejamento
 
 
-### Objetivo do site
+### Objetivos da avaliação
 
-O principal objetivo do site é oferecer serviço e acolhimento para as pessoas com deficiência. Por isso, o site deve ser capaz de realizar as seguintes tarefas:
-- Oferecer informação e orientação: Deve conter documentos e relatórios sobre os direitos, os benefícios e os serviços destinados a pessoas PcD. Além disso, deve divulgar as políticas, os programas e as legislações que tem essas pessoas como alvo.
+- Os dois objetivos principais da avaliação em questão, são os seguintes: aferir se há uma complexidade excessiva para realizar operações no site e identificar quais as barreiras que impedem que os usuários realizem as operações que desejam com sucesso.
+- Com base nos objetivos definidos na etapa anterior, foram escolhidas sete perguntas que pudessem ter suas respostas analisadas de modo a tirarmos conclusões sobre a necessidade de alterações no design do site sem que haja pessoalidade nas decisões.
 
--  Acessibilidade Digital: O site deve garantir que todos os seus usuários sejam capazes de utilizá-lo sem barreiras ou dificuldades.
--  Atendimento ao público: O site deve ser capaz de ser um canal de comunicação entre a Secretaria com a pessoa PcD.
- 	- As pessoas devem ser capazes de fazerem consultas e solicitarem serviços,
-como agendar atendimentos.
+### Método de avaliação
 
+O método escolhido para a avaliação foi o teste de usabilidade, que se define como uma abordagem de avaliação de interface homem-computador que ocorre em um ambiente de laboratório especialmente projetado para observar e registrar a interação do usuário com o sistema de forma controlada e livre de interferências externas. O teste de usabilidade é um método de avaliação em laboratório e por esse motivo, foi o mais apropriado para o sistema em questão.
 
-### Usuários do site
+### Questões práticas
 
-Os usuários principais são pessoas que apresentam algum tipo de deficiência, como cegos, surdos, cadeirantes, autistas, pessoas com sindrome de Dawn, entre muitas outras. Além disso, ele também é destinado para pessoas que tem contato ou vínculo com PcDs, como suas famílias ou cuidadores, profissionais da área da saúde, educadores, pesquisadores e empresas que oferecem produtos e serviços para este público.
+Um contingente de 5 pessoas foi selecionado para participar do teste com a restrição de não serem contribuidores da comunidade Debian ou parte dos avaliadores do sistema. O perfil dos participantes é de jovens entre 18 e 35 anos, em sua maioria estudantes universitários. Foi entregue a cada integrante, um roteiro com cada passo a ser executado, enquanto o avaliador analisa a interação do participante com o site e responde ao questionário.
 
-## Análise com base nos objetivos da avaliação decidida no planejamento
+### Questões éticas
 
-### Perguntas a serem respondidas
+Antes de cada participante realizar a interação com o sistema, foi entregue um termo de consentimento, para garantir que os participantes tenham uma compreensão clara do que será solicitado durante a pesquisa, dos riscos potenciais envolvidos e de seus direitos como participantes.
 
-#### Análise da apropriação tecnológica:
+### Resultados
 
-##### De que maneira os usuários utilizam o sistema? Em que difere do planejado?
-- Resposta: O site deveria ser uma boa experiência para o usuário, porém foram encontrados vários pontos negativos:
--  Apresenta extrema lentidão no acesso inicial, podendo levar alguns usuários a desistir do acesso.
--  Funcionalidade para aumentar o tamanho da fonte é ineficiente. Ferramenta de sintetização de voz não foi localizada.
-- Tradutor para libras é a única funcionalidade que se destaca no site.
-- A seção “Principais Serviços” é de difícil leitura com seu fundo amarelo e caracteres brancos suaves, um problema para as pessoas com problemas de visão. Além disso, considerando que é a principal seção de interesse de quem acessa o site, não está posicionada de forma a ser facilmente localizada pelo usuário.
+- A seguir, veremos os resultados dos formulários respondidos pelos avaliadores com base na interação de cada participante com a página, visto os objetivos em questão.
 
-##### O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?
-**Resposta:** o apoio computacional só atende aos usuários sem deficiência ou aos que necessitam se comunicar por meio da Língua Brasileira de Sinais (Libras).
+1. Nome: Maria Carolina Silva, 25 anos
+- Pergunta 1: Sim, conseguiu operar o sistema.
+- Pergunta 2: Sim, conseguiu atingir o objetivo.
+- Pergunta 3: Levei cerca de 10 minutos para concluir.
+- Pergunta 4: Cometeu 2 erros durante a interação.
+- Pergunta 5: A falta de destaque nas opções de menu desmotivou a explorar novas funcionalidades.
+- Pergunta 6: Sim, conseguiu entender o que fazer em seguida.
+- Pergunta 7: A dificuldade em assimilar a opção desejada com as da tela.
 
-##### Quais são os pontos fortes e fracos do sistema?
+2. Nome: João Cândido Limeira, 30 anos
+- Pergunta 1: Sim, conseguiu operar o sistema.
+- Pergunta 2: Sim, conseguiu atingir o objetivo.
+- Pergunta 3: Levei cerca de 7 minutos para concluir.
+- Pergunta 4: Cometeu 3 erros durante a interação.
+- Pergunta 5: A página principal, pois é mal dividida
+- Pergunta 6: Não, conseguiu entender o que fazer em seguida.
+- Pergunta 7: A falta de feedback visual me desmotivou a explorar novas funcionalidades.
 
-**Resposta:** o único ponto forte é o recurso para interação com quem precisa se comunicar por meio da Língua Brasileira de Sinais (Libras). O ponto fraco mais relevante é a lentidão extrema no acesso ao site. Além disso, há outros pontos fracos:
+3. Nome: Ana Clara Oliveira, 22 anos
+- Pergunta 1: Sim, conseguiu operar o sistema.
+- Pergunta 2: Sim, conseguiu atingir o objetivo.
+- Pergunta 3: Levei cerca de 13 minutos para concluir.
+- Pergunta 4: Cometeu 4 erros durante a interação.
+- Pergunta 5: A barra de navegação é pouco intuitiva.
+- Pergunta 6: Sim, conseguiu entender o que fazer em seguida.
+- Pergunta 7: A dificuldade em encontrar a opção desejada.
 
-- Dificuldade para aumentar tamanho da fonte apesar de ser citada a existência dessa funcionalidade;
+4. Nome: Lucas Carvalho, 23 anos
+- Pergunta 1: Sim, conseguiu operar o sistema.
+- Pergunta 2: Sim, conseguiu atingir o objetivo.
+- Pergunta 3: Levei cerca de 6 minutos para concluir.
+- Pergunta 4: Cometeu 0 erros durante a interação.
+- Pergunta 5: A parte de busca do menu superior .
+- Pergunta 6: Sim, conseguiu entender o que fazer em seguida.
+- Pergunta 7: A dificuldade em assimilar a opção desejada com as da tela.
 
-- Inexistência de sintetizador de voz ou texto já disponível em áudio, caso exista o recurso, não é localizado/acessado facilmente.
+5. Nome: Rafaela Macedo Borges, 22 anos
+- Pergunta 1: Sim, conseguiu operar o sistema.
+- Pergunta 2: Sim, conseguiu atingir o objetivo.
+- Pergunta 3: Levei cerca de 15 minutos para concluir.
+- Pergunta 4: Cometeu 2 erros durante a interação.
+- Pergunta 5: A falta de destaque nos títulos.
+- Pergunta 6: Sim, conseguiu entender o que fazer em seguida.
+- Pergunta 7: A dificuldade em encontrar a opção desejada.
 
-- Principais assuntos de interesse não são localizados sem navegação pela página.
+ ## Conclusão (Análise)
 
-##### Há tecnologia disponível para oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?
+- Após os testes feitos com os participantes, foi analisado individualmente cada resultado do formulário em busca de discrepâncias que pudessem alterar de forma equivocada o juízo acerca da efetividade da interface. Isto posto, diante da inexistência de valores incongruentes, foi realizada uma análise em conjunto de todos os dados, com o objetivo de responder os dois questionamentos iniciais definidos na etapa de objetivos, que são: aferir se há uma complexidade excessiva para realizar operações no site e identificar quais as barreiras que impedem que os usuários realizem as operações que desejam com sucesso.
+- A partir dos dados coletados, pudemos perceber que houve unanimidade quanto ao sucesso em realizar as tarefas propostas a todos os participantes, porém, a duração prolongada dos testes nos mostra a dificuldade dos mesmos em concluir as operações. Grande parte dos participantes também relatou a dificuldade em encontrar a opção desejada ou mesmo de assimilar a opção com os rótulos em mostra na tela, descrevendo a falta de destaque nas opções do site. 
+- Portanto, a partir das informações obtidas, pudemos concluir que não há complexidade excessiva para realizar as operações do site, mas existem barreiras que impedem que os usuários realizem as operações com sucesso, que são a falta de destaque nas opções apresentadas e a má distribuição das mesmas ao longo da página.
 
-**Resposta:** Embora ainda há muito a ser feito para melhorar a interação com pessoas com deficiência, diversos sites já disponibilizam, por exemplo, conteúdos de página também em áudio além de haver aplicações que sintetizam da voz humana, algumas com inteligência artificial.
-#### Verificação da conformidade com o padrão:
-
-##### O sistema está de acordo com os padrões de acessibilidade do W3C?
-
-**Resposta:** parcialmente. O site web accessibility evaluation tool (WAVE), https://wave.webaim.org, apontou diversos pontos de atenção para melhoria.
-
-##### Os termos na interface seguem convenções estabelecidas no domínio?
-
-**Resposta:** Em princípio sim. O site está integrado ao site do GDF, que engobla todas as secretarias. Foi observado padrões entre eles.
-
-
-## Análise com base nos objetivos da avaliação
-
-### Verificar se o site cumpre os seus objetivos
-
-O site cumpre seu objetivo de interação com usuários que se comunicam por meio da língua brasileira de sinais (Libras). Contúdo, não é intuitivo para pessoas com deficiências cognitivas e não há ferramentas que auxiliem deficientes visuais. Assim, não é totalmente acessível.
-
-O site é bastante lento, o que deve levar parte dos usuários a utilizarem outros canais, como o telefone ou a presença física para solicitar serviços.
-
-### Avaliar a acessibilidade do site para pessoas com diferentes tipos de deficiência, como deficiência visual, auditiva, motora, cognitiva, entre outras.
-
-**Visual**: Recurso para aumento do tamanho da fonte não funciona. Além disso, o sintetizador de voz não foi localizado. Há também Inexiste orientação de navegação em áudio.
-**Auditiva:** O recurso para interação por Libras destaca-se.
-**Cognitiva:** Requer navegação auxiliada e paciência para localizar e utilizar serviços.
-
-### Verificar a usabilidade do site.
-
-Apesar de haver locais para encontrar as suas principais ferramentas, o site pode não ser totalmente intuitivo para pessoas com deficiência cognitiva ou que não estão acostumadas com sites do governo. Além disso, requer navegação e paciência para localizar e utilizar os seus serviços.
-
-### Analisar a eficácia do site em fornecer informações.
-
-O site requer navegação pela página para localizar serviços essenciais a que se destina e muitos não podem ser encontrados. Por exemplo, não há um local que ajuda a pedir a expedição da carteira de identificação de pessoa PcD.
-
-### Avaliar a adequação do design e das funcionalidades do site.
-
-É um site bastante simples quanto ao design, sem recursos que estimule interesse do usuário.
-
-### Identificar possíveis barreiras ou problemas de acessibilidade
-
-O principal ponto de atenção é a lentidão, mas faltam recursos para interação com
-usuários com deficiência.
- ## Conclusão
-
-O site pode ser usado por uma pessoa sem deficiência de modo eficiente, apesar
-da imensa lentidão e da dificuldade em encontrar serviços específicos. Contudo, quando
-utilizado por pessoas com deficiência, ele carece de diversos recursos para possibilitar
-interação eficiente.
-
-Conclui-se que o sistema está muito aquém dos objetivos de atender bem aos
-usuários com deficiência.
 
 
  ## Referências bibliográficas;
