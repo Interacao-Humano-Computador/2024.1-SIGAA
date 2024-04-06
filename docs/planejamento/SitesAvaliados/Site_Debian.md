@@ -9,7 +9,7 @@
 ## Sumário
 
 * [Introdução](#Introdução)
-* [Planejamento com o DECIDE](#Planejamento-com-o-DECIDE)
+* [Planejamento com o DECIDE](#Planejamento-da-avaliação-de-acordo-com-o-decide:)
 * [Objetivos-da-avaliação](#Determinar-os-objetivos-da-avaliação-de-IHC)
 * [Perguntas](#Explorar-perguntas-a-serem-respondidas-com-a-avaliação)
 * [Identificar problemas com a interface](#Identificar-problemas-na-interação-e-interface)
