@@ -48,9 +48,7 @@ O método escolhido para a avaliação foi o teste de usabilidade, que se define
 
 ### I - Identificar e administrar as questões práticas da avaliação
 
-- O recrutamento dos participantes da avaliação deve ocorrer por meio de divulgação em grupos do telegram da Universidade de Brasília, de forma a constituir um público alvo de usuários do sistema Debian em um contingente de até 10 pessoas, não sendo menor que 5 pessoas.
-- Um roteiro será escrito e entregue para cada participante, contendo um script que descreve as tarefas a serem executadas, que nesse caso serão: Baixar uma imagem ISO do Debian 11 bullseye na versão para processadores ARM e acessar a página wiki de tradução com as informações de como contribuir com o projeto.
-- O participante não deverá possuir nenhum recurso prévio para realização da avaliação, sendo fornecido um computador e acesso a internet para que seja realizada a mesma.
+Métodos de avaliação selecionados são aplicados para coletar dados relevantes sobre o sistema. Isso pode incluir testes de usabilidade, análise heurística, entrevistas com usuários, entre outros.
 
 
 ### D - Decidir como lidar com as questões éticas
