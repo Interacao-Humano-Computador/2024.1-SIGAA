@@ -39,11 +39,11 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 | Criação do documento de ferramentas                                                                                              | 28/03/2024 | 28/03/2024 | Larissa Stéfane    | Luana Medeiros   | 28/03/2024 - 01/04/2024 |
 | Documentação de um site para ser avaliado como uma das opções. Documentar o site da Secretaria da Pessoa com Deficiência do GDF. | 30/04/2024 | 30/04/2024 | Larissa Stéfane    | -                | 05/04/2024 - 06/04/2024 |
 | Selecionar site                                                                                                                  | 02/04/2024 | 02/04/2024 | Todos              | Larissa Stéfane  | 05/04/2024 - 05/04/2024 |
-| Criação do documento que apresenta a metodologia de analise dos sites para a ecolha.                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | -                | 05/04/2024 - 06/04/2024 |
-| Realização da avaliação por heurísticas do SIGAA e definição das suas funcionalidades.                                           | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | -                | 05/04/2024 - 06/04/2024 |
-| Apresentação do site SIGAA e exposição de dados coletados em pesquisas anteriores sobre o site.                                  | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | -                | 05/04/2024 - 06/04/2024 |
-| Criação de documento apresentando a Equipe.                                                                                      | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | -                | 05/04/2024 - 06/04/2024 |
-| Criação de documento mostrando a dinâmica da equipe.                                                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | -                | 05/04/2024 - 06/04/2024 |
+| Criação do documento que apresenta a metodologia de analise dos sites para a ecolha.                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Luana Medeiros | 05/04/2024 - 06/04/2024 |
+| Realização da avaliação por heurísticas do SIGAA e definição das suas funcionalidades.                                           | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Luana Medeiros  | 05/04/2024 - 06/04/2024 |
+| Apresentação do site SIGAA e exposição de dados coletados em pesquisas anteriores sobre o site.                                  | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Luana Medeiros | 05/04/2024 - 06/04/2024 |
+| Criação de documento apresentando a Equipe.                                                                                      | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Pedro Augusto | 05/04/2024 - 06/04/2024 |
+| Criação de documento mostrando a dinâmica da equipe.                                                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Pedro Augusto | 05/04/2024 - 06/04/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
@@ -292,5 +292,5 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.0    | Criação do documento                               | Breno Alexandre       | Larissa Stéfane | 28/03/2024|
 | 1.1    | Atualização do documento                           | Luana Medeiros        | Larissa Stéfane | 04/04/2024|
 | 1.2    | Atualização do cronograma executado para entrega 1 | Larissa Stéfane       | Breno Alexandre | 04/04/2024|
-| 1.3    | Refatoração do cronograma                          | Breno Alexandre       | -               | 04/04/2024|
+| 1.3    | Refatoração do cronograma                          | Breno Alexandre       | Luana Medeiros | 04/04/2024|
 
