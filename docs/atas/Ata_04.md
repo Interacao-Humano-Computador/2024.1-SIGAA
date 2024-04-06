@@ -4,7 +4,7 @@
 
 ## 1. Data, Horário, Duração e Local
 
-- **Data:** 02/04/2024
+- **Data:** 04/04/2024
 - **Horário de início previsto:** 21:20
 - **Horário de início:** 
 - **Duração:** 15 minutos 
@@ -53,12 +53,12 @@ Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem ser�
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
-| Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
-| - | - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Luana Medeiros | 02/04 |
-| Issue 2 | Realizar o cronograma completo | Luana e Breno |  |
-| Issue 3 | Criar a Lista com os sites analisados | Larissa | |
-| Issue 4 | Estudo e justificativa do Processo de Design escolhido | Iago, Bruno e Pedro | |
+| Identificador (Issue n) | Issue | Integrante(s) responsável(eis) |
+| - | - | - |
+| Issue 1 | Realizar a Ata da reunião  | Luana Medeiros | 
+| Issue 2 | Realizar o cronograma completo | Luana e Breno |  
+| Issue 3 | Criar a Lista com os sites analisados | Larissa | 
+| Issue 4 | Estudo e justificativa do Processo de Design escolhido | Iago, Bruno e Pedro | 
 
 
 <p align="center"> Tabela 3. Issues Sprint 0 </p>
@@ -67,4 +67,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação da base da Ata da Reunião | Bruno Araújo | - | 04/04 |
+| 1.0 | Criação da base da Ata da Reunião | Bruno Araújo | Larissa Stéfane| 04/04 |
