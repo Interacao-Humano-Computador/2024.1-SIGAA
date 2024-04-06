@@ -21,3 +21,4 @@
   * Sites Avaliados
     - [Metodologia da análise](planejamento/SitesAvaliados/AnaliseSites.md)
     - [Avaliação do site: Secretaria da Pessoa com Deficiência do GDF](planejamento/SitesAvaliados/Site_Secretaria_PND_GDF.md)
+    - [Avaliação do site: Distribuição Linux Debian](planejamento/SitesAvaliados/Site_Debian.md)
