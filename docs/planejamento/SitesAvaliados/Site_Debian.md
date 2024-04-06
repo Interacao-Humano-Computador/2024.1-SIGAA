@@ -10,13 +10,6 @@
 
 * [Introdução](#Introdução)
 * [Planejamento com o DECIDE](#Planejamento-da-avaliação-de-acordo-com-o-decide)
-* [Objetivos-da-avaliação](#Determinar-os-objetivos-da-avaliação-de-IHC)
-* [Perguntas](#Explorar-perguntas-a-serem-respondidas-com-a-avaliação)
-* [Identificar problemas com a interface](#Identificar-problemas-na-interação-e-interface)
-* [Métodos de avaliação](#Escolher-os-métodos-de-avaliação-a-serem-utilizados)
-* [Questões práticas](#Identificar-e-administrar-as-questões-práticas-da-avaliação)
-* [Questões éticas](#Decidir-como-lidar-com-as-questões-éticas)
-* [Análise dos dados](#Avaliar,-interpretar-e-apresentar-os-dados)
 * [Cronograma](#Cronograma)
 * [Execução](#Execução-do-planejamento)
 * [Objetivos da avaliação](#Objetivos-da-avaliação)
