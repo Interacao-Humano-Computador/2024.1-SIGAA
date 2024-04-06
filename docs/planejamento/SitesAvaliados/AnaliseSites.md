@@ -35,7 +35,7 @@ Após a conclusão das avaliações individuais, a equipe se reuniu para revisar
 A tabela 1 a seguir apresenta as escolhas de cada integrante junto com os pdfs do planejamento e da
 execução das avaliações dos sites.
 | Nome | Site | Planejamento e Avaliação |
-| :-------------: | :-------------: | :---------------: | 
+| - | - | - | 
 | Breno Alexandre | - | -| 
 | Bruno Cunha | - | -| 
 | Iago Passaglia |  - | -| 
