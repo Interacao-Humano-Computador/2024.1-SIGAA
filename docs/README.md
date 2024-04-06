@@ -57,5 +57,5 @@ Mais informações sobre a equipe podem ser encontradas no tópico Equipe e info
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao da base |  Pedro Augusto | Larissa Stéfane| 05/04/2024 |
-| 2.0 | Reestruturação da apresentação |  Larissa Stéfane | - | 06/04/2024 |
+| 2.0 | Reestruturação da apresentação |  Larissa Stéfane | Pedro Augusto | 06/04/2024 |
 
