@@ -12,7 +12,7 @@
 
 ## Introdução 
 
-Neste documento, é apresentada a metodologia e a dinâmica adotada pela equipe para o desenvolvimento do projeto de Interação Humano-Computador (IHC). 
+Neste documento, é apresentada a dinâmica adotada pela equipe para o desenvolvimento do projeto de Interação Humano-Computador (IHC). Assim, ao longo deste documento, serão detalhadas tanto as decisões relacionadas a organização do grupo quanto as decisões relacionadas à realização de reuniões e distribuição de tarefas.
 
 ## Organização das Reuniões
 
