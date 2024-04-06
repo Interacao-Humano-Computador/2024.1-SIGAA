@@ -189,4 +189,4 @@ Disponível em < https://aprender3.unb.br/pluginfile.php/2843660/mod_resource/co
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao do documento | Larissa Stéfane |  Pedro Augusto | 30/03/2024 |
+| 1.0 | Criaçao do documento | Bruno | Luana Medeiros | 05/04/2024 |
