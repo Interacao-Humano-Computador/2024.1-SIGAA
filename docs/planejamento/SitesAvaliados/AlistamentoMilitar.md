@@ -183,6 +183,6 @@ Disponível em < https://aprender3.unb.br/pluginfile.php/2843660/mod_resource/co
 	
 ## Histórico de versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criaçao do documento | Luana Medeiros | - | 06/04/2024 |
+| Versão | Alteração            | Responsável    | Revisor         | Data       |
+| ------ | -------------------- | -------------- | --------------- | ---------- |
+| 1.0    | Criaçao do documento | Luana Medeiros | Breno Alexandre | 06/04/2024 |
