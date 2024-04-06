@@ -1,8 +1,10 @@
 # Sejam Bem Vindos!
 
-Somos uma equipe que faz parte da disciplina de Interação Humano-Computador ministrada pelo professor André de Sales Barros na Universidade de Brasília (UnB). 
+Neste espaço, serão registrados todos os documentos e etapas produzidos pela equipe 02 na disciplina de Interação Humano-Computador (IHC), do semestre 2024.1, da Faculdade do Gama da Universidade de Brasília (FGA-UnB). 
 
-Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se debruça sobre a análise da usabilidade do o site "SIGAA" .
+O objetivo do projeto é realizar uma avaliação da IHC do site SIGAA.
+Mais informações sobre a equipe podem ser encontradas no tópico Equipe e informações sobre o site SIGAA estão disponíveis em “Site Escolhido”.
+
 ## 👨‍🎓: Contribuidores
 
 <table style="margin-left: auto; margin-right: auto;">
@@ -54,5 +56,6 @@ Com entusiasmo e dedicação, o nosso grupo planeja realizar um projeto  que se 
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao da base |  Pedro Augusto |  -| 05/04/2024 |
+| 1.0 | Criaçao da base |  Pedro Augusto | Larissa Stéfane| 05/04/2024 |
+| 2.0 | Reestruturação da apresentação |  Larissa Stéfane | - | 06/04/2024 |
 
