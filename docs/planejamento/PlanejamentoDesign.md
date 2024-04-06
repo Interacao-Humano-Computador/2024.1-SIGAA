@@ -57,4 +57,4 @@ Fonte: Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Séri
 | Versão | Alteração                     | Responsável    | Revisor        | Data       |
 |--------|-------------------------------|----------------|----------------|------------|
 | 1.0    | Criação da base               | Bruno Araújo | Iago Passaglia | 06/04/2024 |
-| 1.1    |Adição da imagem e correção de erros | Iago Passaglia | -             | 06/04/2024 |
+| 1.1    |Adição da imagem e correção de erros | Iago Passaglia | Luana Medeiros | 06/04/2024 |
