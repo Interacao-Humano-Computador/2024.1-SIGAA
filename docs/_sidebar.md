@@ -8,6 +8,8 @@
 * Reuniões
   - [Ata 1](atas/Ata01.md)
   - [Ata 2](atas/Ata_02.md)
+  - [Ata 3](atas/Ata_03.md)
+  - [Ata 4](atas/Ata_04.md)
     
 * Planejamento 
   - [Cronograma](planejamento/Cronograma.md)
