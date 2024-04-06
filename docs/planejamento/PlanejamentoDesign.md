@@ -44,7 +44,7 @@ A Engenharia de Usabilidade de Mayhew destaca a importância de um processo iter
 
 ## Motivos para a escolha
 
-O método de Mayhew é adequado para a avaliação de sistemas complexos, como o SIGAA, pois oferece uma abordagem estruturada que abrange desde a análise de requisitos até a instalação e avaliação pós-implementação.
+O método de Mayhew é adequado para a avaliação de sistemas complexos, como o SIGAA, pois como demonstra a imagem 1 o método oferece uma abordagem estruturada que abrange desde a análise de requisitos até a instalação e avaliação pós-implementação.
 Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível realizar uma avaliação detalhada que identifica não apenas os problemas de usabilidade, mas também fornece insights para melhorias contínuas no sistema.
 
 ## Referências
