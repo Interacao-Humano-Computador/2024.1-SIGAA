@@ -93,4 +93,4 @@ Devido a isso, a FGA possui uma forte ênfase em pesquisa e inovação ao colabo
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao da base | Larissa Stéfane | - | 05/04/2024 |
+| 1.0 | Criaçao da base | Larissa Stéfane | Pedro Augusto | 05/04/2024 |
