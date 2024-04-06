@@ -89,7 +89,7 @@ Tabela 2. Fonte: Larissa Stéfane.
 
 **Descrição:** O modelo lógico (vocabulário) do sistema deve ser compatível com o modelo lógico do usuário. 
 
-** Observação:** O modelo lógico do SIGAA geralmente é compatível com o modelo lógico do usuário, especialmente para atividades comuns como visualização de notas e realização de matrículas. No entanto, em certas áreas do sistema, como no campo de extensão, pode haver complexidade a qual pode dificultar a compreensão para usuários menos experientes com o vocabulário acadêmico.
+**Observação:** O modelo lógico do SIGAA geralmente é compatível com o modelo lógico do usuário, especialmente para atividades comuns como visualização de notas e realização de matrículas. No entanto, em certas áreas do sistema, como no campo de extensão, pode haver complexidade a qual pode dificultar a compreensão para usuários menos experientes com o vocabulário acadêmico.
 
 **Grau de severidade:** 2 - Moderada severidade.
 
@@ -98,7 +98,7 @@ Tabela 2. Fonte: Larissa Stéfane.
 **Descrição:** Os usuários precisam ter a sensação de que controlam o sítio e que o sítio responde às suas ações, ou seja, o sistema deve tornar disponíveis funções que possibilitem saídas de funções
 indesejadas.
 
-** Observação:** O SIGAA oferece algumas opções de controle e liberdade, contudo, em alguns pontos, a movimentação no site é de difícil compreensão. Por exemplo, após acessar a aba de uma disciplina, pode ser complicado para o usuário retornar facilmente ao menu principal. 
+**Observação:** O SIGAA oferece algumas opções de controle e liberdade, contudo, em alguns pontos, a movimentação no site é de difícil compreensão. Por exemplo, após acessar a aba de uma disciplina, pode ser complicado para o usuário retornar facilmente ao menu principal. 
 
 **Grau de severidade:** 4 – Alta severidade.
 
@@ -106,7 +106,7 @@ indesejadas.
 
 **Descrição:** O sistema deve ser consistente quanto à utilização de sua simbologia e à sua plataforma.
 
-** Observação:** O SIGAA mantém uma certa consistência em sua simbologia e plataforma. No entanto, podem ocorrer discrepâncias em algumas áreas do sistema, como o símbolo de consulta ser uma calculadora em alguns pontos.
+**Observação:** O SIGAA mantém uma certa consistência em sua simbologia e plataforma. No entanto, podem ocorrer discrepâncias em algumas áreas do sistema, como o símbolo de consulta ser uma calculadora em alguns pontos.
 
 **Grau de severidade:** 2 - Moderada severidade.
 
@@ -124,7 +124,7 @@ indesejadas.
 
 **Descrição:** O usuário não deve precisar lembrar uma informação que estava em uma página acessada anteriormente no mesmo sítio.
 
-** Observação:** O SIGAA apresenta dois cenários, em alguns pontos, apresenta caminhos de navegação claros e mantém o usuário informado sobre sua localização. Contudo, em outros pontos, não há indicação do que alguns ícones significam.
+**Observação:** O SIGAA apresenta dois cenários, em alguns pontos, apresenta caminhos de navegação claros e mantém o usuário informado sobre sua localização. Contudo, em outros pontos, não há indicação do que alguns ícones significam.
 
 **Grau de severidade:** 3 - Média severidade.
 
@@ -133,7 +133,7 @@ indesejadas.
 
 **Descrição:** O sítio deve ser projetado para atender a todos os perfis de usuários, de iniciantes a experientes.
 
-** Observação:** O SIGAA atende a diferentes perfis de usuários, assim, alguns recursos podem não ser acessíveis de forma rápida ou eficiente para todos os tipos de usuários.
+**Observação:** O SIGAA atende a diferentes perfis de usuários, assim, alguns recursos podem não ser acessíveis de forma rápida ou eficiente para todos os tipos de usuários.
 
 **Grau de severidade:** 3 - Média severidade.
 
@@ -141,7 +141,7 @@ indesejadas.
 
 **Descrição:** Evitar utilizar elementos desnecessários que possam distrair ou confundir o usuário, os quais competem com as informações relevantes.
 
-** Observação:** Novamente, o SIGAA apresenta dois cenários, em alguns pontos, as informações são apresentadas de forma objetiva. Entretanto, outras páginas podem conter elementos desnecessários que distraem ou confundem o usuário.
+**Observação:** Novamente, o SIGAA apresenta dois cenários, em alguns pontos, as informações são apresentadas de forma objetiva. Entretanto, outras páginas podem conter elementos desnecessários que distraem ou confundem o usuário.
 
 **Grau de severidade:** 2 - Moderada severidade.
 
@@ -160,7 +160,7 @@ clareza e a orientação nessas mensagens.
 
 **Descrição:** O site deve fornecer o recurso de ajuda (help) integrado com as páginas do sítio.
 
-** Observação:** O SIGAA não apresenta aba de HELP nem manual de uso no próprio site. Caso seja necessária ajuda na navegação, tem-se que acessar outros sites que mostram instruções como esses: [Site 1](https://sigaa-manual-discente.readthedocs.io/pt/latest/SIGAA.html) e [Site 2](https://noticias.unb.br/ensino/4317-tire-suas-duvidas-sobre-o-sigaa) 
+**Observação:** O SIGAA não apresenta aba de HELP nem manual de uso no próprio site. Caso seja necessária ajuda na navegação, tem-se que acessar outros sites que mostram instruções como esses: [Site 1](https://sigaa-manual-discente.readthedocs.io/pt/latest/SIGAA.html) e [Site 2](https://noticias.unb.br/ensino/4317-tire-suas-duvidas-sobre-o-sigaa) 
 
 **Grau de severidade:** 5 - Muito alta severidade.
 
