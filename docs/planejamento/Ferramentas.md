@@ -49,7 +49,7 @@ Tabela 1. Fonte: Larissa Stéfane.
 
 ## Conclusão
 
-  É posível observar a diversidade de ferramentas, desde as voltadas para gerenciamento de projetos até as de design e prototipação. COnsequentemente, isso reflete o comprometimento da equipe em adotar abordagens e técnicas modernas e eficazes. 
+  É posível observar a diversidade de ferramentas, desde as voltadas para gerenciamento de projetos até as de design e prototipação. Consequentemente, isso reflete o comprometimento da equipe em adotar abordagens e técnicas modernas e eficazes. 
 
 ## Referências bibliográficas:
 
