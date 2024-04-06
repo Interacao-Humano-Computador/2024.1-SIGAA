@@ -13,7 +13,7 @@
   - [Ferramentas utilizadas](planejamento/Ferramentas.md)
     
   * Site Escolhido
-    - [O que é SIGAA](planejamento/Site-Escolhido:-SIGAA/SIGAA.md)
+    - [O que é SIGAA](planejamento/SiteEscolhidoSIGAA/SIGAA.md)
     - [Avaliação Heurística](planejamento/Site-Escolhido:-SIGAA/Avaliação_Heuristica_SIGAA.md)
    
   * Sites Avaliados
