@@ -180,4 +180,4 @@ Humano-Computador, 1a. Edição, Editora Campus, 2010, Cap. 12, p. 281-286.
 
 | Versão  | Alteração            | Responsável     | Revisor | Data       |
 | ------- | -------------------- | --------------- | -       | ---------- |
-| 1.0     | Criaçao do documento | Breno Alexandre | -       | 06/04/2024 |
+| 1.0     | Criaçao do documento | Breno Alexandre | Luana Medeiros | 06/04/2024 |
