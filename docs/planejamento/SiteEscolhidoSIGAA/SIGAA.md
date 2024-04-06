@@ -150,6 +150,11 @@ Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do no
 | Realização de matrícula | Pedro Augusto |
 | Retirada e trancamento de matrícula | Pedro Augusto |
 
+## Conclusão:
+Portanto, o SIGAA representa uma ferramenta essencial no contexto acadêmico de muitas universidades ao proporcionar uma ampla gama de funcionalidades. Desse modo, seu papel central se reflete na facilidade de acesso e na integração eficiente entre alunos, professores e demais membros da comunidade acadêmica.
+
+No entanto, para maximizar sua utilidade e promover uma experiência mais fluida e inclusiva, são necessárias  melhorias na usabilidade e na acessibilidade da plataforma, ao que será trabalhado no projeto. 
+
 ## Referências Bibliográficas
 
 1. **Introdução ao SIGAA** . Disponível em < https://sigaa-manual-discente.readthedocs.io/pt/latest/SIGAA.html > Acessado em 4 e 5 de abril de 2024.
