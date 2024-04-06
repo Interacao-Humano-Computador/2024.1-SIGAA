@@ -1,11 +1,12 @@
 * [Início](/)
-* Reuniões
-  - [Ata 1](atas/Ata01.md)
-  - [Ata 2](atas/Ata_02.md)
 
 * Equipe
   - [Quem somos](Equipe/QuemSomos.md)
   - [Dinâmica da equipe](Equipe/DinamicaEquipe.md)
+    
+* Reuniões
+  - [Ata 1](atas/Ata01.md)
+  - [Ata 2](atas/Ata_02.md)
     
 * Planejamento 
   - [Heatmap]
