@@ -1,9 +1,9 @@
-## Carteira Digital de Trabalho.
+## Carteira de Trabalho Digital
 
  <center>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/secretariaPessoaDeficiente.png">
+  <img src="">
 
-   **Figura 1**: Fonte: Carteira Digital de Trabalho
+   **Figura 1**: Fonte: Ministério do Trabalho 
  </center>
 
 ## Sumário
@@ -21,59 +21,52 @@
 * [Referências bibliográficas](#Referências-bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
+## Introdução 
+
+O planejamento de avaliação em Interação Humano-Computador é essencial para garantir que sistemas interativos atendam às necessidades e expectativas dos usuários. Nesse contexto, o framework DECIDE oferece uma estrutura sistemática e abrangente para orientar o processo de planejamento de avaliação, ajudando a garantir a qualidade de uso dos sistemas desenvolvidos.
+
 ## Planejamento da avaliação de acordo com o decide:
 
+O framework DECIDE é uma ferramenta essencial na disciplina de Interação Humano-Computador (IHC), pois oferece uma abordagem estruturada para o design e avaliação de interfaces, alinhado a um processo iterativo e colaborativo, onde cada etapa é planejada e executada para garantir a criação de interfaces centradas no usuário.
+
 ### D - Determinar os objetivos da avaliação de IHC.
-1. Avaliar a acessibilidade do site para pessoas com diferentes tipos de deficiência, como deficiência visual, auditiva, motora, cognitiva, entre outras.
-2. Verificar a usabilidade do site.
-3. Analisar a eficácia do site em fornecer informações.
-4. Avaliar a adequação do design e das funcionalidades do site.5. Identificar possíveis barreiras ou problemas de acessibilidade.
+1. Verificar a usabilidade do site.
+2. Analisar a eficácia do site em fornecer informações.
+3. Avaliar a adequação do design e das funcionalidades do site.
 
 ### E - Explorar perguntas a serem respondidas com a avaliação.
 
 De acordo com o tópico 11.8 do livro “Planejamento da avaliação de IHC”, de Barbosa e Silva, há um conjunto de perguntas que podem ser feitas para cada tipo de objetivo. Para esta avaliação, foram escolhidas as seguintes:
 
-#### Analisar a apropriação tecnológica:
-
-- De que maneira os usuários utilizam o sistema? Em que difere do planejado?
-- O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?
-- Quais são os pontos fortes e fracos do sistema?
-- A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? 
-
-#### Verificar a conformidade com um padrão:
-- O sistema está de acordo com os padrões de acessibilidade do W3C?
-- Os termos na interface seguem convenções estabelecidas no domínio? 
-
 #### Identificar problemas na interação e interface
+
 - O usuário consegue operar o sistema?
+- Ele atinge seu objetivo? 
+- Em quanto tempo? 
+- Após cometer quantos erros?
 - Que parte da interface o desmotiva a explorar novas funcionalidades?
-- Quais barreiras o usuário encontra para atingir seus objetivos?
-- Que parte da interface e da interação o deixa insatisfeito?
-- 
-### C - Escolher os métodos de avaliação a serem utilizados.
-O método escolhido foi o de inspeção por meio da avaliação heurística, uma vez que é o  método criado para encontrar problemas de usabilidade durante um processo de design iterativo, segundo o tópico 12.1.1 do livro “Planejamento da avaliação de IHC”, de Barbosa e Silva.
-**Os principais princípios a serem abordados serão:** 
-- Visibilidade do estado do sistema.
-- Correspondência entre o sistema e o mundo real.
-- Controle e liberdade do usuário.
-- Consistência e padronização.
-- Reconhecimento em vez de memorização.
-- flexibilidade e eficiência de uso.
-- Projeto estético e minimalista.
-- Prevenção de erros.
-### I - Identificar e administrar as questões práticas da avaliação.
-Para a avaliação, será necessário administrar os seguintes tópicos;
+- Ele vai entender o que deve fazer em seguida?
+- Quais barreiras o usuário encontra para atingir seus objetivos? 
 
-- Estudar o histórico de usuários.
-- Definir a equipe a qual coordena o teste, ou seja, os inspetores. Neste caso, será uma estudante de software.
-- Acesso a um computador e a internete.
+### C - Escolher os métodos de avaliação a serem utilizados
 
-### D - Decidir como lidar com as questões éticas.
+O método escolhido para a avaliação foi o teste de usabilidade, que se define como uma abordagem de avaliação de interface homem-computador que ocorre em um ambiente de laboratório especialmente projetado para observar e registrar a interação do usuário com o sistema de forma controlada e livre de interferências externas. O teste de usabilidade é um método de avaliação em laboratório e por esse motivo, foi o mais apropriado para o sistema em questão.
 
-Não há voluntários de usuários no teste, por isso, não há necessidade de focar na questão ética, como o termo de consentimento.
+### I - Identificar e administrar as questões práticas da avaliação
 
-### E - Avaliar, interpretar e apresentar os dados.
-Após a avaliação do site, as observações realizadas serão interpretadas e estudadas. Assim, caso seja oportuno, também serão elaboradas recomendações de melhoria do site.
+- O recrutamento dos participantes da avaliação deve ocorrer por meio de divulgação em grupos do telegram da Universidade de Brasília, de forma a constituir um público alvo de usuários do sistema Debian em um contingente de até 10 pessoas, não sendo menor que 5 pessoas.
+- Um roteiro será escrito e entregue para cada participante, contendo um script que descreve as tarefas a serem executadas, que nesse caso serão: Baixar uma imagem ISO do Debian 11 bullseye na versão para processadores ARM e acessar a página wiki de tradução com as informações de como contribuir com o projeto.
+- O participante não deverá possuir nenhum recurso prévio para realização da avaliação, sendo fornecido um computador e acesso a internet para que seja realizada a mesma.
+
+
+### D - Decidir como lidar com as questões éticas
+
+Haverá um termo de consentimento entregue para cada participante, de forma a que o mesmo possa permitir sua participação na atividade mediante assinatura do documento.
+
+### E - Avaliar, interpretar e apresentar os dados
+
+- Inicialmente deve-se fazer uma análise manual dos dados e posteriormente uma em conjunto, com o objetivo de encontrar recorrências e padrões. Esta análise coletiva permite distinguir entre características representativas do grupo e particularidades individuais. É essencial abordar as questões que motivaram o estudo e justificar eventuais lacunas nas respostas encontradas. Os resultados são influenciados por diversos fatores, incluindo o método de avaliação, o conhecimento dos avaliadores e a qualidade dos dados.
+- É importante ressaltar que os resultados da avaliação de IHC geralmente indicam tendências de problemas mas não garantem que esses problemas ocorrerão durante o uso do sistema. Além disso, a ausência de problemas detectados não implica necessariamente alta qualidade de uso, apenas que o estudo não revelou problemas dentro do escopo avaliado.
 
 ## Cronograma
 
@@ -88,15 +81,13 @@ Após a avaliação do site, as observações realizadas serão interpretadas e 
 
 ### Objetivo do site
 
-A pesquisa tem como objetivo avaliar a experiência dos usuários ao utilizar o site CBMDF, com foco na facilidade de acesso, design, layout, interação e facilidade
-em acessar e solicitar os serviços oferecidos pelo Corpo de Bombeiros Militar do DF através do site.
-- Oferecer informação e orientação: Deve conter documentos e relatórios sobre os direitos, os benefícios e os serviços destinados a pessoas PcD. Além disso, deve divulgar as políticas, os programas e as legislações que tem essas pessoas como alvo.
+A pesquisa tem como objetivo avaliar a experiência dos usuários ao utilizar o site CBMDF, com foco no design, layout, interação e facilidade em solicitar os serviços
+diposníveis no site. 
 
--  Acessibilidade Digital: O site deve garantir que todos os seus usuários sejam capazes de utilizá-lo sem barreiras ou dificuldades.
--  Atendimento ao público: O site deve ser capaz de ser um canal de comunicação entre a Secretaria com a pessoa PcD.
- 	- As pessoas devem ser capazes de fazerem consultas e solicitarem serviços,
-como agendar atendimentos.
+### Do método 
 
+Os participantes foram convidados a responder a perguntas sobre sua experiência de uso, incluindo aspectos como facilidade de acesso, design, layout e interação. Além disso,
+suas interações reais com o site foram observadas e registradas para complementar as respostas do questionário.
 
 ### Usuários do site
 
@@ -198,4 +189,4 @@ Disponível em < https://aprender3.unb.br/pluginfile.php/2843660/mod_resource/co
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao do documento | Larissa Stéfane |  - | 30/03/2024 |
+| 1.0 | Criaçao do documento | Larissa Stéfane |  Pedro Augusto | 30/03/2024 |
