@@ -97,4 +97,4 @@ A escolha do site SIGAA da UnB como base para o projeto foi motivada por diverso
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao do documento | Larissa Stéfane | - |  05/04/2024 |
+| 1.0 | Criaçao do documento | Larissa Stéfane | Luana Medeiros |  05/04/2024 |
