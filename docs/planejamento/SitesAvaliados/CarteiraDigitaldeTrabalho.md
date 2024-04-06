@@ -176,14 +176,8 @@ usuários com deficiência.
 
  ## Referências bibliográficas;
 
-1. SECRETARIA DA PESSOA COM DEFICIÊNCIA. Disponível em <https://www.sepd.df.gov.br/ > Acessado em 29 de março.
-2. Barbosa e Silva. Título: Planejamento da Avaliação de IHC. Subtítulo: Capítulo 11.
-Disponível em < https://aprender3.unb.br/pluginfile.php/2843660/mod_resource/content/5/Cap.
-%20Planejamento%20ihc-ux.pdf > Acessado em 29 de março de 2024.
-3. Barbosa e Silva. Título: Planejamento da Avaliação de IHC. Subtítulo: Capítulo 12.
-Disponível em < https://aprender3.unb.br/pluginfile.php/2843660/mod_resource/content/5/Cap.
-%20Planejamento%20ihc-ux.pdf > Acessado em 29 de março de 2024.
-4. web accessibility evaluation tool (WAVE). Disponível em <https://wave.webaim.org> .Acessado em 29 de março
+SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021.
+CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL. Página inicial. Disponível em: https://www.cbm.df.gov.br/. Acesso em: 27/03/2024.
 	
 ## Histórico de versão
 
