@@ -1,7 +1,4 @@
-# 2024.1-Grupo02: SIGAA!
-
-## 
-
+# Sejam Bem Vindos!
 
 Somos uma equipe que faz parte da disciplina de Interação Humano-Computador ministrada pelo professor André de Sales Barros na Universidade de Brasília (UnB). 
 
