@@ -14,8 +14,8 @@
     
   * Site Escolhido
     - [O que é SIGAA](planejamento/SiteEscolhidoSIGAA/SIGAA.md)
-    - [Avaliação Heurística](planejamento/Site-Escolhido:-SIGAA/Avaliação_Heuristica_SIGAA.md)
+    - [Avaliação Heurística](planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA.md)
    
   * Sites Avaliados
-    - [Metodologia da análise](planejamento/Sites-Avaliados/Análise-dos-sites.md)
-    - [Avaliação do site: Secretaria da Pessoa com Deficiência do GDF](planejamento/Sites-Avaliados/Site_Secretaria_PND_GDF.md)
+    - [Metodologia da análise](planejamento/SitesAvaliados/AnaliseSites.md)
+    - [Avaliação do site: Secretaria da Pessoa com Deficiência do GDF](planejamento/SitesAvaliados/Site_Secretaria_PND_GDF.md)
