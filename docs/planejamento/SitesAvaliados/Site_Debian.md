@@ -1,4 +1,4 @@
-## Secretaria da Pessoa com Deficiência do GDF
+## Distribuição Linux Debian
 
  <center>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/Site_Debian.png">
