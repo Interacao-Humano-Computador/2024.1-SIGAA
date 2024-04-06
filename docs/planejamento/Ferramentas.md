@@ -13,7 +13,7 @@
    <p align="justify">
    Bem-vindos à apresentação das ferramentas que serão utilizadas no nosso projeto!
 
-   Para alcançar o nosso objetivo com, é crucial contar com ferramentas eficientes que nos auxiliem em todas as etapas do processo, desde a concepção até a implementação e análise de resultados.
+   Para alcançar o nosso objetivo, é crucial contar com ferramentas eficientes que nos auxiliem em todas as etapas do processo, desde a concepção até a implementação e análise de resultados.
 
    </p>
 
