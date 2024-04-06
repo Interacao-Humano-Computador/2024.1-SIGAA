@@ -153,7 +153,7 @@ Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do no
 ## Conclusão:
 Portanto, o SIGAA representa uma ferramenta essencial no contexto acadêmico de muitas universidades ao proporcionar uma ampla gama de funcionalidades. Desse modo, seu papel central se reflete na facilidade de acesso e na integração eficiente entre alunos, professores e demais membros da comunidade acadêmica.
 
-No entanto, para maximizar sua utilidade e promover uma experiência mais fluida e inclusiva, são necessárias  melhorias na usabilidade e na acessibilidade da plataforma, ao que será trabalhado no projeto. 
+No entanto, para maximizar sua utilidade e promover uma experiência mais fluida e inclusiva, são necessárias melhorias na usabilidade e na acessibilidade da plataforma, o que será trabalhado no projeto. 
 
 ## Referências Bibliográficas
 
