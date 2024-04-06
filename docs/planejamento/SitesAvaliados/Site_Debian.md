@@ -13,7 +13,7 @@
 * [Cronograma](#Cronograma)
 * [Execução](#Execução-do-planejamento)
 * [Objetivos da avaliação](#Objetivos-da-avaliação)
-* [Métodos de avaliação](#Métodos-de-avaliação)
+* [Métodos de avaliação](#Método-de-avaliação)
 * [Questões práticas](#Questões-práticas)
 * [Questões éticas](#Questões-éticas)
 * [Resultados](#Resultados)
