@@ -156,10 +156,10 @@ Antes de cada participante realizar a interação com o sistema, foi entregue um
 1. Portal Debian.org . Disponível em <https://www.debian.org/ > Acessado em 25 de março.
 2. Barbosa e Silva. Título: Planejamento da Avaliação de IHC. Subtítulo: Capítulo 11.
 Disponível em < https://aprender3.unb.br/pluginfile.php/2843660/mod_resource/content/5/Cap.
-%20Planejamento%20ihc-ux.pdf > Acessado em 29 de março de 2024.
+%20Planejamento%20ihc-ux.pdf > Acessado em 25 de março de 2024.
 3. Barbosa e Silva. Título: Planejamento da Avaliação de IHC. Subtítulo: Capítulo 12.
 Disponível em < https://aprender3.unb.br/pluginfile.php/2843660/mod_resource/content/5/Cap.
-%20Planejamento%20ihc-ux.pdf > Acessado em 29 de março de 2024.
+%20Planejamento%20ihc-ux.pdf > Acessado em 25 de março de 2024.
 	
 ## Histórico de versão
 
