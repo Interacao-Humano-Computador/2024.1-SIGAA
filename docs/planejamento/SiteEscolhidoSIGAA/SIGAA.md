@@ -169,8 +169,10 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 5. Crescencio, Marcio. **Satisfação do usuário do sistema integrado de gestão das atividades acadêmicas: um estudo no Instituto Federal Catarinense.**. Disponível em <https://repositorio.ifsc.edu.br/bitstream/handle/123456789/812/Artigo_vers%c3%a3o_corrigida_set_2018.pdf?sequence=1&isAllowed=y > . Acessado em 4 e 5 de abril de 2024.
 
 ## Histórico de versão:
-| Versão | Alteração                                     | Responsável     | Revisor         | Data       |
-| ------ | --------------------------------------------- | --------------- | --------------- | ---------- | 
-| 1.0    | Criação e elaboração do documento             | Larissa Stéfane | Breno Alexandre | 05/04/2024 |
-| 1.1    | Adição de funcionalidades que serão estudadas | Breno Alexandre | Pedro Augusto   | 06/04/2024 |
-| 1.2    | Correção de erros ortográficos | Pedro Augusto | Bruno Araújo               | 07/04/2024 |
+| Versão | Alteração                                                       | Responsável     | Revisor         | Data       |
+| ------ | --------------------------------------------------------------- | --------------- | --------------- | ---------- | 
+| 1.0    | Criação, pesquisas anteriores e elaboração do documento         | Larissa Stéfane | Breno Alexandre | 05/04/2024 |
+| 1.1    | Elaboração das motivações e funcionalidades que serão estudadas | Breno Alexandre | Larissa Stéfane | 06/04/2024 |
+| 1.2    | Adição de funcionalidades que serão estudadas                   | Breno Alexandre | Pedro Augusto   | 06/04/2024 |
+| 1.3    | Correção de erros ortográficos                                  | Pedro Augusto   | Bruno Araújo    | 07/04/2024 |
+| 1.4    | Refatoração do histórico de versionamento                       | Breno Alexandre | -               | 07/04/2024 |
