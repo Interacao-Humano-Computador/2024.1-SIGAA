@@ -26,17 +26,18 @@ O estudo foi orientado pelo livro de Barbosa e Silva (2010). Segundo os autores,
 
 ## Modelos
 
-#Ciclo de vida simples
+- Ciclo de vida simples
 É uma abordagem de desenvolvimento de sistemas interativos que segue uma sequência linear e bem definida de fases, geralmente composta por análise, design, implementação e avaliação. Proposto por Preece, Sharp e Rogers, essa abordagem é chamada de "simples" porque segue uma estrutura sequencial, na qual cada fase é completada antes de passar para a próxima. 
 Em um ciclo de vida simples, a análise inicial é realizada para compreender os requisitos do usuário e as necessidades do sistema. Em seguida, o design é elaborado com base nessas informações, criando interfaces e funcionalidades que atendam aos objetivos estabelecidos. Após o design, a implementação ocorre, na qual o sistema é desenvolvido de acordo com as especificações do design. Finalmente, a avaliação é conduzida para verificar se o sistema atende aos requisitos e expectativas do usuário, identificando possíveis melhorias e ajustes.
 
-#Ciclo de vida em Estrela
+- Ciclo de vida em Estrela
 No ciclo de vida em Estrela, segundo Barbosa (2010, p. 104), o designer pode optar por onde começar a implementação. 
 Este modelo segue uma abordagem iterativa e flexível, sem uma sequência fixa de atividades, semelhante ao modelo genérico de design de interação humano-computador. De acordo com Barbosa (2010), a única condição é que, após a conclusão de cada atividade, o designer avalie os resultados para garantir sua adequação. As diferentes etapas do ciclo de vida em Estrela estão conectadas pela avaliação; para progredir de uma atividade para outra, é fundamental passar por esse processo de avaliação.
 
-#Engenharia de Usabilidade de Nielsen
+- Engenharia de Usabilidade de Nielsen
 De acordo com as palavras de Nielsen (1993), a engenharia de usabilidade compreende uma série de atividades que se desenrolam ao longo de todo o ciclo de vida do produto, embora muitas delas ocorram mesmo antes do projeto da interface com o usuário ser elaborado. Barbosa (2010, p. 104) menciona que Nielsen apresenta o seguinte conjunto de atividades em seu ciclo de vida:
-#Tabela 1 - Atividades da Engenharia de Usabilidade de Nielsen
+
+Tabela 1 - Atividades da Engenharia de Usabilidade de Nielsen
 | Atividade                                       |
 |-------------------------------------------------|
 | Conheça seu usuário                             |
@@ -49,6 +50,7 @@ De acordo com as palavras de Nielsen (1993), a engenharia de usabilidade compree
 | Faça protótipos                                 |
 | Realize testes empíricos                        |
 | Pratique design iterativo                       |
+Fonte: BARBOSA e SILVA, 2011, p.105.
 
 ## Da metodologia
 
