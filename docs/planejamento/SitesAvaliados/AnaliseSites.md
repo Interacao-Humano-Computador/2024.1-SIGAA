@@ -38,7 +38,7 @@ execução das avaliações dos sites.
 | Nome | Site | Planejamento e Avaliação |
 | - | - | - | 
 | Breno Alexandre | Inep Enem | [Análise](planejamento/SitesAvaliados/Site_enem.md)| 
-| Bruno Cunha | Carteira de Trabalho Digital | [Análise](planejamento/SitesAvaliados/CBMDF.md)| 
+| Bruno Cunha | Corpo de Bombeiros | [Análise](planejamento/SitesAvaliados/CBMDF.md)| 
 | Iago Passaglia |  Sigaa | [Análise](planejamento/SitesAvaliados/Site_Sigaa.md)| 
 | Larissa Stefane | Secretaria da Pessoa com Deficiência do GDF | [Análise](planejamento/SitesAvaliados/Site_Secretaria_PND_GDF.md) |
 | Luana de Lima | Alistamento Militar | [Análise](planejamento/SitesAvaliados/AlistamentoMilitar.md) |
