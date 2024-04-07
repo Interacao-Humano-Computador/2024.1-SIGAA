@@ -113,4 +113,4 @@ Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível 
 | 1.0    | Criação da base               | Bruno Araújo | Iago Passaglia | 06/04/2024 |
 | 1.1    |Adição da imagem e correção de erros | Iago Passaglia | Luana Medeiros | 06/04/2024 |
 | 1.2    |Adição do sumário | Pedro Augusto | Bruno Araújo | 07/04/2024 |
-| 1.3    |Adição dos demais modelos | Pedro Augusto | - | 07/04/2024 |
+| 1.3    |Adição dos demais modelos | Pedro Augusto | Bruno Araújo | 07/04/2024 |
