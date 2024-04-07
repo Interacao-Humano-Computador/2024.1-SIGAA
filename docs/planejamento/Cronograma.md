@@ -20,7 +20,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 | Implementar Git Page               | 26/03/2024 | 28/03/2024 | Pedro              | Breno            | 29/03/2024 - 29/03/2024 |
 | Selecionar ferramentas do projeto  | 29/03/2024 | 31/03/2024 | Larissa e Luana    | Bruno            | 01/04/2024 - 01/04/2024 |
 | Selecionar metodologias do projeto | 29/03/2024 | 31/03/2024 | Bruno e Iago       | Pedro            | 01/04/2024 - 01/04/2024 |
-| Processo de Design                 | 01/04/2024 | 04/04/2024 | Todos              | Iago             | 05/04/2024 - 05/04/2024 |
+| Processo de Design                 | 01/04/2024 | 04/04/2024 | Bruno e Pedro          | Iago             | 05/04/2024 - 05/04/2024 |
 | Gravar apresentação                | 06/04/2024 | 06/04/2024 | Todos              | Todos            | 06/04/2024 - 07/04/2024 |
 | Correção pós apresentação          | 10/04/2024 | 10/04/2024 | Todos              | Todos            | 11/04/2024 - 11/04/2024 |
 
