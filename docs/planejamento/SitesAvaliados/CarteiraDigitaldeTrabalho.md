@@ -74,7 +74,10 @@ As instruções e cenários avaliativos serão claros e objetivos, com o tratame
 | Atividade | Data |
 | --------- | ---- |
 |Planejamento | 28/03/2024 |
+|Elaborar material de apoio | 28/03/2024 |
 | Avaliação | 30/03/2024 |
+|Análise dos dados| 30/03/2024 |
+| Redigir relatório | 30/03/2024 |
 
 ## Execução do planejamento
 
