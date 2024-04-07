@@ -1,9 +1,9 @@
-## Carteira de Trabalho Digital
+# Carteira de Trabalho Digital
 
  <center>
- ![Imagem CTD](https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/1d03ae1211dde0b7dd876745ee723978)
+ 	<img src= "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2021/fotos/ctps-digital.jpeg/@@images/5a96ac39-77bb-4da1-8c89-5b463907c85a.jpeg"/
 
-   **Figura 1**: Fonte: Ministério do Trabalho 
+   **Figura 1**: Fonte: https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2021/agosto/copy_of_carteira-de-trabalho-digital-e-o-aplicativo-mais-baixado-do-governo-federal-no-mes-de-julho
  </center>
 
 ## Sumário
