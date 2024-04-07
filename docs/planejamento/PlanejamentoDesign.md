@@ -50,19 +50,16 @@ Este modelo segue uma abordagem iterativa e flexível, sem uma sequência fixa d
 ### Engenharia de Usabilidade de Nielsen:
 De acordo com as palavras de Nielsen (1993), a engenharia de usabilidade compreende uma série de atividades que se desenrolam ao longo de todo o ciclo de vida do produto, embora muitas delas ocorram mesmo antes do projeto da interface com o usuário ser elaborado. Barbosa (2010, p. 104) menciona que Nielsen apresenta o seguinte conjunto de atividades em seu ciclo de vida:
 
-Tabela 1 - Atividades da Engenharia de Usabilidade de Nielsen
-| Atividade                                       |
-|-------------------------------------------------|
-| Conheça seu usuário                             |
-| Realize uma análise competitiva                 |
-| Defina as metas de usabilidade                  |
-| Faça designs paralelos                          |
-| Adote o design participativo                    |
-| Faça o design coordenado da interface como um todo |
-| Aplique diretrizes e análise heurística        |
-| Faça protótipos                                 |
-| Realize testes empíricos                        |
-| Pratique design iterativo                       |
+- Conheça seu usuário
+- Realize uma análise competitiva
+- Defina as metas de usabilidade
+- Faça designs paralelos
+- Adote o design participativo
+- Faça o design coordenado da interface como um todo
+- Aplique diretrizes e análise heurística
+- Faça protótipos
+- Realize testes empíricos
+- Pratique design iterativo
 
 <font size="2"><p style="text-align: center">Fonte: BARBOSA e SILVA, 2011, p.105.</p></font>
 
