@@ -33,20 +33,19 @@ O framework DECIDE é uma ferramenta essencial na disciplina de Interação Huma
 1. Verificar a usabilidade do site.
 2. Analisar a eficácia do site em fornecer informações.
 3. Avaliar a adequação do design e das funcionalidades do site.
+4. Avaliar a facilidade de solicitar serviços através do site.
 
 ### E - Explorar perguntas a serem respondidas com a avaliação.
 
 De acordo com o tópico 11.8 do livro “Planejamento da avaliação de IHC”, de Barbosa e Silva, há um conjunto de perguntas que podem ser feitas para cada tipo de objetivo. Para esta avaliação, foram escolhidas as seguintes:
 
-#### Identificar problemas na interação e interface
-
-- O usuário consegue operar o sistema?
-- Ele atinge seu objetivo? 
-- Em quanto tempo? 
-- Após cometer quantos erros?
-- Que parte da interface o desmotiva a explorar novas funcionalidades?
-- Ele vai entender o que deve fazer em seguida?
-- Quais barreiras o usuário encontra para atingir seus objetivos? 
+O usuário entende o que significa e para que serve
+cada elemento de interface?
+Ele tem acesso a todas as informações oferecidas pelo
+sistema?
+Que problemas de IHC dificultam ou impedem o usuário de alcançar seus
+objetivos?
+Que parte da interface o desmotiva a explorar novas funcionalidades?
 
 ### C - Escolher os métodos de avaliação a serem utilizados
 
@@ -54,19 +53,21 @@ O método escolhido para a avaliação foi o teste de usabilidade, que se define
 
 ### I - Identificar e administrar as questões práticas da avaliação
 
-- O recrutamento dos participantes da avaliação deve ocorrer por meio de divulgação em grupos do telegram da Universidade de Brasília, de forma a constituir um público alvo de usuários do sistema Debian em um contingente de até 10 pessoas, não sendo menor que 5 pessoas.
-- Um roteiro será escrito e entregue para cada participante, contendo um script que descreve as tarefas a serem executadas, que nesse caso serão: Baixar uma imagem ISO do Debian 11 bullseye na versão para processadores ARM e acessar a página wiki de tradução com as informações de como contribuir com o projeto.
-- O participante não deverá possuir nenhum recurso prévio para realização da avaliação, sendo fornecido um computador e acesso a internet para que seja realizada a mesma.
-
+- O recrutamento dos participantes da avaliação deve ocorrer por cidadãos de Brasília que possam ter interesse em utilizar algum serviço do Corpo de Bombeiros Militar do Distrito Federal, de forma a constituir um público alvo de 3 pessoas, com idade entre 18 e 65 anos.
+- Um roteiro será escrito e entregue para cada participante, contendo informações sobre o site.
+- O participante não deverá possuir nenhum recurso prévio sobre o site para realização da avaliação, apenas algumas informações de conhecimento público dos serviços prestados pelo CBMDF.
 
 ### D - Decidir como lidar com as questões éticas
 
 Haverá um termo de consentimento entregue para cada participante, de forma a que o mesmo possa permitir sua participação na atividade mediante assinatura do documento.
 
+As instruções e cenários avaliativos serão claros e objetivos, com o tratamento dos voluntários com o máximo de respeito e cordialidade, seguindo as normas e os padrões estabelecidos.
+
 ### E - Avaliar, interpretar e apresentar os dados
 
-- Inicialmente deve-se fazer uma análise manual dos dados e posteriormente uma em conjunto, com o objetivo de encontrar recorrências e padrões. Esta análise coletiva permite distinguir entre características representativas do grupo e particularidades individuais. É essencial abordar as questões que motivaram o estudo e justificar eventuais lacunas nas respostas encontradas. Os resultados são influenciados por diversos fatores, incluindo o método de avaliação, o conhecimento dos avaliadores e a qualidade dos dados.
-- É importante ressaltar que os resultados da avaliação de IHC geralmente indicam tendências de problemas mas não garantem que esses problemas ocorrerão durante o uso do sistema. Além disso, a ausência de problemas detectados não implica necessariamente alta qualidade de uso, apenas que o estudo não revelou problemas dentro do escopo avaliado.
+- Inicialmente deve-se fazer uma análise manual dos dados e posteriormente uma em conjunto, com o objetivo de encontrar recorrências e padrões. Esta análise coletiva permite distinguir entre características representativas do grupo e particularidades individuais. É essencial abordar as questões que motivaram o estudo e justificar eventuais lacunas nas respostas encontradas.
+- Será elaborado um documento para relatar os resultados contendo os objetivos, informações sobre a avaliação, a interpretação dos dados, lista dos problemas identificados. 
+- Por fim, é importante ressaltar que os resultados da avaliação de IHC geralmente indicam tendências de problemas mas não garantem que esses problemas ocorrerão durante o uso do sistema. Além disso, a ausência de problemas detectados não implica necessariamente alta qualidade de uso, apenas que o estudo não revelou problemas dentro do escopo avaliado.
 
 ## Cronograma
 
@@ -75,108 +76,103 @@ Haverá um termo de consentimento entregue para cada participante, de forma a qu
 |Planejamento | 28/03/2024 |
 | Avaliação | 30/03/2024 |
 
-	
- ## Execução do planejamento
+## Execução do planejamento
 
+### Questionário
 
-### Objetivo do site
+Nesta etapa do processo de avaliação, será coletado informações sobre os conhecimentos gerais sobre internet, o que esperam encontrar no site e da experiência do participante ao utilizar o site CBMDF, dividido em duas etapas: um pré-teste e um pós-teste.
 
-A pesquisa tem como objetivo avaliar a experiência dos usuários ao utilizar o site CBMDF, com foco no design, layout, interação e facilidade em solicitar os serviços
-diposníveis no site. 
+#### Pré-teste:
 
-### Do método 
+Nesta etapa do processo de avaliação, será coletado informações sobre os
+conhecimentos gerais sobre internet e da experiência do participante ao utilizar o site
+CBMDF.
+Participante 1:
+1. Qual é o seu nível de experiência ou habilidade no uso da internet?
+Utilizo a internet diariamente para diversas tarefas, como redes sociais e pesquisas
+notícias.
+2. Quais são os principais critérios que você leva em consideração ao avaliar
+se um aplicativo site é fácil de usar?
+Fácil acesso as informações principais, interface limpa, intuitiva, etc.
+3. Quais funcionalidades ou recursos você considera essenciais para um site
+como o CBMDF?
+Facilidade de busca de informações sobre os serviços prestados pelos bombeiros.
+Participante 2
+1. Qual é o seu nível de experiência ou habilidade no uso da internet?
+Utiliza a internet diariamente para diversas coisas.
+2. Quais são os principais critérios que você leva em consideração ao avaliar
+se um aplicativo site é fácil de usar?
+Informações fáceis de serem encontradas, intuitivos, essas coisas.
+3. Quais funcionalidades ou recursos você considera essenciais para um site
+como o CBMDF?
+Ter interface intuitiva com funcionalidades de fácil uso ao usuário.
+Participante 3
+1. Qual é o seu nível de experiência ou habilidade no uso da internet?
+Eu uso a internet para comunicação no trabalho, amigos, família, notícias, essas
+coisas.
+2. Quais são os principais critérios que você leva em consideração ao avaliar
+se um aplicativo site é fácil de usar?
+Facilidade em encontrar informações, site bonito, de fácil uso.
+Universidade de Brasília
+Faculdade UnB Gama
+3. Quais funcionalidades ou recursos você considera essenciais para um site
+como o CBMDF?
+Clareza na apresentação das informações, facilidade de ver os serviços, espaço
+para tirar dúvidas.
 
-Os participantes foram convidados a responder a perguntas sobre sua experiência de uso, incluindo aspectos como facilidade de acesso, design, layout e interação. Além disso,
-suas interações reais com o site foram observadas e registradas para complementar as respostas do questionário.
+#### Pós-teste
 
-### Usuários do site
+Após interagirem com o site CBMDF, os participantes foram convidados a responder ao pós-teste, onde avaliaram o design, layout e interação do site. 
 
-Os usuários principais são pessoas que apresentam algum tipo de deficiência, como cegos, surdos, cadeirantes, autistas, pessoas com sindrome de Dawn, entre muitas outras. Além disso, ele também é destinado para pessoas que tem contato ou vínculo com PcDs, como suas famílias ou cuidadores, profissionais da área da saúde, educadores, pesquisadores e empresas que oferecem produtos e serviços para este público.
+Participante 1
+1. Como você avaliaria a facilidade de acesso e navegação no site CBMDF?
+Um pouco confuso, mas não tive muita dificuldade para encontrar o que procurei.
+2. Qual é a sua opinião sobre o design, layout e interação do site CBMDF?
+Não dá pra enxergar direito algumas opções, as seções estão misturadas, muito
+bagunçado.
+3. Se você precisasse solicitar algum serviço do Corpo de Bombeiros, teria
+facilidade de pedir pelo site?
+Ao que procurei, sim.
+Participante 2:
+1. Como você avaliaria a facilidade de acesso e navegação no site CBMDF?
+Não tive muita dificuldade para encontrar o que procurava, mas é um site um
+pouco esquisito.
+2. Qual é a sua opinião sobre o design, layout e interação do site CBMDF?
+O design e o layout do site deixam ele com poluição visual muito forte.
+3. Se você precisasse solicitar algum serviço do Corpo de Bombeiros, teria
+facilidade de pedir pelo site?
+Sim, apesar de um pouco de dificuldade.
+Participante 3:
+1. Como você avaliaria a facilidade de acesso e navegação no site CBMDF?
+Algumas informações somem ao navegar, no geral consegui encontrar o que
+procurei.
+2. Qual é a sua opinião sobre o design, layout e interação do site CBMDF?
+Visualmente feio, algumas seções poderiam ser mais intuitivas.
+Universidade de Brasília
+Faculdade UnB Gama
+3. Se você precisasse solicitar algum serviço do Corpo de Bombeiros, teria
+facilidade de pedir pelo site?
+O site é feio, um pouco confuso de visualizar algumas opções, mas dá pra
+conseguir sim.
 
-## Análise com base nos objetivos da avaliação decidida no planejamento
+#### Tabela Avaliativa
+   
+Foi perguntado ainda, qual nota eles dariam de 1 a 10, ao site https://www.cbm.df.gov.br/.
 
-### Perguntas a serem respondidas
+## Análise com base nos objetivos da avaliação na percepção do avaliador
 
-#### Análise da apropriação tecnológica:
+Ao observar os participantes utilizarem o site, foi percebido que existia um certo desconforto com o design do site, com interações que sumiam na tela.
+No mais, o teste ocorreu de maneira tranquila, fornecendo dados importantes para a pesquisa.
 
-##### De que maneira os usuários utilizam o sistema? Em que difere do planejado?
-- Resposta: O site deveria ser uma boa experiência para o usuário, porém foram encontrados vários pontos negativos:
--  Apresenta extrema lentidão no acesso inicial, podendo levar alguns usuários a desistir do acesso.
--  Funcionalidade para aumentar o tamanho da fonte é ineficiente. Ferramenta de sintetização de voz não foi localizada.
-- Tradutor para libras é a única funcionalidade que se destaca no site.
-- A seção “Principais Serviços” é de difícil leitura com seu fundo amarelo e caracteres brancos suaves, um problema para as pessoas com problemas de visão. Além disso, considerando que é a principal seção de interesse de quem acessa o site, não está posicionada de forma a ser facilmente localizada pelo usuário.
-
-##### O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?
-**Resposta:** o apoio computacional só atende aos usuários sem deficiência ou aos que necessitam se comunicar por meio da Língua Brasileira de Sinais (Libras).
-
-##### Quais são os pontos fortes e fracos do sistema?
-
-**Resposta:** o único ponto forte é o recurso para interação com quem precisa se comunicar por meio da Língua Brasileira de Sinais (Libras). O ponto fraco mais relevante é a lentidão extrema no acesso ao site. Além disso, há outros pontos fracos:
-
-- Dificuldade para aumentar tamanho da fonte apesar de ser citada a existência dessa funcionalidade;
-
-- Inexistência de sintetizador de voz ou texto já disponível em áudio, caso exista o recurso, não é localizado/acessado facilmente.
-
-- Principais assuntos de interesse não são localizados sem navegação pela página.
-
-##### Há tecnologia disponível para oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?
-
-**Resposta:** Embora ainda há muito a ser feito para melhorar a interação com pessoas com deficiência, diversos sites já disponibilizam, por exemplo, conteúdos de página também em áudio além de haver aplicações que sintetizam da voz humana, algumas com inteligência artificial.
-#### Verificação da conformidade com o padrão:
-
-##### O sistema está de acordo com os padrões de acessibilidade do W3C?
-
-**Resposta:** parcialmente. O site web accessibility evaluation tool (WAVE), https://wave.webaim.org, apontou diversos pontos de atenção para melhoria.
-
-##### Os termos na interface seguem convenções estabelecidas no domínio?
-
-**Resposta:** Em princípio sim. O site está integrado ao site do GDF, que engobla todas as secretarias. Foi observado padrões entre eles.
-
-
-## Análise com base nos objetivos da avaliação
-
-### Verificar se o site cumpre os seus objetivos
-
-O site cumpre seu objetivo de interação com usuários que se comunicam por meio da língua brasileira de sinais (Libras). Contúdo, não é intuitivo para pessoas com deficiências cognitivas e não há ferramentas que auxiliem deficientes visuais. Assim, não é totalmente acessível.
-
-O site é bastante lento, o que deve levar parte dos usuários a utilizarem outros canais, como o telefone ou a presença física para solicitar serviços.
-
-### Avaliar a acessibilidade do site para pessoas com diferentes tipos de deficiência, como deficiência visual, auditiva, motora, cognitiva, entre outras.
-
-**Visual**: Recurso para aumento do tamanho da fonte não funciona. Além disso, o sintetizador de voz não foi localizado. Há também Inexiste orientação de navegação em áudio.
-**Auditiva:** O recurso para interação por Libras destaca-se.
-**Cognitiva:** Requer navegação auxiliada e paciência para localizar e utilizar serviços.
-
-### Verificar a usabilidade do site.
-
-Apesar de haver locais para encontrar as suas principais ferramentas, o site pode não ser totalmente intuitivo para pessoas com deficiência cognitiva ou que não estão acostumadas com sites do governo. Além disso, requer navegação e paciência para localizar e utilizar os seus serviços.
-
-### Analisar a eficácia do site em fornecer informações.
-
-O site requer navegação pela página para localizar serviços essenciais a que se destina e muitos não podem ser encontrados. Por exemplo, não há um local que ajuda a pedir a expedição da carteira de identificação de pessoa PcD.
-
-### Avaliar a adequação do design e das funcionalidades do site.
-
-É um site bastante simples quanto ao design, sem recursos que estimule interesse do usuário.
-
-### Identificar possíveis barreiras ou problemas de acessibilidade
-
-O principal ponto de atenção é a lentidão, mas faltam recursos para interação com
-usuários com deficiência.
  ## Conclusão
 
-O site pode ser usado por uma pessoa sem deficiência de modo eficiente, apesar
-da imensa lentidão e da dificuldade em encontrar serviços específicos. Contudo, quando
-utilizado por pessoas com deficiência, ele carece de diversos recursos para possibilitar
-interação eficiente.
-
-Conclui-se que o sistema está muito aquém dos objetivos de atender bem aos
-usuários com deficiência.
-
+A entrevista revelou um desconforto dos participantes ao utilizar o site do CBMDF, foram identificadas oportunidades de melhoria, como designer, layout e aprimoramentos na acessibilidade para usuários de maneira geral.
+Esses insights foram valiosos para observar possíveis melhorias no site, garantindo que ele continue a atender às necessidades e expectativas dos usuários de forma eficaz.
 
  ## Referências bibliográficas;
 
-SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021.
+SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
+(Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021.
 CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL. Página inicial. Disponível em: https://www.cbm.df.gov.br/. Acesso em: 27/03/2024.
 	
 ## Histórico de versão
