@@ -62,6 +62,7 @@ Tabela 1 - Atividades da Engenharia de Usabilidade de Nielsen
 | Faça protótipos                                 |
 | Realize testes empíricos                        |
 | Pratique design iterativo                       |
+
 <font size="2"><p style="text-align: center">Fonte: BARBOSA e SILVA, 2011, p.105.</p></font>
 
 ## Da metodologia
