@@ -175,11 +175,13 @@ Foi perguntado ainda, no geral, qual nota eles dariam de 1 a 10, ao site https:/
 ## Análise com base nos objetivos da avaliação na percepção do avaliador
 
 Ao observar os participantes utilizarem o site, foi percebido que existia um certo desconforto com o design do site, com interações que sumiam na tela.
-No mais, o teste ocorreu de maneira tranquila, fornecendo dados importantes para a pesquisa.
+
+No mais, o teste ocorreu de maneira tranquila, fornecendo uma coleta de dados importantes para a presente pesquisa.
 
  ## Conclusão
 
 A entrevista revelou um desconforto dos participantes ao utilizar o site do CBMDF, foram identificadas oportunidades de melhoria, como designer, layout e aprimoramentos na acessibilidade para usuários de maneira geral.
+
 Esses insights foram valiosos para observar possíveis melhorias no site, garantindo que ele continue a atender às necessidades e expectativas dos usuários de forma eficaz.
 
  ## Referências bibliográficas;
