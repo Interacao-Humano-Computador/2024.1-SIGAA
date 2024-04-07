@@ -38,7 +38,7 @@ execução das avaliações dos sites.
 | Nome | Site | Planejamento e Avaliação |
 | - | - | - | 
 | Breno Alexandre | - | -| 
-| Bruno Cunha | - | -| 
+| Bruno Cunha | Carteira de Trabalho Digital | -| 
 | Iago Passaglia |  - | -| 
 | Larissa Stefane | Secretaria da Pessoa com Deficiência do GDF | [Análise](Site_Secretaria_PND_GDF.md) |
 | Luana de Lima | - | - |
@@ -99,4 +99,4 @@ A escolha do site SIGAA da UnB como base para o projeto foi motivada por diverso
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao do documento | Larissa Stéfane | Luana Medeiros |  05/04/2024 |
-| 1.1 | Adição da escolha do site | Pedro Augusto | - |  06/04/2024 |
+| 1.1 | Adição da escolha do site | Pedro Augusto | Bruno Araújo |  06/04/2024 |
