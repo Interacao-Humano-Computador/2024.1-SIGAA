@@ -288,10 +288,10 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 ## Histórico de versão
 
-| Versão | Alteração                                                 | Responsável           | Revisor         | Data      |
-| -      | -                                                         | -                     | -               | -         |
-| 1.0    | Criação do documento                                      | Breno Alexandre       | Larissa Stéfane | 28/03/2024|
-| 1.1    | Atualização do documento                                  | Luana Medeiros        | Larissa Stéfane | 04/04/2024|
-| 1.2    | Atualização do cronograma executado para entrega 1        | Larissa Stéfane       | Breno Alexandre | 04/04/2024|
-| 1.3    | Refatoração do cronograma e adição de atividade executada | Breno Alexandre       | Luana Medeiros  | 06/04/2024|
+| Versão | Alteração                                                                | Responsável           | Revisor         | Data      |
+| -      | -                                                                        | -                     | -               | -         |
+| 1.0    | Criação do documento                                                     | Breno Alexandre       | Larissa Stéfane | 28/03/2024|
+| 1.1    | Atualização do documento                                                 | Luana Medeiros        | Larissa Stéfane | 04/04/2024|
+| 1.2    | Atualização do cronograma executado para entrega 1                       | Larissa Stéfane       | Breno Alexandre | 04/04/2024|
+| 1.3    | Refatoração do cronograma e adição de atividade executada para entrega 1 | Breno Alexandre       | Luana Medeiros  | 06/04/2024|
 
