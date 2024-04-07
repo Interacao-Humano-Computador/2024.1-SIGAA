@@ -37,12 +37,12 @@ execução das avaliações dos sites.
 
 | Nome | Site | Planejamento e Avaliação |
 | - | - | - | 
-| Breno Alexandre | - | -| 
-| Bruno Cunha | Carteira de Trabalho Digital | -| 
-| Iago Passaglia |  - | -| 
+| Breno Alexandre | Inep Enem | [Análise](planejamento/SitesAvaliados/Site_enem.md)| 
+| Bruno Cunha | Carteira de Trabalho Digital | [Análise](planejamento/SitesAvaliados/CarteiradeTrabalhoDigital.md)| 
+| Iago Passaglia |  Sigaa | [Análise](planejamento/SitesAvaliados/Site_Sigaa.md)| 
 | Larissa Stefane | Secretaria da Pessoa com Deficiência do GDF | [Análise](planejamento/SitesAvaliados/Site_Secretaria_PND_GDF.md) |
-| Luana de Lima | - | - |
-| Pedro Augusto | Distribuição Linux Debian | [Análise](Site_Debian.md) | 
+| Luana de Lima | Alistamento Militar | [Análise](planejamento/SitesAvaliados/AlistamentoMilitar.md) |
+| Pedro Augusto | Distribuição Linux Debian | [Análise](planejamento/SitesAvaliados/Site_Debian.md) | 
 
 Tabela 1. Fonte: Larissa Stéfane.
 
