@@ -59,7 +59,7 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 | Documentação do Heatmap                                                                                                          | 06/04/2024 | 06/04/2024 | Pedro Augusto      | Iago Passaglia   | 06/04/2024 - 06/04/2024 |
 | Documentação do planejamento de Processo de Design, com o método escolhido sendo o Ciclo de Mayhew.                              | 06/04/2024 | 06/04/2024 | Bruno Araújo       | Iago Passaglia   | 06/04/2024 - 07/04/2024 |
 
-<font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0), [Lárissa Stéfane](https://github.com/SkywalkerSupreme) e [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ## Entrega 2 - Perfil dos Usuários
 
