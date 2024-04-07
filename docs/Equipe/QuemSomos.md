@@ -55,12 +55,6 @@ Devido a isso, a FGA possui uma forte ênfase em pesquisa e inovação ao colabo
                 <h5 class="text-center">Bruno Cunha Vasconcelos de Araújo <br> </h5>
             </a>
         </td>
-       <td align="center">
-            <a href="https://github.com/caiomesvie">
-                <img style="border-radius: 50%;" src="https://github.com/caiomesvie.png" width="150px;"/>
-                <h5 class="text-center"> Caio Mesquita Vieira <br> </h5>
-            </a>
-        </td>
       <td align="center">
             <a href="https://github.com/Paxxaglia">
                 <img style="border-radius: 50%;" src="https://github.com/Paxxaglia.png" width="150px;"/>
