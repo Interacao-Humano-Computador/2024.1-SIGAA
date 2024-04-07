@@ -73,7 +73,8 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 
 ## 6. Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criando da base da Ata da Reunião | Larissa Stéfane Barboza Santos | Luana Medeiros | 25/03 |
-| 1.1 | Atualiação da ata | Larissa Stéfane Barboza Santos | Luana Medeiros | 26/03 |
+| Versão | Alteração                                                                  | Responsável                    | Revisor        | Data  |
+| ------ | -------------------------------------------------------------------------- | ------------------------------ | -------------- | ----- |
+| 1.0    | Criando da base da Ata da Reunião                                          | Larissa Stéfane Barboza Santos | Luana Medeiros | 25/03 |
+| 1.1    | Atualiação da ata                                                          | Larissa Stéfane Barboza Santos | Luana Medeiros | 26/03 |
+| 1.2    | Atualização do link de Reunião e refatoração do histórico de versionamento | Breno Alexnadre                | -              | 26/03 |
