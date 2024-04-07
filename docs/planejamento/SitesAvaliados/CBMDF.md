@@ -1,4 +1,4 @@
-# Corpo de Bombeiros Militar do Distrito Fededral
+# Corpo de Bombeiros Militar do Distrito Federal
 
  <center>
  	<img src= "https://cdn.vidyard.com/thumbnails/14939388/PcfvMBd3huvRxRJXSM3RFxMedpK01tsH.gif"/
