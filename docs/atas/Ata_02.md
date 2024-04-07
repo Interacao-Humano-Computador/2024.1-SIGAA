@@ -84,4 +84,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | ------ | -------------------------------------------------------------------------- | ------------------------------ | -------------- | ----- |
 | 1.0    | Criação da base da Ata da Reunião                                          | Larissa Stéfane Barboza Santos | Luana Medeiros | 28/03 |
 | 1.1    | Atualização da ata                                                         | Larissa Stéfane Barboza Santos | Luana Medeiros | 28/03 |
-| 1.2    | Atualização do link de Reunião e refatoração do histórico de versionamento | Breno Alexandre                | -              | 07/04 |
+| 1.2    | Atualização do link de Reunião e refatoração do histórico de versionamento | Breno Alexandre                | Iago Passaglia | 07/04 |
