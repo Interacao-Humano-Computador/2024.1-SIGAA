@@ -9,7 +9,7 @@
 - **Horário de início:** 21:02
 - **Duração:** 21 minutos e 12 segundos.
 - **Local:** Teams 
-- **Link da reunião:** 
+- **Link da reunião:** https://www.youtube.com/watch?v=_2LNew8GP8k
 
 ## 2. Participantes
 
