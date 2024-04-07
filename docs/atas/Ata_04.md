@@ -8,8 +8,8 @@
 - **Horário de início previsto:** 21:20
 - **Horário de início:** 
 - **Duração:** 15 minutos 
-- **Local:** Teams 
-- **Link da reunião:** 
+- **Local:** Whatsapp
+
 
 ## 2. Participantes
 
