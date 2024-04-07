@@ -30,10 +30,10 @@ O planejamento de avaliação em Interação Humano-Computador é essencial para
 O framework DECIDE é uma ferramenta essencial na disciplina de Interação Humano-Computador (IHC), pois oferece uma abordagem estruturada para o design e avaliação de interfaces, alinhado a um processo iterativo e colaborativo, onde cada etapa é planejada e executada para garantir a criação de interfaces centradas no usuário.
 
 ### D - Determinar os objetivos da avaliação de IHC.
-1. Verificar a usabilidade do site.
-2. Analisar a eficácia do site em fornecer informações.
-3. Avaliar a adequação do design e das funcionalidades do site.
-4. Avaliar a facilidade de solicitar serviços através do site.
+- Verificar a usabilidade do site.
+- Analisar a eficácia do site em fornecer informações.
+- Avaliar a adequação do design e das funcionalidades do site.
+- Avaliar a facilidade de solicitar serviços através do site.
 
 ### E - Explorar perguntas a serem respondidas com a avaliação.
 
