@@ -1,5 +1,17 @@
 # Processo de Design
 
+## Sumário 
+* [Introdução](#Introdução)
+* [Sobre o estudo](#Sobre-o-estudo)
+* [Modelos](#Modelos)
+* [Da metodologia](#Da-metodologia)
+* [Análise de Requisitos](#Análise-de-Requisitos)
+* [Design, Avaliação e Desenvolvimento](#Design,-Avaliação-e-Desenvolvimento)
+* [Instalação](#Instalação)
+* [Motivos para a escolha](#Motivos-para-a-escolha) 
+* [Referências bibliográficas](#Referências)
+* [Histórico de versões](#Histórico-de-versões)
+
 ## Introdução
 
 O processo de design é um conjunto de atividades metodológicas e sistemáticas focadas em criar e melhorar a interação entre usuários e sistemas computacionais, tendo como objetivo desenvolver produtos que sejam não apenas funcionais e eficientes, mas também acessíveis, fáceis de usar e proporcionem experiências positivas aos usuários. Este processo envolve compreender profundamente as necessidades, comportamentos e contextos dos usuários, para então traduzir esses insights em soluções de design inovadoras e eficazes.
@@ -58,3 +70,4 @@ Fonte: Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Séri
 |--------|-------------------------------|----------------|----------------|------------|
 | 1.0    | Criação da base               | Bruno Araújo | Iago Passaglia | 06/04/2024 |
 | 1.1    |Adição da imagem e correção de erros | Iago Passaglia | Luana Medeiros | 06/04/2024 |
+| 1.2    |Adição do sumário | Pedro Augusto | - | 06/04/2024 |
