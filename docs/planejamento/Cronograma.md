@@ -22,7 +22,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 | Selecionar metodologias do projeto | 29/03/2024 | 31/03/2024 | Bruno e Iago       | Pedro            | 01/04/2024 - 01/04/2024 |
 | Processo de Design                 | 01/04/2024 | 04/04/2024 | Todos              | Iago             | 05/04/2024 - 05/04/2024 |
 | Gravar apresentação                | 06/04/2024 | 06/04/2024 | Todos              | Todos            | 06/04/2024 - 07/04/2024 |
-| Correção pós apresentação          | 06/04/2024 | 07/04/2024 | Todos              | Todos            | 08/04/2024 - 08/04/2024 |
+| Correção pós apresentação          | 10/04/2024 | 10/04/2024 | Todos              | Todos            | 11/04/2024 - 11/04/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
@@ -294,4 +294,5 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.1    | Atualização do documento                                                 | Luana Medeiros        | Larissa Stéfane | 04/04/2024|
 | 1.2    | Atualização do cronograma executado para entrega 1                       | Larissa Stéfane       | Breno Alexandre | 04/04/2024|
 | 1.3    | Refatoração do cronograma e adição de atividade executada para entrega 1 | Breno Alexandre       | Luana Medeiros  | 06/04/2024|
+| 1.4    | Alteração da data da atividade "Correção pós-apresentação" da etapa 1    | Breno Alexandre       | -               | 07/04/2024|
 
