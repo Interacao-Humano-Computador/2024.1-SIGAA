@@ -50,9 +50,13 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 | Apresentação do site SIGAA e exposição de dados coletados em pesquisas anteriores sobre o site.                                  | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Breno Alexandre  | 05/04/2024 - 07/04/2024 |
 | Criação de documento apresentando a Equipe.                                                                                      | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
 | Criação de documento mostrando a dinâmica da equipe.                                                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site da Carteira de Trabalho Digital.                | 05/04/2024 | 05/04/2024 | Bruno Araújo       | Luana Medeiros   | 05/04/2024 - 05/04/2024 |
 | Documentar a base da documentação de um site para ser avaliado como uma das opções.                                              | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Luana Medeiros   | 05/04/2024 - 07/04/2024 |
-| Documentação do Heatmap                                                                                                          | 06/04/2024 | 06/04/2024 | Pedro Augusto      | Iago Passaglia   | 06/04/2024 - 06/04/2024 |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site do SIGAA - UnB.                                 | 06/04/2024 | 06/04/2024 | Iago Passaglia     | Luana Medeiros   | 06/04/2024 - 06/04/2024 |
 | Documentação de um site para ser avaliado como uma das opções. Documentar o site do INEP enem.                                   | 06/04/2024 | 06/04/2024 | Breno Alexandre    | Luana Medeiros   | 06/04/2024 - 06/04/2024 |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site da Distribuição Linux Debian.                   | 06/04/2024 | 06/04/2024 | Pedro Augusto      | Luana Medeiros   | 06/04/2024 - 06/04/2024 |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site de Alistamento Militar.                         | 06/04/2024 | 06/04/2024 | Luana Medeiros     | Breno Alexandre  | 06/04/2024 - 06/04/2024 |
+| Documentação do Heatmap                                                                                                          | 06/04/2024 | 06/04/2024 | Pedro Augusto      | Iago Passaglia   | 06/04/2024 - 06/04/2024 |
 | Documentação do planejamento de Processo de Design, com o método escolhido sendo o Ciclo de Mayhew.                              | 06/04/2024 | 06/04/2024 | Bruno Araújo       | Iago Passaglia   | 06/04/2024 - 07/04/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
