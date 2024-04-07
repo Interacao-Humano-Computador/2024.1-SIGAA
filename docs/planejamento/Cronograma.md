@@ -34,17 +34,25 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 | *Atividade*                                                                                                                      | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
+| Base da Ata 01                                                                                                                   | 25/03/2024 | 26/03/2024 | Larissa Stéfane    | Luana Medeiros   | 26/03/2024 - 26/03/2024 |
 | Reunião 01                                                                                                                       | 26/03/2024 | 26/03/2024 | Todos              | Larissa Stéfane  | 26/03/2024 - 26/03/2024 |
+| Base da Ata 02                                                                                                                   | 28/03/2024 | 28/03/2024 | Larissa Stéfane    | Luana Medeiros   | 28/03/2024 - 28/03/2024 |
 | Reunião 02                                                                                                                       | 28/03/2024 | 28/03/2024 | Todos              | Larissa Stéfane  | 28/03/2024 - 28/03/2024 |
 | Criação do documento de ferramentas                                                                                              | 28/03/2024 | 28/03/2024 | Larissa Stéfane    | Luana Medeiros   | 28/03/2024 - 01/04/2024 |
 | Documentação de um site para ser avaliado como uma das opções. Documentar o site da Secretaria da Pessoa com Deficiência do GDF. | 30/04/2024 | 30/04/2024 | Larissa Stéfane    | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
+| Base da Ata 03                                                                                                                   | 02/04/2024 | 02/04/2024 | Luana Medeiros     | Breno Alexandre  | 02/04/2024 - 02/04/2024 |
+| Reunião 03                                                                                                                       | 02/04/2024 | 02/04/2024 | Todos              | Larissa Stéfane  | 02/04/2024 - 02/04/2024 |
 | Selecionar site                                                                                                                  | 02/04/2024 | 02/04/2024 | Todos              | Larissa Stéfane  | 05/04/2024 - 05/04/2024 |
+| Base da Ata 04                                                                                                                   | 04/04/2024 | 04/04/2024 | Bruno Araújo       | Larissa Stéfane  | 04/04/2024 - 04/04/2024 |
+| Reunião 04                                                                                                                       | 04/04/2024 | 04/04/2024 | Todos              | Larissa Stéfane  | 04/04/2024 - 04/04/2024 |
 | Criação do documento que apresenta a metodologia de analise dos sites para a ecolha.                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Luana Medeiros   | 05/04/2024 - 06/04/2024 |
 | Realização da avaliação por heurísticas do SIGAA e definição das suas funcionalidades.                                           | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Luana Medeiros   | 05/04/2024 - 06/04/2024 |
-| Apresentação do site SIGAA e exposição de dados coletados em pesquisas anteriores sobre o site.                                  | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Luana Medeiros   | 05/04/2024 - 06/04/2024 |
+| Apresentação do site SIGAA e exposição de dados coletados em pesquisas anteriores sobre o site.                                  | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Breno Alexandre  | 05/04/2024 - 07/04/2024 |
 | Criação de documento apresentando a Equipe.                                                                                      | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
 | Criação de documento mostrando a dinâmica da equipe.                                                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
+| Documentação do Heatmap                                                                                                          | 06/04/2024 | 06/04/2024 | Pedro Augusto      | Iago Passaglia   | 06/04/2024 - 06/04/2024 |
 | Documentação de um site para ser avaliado como uma das opções. Documentar o site do INEP enem.                                   | 06/04/2024 | 06/04/2024 | Breno Alexandre    | Luana Medeiros   | 06/04/2024 - 06/04/2024 |
+| Documentação do planejamento de Processo de Design, com o método escolhido sendo o Ciclo de Mayhew.                              | 06/04/2024 | 06/04/2024 | Bruno Araújo       | Iago Passaglia   | 06/04/2024 - 07/04/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
@@ -288,11 +296,11 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 ## Histórico de versão
 
-| Versão | Alteração                                                                | Responsável           | Revisor         | Data      |
-| -      | -                                                                        | -                     | -               | -         |
-| 1.0    | Criação do documento                                                     | Breno Alexandre       | Larissa Stéfane | 28/03/2024|
-| 1.1    | Atualização do documento                                                 | Luana Medeiros        | Larissa Stéfane | 04/04/2024|
-| 1.2    | Atualização do cronograma executado para entrega 1                       | Larissa Stéfane       | Breno Alexandre | 04/04/2024|
-| 1.3    | Refatoração do cronograma e adição de atividade executada para entrega 1 | Breno Alexandre       | Luana Medeiros  | 06/04/2024|
-| 1.4    | Alteração da data da atividade "Correção pós-apresentação" da etapa 1    | Breno Alexandre       | -               | 07/04/2024|
+| Versão | Alteração                                                                                                   | Responsável           | Revisor         | Data      |
+| ------ | ----------------------------------------------------------------------------------------------------------- | --------------------- | --------------- | --------- |
+| 1.0    | Criação do documento                                                                                        | Breno Alexandre       | Larissa Stéfane | 28/03/2024|
+| 1.1    | Atualização do documento                                                                                    | Luana Medeiros        | Larissa Stéfane | 04/04/2024|
+| 1.2    | Atualização do cronograma executado para entrega 1                                                          | Larissa Stéfane       | Breno Alexandre | 04/04/2024|
+| 1.3    | Refatoração do cronograma e adição de atividade executada para entrega 1                                    | Breno Alexandre       | Luana Medeiros  | 06/04/2024|
+| 1.4    | Alteração da data da atividade "Correção pós-apresentação" e atualização do cronograma executado da etapa 1 | Breno Alexandre       | -               | 07/04/2024|
 
