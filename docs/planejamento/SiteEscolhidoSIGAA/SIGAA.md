@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Com o avanço das tecnologias na área educacional, sistemas de gestão acadêmica têm desempenhado um papel fundamental para realização de processos administrativos no ambiente acadêmico. Nesse contexto, o Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) surgiu como uma ferramenta para o gerenciamento eficiente de informações e de atividades no âmbito universitário. Com base nisso, este artigo tem como objetivo apresentar o SIGAA e mostrar dados que já foram coletados sobre ele em outras pesquisas. 
+Com o avanço da tecnologia na área educacional, sistemas de gestão acadêmica têm desempenhado um papel fundamental para realização de processos administrativos no ambiente acadêmico. Nesse contexto, o Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) surgiu como uma ferramenta para o gerenciamento eficiente de informações e de atividades no âmbito universitário. Com base nisso, este artigo tem como objetivo apresentar o SIGAA e apresentar dados que já foram coletados sobre o sistema em outras pesquisas. 
 
 ## O que é o SIGAA?
 
@@ -25,9 +25,9 @@ Com o avanço das tecnologias na área educacional, sistemas de gestão acadêmi
  </center>
 
 
-O **Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA)** foi desenvolvido pela Universidade Federal do Rio Grande do Norte (UFRN) em 2006 como uma forma de unificar e de gerenciar todas as atividades acadêmicas da instituição de maneira integrada e mais eficiente que o sistema utilizado anteriormente. Desse modo, ele é um sistema onde todos os envolvidos no processo educacional podem participar, uma vez que permite aos professores liberarem e coletarem informações sobre as suas disciplinas de forma mais dinâmica, enquanto é um ambiente para estudos e acompanhamento dos alunos. 
+O **Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA)** foi desenvolvido pela Universidade Federal do Rio Grande do Norte (UFRN) em 2006 como uma forma de unificar e de gerenciar as atividades acadêmicas da instituição de maneira integrada e mais eficiente que o sistema utilizado anteriormente. Desse modo, ele é um sistema onde todos os envolvidos no processo educacional podem participar, uma vez que permite aos professores liberarem e coletarem informações sobre as suas disciplinas de forma mais dinâmica, enquanto é um ambiente para estudos e acompanhamento dos alunos. 
 
-Nesse contexto, desde a sua implementação, ele vem sendo utilizado por diversas universidades federais brasileiras, como a Universidade Federal do Sergipe, Universidade do Ceará e a Universidade Federal do Maranhão. Em 2020, a Universidade de Brasília (UnB) também aderiu esse sistema e no decorrer desses 4 anos, diversos alunos e professores foram expostos a essa plataforma, o que proporcionou a pesquisa de IHC.
+Nesse contexto, desde a sua implementação, ele vem sendo utilizado por diversas universidades federais brasileiras, como a Universidade Federal do Sergipe, Universidade do Ceará e a Universidade Federal do Maranhão. Em 2020, a Universidade de Brasília (UnB) também aderiu esse sistema e no decorrer desses 4 anos, diversos alunos e professores foram integrados a essa plataforma, o que proporcionou a pesquisa do grupo na matéria de IHC.
 
 ## Objetivos e Funcionalidades
 
@@ -37,7 +37,9 @@ Nesse contexto, desde a sua implementação, ele vem sendo utilizado por diversa
    **Figura 2**: Fonte: Site do SIGAA 
  </center>
 
-O SIGAA oferece uma ampla gama de funcionalidades, as quais permitem o controle das atividades acadêmicas desde o registro de alunos e matrículas até o lançamento de notas, o controle de frequências, a gestão de disciplinas e de turmas, além de fornecer uma plataforma para comunicação entre alunos, professores e os demais envolvidos no processo educacional.
+O SIGAA é uma ferramenta multifuncional que abrange diversas atividades acadêmicas, proporcionando um controle abrangente desde o registro dos alunos em turmas até o lançamento de notas e o monitoramento da frequência. Além disso, serve como uma plataforma de comunicação eficiente, com ferramentas que facilitam a interação entre alunos, professores e demais participantes do processo educacional.
+
+Com suas variadas funcionalidades integradas, o SIGAA se destaca como uma ferramenta essencial para a gestão acadêmica, promovendo uma experiência mais fluida e colaborativa dentro das instituições de ensino.
 
 Com base nisso, o SIGAA possui como **principais objetivos**:
 
@@ -62,7 +64,7 @@ Para realizar esses objetivos, o SIGAA possui um conjunto de **funcionalidades**
 
 ## Estudos realizados anteriormente
 
-Desde o seu lançamento, em 2009, o SIGAA tem sido objeto de inúmeras pesquisas e estudos que visam avaliar sua eficiência e o impacto percebido pelo público-alvo. Assim, é possível concluir que esta plataforma desperta interesse tanto na área da educação quanto na da tecnologia da informação. 
+Desde o seu lançamento, em 2009, o SIGAA tem sido objeto de diversas pesquisas e estudos que visam avaliar sua eficiência e o impacto percebido pelo público-alvo. Assim, é possível concluir que esta plataforma desperta interesse tanto na área da educação quanto na da tecnologia da informação. 
 
 Alguns desses estudos realizados foram [Análise do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) na perspectiva do corpo docente e discente do curso Técnico Integrado em Edificações – IFSC Câmpus São Carlos](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) e [SATISFAÇÃO DO USUÁRIO DO SISTEMA INTEGRADO DE GESTÃO DAS ATIVIDADES ACADÊMICAS: UM ESTUDO NO INSTITUTO FEDERAL CATARINENSE](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/812/Artigo_vers%c3%a3o_corrigida_set_2018.pdf?sequence=1&isAllowed=y) 
 
@@ -151,7 +153,7 @@ Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do no
 | Retirada e trancamento de matrícula | Pedro Augusto |
 
 ## Conclusão:
-Portanto, o SIGAA representa uma ferramenta essencial no contexto acadêmico de muitas universidades ao proporcionar uma ampla gama de funcionalidades. Desse modo, seu papel central se reflete na facilidade de acesso e na integração eficiente entre alunos, professores e demais membros da comunidade acadêmica.
+Em suma, o SIGAA representa uma ferramenta essencial no contexto acadêmico de muitas universidades ao proporcionar uma ampla gama de funcionalidades. Desse modo, seu papel central se reflete na facilidade de acesso e na integração eficiente entre alunos, professores e demais membros da comunidade acadêmica.
 
 No entanto, para maximizar sua utilidade e promover uma experiência mais fluida e inclusiva, são necessárias melhorias na usabilidade e na acessibilidade da plataforma, o que será trabalhado no projeto. 
 
@@ -171,4 +173,4 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 | ------ | --------------------------------------------- | --------------- | --------------- | ---------- | 
 | 1.0    | Criação e elaboração do documento             | Larissa Stéfane | Breno Alexandre | 05/04/2024 |
 | 1.1    | Adição de funcionalidades que serão estudadas | Breno Alexandre | Pedro Augusto   | 06/04/2024 |
-| 1.2    | Correção de erros ortográficos | Pedro Augusto | -               | 06/04/2024 |
+| 1.2    | Correção de erros ortográficos | Pedro Augusto | Bruno Araújo               | 07/04/2024 |
