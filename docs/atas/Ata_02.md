@@ -9,7 +9,7 @@
 - **Horário de início:** 21:35
 - **Duração:** 12 minutos
 - **Local:** Teams 
-- **Link da reunião:** 
+- **Link da reunião:** https://www.youtube.com/watch?v=70wU627bGzI
 
 ## 2. Participantes
 
@@ -80,7 +80,8 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 
 ## 6. Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação da base da Ata da Reunião | Larissa Stéfane Barboza Santos | Luana Medeiros | 28/03 |
-| 1.1 | Atualização da ata | Larissa Stéfane Barboza Santos | Luana Medeiros | 28/03 |
+| Versão | Alteração                                                                  | Responsável                    | Revisor        | Data |
+| ------ | -------------------------------------------------------------------------- | ------------------------------ | -------------- | ----- |
+| 1.0    | Criação da base da Ata da Reunião                                          | Larissa Stéfane Barboza Santos | Luana Medeiros | 28/03 |
+| 1.1    | Atualização da ata                                                         | Larissa Stéfane Barboza Santos | Luana Medeiros | 28/03 |
+| 1.2    | Atualização do link de Reunião e refatoração do histórico de versionamento | Breno Alexandre                | -              | 07/04 |
