@@ -144,11 +144,11 @@ Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do no
 | Declaração de Bolsista | Bruno Cunha |
 | Pré-Cadastro de estágio | Iago Passaglia |
 | Gerenciar Estágio | Iago Passaglia |
-|Necessidade educacionais específicas | Larissa Stéfane |
+| Necessidade educacionais específicas | Larissa Stéfane |
 | Consulta de nota e frequência | Larissa Stéfane |
 | Emissão de documentos ( Histórico e declaração de vínculo) | Larissa Stéfane |
-| Avaliação instituicional | Luana Lima|
-| Consultas gerais | Luana Lima|
+| Avaliação Institucional | Luana Lima|
+| Consulta de resultado da Avaliação Institucional | Luana Lima|
 | Realização de matrícula | Pedro Augusto |
 | Retirada e trancamento de matrícula | Pedro Augusto |
 
@@ -176,4 +176,4 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 | 1.2    | Adição de funcionalidades que serão estudadas                   | Breno Alexandre | Pedro Augusto   | 06/04/2024 |
 | 1.3    | Correção de erros ortográficos                                  | Pedro Augusto   | Bruno Araújo    | 07/04/2024 |
 | 1.4    | Refatoração do histórico de versionamento                       | Breno Alexandre | Larissa Stéfane | 07/04/2024 |
-| 1.5    | Adição e ferificação das funcionalidades que serão estudadas    | Larissa Stéfane | - | 07/04/2024 |
+| 1.5    | Adição e verificação das funcionalidades que serão estudadas    | Larissa Stéfane | Breno Alexandre | 07/04/2024 |
