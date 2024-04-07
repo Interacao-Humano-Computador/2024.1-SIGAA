@@ -40,7 +40,7 @@ execução das avaliações dos sites.
 | Breno Alexandre | - | -| 
 | Bruno Cunha | Carteira de Trabalho Digital | -| 
 | Iago Passaglia |  - | -| 
-| Larissa Stefane | Secretaria da Pessoa com Deficiência do GDF | [Análise](Site_Secretaria_PND_GDF.md) |
+| Larissa Stefane | Secretaria da Pessoa com Deficiência do GDF | [Análise](docs/planejamento/SitesAvaliados/Site_Secretaria_PND_GDF.md) |
 | Luana de Lima | - | - |
 | Pedro Augusto | Distribuição Linux Debian | [Análise](Site_Debian.md) | 
 
