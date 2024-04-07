@@ -12,8 +12,6 @@
 * [Planejamento com o DECIDE](#Planejamento-com-o-DECIDE)
 * [Cronograma](#Cronograma)
 * [Execução](#Execução-do-planejamento)
-* [Objetivo-do-site](#Objetivo-do-site)
-* [Usuários-do-site](#Usuários-do-site)
 * [Análise com base nos objetivos da avaliação decidida no planejamento](#Análise-com-base-nos-objetivos-da-avaliação-decidida-no-planejamento)
 * [Perguntas a serem respondidas](#Perguntas-a-serem-respondidas)
 * [Análise com base nos objetivos da avaliação](#Análise-com-base-nos-objetivos-da-avaliação)
