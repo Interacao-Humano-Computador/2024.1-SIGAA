@@ -11,10 +11,12 @@
 * [Introdução](#Introdução)
 * [Planejamento com o DECIDE](#Planejamento-com-o-DECIDE)
 * [Cronograma](#Cronograma)
-* [Execução](#Execução-do-planejamento)
-* [Análise com base nos objetivos da avaliação decidida no planejamento](#Análise-com-base-nos-objetivos-da-avaliação-decidida-no-planejamento)
-* [Perguntas a serem respondidas](#Perguntas-a-serem-respondidas)
-* [Análise com base nos objetivos da avaliação](#Análise-com-base-nos-objetivos-da-avaliação)
+* [Execução do Planejamento](#Execução-do-planejamento)
+* [Questionário](#Questionário)
+* [Pré-teste](#Pré-teste)
+* [Pós-teste](#Pós-teste)
+* [Tabela Avaliativa](#Tabela-Avaliativa)
+* [Análise com base nos objetivos da avaliação na percepção do avaliador](#Análise-com-base-nos-objetivos-da-avaliação-na-percepção-do-avaliador)
 * [Conclusão](#Conclusão)
 * [Referências bibliográficas](#Referências-bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
@@ -78,84 +80,97 @@ As instruções e cenários avaliativos serão claros e objetivos, com o tratame
 
 ### Questionário
 
-Nesta etapa do processo de avaliação, será coletado informações sobre os conhecimentos gerais sobre internet, o que esperam encontrar no site e da experiência do participante ao utilizar o site CBMDF, dividido em duas etapas: um pré-teste e um pós-teste.
+Nesta etapa do processo de avaliação, será coletado informações sobre os conhecimentos gerais sobre internet, o que esperam encontrar no site e da experiência do participante ao utilizar o site CBMDF, dividido em duas etapas: um pré-teste e um pós-teste, com as perguntar a seguir aduzidas.
+
+### No pré-teste:
+
+1. Qual é o seu nível de experiência ou habilidade no uso da internet?
+2. Quais são os principais critérios que você leva em consideração ao avaliar
+se um aplicativo site é fácil de usar?
+3. Quais funcionalidades ou recursos você considera essenciais para um site
+como o CBMDF?
+
+### No pós-teste:
+
+1. Como você avaliaria a facilidade de acesso e navegação no site CBMDF?
+2. Qual é a sua opinião sobre o design, layout e interação do site CBMDF?
+3. Se você precisasse solicitar algum serviço do Corpo de Bombeiros, teria
+facilidade de pedir pelo site?
 
 #### Pré-teste:
 
 Nesta etapa do processo de avaliação, será coletado informações sobre os
 conhecimentos gerais sobre internet e da experiência do participante ao utilizar o site
 CBMDF.
-Participante 1:
-1. Qual é o seu nível de experiência ou habilidade no uso da internet?
-Utilizo a internet diariamente para diversas tarefas, como redes sociais e pesquisas
+
+##### Participante 1
+
+###### Respostas:
+
+1. Utilizo a internet diariamente para diversas tarefas, como redes sociais e pesquisas
 notícias.
-2. Quais são os principais critérios que você leva em consideração ao avaliar
-se um aplicativo site é fácil de usar?
-Fácil acesso as informações principais, interface limpa, intuitiva, etc.
-3. Quais funcionalidades ou recursos você considera essenciais para um site
-como o CBMDF?
-Facilidade de busca de informações sobre os serviços prestados pelos bombeiros.
-Participante 2
-1. Qual é o seu nível de experiência ou habilidade no uso da internet?
-Utiliza a internet diariamente para diversas coisas.
-2. Quais são os principais critérios que você leva em consideração ao avaliar
-se um aplicativo site é fácil de usar?
-Informações fáceis de serem encontradas, intuitivos, essas coisas.
-3. Quais funcionalidades ou recursos você considera essenciais para um site
-como o CBMDF?
-Ter interface intuitiva com funcionalidades de fácil uso ao usuário.
-Participante 3
-1. Qual é o seu nível de experiência ou habilidade no uso da internet?
-Eu uso a internet para comunicação no trabalho, amigos, família, notícias, essas
+2. Fácil acesso as informações principais, interface limpa, intuitiva, etc.
+3. Facilidade de busca de informações sobre os serviços prestados pelos bombeiros.
+
+##### Participante 2
+
+###### Respostas:
+
+1. Utiliza a internet diariamente para diversas coisas.
+2. Informações fáceis de serem encontradas, intuitivos, essas coisas.
+3. Ter interface intuitiva com funcionalidades de fácil uso ao usuário.
+
+##### Participante 3
+
+###### Respostas:
+
+1.Eu uso a internet para comunicação no trabalho, amigos, família, notícias, essas
 coisas.
-2. Quais são os principais critérios que você leva em consideração ao avaliar
-se um aplicativo site é fácil de usar?
-Facilidade em encontrar informações, site bonito, de fácil uso.
+2.Facilidade em encontrar informações, site bonito, de fácil uso.
 Universidade de Brasília
 Faculdade UnB Gama
-3. Quais funcionalidades ou recursos você considera essenciais para um site
-como o CBMDF?
-Clareza na apresentação das informações, facilidade de ver os serviços, espaço
+3.Clareza na apresentação das informações, facilidade de ver os serviços, espaço
 para tirar dúvidas.
 
 #### Pós-teste
 
 Após interagirem com o site CBMDF, os participantes foram convidados a responder ao pós-teste, onde avaliaram o design, layout e interação do site. 
 
-Participante 1
-1. Como você avaliaria a facilidade de acesso e navegação no site CBMDF?
-Um pouco confuso, mas não tive muita dificuldade para encontrar o que procurei.
-2. Qual é a sua opinião sobre o design, layout e interação do site CBMDF?
-Não dá pra enxergar direito algumas opções, as seções estão misturadas, muito
+##### Participante 1
+
+###### Respostas:
+
+1. Um pouco confuso, mas não tive muita dificuldade para encontrar o que procurei.
+2. Não dá pra enxergar direito algumas opções, as seções estão misturadas, muito
 bagunçado.
-3. Se você precisasse solicitar algum serviço do Corpo de Bombeiros, teria
-facilidade de pedir pelo site?
-Ao que procurei, sim.
-Participante 2:
-1. Como você avaliaria a facilidade de acesso e navegação no site CBMDF?
-Não tive muita dificuldade para encontrar o que procurava, mas é um site um
+3. Ao que procurei, sim.
+   
+###### Participante 2:
+
+1. Não tive muita dificuldade para encontrar o que procurava, mas é um site um
 pouco esquisito.
-2. Qual é a sua opinião sobre o design, layout e interação do site CBMDF?
-O design e o layout do site deixam ele com poluição visual muito forte.
-3. Se você precisasse solicitar algum serviço do Corpo de Bombeiros, teria
-facilidade de pedir pelo site?
-Sim, apesar de um pouco de dificuldade.
-Participante 3:
-1. Como você avaliaria a facilidade de acesso e navegação no site CBMDF?
-Algumas informações somem ao navegar, no geral consegui encontrar o que
+2. O design e o layout do site deixam ele com poluição visual muito forte.
+3. Sim, apesar de um pouco de dificuldade.
+
+##### Participante 3:
+
+###### Respostas:
+
+1. Algumas informações somem ao navegar, no geral consegui encontrar o que
 procurei.
-2. Qual é a sua opinião sobre o design, layout e interação do site CBMDF?
-Visualmente feio, algumas seções poderiam ser mais intuitivas.
-Universidade de Brasília
-Faculdade UnB Gama
-3. Se você precisasse solicitar algum serviço do Corpo de Bombeiros, teria
-facilidade de pedir pelo site?
-O site é feio, um pouco confuso de visualizar algumas opções, mas dá pra
+2. Visualmente feio, algumas seções poderiam ser mais intuitivas. 
+3. O site é feio, um pouco confuso de visualizar algumas opções, mas dá pra
 conseguir sim.
 
 #### Tabela Avaliativa
    
-Foi perguntado ainda, qual nota eles dariam de 1 a 10, ao site https://www.cbm.df.gov.br/.
+Foi perguntado ainda, no geral, qual nota eles dariam de 1 a 10, ao site https://www.cbm.df.gov.br/.
+
+| Participantes | Nota de 1 a 10 |
+| --------- | ---- |
+|Participante 1 | 3 |
+|Participante 2 | 4 |
+|Participante 3 | 6 |
 
 ## Análise com base nos objetivos da avaliação na percepção do avaliador
 
@@ -169,12 +184,12 @@ Esses insights foram valiosos para observar possíveis melhorias no site, garant
 
  ## Referências bibliográficas;
 
-SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
-(Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021.
+SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021.
+
 CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL. Página inicial. Disponível em: https://www.cbm.df.gov.br/. Acesso em: 27/03/2024.
 	
 ## Histórico de versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criaçao do documento | Bruno | Luana Medeiros | 05/04/2024 |
+| 1.0 | Criação do documento | Bruno Araújo| Luana Medeiros | 05/04/2024 |
