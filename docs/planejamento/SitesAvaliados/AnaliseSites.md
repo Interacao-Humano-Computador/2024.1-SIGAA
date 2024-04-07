@@ -100,3 +100,4 @@ A escolha do site SIGAA da UnB como base para o projeto foi motivada por diverso
 | - | - | - | - | - |
 | 1.0 | Criaçao do documento | Larissa Stéfane | Luana Medeiros |  05/04/2024 |
 | 1.1 | Adição da escolha do site | Pedro Augusto | Bruno Araújo |  06/04/2024 |
+| 1.2 | Complementação da tabela de escolha |Larissa Stéfane | Bruno Araújo |  07/04/2024 |
