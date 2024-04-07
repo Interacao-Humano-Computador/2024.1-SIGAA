@@ -1,7 +1,7 @@
 ## Carteira de Trabalho Digital
 
  <center>
-  <img src="">
+ ![Imagem CTD](https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/1d03ae1211dde0b7dd876745ee723978)
 
    **Figura 1**: Fonte: Ministério do Trabalho 
  </center>
