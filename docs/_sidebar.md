@@ -16,9 +16,6 @@
   - [Ferramentas utilizadas](planejamento/Ferramentas.md)
   - [Processo de Design](planejamento/PlanejamentoDesign.md) 
     
-  * Site Escolhido
-    - [O que é SIGAA](planejamento/SiteEscolhidoSIGAA/SIGAA.md)
-    - [Avaliação Heurística](planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA.md)
    
   * Sites Avaliados
     - [Metodologia da análise](planejamento/SitesAvaliados/AnaliseSites.md)
@@ -28,4 +25,7 @@
     - [Avaliação do site: Secretaria da Pessoa com Deficiência do GDF](planejamento/SitesAvaliados/Site_Secretaria_PND_GDF.md)
     - [Avaliação do site: Alistamento Militar](planejamento/SitesAvaliados/AlistamentoMilitar.md)
     - [Avaliação do site: Distribuição Linux Debian](planejamento/SitesAvaliados/Site_Debian.md)
-    
+
+   * Site Escolhido
+    - [O que é SIGAA](planejamento/SiteEscolhidoSIGAA/SIGAA.md)
+    - [Avaliação Heurística](planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA.md)
