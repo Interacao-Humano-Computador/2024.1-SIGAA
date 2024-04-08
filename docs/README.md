@@ -60,9 +60,10 @@ Mais informações sobre a equipe podem ser encontradas no tópico Equipe e info
 
 ## 📑: Históricos de Versões:
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criaçao da base |  Pedro Augusto | Larissa Stéfane| 05/04/2024 |
-| 2.0 | Reestruturação da apresentação |  Larissa Stéfane | Pedro Augusto | 06/04/2024 |
-| 3.0 | Nova versão da home com imagem e slogan |  Larissa Stéfane | - | 08/04/2024 |
+| Versão | Alteração                               | Responsável     | Revisor         | Data       |
+| ------ | --------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criaçao da base                         | Pedro Augusto   | Larissa Stéfane | 05/04/2024 |
+| 1.1    | Reestruturação da apresentação          | Larissa Stéfane | Pedro Augusto   | 06/04/2024 |
+| 1.2    | Nova versão da home com imagem e slogan | Larissa Stéfane | Breno Alexandre | 08/04/2024 |
+| 1.3    | Refatoração do histórico de versão      | Breno Alexandre | Larissa Stéfane | 08/04/2024 |
 
