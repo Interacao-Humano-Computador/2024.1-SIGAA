@@ -8,7 +8,11 @@
 
   
    Figura 1: Logo da equipe criado [Aqui](https://www.designevo.com/).
+   
+   **Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 </div>
+
+A figura 1 é o logo criado para representar a equipe.
 
 Nós somos uma equipe formada por estudantes da Universidade de Brasília (UnB) do campus Gama (FGA), onde todos cursam engenharia de software. Dessa maneira, todos os membros estão matriculados na disciplina de Interação Humano-Computador (IHC), ministrada pelo professor André Barros de Sales.
 
