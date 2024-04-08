@@ -1,8 +1,16 @@
-# Sejam Bem Vindos!
+ <center>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/bem-vindo.png">
+ </center>
+
+ <center>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/IHC_slogan.png">
+ </center>
+
 
 Neste espaço, serão registrados todos os documentos e etapas produzidos pela equipe 02 na disciplina de Interação Humano-Computador (IHC), do semestre 2024.1, da Faculdade do Gama da Universidade de Brasília (FGA-UnB). 
 
 O objetivo do projeto é realizar uma avaliação da IHC do site SIGAA.
+
 Mais informações sobre a equipe podem ser encontradas no tópico Equipe e informações sobre o site SIGAA estão disponíveis em “Site Escolhido”.
 
 ## 👨‍🎓: Contribuidores
