@@ -82,7 +82,7 @@ Tabela 2. Fonte: Larissa Stéfane.
 
 **Descrição:** O usuário deve ser informado pelo sistema em tempo razoável sobre o que está acontecendo.
 
-** Observação:** O SIGAA geralmente informa o usuário sobre o que está acontecendo, mas há momentos em que a resposta do sistema pode não ser imediata ou clara o suficiente, especialmente em situações de alta demanda, como o horário de pico durante o período de matrículas.
+**Observação:** O SIGAA geralmente informa o usuário sobre o que está acontecendo, mas há momentos em que a resposta do sistema pode não ser imediata ou clara o suficiente, especialmente em situações de alta demanda, como o horário de pico durante o período de matrículas.
 
 **Grau de severidade:** 3 - Média severidade.
 ### Compatibilidade do sistema com o mundo real:
@@ -115,7 +115,7 @@ indesejadas.
 
 **Descrição:** O sítio deve ser projetado de modo a evitar que o usuário cometa erros. Assim, o sistema deve ter um design que se preocupe com as possibilidades de erro.
 
-** Observação:** Apesar dos esforços de design, o SIGAA ainda apresenta situações onde os usuários podem cometer erros, especialmente em áreas menos intuitivas. Exemplos: Em áreas de bolsas, mobilidade e estágio.
+**Observação:** Apesar dos esforços de design, o SIGAA ainda apresenta situações onde os usuários podem cometer erros, especialmente em áreas menos intuitivas. Exemplos: Em áreas de bolsas, mobilidade e estágio.
 
 **Grau de severidade:** 4 – Alta severidade.
 
@@ -150,7 +150,7 @@ indesejadas.
 
 **Descrição:** As mensagens de erro devem oferecer informações para o usuário corrigir o problema.
 
-** Observação:** O SIGAA oferece mensagens de erro, mas o ideal seria melhorar a
+**Observação:** O SIGAA oferece mensagens de erro, mas o ideal seria melhorar a
 clareza e a orientação nessas mensagens.
 
 **Grau de severidade:** 2 - Moderada severidade.
@@ -174,13 +174,13 @@ A avaliação revelou diferentes níveis de severidade em relação aos problema
 
 1. Maciel, C., Nogueira, J. L. T., Ciuffo, L. N., & Garcia, A. C. B. **Avaliação Heurística de Sítios na Web.** Disponível em <https://marcelohsantos.com/aulas/include/2022-1/projeto_Interface_Usuario/Aula7_artigo.pdf > Acessado em 3 e 4 de abril de 2024.
 
-2. Avaliação Heurística. Disponível em < https://www.treinaweb.com.br/blog/avaliacao-heuristica-o-que-e-e-como-conduzir > Acessado em 3 e 4 de abril de 2024.
+2. **Avaliação Heurística**. Disponível em < https://www.treinaweb.com.br/blog/avaliacao-heuristica-o-que-e-e-como-conduzir > Acessado em 3 e 4 de abril de 2024.
 
-3. Rufino, Edson. Sarmento, Fernanda. Slide: ** Avaliação Heurística **. Disponível em < https://www.slideshare.net/FernandaSarmento1/avaliao-heurstica-63870495 > Acessado em 3 e 4 de abril de 2024.
+3. Rufino, Edson. Sarmento, Fernanda. Slide: **Avaliação Heurística**. Disponível em < https://www.slideshare.net/FernandaSarmento1/avaliao-heurstica-63870495 > Acessado em 3 e 4 de abril de 2024.
 
-4. ** SIGAA ** . Disponível em < https://autenticacao.unb.br/sso-server/login?service=https%3A%2F%2Fsig.unb.br%2Fsigaa%2Flogin%2Fcas > Acessado em 3 e 4 de abril de 2024.
+4. **SIGAA** . Disponível em < https://autenticacao.unb.br/sso-server/login?service=https%3A%2F%2Fsig.unb.br%2Fsigaa%2Flogin%2Fcas > Acessado em 3 e 4 de abril de 2024.
 
-5. **Tire suas dúvidas sobre o SIGAA **. Disponível em < https://noticias.unb.br/ensino/4317-tire-suas-duvidas-sobre-o-sigaa >. Acessado em 4 de abril de 2024.
+5. **Tire suas dúvidas sobre o SIGAA**. Disponível em < https://noticias.unb.br/ensino/4317-tire-suas-duvidas-sobre-o-sigaa >. Acessado em 4 de abril de 2024.
 
 6. **SIGAA: MANUAL DO DICENTE**. Disponível em < https://sigaa-manual-discente.readthedocs.io/pt/latest/SIGAA.html > Acessado em 4 de abril de 2024.
 
@@ -189,3 +189,4 @@ A avaliação revelou diferentes níveis de severidade em relação aos problema
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao e desenvolvimento do documento | Larissa Stéfane | Luana Medeiros | 05/04/2024 |
+| 2.0 | Adição de mais informações | Larissa Stéfane | Luana Medeiros | 07/04/2024 |
