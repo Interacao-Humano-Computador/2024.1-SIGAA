@@ -4,8 +4,9 @@
 
  <center>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/IHC_slogan.png">
- </center>
 
+ **Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+</center>
 
 Neste espaço, serão registrados todos os documentos e etapas produzidos pela equipe 02 na disciplina de Interação Humano-Computador (IHC), do semestre 2024.1, da Faculdade do Gama da Universidade de Brasília (FGA-UnB). 
 
