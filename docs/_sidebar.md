@@ -27,5 +27,5 @@
     - [Avaliação do site: Distribuição Linux Debian](planejamento/SitesAvaliados/Site_Debian.md)
 
    * Site Escolhido
-    - [O que é SIGAA](planejamento/SiteEscolhidoSIGAA/SIGAA.md)
-    - [Avaliação Heurística](planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA.md)
+     - [O que é SIGAA](planejamento/SiteEscolhidoSIGAA/SIGAA.md)
+     - [Avaliação Heurística](planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA.md)
