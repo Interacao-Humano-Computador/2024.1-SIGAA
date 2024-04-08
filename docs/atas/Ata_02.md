@@ -2,18 +2,6 @@
 
 ## Ata da reunião do dia 28/03
 
-**Reunião 02**
-
-**Vídeo da Reunião:**
-
-<center>
-<iframe width="697" height="392" src="https://www.youtube.com/watch?v=70wU627bGzI" title="Reunião 02 IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Reunião 01**
-
-**Fonte:** Grupo reunido no teams.
-</center>
-
 ## 1. Data, Horário, Duração e Local
 
 - **Data:** 28/03/2024
