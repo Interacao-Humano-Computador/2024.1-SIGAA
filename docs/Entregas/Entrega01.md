@@ -41,6 +41,6 @@ A git page possui?  | Sim/Não/Incompleto
 
 ## Histórico de versão
 
-| Versão | Alteração                  | Responsável     | Revisor | Data       |
-| -      | -                          | -               | -       | -          |
-| 1.0    | Criaçao do documento       | Larissa Stéfane  | -| 08/04/2024 |
+| Versão | Alteração                  | Responsável      | Revisor         | Data       |
+| ------ | -------------------------- | ---------------- | --------------- | -          |
+| 1.0    | Criaçao do documento       | Larissa Stéfane  | Breno Alexandre | 08/04/2024 |
