@@ -5,16 +5,9 @@ Neste documento está contido o vídeo de apresentação da primeira entrega da 
 
 ## Vídeo da apresentação
 
-<iframe width="697" height="392" src="https://www.youtube.com/watch?v=3o5_myfI2X4" title="IHC - reunião (07/04/2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<center>
-
 **Apresentação 01**
 
-**Fonte:** Equipe 2
-
-Caso vídeo não esteja disponível, acessar por meio deste [link](https://www.youtube.com/watch?v=3o5_myfI2X4)
-</center>
+É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=3o5_myfI2X4)
 
 ## Avaliação da entrega
 
