@@ -50,6 +50,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 * Citar opções de escolhas nos artefatos
 * Printar menus de clique direito
 * Alterar descrição do projeto
+* 
 
 ## 4. Conclusões: 
 
