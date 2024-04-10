@@ -6,8 +6,8 @@
 
 - **Data:** 09/04/2024
 - **Horário de início previsto:** 21:30
-- **Horário de início:** 
-- **Duração:** 
+- **Horário de início:** 21:45
+- **Duração:** 30 minutos
 - **Local:** Whatsapp
 
 
@@ -16,9 +16,8 @@
 Os presentes na reunião foram:
 
 - Breno Alexandre Soares Garcia
-- Bruno Cunha Vasconcelos de Araujo
+- Bruno Cunha Vasconcelos de Araújo
 - Iago Passaglia Perereia
-- Larissa Stéfane Barboza Santos
 - Pedro Augusto Dourado Izarias
 
 ## 3. Pontos de Discussão Importantes
@@ -60,6 +59,13 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | - | - |
 | D1 | Foi definido tarefas para todos os membros  | 
 | D2 | Foram analisados pontos que podemos melhorar |
+
+termos - pedro
+definir perfil de usuario - breno e larissa
+revisar cronograma - larissa
+gitpage - breno e pedro
+youtube e ata - bruno
+revisar artefatos - iago e luana
 
 <p align="center"> Tabela 2. Dúvidas </p>
 
