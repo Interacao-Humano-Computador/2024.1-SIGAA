@@ -33,6 +33,8 @@ Os presentes na reunião foram:
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
 
+<p align="center"> Tabela 1. Dúvidas </p>
+
 | Identificador (Dn) | Tema |
 | - | - |
 | D1 | Como a equipe irá se organizar? | 
@@ -40,11 +42,10 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | D3 | Elaboração inicial do cronograma |
 | D4 | Quando será a próxima reunião? |
 
-<p align="center"> Tabela 1. Dúvidas </p>
-
 ## Conclusões: 
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
+<p align="center"> Tabela 2. Decisões </p>
 
 | Identificador (Dn) | Decisão |
 | - | - |
@@ -53,13 +54,15 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | D3 | O cronograma será baseado de acordo com as datas de entrega das tarefas definidas pelo cronograma da disciplina.  |
 | D4 | A próxima reunião será no dia 28 de março às 20:30. |
 
-<p align="center"> Tabela 2. Dúvidas </p>
+
 
 ## Decisões:
 
 Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
+
+<p align="center"> Tabela 3. Issues Sprint 0 </p>
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) |
 | - | - | - |
@@ -70,7 +73,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | Issue 5 | Encontrar sugestões de metodologias | Bruno Cunha e Iago Passaglia |
 | Issue 6 | Criar o cronograma inicial | Breno Alexandre |
 
-<p align="center"> Tabela 3. Issues Sprint 0 </p>
+
 
 ## Histórico de Versão
 
@@ -79,4 +82,5 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | 1.0    | Criando da base da Ata da Reunião                                          | Larissa Stéfane Barboza Santos | Luana Medeiros | 25/03 |
 | 1.1    | Atualiação da ata                                                          | Larissa Stéfane Barboza Santos | Luana Medeiros | 26/03 |
 | 1.2    | Atualização do link de Reunião e refatoração do histórico de versionamento | Breno Alexandre                | Larissa Stéfane| 07/04 |
-| 1.3    | Padronização dos subtítulos | Luana Medeiros  | - | 11/04 |
+| 1.3    | Padronização dos subtítulos | Luana Medeiros  | Iago Passaglia | 11/04 |
+| 1.6 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
