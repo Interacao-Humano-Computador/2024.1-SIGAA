@@ -58,7 +58,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | D1 | Foi definido tarefas para todos os membros   | 
 | D2 | Foram analisados pontos que podemos melhorar |
 
-<p align="center"> Tabela 2. Conclusões </p>
+<p align="center"> Tabela 2. Decisões </p>
 
 ## Decisões:
 
