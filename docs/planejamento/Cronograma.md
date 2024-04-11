@@ -10,8 +10,6 @@ O cronograma da equipe visa organizar todas as tarefas que serão realizadas de 
 
 Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
-
 | *Atividade*                        | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ---------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Selecionar site                    | 26/03/2024 | 28/03/2024 | Todos              | Larissa          | 29/03/2024 - 29/03/2024 |
@@ -24,13 +22,13 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 | Gravar apresentação                | 06/04/2024 | 06/04/2024 | Todos              | Todos            | 06/04/2024 - 07/04/2024 |
 | Correção pós apresentação          | 10/04/2024 | 10/04/2024 | Todos              | Todos            | 11/04/2024 - 11/04/2024 |
 
+<p align="center"> Tabela 1. Planejamento do Projeto </p>
+
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
 ### Executado
 
 Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
 
 | *Atividade*                                                                                                                      | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
@@ -58,6 +56,8 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 | Documentação de um site para ser avaliado como uma das opções. Documentar o site de Alistamento Militar.                         | 06/04/2024 | 06/04/2024 | Luana Medeiros     | Breno Alexandre  | 06/04/2024 - 06/04/2024 |
 | Documentação do Heatmap                                                                                                          | 06/04/2024 | 06/04/2024 | Pedro Augusto      | Iago Passaglia   | 06/04/2024 - 06/04/2024 |
 | Documentação do planejamento de Processo de Design, com o método escolhido sendo o Ciclo de Mayhew.                              | 06/04/2024 | 06/04/2024 | Bruno Araújo       | Iago Passaglia   | 06/04/2024 - 07/04/2024 |
+
+<p align="center"> Tabela 2. Planejamento do Projeto </p>
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0), [Lárissa Stéfane](https://github.com/SkywalkerSupreme) e [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -308,3 +308,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.2    | Atualização do cronograma executado para entrega 1                                                          | Larissa Stéfane       | Breno Alexandre | 04/04/2024|
 | 1.3    | Refatoração do cronograma e adição de atividade executada para entrega 1                                    | Breno Alexandre       | Luana Medeiros  | 06/04/2024|
 | 1.4    | Alteração da data da atividade "Correção pós-apresentação" e atualização do cronograma executado da etapa 1 | Breno Alexandre       | Larissa Stéfane | 07/04/2024|
+| 1.5    | Padronização das legendas das tabelas | Luana Medeiros     | - | 11/04/2024|
