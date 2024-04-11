@@ -3,7 +3,7 @@
 ## Ata da reunião do dia 26/03
 
 
-## 1. Data, Horário, Duração e Local
+## Data, Horário, Duração e Local
 
 - **Data:** 26/03/2024
 - **Horário de início previsto:** 20:30.
@@ -12,7 +12,7 @@
 - **Local:** Teams 
 - **Link da reunião:** https://www.youtube.com/watch?v=_2LNew8GP8k
 
-## 2. Participantes
+## Participantes
 
 Os presentes na reunião foram:
 
@@ -25,7 +25,7 @@ Os presentes na reunião foram:
 
 - A reunião recebeu o auxilio de Caio Mesquita Vieira, um colega que fez IHC no semestre anterior e se disponibilizou a ajudar.
 
-## 3. Pontos de Discussão Importantes
+## Pontos de Discussão Importantes
 
 - **Objetivo:** Planejar sobre como será a dinâmica do grupo durante o projeto e discutir sobre o site alvo.
 
@@ -42,7 +42,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 <p align="center"> Tabela 1. Dúvidas </p>
 
-## 4. Conclusões: 
+## Conclusões: 
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
 
@@ -55,7 +55,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 <p align="center"> Tabela 2. Dúvidas </p>
 
-## 5. Decisões:
+## Decisões:
 
 Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
@@ -72,10 +72,11 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 
 <p align="center"> Tabela 3. Issues Sprint 0 </p>
 
-## 6. Histórico de Versão
+## Histórico de Versão
 
 | Versão | Alteração                                                                  | Responsável                    | Revisor        | Data  |
 | ------ | -------------------------------------------------------------------------- | ------------------------------ | -------------- | ----- |
 | 1.0    | Criando da base da Ata da Reunião                                          | Larissa Stéfane Barboza Santos | Luana Medeiros | 25/03 |
 | 1.1    | Atualiação da ata                                                          | Larissa Stéfane Barboza Santos | Luana Medeiros | 26/03 |
 | 1.2    | Atualização do link de Reunião e refatoração do histórico de versionamento | Breno Alexandre                | Larissa Stéfane| 07/04 |
+| 1.3    | Padronização dos subtítulos | Luana Medeiros  | - | 11/04 |
