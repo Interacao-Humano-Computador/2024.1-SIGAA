@@ -14,6 +14,8 @@ Para iniciar o projeto, uma das primeiras etapas foi a seleção de um site para
 
  Este artigo tem como objetivo descrever o processo de seleção do site para o projeto.
 
+Lista 1. Fonte: Larissa Stéfane.
+
 ## Critérios:
 A lista 1 apresentada os critérios que o site deve possuir:
 - ✅ Deve ser um site novo apresentado na disciplina de IHC.
@@ -23,7 +25,7 @@ A lista 1 apresentada os critérios que o site deve possuir:
 - ✅ O site deve ter complexidade de termos de funcionalidade e integrações.
 - ✅ Deve despertar o interesse de todos os integrantes da equipe.
 
-Lista 1. Fonte: Larissa Stéfane.
+
 
 ## Método de análise:
 A metodologia de análise dos sites foi implementada de forma cooperativa pela equipe. Assim, ao se basear no framework DECIDE, cada membro foi responsável por avaliar um site específico e registrar as suas observações e análises. A tabela 1 apresenta o planejamento e a execução da avaliação feita por cada integrante.
@@ -35,6 +37,8 @@ Após a conclusão das avaliações individuais, a equipe se reuniu para revisar
 A tabela 1 a seguir apresenta as escolhas de cada integrante junto com os pdfs do planejamento e da
 execução das avaliações dos sites.
 
+Tabela 1. Fonte: Larissa Stéfane.
+
 | Nome | Site | Planejamento e Avaliação |
 | - | - | - | 
 | Breno Alexandre | Inep Enem | [Análise](planejamento/SitesAvaliados/Site_enem.md)| 
@@ -43,8 +47,6 @@ execução das avaliações dos sites.
 | Larissa Stefane | Secretaria da Pessoa com Deficiência do GDF | [Análise](planejamento/SitesAvaliados/Site_Secretaria_PND_GDF.md) |
 | Luana de Lima | Alistamento Militar | [Análise](planejamento/SitesAvaliados/AlistamentoMilitar.md) |
 | Pedro Augusto | Distribuição Linux Debian | [Análise](planejamento/SitesAvaliados/Site_Debian.md) | 
-
-Tabela 1. Fonte: Larissa Stéfane.
 
 
 
@@ -101,3 +103,4 @@ A escolha do site SIGAA da UnB como base para o projeto foi motivada por diverso
 | 1.0 | Criaçao do documento | Larissa Stéfane | Luana Medeiros |  05/04/2024 |
 | 1.1 | Adição da escolha do site | Pedro Augusto | Bruno Araújo |  06/04/2024 |
 | 1.2 | Complementação da tabela de escolha |Larissa Stéfane | Bruno Araújo |  07/04/2024 |
+| 1.3 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
