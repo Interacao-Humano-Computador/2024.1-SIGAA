@@ -152,6 +152,7 @@ Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do no
 | Consulta de resultado da Avaliação Institucional | Luana Lima|
 | Realização de matrícula | Pedro Augusto |
 | Retirada e trancamento de matrícula | Pedro Augusto |
+
  **Tabela 1**: Fonte: Breno Alexandre 
 
 ## Conclusão:
