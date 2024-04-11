@@ -10,6 +10,8 @@ O cronograma da equipe visa organizar todas as tarefas que serão realizadas de 
 
 Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
 
+<p align="center"> Tabela 1. Planejamento do Projeto </p>
+
 | *Atividade*                        | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | ---------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
 | Selecionar site                    | 26/03/2024 | 28/03/2024 | Todos              | Larissa          | 29/03/2024 - 29/03/2024 |
@@ -22,13 +24,13 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 | Gravar apresentação                | 06/04/2024 | 06/04/2024 | Todos              | Todos            | 06/04/2024 - 07/04/2024 |
 | Correção pós apresentação          | 10/04/2024 | 10/04/2024 | Todos              | Todos            | 11/04/2024 - 11/04/2024 |
 
-<p align="center"> Tabela 1. Planejamento do Projeto </p>
-
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
 ### Executado
 
 Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
+
+<p align="center"> Tabela 2. Planejamento do Projeto </p>
 
 | *Atividade*                                                                                                                      | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
@@ -57,8 +59,6 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 | Documentação do Heatmap                                                                                                          | 06/04/2024 | 06/04/2024 | Pedro Augusto      | Iago Passaglia   | 06/04/2024 - 06/04/2024 |
 | Documentação do planejamento de Processo de Design, com o método escolhido sendo o Ciclo de Mayhew.                              | 06/04/2024 | 06/04/2024 | Bruno Araújo       | Iago Passaglia   | 06/04/2024 - 07/04/2024 |
 
-<p align="center"> Tabela 2. Planejamento do Projeto </p>
-
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0), [Lárissa Stéfane](https://github.com/SkywalkerSupreme) e [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ## Entrega 2 - Perfil dos Usuários
@@ -66,6 +66,8 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 ### Planejado
 
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
+
+<p align="center"> Tabela 3. Perfil dos Usuários </p>
 
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
@@ -77,18 +79,16 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 | Análise de tarefas            | Início: 12/04 <br> Fim: 14/04 |      -         | Início: 15/04 <br> Fim: 16/04 |     -      |
 | Gravar apresentação                | Início: 20/04 <br> Fim: 20/04 | Todos              | Início: 20/04 <br> Fim: 21/04 | Todos            |
 | Correção pós apresentação          | Início: 23/04 <br> Fim: 24/04 | Todos              | Início: 25/04 <br> Fim: 25/04 | Todos            |
-<p align="center"> Tabela 3. Perfil dos Usuários </p>
-
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
 
 Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega.
 
+<p align="center"> Tabela 4. Perfil dos Usuários </p>
+
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-
-<p align="center"> Tabela 4. Perfil dos Usuários </p>
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -98,6 +98,7 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 
 Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
 
+<p align="center"> Tabela 5. Princípios Gerais de Projeto </p>
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
@@ -107,18 +108,16 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 | Gravar apresentação                | Início: 27/04 <br> Fim: 27/04 | Todos              | Início: 27/04 <br> Fim: 28/04 | Todos            |
 | Correção pós apresentação          | Início: 30/04 <br> Fim: 01/05 | Todos              | Início: 02/05 <br> Fim: 02/05 | Todos            |
 
-<p align="center"> Tabela 5. Princípios Gerais de Projeto </p>
-
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
 
 Na Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
 
+<p align="center"> Tabela 6. Princípios Gerais de Projeto </p>
+
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-
-<p align="center"> Tabela 6. Princípios Gerais de Projeto </p>
 
 ## Entrega 4 - Planejamento da Avaliação do Storyboard
 
@@ -126,6 +125,7 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 
 Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
+<p align="center"> Tabela 7. Planejamento da Avaliação do Storyboard </p>
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
@@ -136,18 +136,16 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 | Gravar apresentação                | Início: 06/05 <br> Fim: 06/05 | Todos              | Início: 07/05 <br> Fim: 08/05 | Todos            |
 | Correção pós apresentação          | Início: 09/05 <br> Fim: 10/05 | Todos              | Início: 11/05 <br> Fim: 11/05 | Todos            |
 
-<p align="center"> Tabela 7. Planejamento da Avaliação do Storyboard </p>
-
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
 
 Na Tabela 8, está explicitado o cronograma executado das atividades da quarta entrega.
 
+<p align="center"> Tabela 8. Planejamento da Avaliação do Storyboard </p>
+
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-
-<p align="center"> Tabela 8. Planejamento da Avaliação do Storyboard </p>
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -157,6 +155,7 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
+<p align="center"> Tabela 9. Relato dos resultados do Story Board e da Análise de tarefas </p>
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
@@ -167,18 +166,17 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta en
 | Gravar apresentação                | Início: 18/05 <br> Fim: 18/05 | Todos              | Início: 19/05 <br> Fim: 19/05 | Todos            |
 | Correção pós apresentação          | Início: 21/05 <br> Fim: 22/05 | Todos              | Início: 23/05 <br> Fim: 24/05 | Todos            |
 
-<p align="center"> Tabela 9. Relato dos resultados do Story Board e da Análise de tarefas </p>
-
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
 
+
 Na Tabela 10, está explicitado o cronograma executado das atividades da quinta entrega.
+
+<p align="center"> Tabela 10. Relato dos resultados do Story Board e da Análise de tarefas </p>
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-
-<p align="center"> Tabela 10. Relato dos resultados do Story Board e da Análise de tarefas </p>
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -188,6 +186,7 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da quinta 
 
 Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta entrega parte 1.
 
+<p align="center"> Tabela 11. Verificação dos Artefatos 1 </p>
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
@@ -196,18 +195,16 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta en
 | Gravar apresentação                | Início: 25/05 <br> Fim: 25/05 | Todos              | Início: 26/05 <br> Fim: 26/05 | Todos            |
 | Correção pós apresentação          | Início: 28/05 <br> Fim: 29/05 | Todos              | Início: 29/05 <br> Fim: 30/05 | Todos            |
 
-<p align="center"> Tabela 11. Verificação dos Artefatos 1 </p>
-
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
 
 Na Tabela 12, está explicitado o cronograma executado das atividades da sexta entrega parte 1.
 
+<p align="center"> Tabela 12. Verificação dos Artefatos 1 </p>
+
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-
-<p align="center"> Tabela 12. Verificação dos Artefatos 1 </p>
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -217,6 +214,7 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da sexta e
 
 Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta entrega parte 2.
 
+<p align="center"> Tabela 13. Verificação dos Artefatos 2 </p>
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
@@ -225,18 +223,16 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta en
 | Gravar apresentação                | Início: 10/06 <br> Fim: 10/06 | Todos              | Início: 11/06 <br> Fim: 11/06 | Todos            |
 | Correção pós apresentação          | Início: 13/06 <br> Fim: 14/06 | Todos              | Início: 15/06 <br> Fim: 16/06 | Todos            |
 
-<p align="center"> Tabela 13. Verificação dos Artefatos 2 </p>
-
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
 
 Na Tabela 14, está explicitado o cronograma executado das atividades da sexta entrega parte 1.
 
+<p align="center"> Tabela 14. Verificação dos Artefatos 2 </p>
+
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-
-<p align="center"> Tabela 14. Verificação dos Artefatos 2 </p>
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -246,6 +242,7 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da sexta e
 
 Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
+<p align="center"> Tabela 15. Relato do Protótipo de Papel </p>
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
@@ -255,18 +252,16 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima 
 | Gravar apresentação                | Início: 03/06 <br> Fim: 03/06 | Todos              | Início: 04/06 <br> Fim: 04/06 | Todos            |
 | Correção pós apresentação          | Início: 06/06 <br> Fim: 07/06 | Todos              | Início: 07/06 <br> Fim: 08/06 | Todos            |
 
-<p align="center"> Tabela 15. Relato do Protótipo de Papel </p>
-
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
 
 Na Tabela 16, está explicitado o cronograma executado das atividades da sétima entrega.
 
+<p align="center"> Tabela 16. Relato do Protótipo de Papel </p>
+
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-
-<p align="center"> Tabela 16. Relato do Protótipo de Papel </p>
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -276,6 +271,7 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da sétima
 
 Na Tabela 17, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
+<p align="center"> Tabela 17. Relato dos resultados da avaliação do protótipo de alta fidelidade </p>
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
@@ -284,18 +280,16 @@ Na Tabela 17, tem-se o cronograma planejado para todas as atividades da oitava e
 | Gravar apresentação                | Início: 17/06 <br> Fim: 17/06 | Todos              | Início: 18/06 <br> Fim: 18/06 | Todos            |
 | Correção pós apresentação          | Início: 20/06 <br> Fim: 23/06 | Todos              | Início: 23/06 <br> Fim: 23/06 | Todos            |
 
-<p align="center"> Tabela 17. Relato dos resultados da avaliação do protótipo de alta fidelidade </p>
-
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
 
 Na Tabela 18, está explicitado o cronograma executado das atividades da oitava entrega.
 
+<p align="center"> Tabela 18. Relato dos resultados da avaliação do protótipo de alta fidelidade </p>
+
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-
-<p align="center"> Tabela 18. Relato dos resultados da avaliação do protótipo de alta fidelidade </p>
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -308,4 +302,5 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.2    | Atualização do cronograma executado para entrega 1                                                          | Larissa Stéfane       | Breno Alexandre | 04/04/2024|
 | 1.3    | Refatoração do cronograma e adição de atividade executada para entrega 1                                    | Breno Alexandre       | Luana Medeiros  | 06/04/2024|
 | 1.4    | Alteração da data da atividade "Correção pós-apresentação" e atualização do cronograma executado da etapa 1 | Breno Alexandre       | Larissa Stéfane | 07/04/2024|
-| 1.5    | Padronização das legendas das tabelas | Luana Medeiros     | - | 11/04/2024|
+| 1.5    | Padronização das legendas das tabelas | Luana Medeiros     | Iago Passaglia | 11/04/2024|
+| 1.6    | Correção das legendas das figuras para norma ABNT | Iago Passaglia | - | 11/04/2024 |
