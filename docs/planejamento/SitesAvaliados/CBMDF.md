@@ -1,7 +1,7 @@
 # Corpo de Bombeiros Militar do Distrito Federal
 
  <center>
- 	<img src= "https://cdn.vidyard.com/thumbnails/14939388/PcfvMBd3huvRxRJXSM3RFxMedpK01tsH.gif"/>
+ 	<img src= "/docs/Midia/imagem_2024-04-11_191716792.png"/>
 	<br>
    **Figura 1**: https://www.cbm.df.gov.br/lai/tutoriais/tutorial-para-editar-postagem-no-site-de-acesso-a-informacao/
  </center>
@@ -198,3 +198,4 @@ CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL. Página inicial. Disponível em:
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Bruno Araújo| Luana Medeiros | 05/04/2024 |
+| 1.1| Alteração do documento | Iago Passaglia | - | 05/04/2024 |
