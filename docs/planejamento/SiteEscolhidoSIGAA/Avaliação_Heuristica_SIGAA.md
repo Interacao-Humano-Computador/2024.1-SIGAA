@@ -13,9 +13,10 @@
 ## Introdução
 
  <center>
+  **Figura 1**: 
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa1.png">
 
-   **Figura 1**: Fonte: Site do SIGAA 
+   Fonte: Site do SIGAA 
  </center>
 
 Neste projeto, o SIGAA da UnB foi escolhido como o site base para o estudo de Interação Humano-Computador (IHC). Isso porque, devido à sua importância na comunidade acadêmica, faz-se necessário que propostas de melhoria sejam dadas. 
@@ -37,7 +38,7 @@ Usabilidade pode ser entendida como “a medida em que um sistema, produto ou se
 os critério de usabilidade: 
 Segundo o artigo “Avaliação Heurística de Sítios na Web”¹, foram estabelecidos os critérios de usabilidade que serão utilizados como base para a avaliação das heurísticas. Esses critérios estão representados na tabela 1:
 
-
+Tabela 1.
 | Critérios de usabilidade | Formas de aferição |
 | ------------------------------- | -------------------------- | 
 | Facilidade de uso | Mensurar a velocidade e a quantidade de erros durante a execução de determinada tarefa, que caso ocorram, devem ser facilmente recuperados; (PREECE, 1994) (NIELSEN, 1993) (ISO 9241-11, 1998) |
@@ -47,7 +48,7 @@ Segundo o artigo “Avaliação Heurística de Sítios na Web”¹, foram estabe
 | Flexibilidade | Avaliar o nível de customização e personalização da interface pelo usuário; (PREECE, 1994) |
 | Memorabilidade | Avaliar o nível de treinamento necessário para reciclar usuários eventuais do sistema. (NIELSEN, 1993) |
 
-Tabela 1. Fonte: [ Avaliação Heurística de Sítios na Web](https://marcelohsantos.com/aulas/include/2022-1/projeto_Interface_Usuario/Aula7_artigo.pdf)
+ Fonte: [ Avaliação Heurística de Sítios na Web](https://marcelohsantos.com/aulas/include/2022-1/projeto_Interface_Usuario/Aula7_artigo.pdf)
 
 
 
@@ -67,6 +68,7 @@ Os pontos observados serão analisados uma segunda vez a fim de se conferir se o
 
 O grau de severidade será feito em uma escala de 1 a 5, como mostra a tabela 2.
 
+Tabela 2.
 | Número | Grau de severidade | Significado |
 | -----------| --------------------------- | --------------- |
 | 1 | Baixa severidade | Não interfere significativamente na usabilidade.
@@ -75,7 +77,7 @@ O grau de severidade será feito em uma escala de 1 a 5, como mostra a tabela 2.
 | 4 | Alta severidade | Interfere significativamente na usabilidade e pode prejudicar a experiência do usuário.
 | 5 | 5: Muito alta severidade | Problemas graves que impedem a utilização eficiente do sistema e causam frustração ou erros frequentes. |
 
-Tabela 2. Fonte: Larissa Stéfane.
+ Fonte: Larissa Stéfane.
 
 ## Avaliação
 
@@ -192,3 +194,4 @@ A avaliação revelou diferentes níveis de severidade em relação aos problema
 | 1.0 | Criaçao e desenvolvimento do documento | Larissa Stéfane | Luana Medeiros | 05/04/2024 |
 | 1.1 | Adição de mais informações | Larissa Stéfane | Luana Medeiros | 07/04/2024 |
 | 1.2 | Adição de citação da legenda de Figuras no texto | Luana Medeiros | - | 11/04/2024 |
+| 1.3 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
