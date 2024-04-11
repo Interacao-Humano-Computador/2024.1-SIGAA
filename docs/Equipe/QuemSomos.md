@@ -2,8 +2,11 @@
 
   <div align="center">
     Figura 1: Logo da equipe criado [Aqui](https://www.designevo.com/).
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/Equipe2IHC.png">
-   **Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/Equipe2IHC.png">
+    <br>
+     **Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+    <br>
 </div>
 
 A figura 1 é o logo criado para representar a equipe.
