@@ -9,6 +9,8 @@ Neste documento está contido o vídeo de apresentação da primeira entrega da 
 
 É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=3o5_myfI2X4)
 
+**Tabela 1 - Objetivos entrega 01**
+
 ## Avaliação da entrega
 
 A git page possui?  | Sim/Não/Incompleto
@@ -32,10 +34,9 @@ A git page possui?  | Sim/Não/Incompleto
 17 - O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | SIM
 
 <center>
-
-**Tabela 1 - Objetivos entrega 01**
-
+  
 ***Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
 
 </center>
 
@@ -44,3 +45,4 @@ A git page possui?  | Sim/Não/Incompleto
 | Versão | Alteração                  | Responsável      | Revisor         | Data       |
 | ------ | -------------------------- | ---------------- | --------------- | -          |
 | 1.0    | Criaçao do documento       | Larissa Stéfane  | Breno Alexandre | 08/04/2024 |
+| 1.1 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
