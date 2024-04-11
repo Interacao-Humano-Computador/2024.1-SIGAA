@@ -30,29 +30,31 @@ Os presentes na reunião foram:
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
 
+<p align="center"> Tabela 1. Dúvidas </p>
+
 | Identificador (Dn) | Tema |
 | - | - |
 | D1 | Definir as tarefas restantes para a entrega 1 | 
 | D2 | Analisar pontos que temos que arrumar|
 
-<p align="center"> Tabela 1. Dúvidas </p>
-
 ## Conclusões: 
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
+
+<p align="center"> Tabela 2. Dúvidas </p>
 
 | Identificador (Dn) | Decisão |
 | - | - |
 | D1 | Foi definido tarefas para todos os membros  | 
 | D2 | Foram analisados pontos que podemos melhorar |
 
-<p align="center"> Tabela 2. Dúvidas </p>
-
 ## Decisões:
 
 Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
+
+<p align="center"> Tabela 3. Issues Sprint 0 </p>
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | 
 | - | - | - |
@@ -62,8 +64,6 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | Issue 4 | Estudo e justificativa do Processo de Design escolhido | Iago, Bruno e Pedro | 
 
 
-<p align="center"> Tabela 3. Issues Sprint 0 </p>
-
 ## Histórico de Versão
 
 | Versão | Alteração                                                                  | Responsável     | Revisor         | Data  |
@@ -71,4 +71,5 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | 1.0    | Criação da base da Ata da Reunião                                          | Luana Medeiros  | Breno Alexandre | 02/04 |
 | 1.1    | Atualização da ata                                                         | Luana Medeiros  | Breno Alexandre | 02/04 |
 | 1.2    | Atualização do link de Reunião e refatoração do histórico de versionamento | Breno Alexandre | Iago Passaglia | 07/04 |
-| 1.3    | Padronização dos subtítulos | Luana Medeiros  | - | 11/04 |
+| 1.3    | Padronização dos subtítulos | Luana Medeiros  | Iago Passaglia | 11/04 |
+| 1.4 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
