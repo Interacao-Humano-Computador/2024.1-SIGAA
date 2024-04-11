@@ -2,7 +2,7 @@
 
 ## Ata da reunião do dia 09/04
 
-## 1. Data, Horário, Duração e Local
+## Data, Horário, Duração e Local
 
 - **Data:** 09/04/2024
 - **Horário de início previsto:** 21:30
@@ -11,7 +11,7 @@
 - **Local:** Whatsapp
 
 
-## 2. Participantes
+## Participantes
 
 Os presentes na reunião foram:
 
@@ -20,7 +20,7 @@ Os presentes na reunião foram:
 - Iago Passaglia Perereia
 - Pedro Augusto Dourado Izarias
 
-## 3. Pontos de Discussão Importantes
+## Pontos de Discussão Importantes
 
 - **Objetivo:** Discutir sobre o andamento do projeto e verificar as atividades entregues.
 
@@ -51,7 +51,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 * Alterar descrição do projeto
 * 
 
-## 4. Conclusões: 
+## Conclusões: 
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
 
@@ -69,7 +69,7 @@ revisar artefatos - iago e luana
 
 <p align="center"> Tabela 2. Dúvidas </p>
 
-## 5. Decisões:
+## Decisões:
 
 Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
@@ -83,8 +83,9 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 
 <p align="center"> Tabela 3. Issues Sprint 0 </p>
 
-## 6. Histórico de Versão
+## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação da base da Ata da Reunião | Breno Araújo | Larissa Stéfane| 04/04 |
+| 1.2 | Padronização dos subtítulos | Luana Medeiros  | - | 11/04 |
