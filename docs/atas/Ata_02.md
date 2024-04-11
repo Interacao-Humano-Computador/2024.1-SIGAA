@@ -29,6 +29,8 @@ Os presentes na reunião foram:
 
 As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tema tem o seu identificador Dn para rastreabilidade.
 
+<p align="center"> Tabela 1. Dúvidas </p>
+
 | Identificador (Dn) | Tema |
 | - | - |
 | D1 | Quais os sites disponívies? | 
@@ -39,12 +41,11 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | D6 | Todos conseguiram entregar as suas tarefas definidas na reunião anterior? |
 | D7 | Quando será a próxima reunião? |
 
-
-<p align="center"> Tabela 1. Dúvidas </p>
-
 ## Conclusões: 
 
 De acordo com o tema discutido, é definido o que foi decidido. Esses pontos podem ser encontrados de acordo com a tabela 2.
+
+<p align="center"> Tabela 2. Dúvidas </p>
 
 | Identificador (Dn) | Decisão |
 | - | - |
@@ -56,13 +57,14 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 | D6 | Devido ao curto tempo, não. |
 | D7 | Na terça-feira a noite. |
 
-<p align="center"> Tabela 2. Dúvidas </p>
 
 ## Decisões:
 
 Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
 Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
+
+<p align="center"> Tabela 3. Issues Sprint 0 </p>
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
@@ -75,8 +77,6 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | Issue 7 | Adicionar referências bibliográficas em todos os documentos | Todos os que fizeram documentos | |
 | Issue 10 | Fazer o cronograma do que foi feito até agora| Breno e Luana | |
 
-
-<p align="center"> Tabela 3. Issues Sprint 0 </p>
 
 ## Histórico de Versão
 
