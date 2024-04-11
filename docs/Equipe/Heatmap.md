@@ -11,9 +11,8 @@ Neste documento, apresentamos o processo e os resultados obtidos através da an�
 ## Heatmap de Disponibilidade
 
 <center>
+  <font size="2"><p style="text-align: center">Figura 1: Heatmap.</p></font>
 <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/heatmpappppp.png?raw=true" style="width:auto"/>
-
-<font size="2"><p style="text-align: center">Figura 1: Heatmap.</p></font>
   <font size="2"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 <center>
 
@@ -36,4 +35,5 @@ A utilização do heatmap de disponibilidade para reuniões se mostrou uma ferra
 | 1.1    | Desenvolvimento do texto base                    | Bruno Araújo           | Iago Passaglia Pereira | 06/04/2024 |
 | 1.2    | Adição da figura correta e correção do documento | Iago Passaglia Pereira | Pedro Augusto          | 06/04/2024 |
 | 1.3    | Refatoração do histórico de versionamento        | Breno Alexandre        |  Iago Passaglia  | 07/04/2024 |
-| 1.4    | Padronização da legenda de figuras               | Luana Medeiros        | - | 11/04/2024 |
+| 1.4    | Padronização da legenda de figuras               | Luana Medeiros        | Iago Passaglia | 11/04/2024 |
+| 1.5 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
