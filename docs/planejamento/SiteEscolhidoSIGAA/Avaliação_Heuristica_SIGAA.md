@@ -20,6 +20,7 @@
 
 Neste projeto, o SIGAA da UnB foi escolhido como o site base para o estudo de Interação Humano-Computador (IHC). Isso porque, devido à sua importância na comunidade acadêmica, faz-se necessário que propostas de melhoria sejam dadas. 
 Com base nisso, decidiu-se realizar uma avaliação de heurísticas com o objetivo de compreender melhor as questões de usabilidade e de design que impactam a experiência do usuário. 
+Na Figura 1 é possível ver a página inicial do SIGAA da Unb.
 
 Essa avaliação, juntamente com a avalição com o método DECIDE realizado no tópico de sites avaliados, servirá como ponto de partida para o estudo do projeto.
 
@@ -189,4 +190,5 @@ A avaliação revelou diferentes níveis de severidade em relação aos problema
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao e desenvolvimento do documento | Larissa Stéfane | Luana Medeiros | 05/04/2024 |
-| 2.0 | Adição de mais informações | Larissa Stéfane | Luana Medeiros | 07/04/2024 |
+| 1.1 | Adição de mais informações | Larissa Stéfane | Luana Medeiros | 07/04/2024 |
+| 1.2 | Adição de citação da legenda de Figuras no texto | Luana Medeiros | - | 11/04/2024 |
