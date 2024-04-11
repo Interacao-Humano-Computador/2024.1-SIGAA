@@ -25,6 +25,8 @@
   
   **Observação:** Para ser direcionado ao link das plataformas, basta clicar em seu nome. 
 
+  Tabela 1. 
+
   | Logo | Ferramenta | Apresentação | Finalidade |
   | -----| ---------- | ------------ | ---------- | 
   |   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="width:25vw"/>  |  [Github](https://github.com/topics/home-page) | Plataforma de hospedagem de código-fonte e documentação de projetos | Será utilizada para compartilhar e colaborar no desenvolvimento do projeto, gerenciar versões dos documentos e acompanhar as alterações feitas pela equipe.|
@@ -45,7 +47,7 @@
   |     <img src="https://mir-s3-cdn-cf.behance.net/user/276/62942e1055160197.61249c3dd0fe7.png" style="width:25vw"/>    | [Uxpressia](https://uxpressia.com/?gs2id=CjsaCQiAqsitBhDlARIsAGMR1RixghUQjuWARa8LoLw9WNnE2i9HzhshG2-dyV_IS3ok6UH048kqGIMaAlbLEALw_wcB&ource=vaneadssgaolpo&edium=vasasdneraukilop2&ampaign=ganikolopare3da&ontent=ikoloete&via=sergei&erm=bananaterjikulop&gad_source=1&gclid=EAIaIQobChMIluCI_buXhQMVPQ2tBh15zwUgEAAYASAAEgKV__D_BwE) | É uma plataforma online para entender as necessidades dos usuários ao criar mapas de empatia, personas e jornadas do usuário. | Será utilizada pela equipe no processo de criação de personas e de encenação. | 
   |   <img src="https://macsources.com/wp-content/uploads/2019/04/featured-DesignEvo.jpg" style="width:25vw"/>  |  [DesignEvo](https://www.designevo.com/) | Plataforma que permite a criação de logotipos | Utilizada para criar a logotipo da equipe.|
 
-Tabela 1. **Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+**Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## Conclusão
 
@@ -75,9 +77,10 @@ Tabela 1. **Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
  
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento| Larissa Stéfane | Luana Medeiros | 28/03/2024|
-| 2.0 | Adição e modificação de algumas ferramentas| Larissa Stéfane | Luana Medeiros | 31/03/2024|
-| 3.0 | Correçao de versionamento | Iago Passaglia | Larissa Stéfane| 02/04/2024 |
-| 4.0 | Adição de sumário e conclusão| Larissa Stéfane | Pedro Augusto | 05/04/2024 |
-| 5.0 | Adição de mais ferramentas| Larissa Stéfane | Pedro Augusto | 05/04/2024 |
+| 1.1 | Criação do documento| Larissa Stéfane | Luana Medeiros | 28/03/2024|
+| 1.2 | Adição e modificação de algumas ferramentas| Larissa Stéfane | Luana Medeiros | 31/03/2024|
+| 1.3 | Correçao de versionamento | Iago Passaglia | Larissa Stéfane| 02/04/2024 |
+| 1.4 | Adição de sumário e conclusão| Larissa Stéfane | Pedro Augusto | 05/04/2024 |
+| 1.5 | Adição de mais ferramentas| Larissa Stéfane | Pedro Augusto | 05/04/2024 |
+| 1.6 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
   
