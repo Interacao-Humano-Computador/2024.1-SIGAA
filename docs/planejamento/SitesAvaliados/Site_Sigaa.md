@@ -1,9 +1,9 @@
 ## Sigaa - UnB
 
  <center>
+	 **Figura 1**:
   <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Midia/imagem_2024-04-06_112111628.png?raw=true">
-
-   **Figura 1**: Fonte: [Sigaa](sigaa.unb.br)
+    Fonte: [Sigaa](sigaa.unb.br)
  </center>
 
 ## Sumário
@@ -154,3 +154,4 @@ Disponível em < https://aprender3.unb.br/pluginfile.php/2843660/mod_resource/co
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao do documento | Iago Passaglia | Luana Medeiros | 06/04/2024 |
+| 1.1 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
