@@ -18,10 +18,10 @@ Com o avanço da tecnologia na área educacional, sistemas de gestão acadêmica
 
 ## O que é o SIGAA?
 
- <center>
+ <center> 
+  **Figura 1**: Site Sigaa
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa1.png">
-
-   **Figura 1**: Fonte: Site do SIGAA 
+  Fonte: Site do SIGAA 
  </center>
 
 
@@ -33,9 +33,9 @@ Na Figura 1 é possível ver a página inicial do SIGAA da Unb.
 ## Objetivos e Funcionalidades
 
  <center>
+  **Figura 2**: Site Sigaa
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa2.png">
-
-   **Figura 2**: Fonte: Site do SIGAA 
+   Fonte: Site do SIGAA  
  </center>
 
 O SIGAA é uma ferramenta multifuncional que abrange diversas atividades acadêmicas, proporcionando um controle abrangente desde o registro dos alunos em turmas até o lançamento de notas e o monitoramento da frequência. Além disso, serve como uma plataforma de comunicação eficiente, com ferramentas que facilitam a interação entre alunos, professores e demais participantes do processo educacional. Na Figura 2 é possível ver algumas funcionalidades do SIGAA da Unb.
@@ -73,34 +73,36 @@ Alguns desses estudos realizados foram [Análise do Sistema Integrado de Gestão
 Na pesquisa do IFSC⁴, a usabilidade do sistema também foi um critério analisado, uma vez que é um dos aspectos mais importantes na avaliação de um sistema. Dessa maneira, o ideal é que esse sistema seja bastante intuitivo e de fácil aprendizagem de maneira que o usuário consiga utilizar o sistema de maneira eficiente, sem grandes dificuldades. No entanto, de acordo a pesquisa em que o site podia ser avaliado entre de 1 a 10, a usabilidade não recebeu notas boas, com nenhuma escolha para 9 e 10 e com foco entre 5 e 7, como é possível observar na Figura 3. 
 
 <center>
+  **Figura 3**.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/usabilidadeSigaa.png">
-
-   **Figura 3**. Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
+   Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
  </center>
 
 Na questão da facilidade de uso, na pesquisa do IFSC⁴, os docentes relataram o seguinte, como é mostrado na figura 4.
 
 <center>
+ **Figura 4**.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/UsabilidadeDocenteSigaa.png">
-
-   **Figura 4**. Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
+ Fonte: [Pesquisa da FICS]
+   (https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
  </center>
 
 
 Na questão da aparência, novamente de acordo com a pesquisa IFSC⁴, o SIGAA também não dispertou o agrado com grande parte das avaliações sendo classificadas entre 2 e 6, como é possível observar na Figura 5 .
 
 <center>
+ **Figura 5**.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/designSigaa.png">
-
-   **Figura 5**. Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y)  
+Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y)  
  </center>
  
 
 Ainda sobre o design, na Figura 6 é possível ver a avalição dos docentes:
 <center>
+ **Figura 6**.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/designDocenteSIGAA.png">
 
-   **Figura 6**. Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
+   Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
  </center>
  
 
@@ -108,9 +110,10 @@ Ainda sobre o design, na Figura 6 é possível ver a avalição dos docentes:
 Na pesquisa no Instituto Federal Catarinense ⁵, foi realizada uma pesquisa com professores e alunos para eles darem uma nota entre 1 e 5 sobre alguns pontos do SIGAA. Como é mostrado na figura 7:
 
 <center>
+ **Figura 7**.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/tabelaavalia%C3%A7%C3%A3oSIGAA.png">
 
-   **Figura 7**. Fonte: [Pesquisa da IFSC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/812/Artigo_vers%c3%a3o_corrigida_set_2018.pdf?sequence=1&isAllowed=y )
+ Fonte: [Pesquisa da IFSC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/812/Artigo_vers%c3%a3o_corrigida_set_2018.pdf?sequence=1&isAllowed=y )
  </center>
  
 
@@ -130,9 +133,10 @@ A escolha do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) como
 ## Funcionalidades que serão estudadas
 Na Figura 8 é possível ver algumas funcionalidades do SIGAA da Unb.
 <center>
+ **Figura 8**:
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa3.png">
-
-   **Figura 8**: Fonte: Site do SIGAA 
+Fonte: Site do SIGAA 
+    
  </center>
 
 Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do nosso projeto. Elas podem ser vistas junto com o responsável pela área na tabela 1.
@@ -180,4 +184,5 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 | 1.3    | Correção de erros ortográficos                                  | Pedro Augusto   | Bruno Araújo    | 07/04/2024 |
 | 1.4    | Refatoração do histórico de versionamento                       | Breno Alexandre | Larissa Stéfane | 07/04/2024 |
 | 1.5    | Adição e verificação das funcionalidades que serão estudadas    | Larissa Stéfane | Breno Alexandre | 07/04/2024 |
-| 1.6    | Padronização e adição de citação da legenda de Figuras no texto | Luana Medeiros | - | 11/04/2024 |
+| 1.6    | Padronização e adição de citação da legenda de Figuras no texto | Luana Medeiros | Iago Passaglia | 11/04/2024 |
+| 1.7    | Correção das legendas das figuras para norma ABNT | Iago Passaglia | - | 11/04/2024 |
