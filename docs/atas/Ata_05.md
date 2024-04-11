@@ -31,7 +31,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 | Identificador (Dn) | Tema                                                                                                              |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | D3                 | Checar os termos de uso do SIGAA e versionar                                                                      |
-| D4                 | Definir usuários do site                                                                                          |
+| D4                 | Definir perfil de usuário do site                                                                                 |
 | D8                 | Revisar cronograma: detalhar, colocar nome de todos e não "todos", colapsar tabelas                               |
 | D9                 | Revisar gitpage: contraste de cores e talvez ajudar a colapsar tabelas no cronograma                              |
 | D10                | Revisar vídeos no youtube: Arrumar títulos e deixar não listados                                                  |
@@ -41,15 +41,13 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 ### **D11:**
 * Padronização de numeração ou não nos artefatos
-* Consertar referências
+* Padronização de referências
 * Legenda apenas em baixo da figura
-* Citar de legenda nos textos
+* Citar legendas nos textos
 * Nomear como figura e não imagem
 * Cortar legenda e títulos dentro das figuras no SIGAA.md
 * Citar opções de escolhas nos artefatos
-* Printar menus de clique direito
-* Alterar descrição do projeto
-* 
+
 
 ## Conclusões: 
 
@@ -57,15 +55,8 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 | Identificador (Dn) | Decisão |
 | - | - |
-| D1 | Foi definido tarefas para todos os membros  | 
+| D1 | Foi definido tarefas para todos os membros   | 
 | D2 | Foram analisados pontos que podemos melhorar |
-
-termos - pedro
-definir perfil de usuario - breno e larissa
-revisar cronograma - larissa
-gitpage - breno e pedro
-youtube e ata - bruno
-revisar artefatos - iago e luana
 
 <p align="center"> Tabela 2. Dúvidas </p>
 
@@ -73,19 +64,24 @@ revisar artefatos - iago e luana
 
 Neste tópico, são lincadas as tarefas a serem realizadas na semana e quem será os seus responsáveis.
 
-Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
-
-| Identificador (Issue n) | Issue | Integrante(s) responsável(eis) |
-| - | - | - |
-| Issue 1 | Realizar a Ata da reunião  | Luana Medeiros | 
+Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde cada issue tem o seu identificador Issue n para a rastreabilidade.
 
 
+| Identificador (Issue n) | Issue                                                                             | Integrante(s) responsável(eis) | Data de entrega |
+| ----------------------- | --------------------------------------------------------------------------------- | ------------------------------ | --------------- |
+| Issue 1                 | Realizar a Ata da reunião                                                         | Breno Alexandre                | 09/04/2024      |
+| Issue 2                 | Checar os termos de uso do SIGAA e versionar                                      | Pedro Augusto                  | 12/04/2024      |
+| Issue 3                 | Definir perfil de usuário do site                                                 | Breno e Larissa                | 12/04/2024      |
+| Issue 4                 | Revisar cronograma                                                                | Larissa Stéfane                | 12/04/2024      |
+| Issue 5                 | Revisar o gitpage                                                                 | Breno e Pedro                  | 12/04/2024      |
+| Issue 6                 | Revisar os vídeos no youtube e colocar os links nas atas                          | Bruno Araújo                   | 12/04/2024      |
+| Issue 7                 | Revisar os artefatos do projeto                                                   | Iago e Luana                   | 12/04/2024      |
 
-<p align="center"> Tabela 3. Issues Sprint 0 </p>
+<p align="center"> Tabela 3. Issues Sprint atual </p>
 
 ## Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação da base da Ata da Reunião | Breno Araújo | Larissa Stéfane| 04/04 |
-| 1.2 | Padronização dos subtítulos | Luana Medeiros  | - | 11/04 |
+| Versão | Alteração                         | Responsável     | Revisor               | Data       |
+| ------ | --------------------------------- | --------------- | --------------------- | ---------- |
+| 1.0    | Criação da base da Ata da Reunião | Breno Alexandre | Larissa Stéfane       | 09/04/2024 |
+| 1.1    | Padronização dos subtítulos       | Luana Medeiros  | Breno Alexandre       | 11/04/2024 |
