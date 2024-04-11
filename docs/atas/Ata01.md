@@ -83,4 +83,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | 1.1    | Atualiação da ata                                                          | Larissa Stéfane Barboza Santos | Luana Medeiros | 26/03 |
 | 1.2    | Atualização do link de Reunião e refatoração do histórico de versionamento | Breno Alexandre                | Larissa Stéfane| 07/04 |
 | 1.3    | Padronização dos subtítulos | Luana Medeiros  | Iago Passaglia | 11/04 |
-| 1.6 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
+| 1.4 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
