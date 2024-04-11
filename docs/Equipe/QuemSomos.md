@@ -1,14 +1,8 @@
 ## :earth_americas: Quem somos:
 
   <div align="center">
+    Figura 1: Logo da equipe criado [Aqui](https://www.designevo.com/).
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/Equipe2IHC.png">
-
-
-
-
-  
-   Figura 1: Logo da equipe criado [Aqui](https://www.designevo.com/).
-   
    **Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 </div>
 
@@ -34,11 +28,10 @@ A FGA, sigla para Faculdade UnB do Gama, é uma das unidades acadêmicas da Univ
 Na figura 2, é possível visualizar o campus:
 
  <div align="center">
+   Figura 2:
   <img src="https://lh6.googleusercontent.com/proxy/eYO0B1AlLK_W9TfYm9kyuF7J55kqVsvCXCTz0vMn9QbR8iXH495FZHcKRYjIxsPX0CYUOhRsFqNSUiHK">
+ Fonte: FGA 
 
-
-  
-   Figura 2: Fonte: FGA 
 </div>
 
 Devido a isso, a FGA possui uma forte ênfase em pesquisa e inovação ao colaborar com empresas e instituições para desenvolver soluções tecnológicas e, assim, contribuir para o avanço científico e tecnológico do país.
@@ -92,3 +85,4 @@ Devido a isso, a FGA possui uma forte ênfase em pesquisa e inovação ao colabo
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao da base | Larissa Stéfane | Pedro Augusto | 05/04/2024 |
+| 1.1 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
