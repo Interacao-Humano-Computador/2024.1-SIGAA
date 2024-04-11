@@ -1,9 +1,9 @@
 ## INEP enem
 
  <center>
+	 **Figura 1**:
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/INEPenem.jpeg">
-
-   **Figura 1**: Fonte: Site do enem 
+    Fonte: Site do enem 
  </center>
 
 
@@ -181,3 +181,4 @@ Humano-Computador, 1a. Edição, Editora Campus, 2010, Cap. 12, p. 281-286.
 | Versão  | Alteração            | Responsável     | Revisor | Data       |
 | ------- | -------------------- | --------------- | -       | ---------- |
 | 1.0     | Criaçao do documento | Breno Alexandre | Luana Medeiros | 06/04/2024 |
+| 1.1 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
