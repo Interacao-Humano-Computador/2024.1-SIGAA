@@ -1,9 +1,9 @@
 ## Secretaria da Pessoa com Deficiência do GDF
 
  <center>
+  **Figura 1**: 
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/secretariaPessoaDeficiente.png">
-
-   **Figura 1**: Fonte: Site da Secretaria da Pessoa com Deficiência do GDF 
+Fonte: Site da Secretaria da Pessoa com Deficiência do GDF 
  </center>
 
 ## Sumário
@@ -198,3 +198,4 @@ Disponível em < https://aprender3.unb.br/pluginfile.php/2843660/mod_resource/co
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criaçao do documento | Larissa Stéfane |  Pedro Augusto | 30/03/2024 |
+| 1.1 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
