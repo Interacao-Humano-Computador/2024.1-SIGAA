@@ -72,4 +72,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | - | - | - | - | - |
 | 1.0 | Criação da base da Ata da Reunião | Bruno Araújo | Larissa Stéfane| 04/04 |
 | 1.1 | Padronização dos subtítulos | Luana Medeiros  | Iago Passaglia  | 11/04 |
-| 1.2 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
+| 1.2 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Bruno Araújo | 11/04/2024 |
