@@ -36,4 +36,4 @@ A utilização do heatmap de disponibilidade para reuniões se mostrou uma ferra
 | 1.2    | Adição da figura correta e correção do documento | Iago Passaglia Pereira | Pedro Augusto          | 06/04/2024 |
 | 1.3    | Refatoração do histórico de versionamento        | Breno Alexandre        |  Iago Passaglia  | 07/04/2024 |
 | 1.4    | Padronização da legenda de figuras               | Luana Medeiros        | Iago Passaglia | 11/04/2024 |
-| 1.5 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
+| 1.5 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Bruno Araújo | 11/04/2024 |
