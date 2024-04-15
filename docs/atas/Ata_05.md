@@ -90,4 +90,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação da base da Ata da Reunião | Breno Alexandre | Larissa Stéfane       | 09/04/2024 |
 | 1.1    | Padronização dos subtítulos       | Luana Medeiros  | Breno Alexandre       | 11/04/2024 |
-| 1.2 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
+| 1.2 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Bruno Araújo | 11/04/2024 |
