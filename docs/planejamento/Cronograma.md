@@ -79,6 +79,7 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 | Análise de tarefas            | Início: 12/04 <br> Fim: 14/04 |      -         | Início: 15/04 <br> Fim: 16/04 |     -      |
 | Gravar apresentação                | Início: 20/04 <br> Fim: 20/04 | Todos              | Início: 20/04 <br> Fim: 21/04 | Todos            |
 | Correção pós apresentação          | Início: 23/04 <br> Fim: 24/04 | Todos              | Início: 25/04 <br> Fim: 25/04 | Todos            |
+
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
