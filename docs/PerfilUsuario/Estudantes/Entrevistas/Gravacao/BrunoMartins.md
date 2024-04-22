@@ -48,7 +48,7 @@ O vídeo 1 mostra a entrevista com o Bruno Valério Martins Bonfim
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=-lTqDBvkt-U) 
 
-## Respostas:
+## Respostas
 
 Abaixo, há as respostas escritas dadas pelo Bruno durante a entrevista.
 
