@@ -65,72 +65,82 @@ Quinto semestre.
 ### Antes da UnB, ou até mesmo durante a sua graduação atual, você fez algum outro curso? (Se sim, como era o site de lá, em questão de funcionalidade parecidas com o SIGAA?)
 Entrou na UnB em 2019 para cursar engenharia, só que trocou para matemática. Porém, fez outro processo seletivo e voltou para engenharia no gama.
 
-### Quais funcionalidades do SIGAA você utiliza com mais frequência em suas atividades?
+### Quais são seus principais objetivos como estudante?
+- Trabalhar na área de software.
+- Seguir na carreira acadêmica e graduar em física.
 
+### Quais funcionalidades do SIGAA você utiliza com mais frequência em suas atividades?
+- Emissão de histórico.
+- Consulta de disciplinas.
+- Consulta de turmas.
 
 ### Como você avalia a usabilidade do SIGAA?
-
+Como calouro, não teve dificuldade para aprender a usá-lo no início.
        
 ### Você já usou as seguintes funcionalidades? Se sim, explique como foi a experiência:
 
 #### Adesão de Cadastro Único 
-
+Já utilizou. Foi tranquilo de usar, ele pediu para inserir alguns dados e em poucos dias obteve a resposta.
 
 #### Declaração de Discente Prioritário
-
+Nunca utilizou.
 
 #### Solicitação de Bolsas 
-
+Nunca utilizou
 
 #### Declaração de Bolsista
-
+Nunca utilizou.
 
 #### Pré-Cadastro de estágio
-
+Nunca utilizou.
 
 #### Gerenciar Estágio
-
+Nunca utilizou.
 
 #### Necessidade educacionais específicas → Já fez cadastro na DACES?
-
+Nunca utilizou.
 
 #### Consulta de nota e frequência
-
+Sim, com frequência. Acha intuitivo.
 
 #### Emissão de documentos (Histórico e Declaração de vínculo)
-
+Sim, utilizou. Também achou fácil.
 
 #### Avaliação Institucional 
-
+Sim, é fácil de realizar.
 
 ##### Consulta de resultado da Avaliação Institucional 
-
+Nunca utilizou.
 
 ##### Realização de matrícula 
-
+Sim, já realizou, mas o que deixa difícil é a dificuldade de encontrar a descrição da matéria.
 
 ##### Retirada e trancamento de matrícula 
-
+Sim, já realizou e, como já haviam explicado como fazer, achou tranquilo.
 
 ### Na sua opinião, quais são os maiores desafios enfrentados pelos estudantes no uso do SIGAA? 
+A falta de uma interface amigável, o que deixa o estudante apreensivo.
 
+Falta de exatidão de algumas funcionalidades.
 
 
 #### Você acredita que serial ideal ter um manual disponibilizado aos estudantes sobre o SIGAA?
-
+Um tutorial breve seria bom, mas não necessário.
 
 ### Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como? 
-
+Ele pode ser aprimorado, deixando as funcionalidades mais acessadas mais explicitas.
 
 ### Como você melhoraria a interface do Sigaa?
-
+- Deixar os ícones mais arredondados.
+- Colocar cores: roxo, azul e preto.
+- Adicionar o modo escuro.
 
 ### Você tem alguma experiência específica no uso do SIGAA que gostaria de compartilhar? 
-
+Quando o SIGAA foi implementado, foi difícil realizar a matrícula devido à dificuldade de entender os horários. 
 
 ## Conclusão
 
-A entrevista realizada com o Caio proporcionou uma perspectiva sobre seus maiores desafios com o site, assim como foi possível observar a visão de um estudante que tem experiência há 3,5 anos com a UnB. 
+As informações e insights obtidos por meio da conversa com o Carlos foram cruciais para entender as necessidades dos usuários e identificar áreas de melhoria no SIGAA.
 
 ## Histórico de Versão
 
