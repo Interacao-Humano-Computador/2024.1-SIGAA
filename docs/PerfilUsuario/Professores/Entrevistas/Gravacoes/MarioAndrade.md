@@ -24,7 +24,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 | Data | Atividade |
 | - | - |
-|17/04/2024 | Entrar em contato com o estudante |
+|17/04/2024 | Entrar em contato com o docente |
 |20/04/204 | Gravação da entrevista |
 | 21/04/2024 | Documentação da entrevista |
 
