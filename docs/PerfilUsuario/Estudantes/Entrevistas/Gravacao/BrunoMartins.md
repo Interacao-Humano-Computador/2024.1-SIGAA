@@ -3,6 +3,7 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Cronograma](#Cronograma)
+* [Termo de Consentimento](#Termo-de-Consentimento)
 * [Gravação](#Gravação)
 * [Respostas](#Respostas)
 * [Conclusão](#Conclusão)
@@ -32,6 +33,13 @@ A tabela 1 apresenta o cronograma da entrevista.
 
   
 </center>
+
+## Termo de Consentimento
+
+Este link leva ao PDF do termo de consentimento assinado digitalmente pelo GOV.br pelo Bruno Martins Valerio Bomfim.
+
+Clique em: [Termo de consentimento assinado](...) 
+
 
 ## Gravação
 
