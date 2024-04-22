@@ -47,7 +47,7 @@ O vídeo 1 mostra a entrevista com o
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=q9ODmXPsXbc) 
 
-## Respostas:
+## Respostas
 
 ### Nome
 Carlos Gabriel Cardoso Ramos.
