@@ -49,7 +49,7 @@ O vídeo 1 mostra a entrevista com o Gabriel Lopes Barros
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=sX9Oqb6wXYM) 
 
-## Respostas:
+## Respostas
 
 Abaixo, há as respostas escritas dadas pelo Bruno durante a entrevista.
 
