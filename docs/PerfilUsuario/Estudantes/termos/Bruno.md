@@ -5,7 +5,7 @@
 o Documento 1 mostra o termo de consentimento:
 
 <p align="center">
-  <object data="Midia/Termos_Consentimentos_Assinados/Termo_Bruno.pdf" width="800" height="600" type="application/pdf"></object>
+  <object data="docs/Midia/Termos_Consentimentos_AssinadosTermo_/Bruno.pdf" width="800" height="600" type="application/pdf"></object>
 </p>
 
 
