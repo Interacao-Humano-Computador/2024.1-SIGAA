@@ -1,4 +1,4 @@
-# Entrevista Estudante Bruno Martins Bomfim
+# Entrevista com o estudante Bruno Martins Bomfim
 
 ## Sumário
 * [Introdução](#Introdução)
