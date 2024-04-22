@@ -38,7 +38,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 Este link leva ao PDF do termo de consentimento assinado digitalmente pelo GOV.br pelo Bruno Martins Valerio Bomfim.
 
-Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/Bruno.md) 
+Clique em: [Termo de consentimento assinado](Midia/Termos_Consentimentos_AssinadosTermo_/Bruno.pdf) 
 
 
 ## Gravação
