@@ -1,6 +1,6 @@
 # Termo de consentimento assinado por Bruno Martins Valério Bomfim
 
-**Voltar**: Caso você deseje voltar para a entrevista com o Bruno clique [aqui](docs/PerfilUsuario/Estudantes/Entrevistas/Gravacao/BrunoMartins.md)
+**Voltar**: Caso você deseje voltar para a entrevista com o Bruno clique [aqui](PerfilUsuario/Estudantes/Entrevistas/Gravacao/BrunoMartins.md)
 
 o Documento 1 mostra o termo de consentimento:
 
