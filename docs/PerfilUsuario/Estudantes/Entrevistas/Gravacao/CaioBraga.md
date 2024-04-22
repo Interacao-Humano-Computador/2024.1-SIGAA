@@ -48,7 +48,7 @@ O vídeo 1 mostra a entrevista com o Caio Felipe Alves Braga
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=mC1-75Od7Xo) 
 
-## Respostas:
+## Respostas
 
 Abaixo, há as respostas escritas dadas pelo Bruno durante a entrevista.
 
