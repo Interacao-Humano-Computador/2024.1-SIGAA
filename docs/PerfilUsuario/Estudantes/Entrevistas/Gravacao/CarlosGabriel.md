@@ -109,13 +109,13 @@ Sim, utilizou. Também achou fácil.
 #### Avaliação Institucional 
 Sim, é fácil de realizar.
 
-##### Consulta de resultado da Avaliação Institucional 
+#### Consulta de resultado da Avaliação Institucional 
 Nunca utilizou.
 
-##### Realização de matrícula 
+#### Realização de matrícula 
 Sim, já realizou, mas o que deixa difícil é a dificuldade de encontrar a descrição da matéria.
 
-##### Retirada e trancamento de matrícula 
+#### Retirada e trancamento de matrícula 
 Sim, já realizou e, como já haviam explicado como fazer, achou tranquilo.
 
 ### Na sua opinião, quais são os maiores desafios enfrentados pelos estudantes no uso do SIGAA? 
