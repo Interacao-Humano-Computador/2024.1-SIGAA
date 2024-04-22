@@ -12,7 +12,7 @@ o Documento 1 mostra o termo de consentimento:
 <div align="center">
   Documento 1: Termo assinado por Bruno
   
-  <embed src="Midia/Termos_Consentimentos_Assinados/Termo_Bruno.pdf" width="800px" height="2100px" />
+  <embed src="Midia/Termos_Consentimentos_Assinados/Termo_Bruno.pdf.js" width="800px" height="2100px" />
 
   Fonte:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
