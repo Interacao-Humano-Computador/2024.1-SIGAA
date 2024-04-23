@@ -38,5 +38,6 @@
         * Entrevistas
             * Entrevistas Realizadas
                 - [Bruno Bomfim](PerfilUsuario/Estudantes/Entrevistas/Gravacao/BrunoMartins.md)
+                - [Gabriel Lopes](docs/PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielLopes.md)
              
       
