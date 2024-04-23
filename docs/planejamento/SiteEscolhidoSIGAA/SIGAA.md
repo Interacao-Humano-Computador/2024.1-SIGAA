@@ -152,6 +152,7 @@ Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do no
 | Necessidade educacionais específicas | Larissa Stéfane |
 | Consulta de nota e frequência | Larissa Stéfane |
 | Emissão de documentos ( Histórico e declaração de vínculo) | Larissa Stéfane |
+| Pedido e cadastro para monitoria | Larissa Stéfane |
 | Avaliação Institucional | Luana Lima|
 | Consulta de resultado da Avaliação Institucional | Luana Lima|
 | Realização de matrícula | Pedro Augusto |
