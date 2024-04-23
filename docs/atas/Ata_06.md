@@ -80,7 +80,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 4                 | Cada um vai modelar as suas modelidades responsáveis de acordo com HTA e GOMS                                                                | Larissa, Breno,  Bruno, Iago, Pedro e Luana                | 29/04/2024      |
 | Issue 5                 | Criar um documento de planejamento para todas tarefas realizadas                                                                | Larissa, Breno,  Bruno, Iago, Pedro e Luana                   | 29/04/2024      |
 | Issue 6                 | Definir as metas de usabilidade                          |  **Definir**                   | 29/04/2024      |
-
+| Issue 7                 | Implementar opção de modo escuro                                                 |     Pedro          | 29/04/2024      |
 
 ## Histórico de Versão
 
