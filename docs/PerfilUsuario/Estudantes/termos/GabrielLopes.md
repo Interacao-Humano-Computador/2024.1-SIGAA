@@ -1,6 +1,6 @@
 # Este é o consentimento dado por Gabriel Lopes Barros
 
-Caso deseje voltar para a entrevista com o Gabriel Lopes, aperte em [Entrevista](docs/PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielLopes.md)
+Caso deseje voltar para a entrevista com o Gabriel Lopes, aperte em [Entrevista](PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielLopes.md)
 
 **Observação**: Devido à falta de uma impressora e a falta de experiência com assinatura digital, além da gravação no início da entrevista, o consentimento foi confirmado por Gabriel por meio da seguinte mensagem:
 
