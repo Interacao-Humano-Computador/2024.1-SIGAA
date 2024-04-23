@@ -12,8 +12,7 @@
 
 
 ## Introdução
-Neste documento, são apresentados os resultados da entrevista com Gabriel Lopes Barros, visando aprofundar-se em suas experiências, perspectivas e opiniões relacionadas a diferentes aspectos da vida acadêmica, bem como ao uso do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA).
-
+Neste documento, são apresentados os resultados da entrevista com Gabriel Lopes Barros, realizada com o objetivo de aprofundar em suas experiências, perspectivas e opiniões relacionadas a diferentes aspectos da vida acadêmica e sobre a sua opinião sobre o uso do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA).
 
 ## Cronograma
 
@@ -39,19 +38,27 @@ A tabela 1 apresenta o cronograma da entrevista.
 Devido a distância, não foi possível obter a assinatura física do entrevistado e, por ele não ter uma experiência com assinatura virtual, o termo de consentimento foi apresentado virtualmente e o entrevistado e a entrevistadora conversaram sobre ele durante uma reunião antes da entrevista. No vídeo da entrevista, o Gabriel confirma o seu consentimento, mas há também uma mensagem escrita à mão que confirma o seu consentimento.
 
 
-Clique em: [Termo de consentimento assinado](...) 
+Clique em: [Termo de consentimento assinado](docs/PerfilUsuario/Estudantes/termos/GabrielLopes.md) 
 
 
 ## Gravação
 
 O vídeo 1 mostra a entrevista com o Gabriel Lopes Barros 
 
+<center>
+Vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com Gabriel Lopes 
+
+<iframe width="697" height="392" src="https://www.youtube.com/embed/sX9Oqb6wXYM" title="IHC - Projeto sobre o SIGAA - Entrevista com Gabriel Lopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Fonte**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+  
+</center>
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=sX9Oqb6wXYM) 
 
 ## Respostas
 
-Abaixo, há as respostas escritas dadas pelo Bruno durante a entrevista.
+Abaixo, há as respostas escritas dadas:
 
 ### Nome
 Gabriel Lopes Barros 
@@ -80,7 +87,7 @@ Não.
   
 
 ### Como você avalia a usabilidade do SIGAA?
-- Existem funcionalidades que são difíceis de procurar, principalmente aquelas que não estão acostumadas a ver. 
+- Existem funcionalidades que são difíceis de procurar, principalmente aquelas que os estudantes não estão acostumados a ver. 
 - Notas e históricos já são considerados fáceis, porque é algo que se faz com frequência. No entanto, outras funcionalidades, como estágio, são mais difíceis de operar devido à falta de experiência. 
        
 ### Você já usou as seguintes funcionalidades? Se sim, explique como foi a experiência:
@@ -98,10 +105,10 @@ Até o momento, não utilizou.
 Sim, já utilizou. Foi bolsista apenas uma vez na faculdade. Desse modo, quando foi fazer a declaração, achou confuso, pois não é intuitivo no site e o professor não havia explicado como seria. 
 
 #### Pré-Cadastro de estágio
-Sim, já utilizou. Achou um processo mais simples comparado a outros. Mas no começo. Houve passos que achou confuso.
+Sim, já utilizou. Achou um processo mais simples comparado a outros. Mas no começo, houve passos que achou confuso.
 
 #### Gerenciar Estágio
-Sim, já utilizou. Achou a funcionalidade mais fácil na sua opinião, pois, no SIGAA, é o que é mais direto. 
+Sim, já utilizou. Achou a funcionalidade fácil na sua opinião, pois, no SIGAA, é o que é mais direto. 
 
 #### Necessidade educacionais específicas → Já fez cadastro na DACES?
 Até o momento, não utilizou.
@@ -120,7 +127,7 @@ Sim, já utilizou várias vezes.
 Até o momento, não utilizou.
 
 #### Realização de matrícula 
-No começo, quando o SIGAA era novidade, ele achou o processo confuso., mas com o tempo, utilizando com frequência, passou a ser algo mais simples de utilizar. 
+No começo, quando o SIGAA era novidade, ele achou o processo confuso, mas com o tempo, utilizando com frequência, passou a ser algo mais simples de utilizar. 
 
 #### Retirada e trancamento de matrícula 
 Sim, já utilizou. Achou algo direto. 
