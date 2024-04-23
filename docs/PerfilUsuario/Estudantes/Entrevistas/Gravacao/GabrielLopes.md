@@ -38,7 +38,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 Devido a distância, não foi possível obter a assinatura física do entrevistado e, por ele não ter uma experiência com assinatura virtual, o termo de consentimento foi apresentado virtualmente e o entrevistado e a entrevistadora conversaram sobre ele durante uma reunião antes da entrevista. No vídeo da entrevista, o Gabriel confirma o seu consentimento, mas há também uma mensagem escrita à mão que confirma o seu consentimento.
 
 
-Clique em: [Termo de consentimento assinado](docs/PerfilUsuario/Estudantes/termos/GabrielLopes.md) 
+Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/GabrielLopes.md) 
 
 
 ## Gravação
