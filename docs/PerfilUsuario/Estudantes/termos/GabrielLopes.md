@@ -8,9 +8,11 @@ Caso deseje voltar para a entrevista com o Gabriel Lopes, aperte em [Entrevista]
     Imagem 1: Consentimento por escrito
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/Midia/Termos_Consentimentos_Assinados/Consentimento_Gabriel.jpeg">
-    <br>
-     **Fonte** Gabriel Lopes Barros
-    <br>
+   
+    
+  Fonte: Gabriel Lopes Barros
+     
+  
 </div>
 
 
