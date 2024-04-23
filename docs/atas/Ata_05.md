@@ -18,6 +18,7 @@ Os presentes na reunião foram:
 - Breno Alexandre Soares Garcia
 - Bruno Cunha Vasconcelos de Araújo
 - Iago Passaglia Perereia
+- Larissa Stéfane Barboza Santos
 - Pedro Augusto Dourado Izarias
 
 ## Pontos de Discussão Importantes
