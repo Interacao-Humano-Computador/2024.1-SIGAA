@@ -15,7 +15,6 @@
 
 Os presentes na reunião foram:
 
-- Breno Alexandre Soares Garcia
 - Bruno Cunha Vasconcelos de Araújo
 - Iago Passaglia Perereia
 - Larissa Stéfane Barboza Santos
@@ -86,4 +85,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0    | Criação  Ata da Reunião | Larissa Stéfane | -       | 23/04/2024 |
+| 1.0    | Criação  Ata da Reunião           | Larissa Stéfane | Breno Alexandre       | 23/04/2024 |
