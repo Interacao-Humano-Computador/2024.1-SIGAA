@@ -16,3 +16,5 @@ A imagem 1 mostra o termo de consentimento assinado:
  <div align="center">
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/TermosPNJ/Termo_Bruno-3.jpg">
+
+   **Fonte:** Bruno Bomfim
