@@ -20,20 +20,36 @@ Segundo Nielsen (2004), um erro nos sites e intranets é estruturar a informaç�
 
 A técnica consiste em escrever os nomes de cada item em pedaços de papel e pedir ao participante que organize-os em grupos sem um limite de quantidade, e logo após, nomear os grupos, nomes esses que podem ser utilizados como rótulos no site. No caso do site SIGAA, os itens serão opções existentes na plataforma e os títulos propostos por cada participante deverão ser comparados com os rótulos referentes a opção no site. 
 
-### Itens:
+### Itens
+
+Os itens escolhidos são as opões de Consultar minhas notas, Emitir histórico, Avaliação institucional, Calendário acadêmico, Emitir Carteirinha estudantil, Plano de trabalho, Certificados e declarações, Projeto de pesquisa, Congresso de iniciação científica, Consultar ações, Meus relatórios, Certificados e declarações, Visualizar resultados das inscrições, Inscrição online em ações de extensão, Mural de vagas, Pré-cadastro de estágio, Gerenciar estágios, Ambientes virtuais, Coordenação de curso e Necessidades educacionais específicas. Todos estão disponíveis na página principal do SIGAA.
 
 <center>
   <font size="2"><p style="text-align: center">Figura 1: Itens</p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsItens.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias/).</p></font>
+    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
  </center>
 
-## Modelos
+### Rótulos
 
-### Ciclo de vida simples:
-É uma abordagem de desenvolvimento de sistemas interativos que segue uma sequência linear e bem definida de fases, geralmente composta por análise, design, implementação e avaliação. Proposto por Preece, Sharp e Rogers, essa abordagem é chamada de "simples" porque segue uma estrutura sequencial, na qual cada fase é completada antes de passar para a próxima. 
+<center>
+  <font size="2"><p style="text-align: center">Figura 2: Rótulos</p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsTitulos.jpeg">
+    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
+ </center>
 
-Em um ciclo de vida simples, como podemos ver na Figura 1, a análise inicial é realizada para compreender os requisitos do usuário e as necessidades do sistema. Em seguida, o design é elaborado com base nessas informações, criando interfaces e funcionalidades que atendam aos objetivos estabelecidos. Após o design, a implementação ocorre, na qual o sistema é desenvolvido de acordo com as especificações do design. Finalmente, a avaliação é conduzida para verificar se o sistema atende aos requisitos e expectativas do usuário, identificando possíveis melhorias e ajustes.
+Os rótulos da Figura 2 (Estágio, Ensino, Extensão, Pesquisa, Pesquisa e Outros) são os utilizados originalmente no site e devem ser comparados aos títulos dados pelos participantes para entender a facilidade em encontrar informações pelos mesmos.
+
+<center>
+  <font size="2"><p style="text-align: center">Figura 3: Rótulos e seus respectivos itens</p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsTudo.jpeg">
+    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
+ </center>
+
+A figura 3 mostra qual a configuração atualmente utilizada pelo SIGAA quanto aos rótulos das opções e seus respectivos itens internos.
+
+### Procedimento
+
 
 <center>
   <font size="2"><p style="text-align: center">Figura 1: Ciclo de vida simples</p></font>
