@@ -24,7 +24,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 | Data | Atividade |
 | - | - |
-|19/04/2024 | Entrar em contato com o estudante |
+|18/04/2024 | Entrar em contato com o estudante |
 |20/04/204 | Gravação da entrevista |
 | 21/04/2024 | Documentação da entrevista |
 
@@ -35,7 +35,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 ## Termo de Consentimento
 
-Ao clicar no link, você será encaminhado para o pdf que mostra a termo de consentimento assinado 
+Ao clicar no link, você será encaminhado para uma página que mostra a termo de consentimento assinado 
 Clique em: [Termo de consentimento assinado](...) 
 
 
@@ -43,11 +43,18 @@ Clique em: [Termo de consentimento assinado](...)
 
 O vídeo 1 mostra a entrevista com Leonardo Gonçalvez Machado
 
+<center> 
+vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com Leonardo Gonçalves
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/AAylJSVJV-o" title="IHC - Projeto sobre o SIGAA - Entrevista com estudante Leonardo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Fonte**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=AAylJSVJV-o) 
 
 ## Respostas
-
-
 
 ### Nome
 Leonardo Gonçalvez Machado
@@ -65,7 +72,7 @@ Sétimo semestre.
 Não fez nenhum outro curso antes da UnB. Ele foi direto do ensino médio.
 
 ### Quais são seus principais objetivos como estudante?
-Se formar e fazer pós-graduação.
+ELe deseja se formar e fazer pós-graduação.
 
 
 ### Quais funcionalidades do SIGAA você utiliza com mais frequência em suas atividades?
