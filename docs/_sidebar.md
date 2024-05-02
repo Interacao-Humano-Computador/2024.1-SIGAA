@@ -50,5 +50,5 @@
           -  Análise dos resultados
       * Brainstorming
       * Estudo de Campo
-      * Clasificação de Cartões  
+      * Classificação de Cartões  
     * Técnicos
