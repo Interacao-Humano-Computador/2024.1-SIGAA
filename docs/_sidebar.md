@@ -38,7 +38,7 @@
     * Estudantes
         * Questionário
         * Entrevistas
-            - Planejamento
+            - [Planejamento](PerfilUsuario/Estudantes/Entrevistas/PlanejamentoEntrevista.md)
             * Entrevistas Realizadas
                 - [Bruno Bomfim](PerfilUsuario/Estudantes/Entrevistas/Gravacao/BrunoMartins.md)
                 - [Caio Braga](PerfilUsuario/Estudantes/Entrevistas/Gravacao/CaioBraga.md)
