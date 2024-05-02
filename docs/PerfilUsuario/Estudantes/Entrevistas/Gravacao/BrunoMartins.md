@@ -123,9 +123,11 @@ Sim, todo semestre. Ele acessa por meio do botão de ensino que leva à “minha
 #### Emissão de documentos (Histórico e Declaração de vínculo)
 Sim, já emitiu. Todos por meio do botão de ensino e considera um processo simples, pois ao clicar em um botão, o PDF já é instalado.
 
-O interessante seria ter um menu de opções de mais usados, pois o processo seria mais rápido.
+Acredita que seria interessante ter um menu de opções de mais usados, pois o processo seria mais rápido.
+
 #### Avaliação Institucional 
-Sim, já realizou. Mas como os campos ficam bem juntinhos uns com os outros, é bem fácil de cometer algum erro.
+
+Sim, já realizou. Mas como os campos ficam bem juntinhos uns com os outros, considera que é bem fácil de cometer algum erro.
 
 ##### Consulta de resultado da Avaliação Institucional 
 Não, nunca consultou.
@@ -133,7 +135,7 @@ Não, nunca consultou.
 ##### Realização de matrícula 
 Em relação de fazer a matrícula das matérias ele considera um processo elaborado, pois há as opções matérias disponíveis e ao clicar é possível selecionar as opções. Então é possível adicionar e confirmar.
                
-Como ele é dá área de software, então considera tranquilo mexer com isso. 
+Como ele é dá área de software, então acha tranquilo mexer com isso. 
   
 ##### Retirada e trancamento de matrícula 
 Já retirou retirada, mas nunca trancamento. 
@@ -147,11 +149,11 @@ Um problema grande que os estudantes estavam enfrentando algum tempo atrás era 
 Um problema atual é a questão da interface na versão mobile.
 
 #### Você acredita que serial ideal ter um manual disponibilizado aos estudantes sobre o SIGAA?
-Ter um manual seria muito interessante para os calouros. Iria ajudá-los bastante.
+Acredita que ter um manual seria muito interessante para os calouros. Iria ajudá-los bastante.
 
 ### Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como? 
 - Uma questão que poderia ser feita é melhorar a questão de segurança, pois é relativamente fácil alguém conseguir a matrícula e a senha de um usuário.
-- Melhorar o design do site, pois ele está bem ultrapassado. 
+- Melhoraria o design do site, pois ele pensa que está bem ultrapassado. 
 
 ### Como você melhoraria a interface do Sigaa?
 - Adicionar um menu de acesso rápido. 
