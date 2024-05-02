@@ -2,13 +2,10 @@
 
 ## Sumário 
 * [Introdução](#Introdução)
-* [Metodologia](#Metodologia)
-* [Procedimento](#Procedimento)
-* [Quadro de participantes](#Quadro-de-participantes)
-* [Motivos para a escolha](#Motivos-para-a-escolha)
-* [Design, Avaliação e Desenvolvimento](#Design-Avaliação-e-Desenvolvimento)
-* [Instalação](#Instalação)
-* [Motivos para a escolha](#Motivos-para-a-escolha)
+* [Desenvolvimento](#Desenvolvimento)
+* [Resultados](#Resultados)
+* [Análise dos resultados](#Análise-dos-resultados)
+* [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Referências bibliográficas](#Referências)
 * [Histórico de versões](#Histórico-de-versões)
@@ -46,51 +43,11 @@ Após a definição dos participantes e da data para a execução da atividade, 
 
 ### Participante Fernando Vela
 
-<center>
-  <font size="2"><p style="text-align: center">Figura 1: Itens</p></font>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsItens.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
- </center>
 
-### Rótulos
-
-<center>
-  <font size="2"><p style="text-align: center">Figura 2: Rótulos</p></font>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsTitulos.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
- </center>
-
-Os rótulos da Figura 2 (Estágio, Ensino, Extensão, Pesquisa, Pesquisa e Outros) são os utilizados originalmente no site e devem ser comparados aos títulos dados pelos participantes para entender a facilidade em encontrar informações pelos mesmos.
-
-<center>
-  <font size="2"><p style="text-align: center">Figura 3: Rótulos e seus respectivos itens</p></font>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsTudo.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
- </center>
-
-A figura 3 mostra qual a configuração atualmente utilizada pelo SIGAA quanto aos rótulos das opções e seus respectivos itens internos.
-
-## Procedimento
-
-Inicialmente deve serem selecionados um ou mais participantes cientes dos termos e condições da pesquisa e tomar nota de seus dados pessoais, como: nome, idade, sua relação com a tecnologia, domínio e conhecimento do produto, sexo, grau de instrução, idiomas falados. Posteriormente, devem ser entregues aos participantes, os itens, sem ordem ou formação e deverá ser dito as instruções para o que fazer, ou seja, agrupar os itens de opções do site sigaa em grupos de quantidade variada de acordo com a impressão de semelhança entre eles. Após esta fase, o participante deve escolher um título para cada grupo, terminando aí sua participação.
+## Análise dos resultados
 
 
-## Quadro de participantes 
-
-<p align="center"> Tabela 1. Quadro de participantes </p>
-
-| Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
-|--------|---------------|----------------|----------------|----------------|------------|------------|------------|
-| Erika Iwakiri |  21    |    Boa    | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|01/05/2024|
-| Fernando Vela |  23    |     Boa   | Sim | Feminino | Superior incompleto | Portugues, Espanhol|01/05/2024|
-
-<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
-
-A tabela 1, trás os participantes escolhidos para a atividade, assim como seus dados pessoais e a data de quando deverá ser feita a aplicação com cada um.
-
-## Motivos para a escolha
-
-O método de classificação de cartões é altamente flexível e pode ser adaptado para diferentes contextos e grupos de usuários. Ele ajuda os designers a compreenderem as complexidades das necessidades do usuário, destacando temas comuns e áreas de interesse compartilhadas. Ao analisar os padrões emergentes nos dados classificados, os projetistas podem tomar decisões mais informadas durante o processo de design, priorizando recursos e funcionalidades que realmente importam para os usuários finais. Em última análise, o método de classificação de cartões promove uma abordagem centrada no usuário, resultando em produtos e sistemas de IHC mais eficazes e adequados às necessidades reais dos usuários.
+## Conclusão
 
 
 ## Referências bibliográficas
