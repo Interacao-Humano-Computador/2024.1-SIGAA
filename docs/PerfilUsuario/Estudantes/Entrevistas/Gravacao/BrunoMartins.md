@@ -73,7 +73,7 @@ Sétimo semestre.
 
 ### Como você descreve a experiência como estudante da UnB?
 
-No geral, é uma experiência boa, pois as disciplinas são boas, os professores detém bastante conhecimento e o material bibliográfico também é ótimo. Todos os cursos têm os seus problemas, mas no geral, o curso tem um saldo positivo.
+No geral, considera uma experiência boa, pois as disciplinas são boas, os professores detém bastante conhecimento e o material bibliográfico também é ótimo. Todos os cursos têm os seus problemas, mas no geral, o curso tem um saldo positivo.
 
 ### Antes da UnB, ou até mesmo durante a sua graduação atual, você fez algum outro curso? (Se sim, como era o site de lá, em questão de funcionalidade parecidas com o SIGAA?)
 
