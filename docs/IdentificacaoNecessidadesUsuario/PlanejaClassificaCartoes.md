@@ -78,7 +78,7 @@ O método de classificação de cartões é altamente flexível e pode ser adapt
 
 ## Bibliografia
 
-
+Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
 
 ## Histórico de versões
 
