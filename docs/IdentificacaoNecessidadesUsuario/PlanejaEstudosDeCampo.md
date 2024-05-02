@@ -27,7 +27,6 @@ A técnica escolhida para identificar as necessidades relacionadas a IHC do site
 | Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
 |--------|---------------|----------------|----------------|----------------|------------|------------|------------|
 | Erika Iwakiri |  21    |    Boa    | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|01/05/2024|
-| Fernando Vela |  23    |     Boa   | Sim | Feminino | Superior incompleto | Portugues, Espanhol|01/05/2024|
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
 
