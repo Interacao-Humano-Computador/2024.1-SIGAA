@@ -31,8 +31,8 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-  
 </center>
+
 
 ## Termo de Consentimento
 
@@ -51,6 +51,8 @@ O vídeo 1 mostra a entrevista com o Gabriel Rodrigo Martins de Andrade
 vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com o Gabriel Rodrigo
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/jHNF-90asfY" title="IHC - Projeto sobre o SIGAA - Entrevista com Gabriel Rodrigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=jHNF-90asfY) 
 
