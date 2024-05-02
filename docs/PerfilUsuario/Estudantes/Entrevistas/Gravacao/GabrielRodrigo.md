@@ -45,14 +45,18 @@ Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/Gab
 
 O vídeo 1 mostra a entrevista com o Gabriel Rodrigo Martins de Andrade
 
-**Observação:** Devido a um problema técnico no teams durante a gravação, e entrevista ficou gravada pela metade. Contudo, em [respostas](#Respostas) há as respostas e opiniões dele que não foram cortadas do vídeo.
+**Observação:** Devido a um problema técnico no teams durante a gravação, e entrevista ficou gravada pela metade. Contudo, em [respostas](#Respostas) há as respostas e opiniões dele que não são apresentadas no vídeo.
 
+<center> 
+vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com o Gabriel Rodrigo
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/jHNF-90asfY" title="IHC - Projeto sobre o SIGAA - Entrevista com Gabriel Rodrigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=jHNF-90asfY) 
 
 ## Respostas
 
-Abaixo, há as respostas escritas dadas pelo Bruno durante a entrevista.
+Abaixo, há as respostas escritas dadas pelo Gabriel Rodrigo durante a entrevista.
 
 ### Nome
 Gabriel Rodrigo Martins de Andrade
@@ -64,7 +68,7 @@ Engenharia Aeroespacial.
 Entrou na UnB em 2019 e trancou um semestre.
 
 ### Como você descreve a experiência como estudante da UnB?
-Há momentos bons e momentos ruins
+Pontuou que há momentos bons e momentos ruins
 
 ### Antes da UnB, ou até mesmo durante a sua graduação atual, você fez algum outro curso? (Se sim, como era o site de lá, em questão de funcionalidade parecidas com o SIGAA?)
 Realizou um cursinho de inglês, mas não tinha um site para realizar as atividades acadêmicas.
