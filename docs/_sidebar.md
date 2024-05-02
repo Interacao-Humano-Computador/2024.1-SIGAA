@@ -48,7 +48,7 @@
                 - [Isaque Santos](PerfilUsuario/Estudantes/Entrevistas/Gravacao/IsaqueSantos.md)
                 - [Lavínia Inácia](PerfilUsuario/Estudantes/Entrevistas/Gravacao/LavíniaInácia.md)
           -  Análise dos resultados
-      * Brainstorm
+      * Brainstorming
       * Estudo de Campo
       * Clasificação de Cartões  
     * Técnicos
