@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Segundo Nielsen (2004), um erro nos sites e intranets é estruturar a informação baseado em como a empresa enxerga a sua informação. Uma importante técnica para indentificar as necessidades dos usuários relacionadas a facilidade de encontrar informações em um site, se chama card sorting ou classificação por cartões. Seu objetivo é aumentar a probabilidade do usuário encontrar um nó de informação quando estiver navegando.
+Segundo Nielsen (2004)<sup>1</sup>, um erro nos sites e intranets é estruturar a informação baseado em como a empresa enxerga a sua informação. Uma importante técnica para indentificar as necessidades dos usuários relacionadas a facilidade de encontrar informações em um site, se chama card sorting ou classificação por cartões. Seu objetivo é aumentar a probabilidade do usuário encontrar um nó de informação quando estiver navegando.
 
 ## Metodologia
 
@@ -50,68 +50,27 @@ A figura 3 mostra qual a configuração atualmente utilizada pelo SIGAA quanto a
 
 ## Procedimento
 
-Inicialmente deve serem selecionados um ou mais participantes cientes dos termos e condições da pesquisa e tomar nota de seus dados pessoais, como: nome, sua relação com a tecnologia, domínio e conhecimento do produto, sexo, grau de instrução, idiomas falados. Posteriormente, devem ser entregues aos participantes, os itens, sem ordem ou formação e deverá ser dito as instruções para o que fazer, ou seja, agrupar os itens de opções do site sigaa em grupos de quantidade variada de acordo com a impressão de semelhança entre eles. Após esta fase, o participante deve escolher um título para cada grupo, terminando aí sua participação.
+Inicialmente deve serem selecionados um ou mais participantes cientes dos termos e condições da pesquisa e tomar nota de seus dados pessoais, como: nome, idade, sua relação com a tecnologia, domínio e conhecimento do produto, sexo, grau de instrução, idiomas falados. Posteriormente, devem ser entregues aos participantes, os itens, sem ordem ou formação e deverá ser dito as instruções para o que fazer, ou seja, agrupar os itens de opções do site sigaa em grupos de quantidade variada de acordo com a impressão de semelhança entre eles. Após esta fase, o participante deve escolher um título para cada grupo, terminando aí sua participação.
 
 
 ## Quadro de participantes 
 
-| Nome   | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
-|--------|-------------------------------|----------------|----------------|------------|------------|------------|
-| Erika Iwakiri | Boa            | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|01/05/2024|
-| Fernando Vela | Boa            | Sim | Feminino | Superior incompleto | Portugues, Espanhol|01/05/2024|
+<p align="center"> Tabela 1. Quadro de participantes </p>
 
+| Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
+|--------|---------------|----------------|----------------|----------------|------------|------------|------------|
+| Erika Iwakiri |  21    |    Boa    | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|01/05/2024|
+| Fernando Vela |  23    |     Boa   | Sim | Feminino | Superior incompleto | Portugues, Espanhol|01/05/2024|
 
+<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
 
-### Engenharia de Usabilidade de Nielsen:
-De acordo com as palavras de Nielsen (1993), a engenharia de usabilidade compreende uma série de atividades que se desenrolam ao longo de todo o ciclo de vida do produto, embora muitas delas ocorram mesmo antes do projeto da interface com o usuário ser elaborado. Barbosa (2010, p. 104) menciona que Nielsen apresenta o seguinte conjunto de atividades em seu ciclo de vida:
-
-- Conheça seu usuário
-- Realize uma análise competitiva
-- Defina as metas de usabilidade
-- Faça designs paralelos
-- Adote o design participativo
-- Faça o design coordenado da interface como um todo
-- Aplique diretrizes e análise heurística
-- Faça protótipos
-- Realize testes empíricos
-- Pratique design iterativo
-
-<font size="2"><p style="text-align: center">Fonte: BARBOSA e SILVA, 2011, p.105.</p></font>
-
-## Da metodologia
-
-Foi escolhido como método a engenharia de usabilidade proposta por Deborah Mayhew, cujo objetivo visa melhorar a experiência do usuário ao interagir com produtos digitais, garantindo que sejam fáceis de aprender, eficientes de usar, e que satisfaçam suas necessidades e expectativas. Se trata de uma abordagem sistemática para o desenvolvimento de interfaces de usuário com foco na usabilidade e é dividido em três fases principais:
-
-### Análise de Requisitos
-
-Esta fase envolve a compreensão profunda dos usuários, suas necessidades, objetivos e o contexto de uso do sistema. Inclui atividades como:
-- Análise de tarefas
-- Definição de perfis dos usuários (personas)
-- A estipulação de metas de usabilidade objetivas e mensuráveis
-
-### Design, Avaliação e Desenvolvimento
-
-Nesta fase, o foco é no design da interface do usuário, considerando os requisitos levantados anteriormente. Envolve:
-- Criação de protótipos de design em diferentes níveis de fidelidade, desde esboços iniciais até protótipos interativos
-- Avaliação de cada protótipo em termos de usabilidade, que pode incluir testes com usuários, avaliação heurística por especialistas e outros métodos de avaliação de usabilidade
-- Utilização do feedback dessas avaliações para refinar o design
-
-### Instalação
-
-A última fase do ciclo de vida abrange a implementação final do sistema e a sua entrega aos usuários. Inclui:
-- Avaliação pós-implementação, que coleta feedback dos usuários reais para identificar áreas para melhorias futuras ou para informar o desenvolvimento de novos sistemas
-
-A Engenharia de Usabilidade de Mayhew destaca a importância de um processo iterativo e centrado no usuário, onde a avaliação contínua e o refinamento do design são fundamentais para atingir altos níveis de usabilidade. Essa abordagem ajuda a garantir que os produtos finais sejam não apenas funcionais, mas também intuitivos, eficientes e agradáveis de usar.
-
-<font size="2"><p style="text-align: center">Figura 3: Ciclo de Mayhew.</p></font>
-![Ciclo de Mayhew](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/109971590/92f6c7a8-26f8-440a-81db-9957343fd000)
-  <font size="2"><p style="text-align: center">Fonte: [SlidePlayer](https://slideplayer.com.br/slide/13462698/).</p></font>
-<center>
+A tabela 1, trás os participantes escolhidos para a atividade, assim como seus dados pessoais e a data de quando deverá ser feita a aplicação com cada um.
 
 ## Motivos para a escolha
 
 O método de Mayhew é adequado para a avaliação de sistemas complexos, como o SIGAA, pois como demonstra a Figura 3 o método oferece uma abordagem estruturada que abrange desde a análise de requisitos até a instalação e avaliação pós-implementação.
 Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível realizar uma avaliação detalhada que identifica não apenas os problemas de usabilidade, mas também fornece insights para melhorias contínuas no sistema.
+
 
 ## Referências
 
