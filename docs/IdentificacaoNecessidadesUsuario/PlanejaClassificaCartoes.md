@@ -68,8 +68,7 @@ A tabela 1, trás os participantes escolhidos para a atividade, assim como seus 
 
 ## Motivos para a escolha
 
-O método de Mayhew é adequado para a avaliação de sistemas complexos, como o SIGAA, pois como demonstra a Figura 3 o método oferece uma abordagem estruturada que abrange desde a análise de requisitos até a instalação e avaliação pós-implementação.
-Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível realizar uma avaliação detalhada que identifica não apenas os problemas de usabilidade, mas também fornece insights para melhorias contínuas no sistema.
+O método de classificação de cartões é altamente flexível e pode ser adaptado para diferentes contextos e grupos de usuários. Ele ajuda os designers a compreenderem as complexidades das necessidades do usuário, destacando temas comuns e áreas de interesse compartilhadas. Ao analisar os padrões emergentes nos dados classificados, os projetistas podem tomar decisões mais informadas durante o processo de design, priorizando recursos e funcionalidades que realmente importam para os usuários finais. Em última análise, o método de classificação de cartões promove uma abordagem centrada no usuário, resultando em produtos e sistemas de IHC mais eficazes e adequados às necessidades reais dos usuários.
 
 
 ## Referências bibliográficas
