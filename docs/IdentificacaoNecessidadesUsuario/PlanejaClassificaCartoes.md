@@ -58,6 +58,7 @@ Inicialmente deve serem selecionados um ou mais participantes cientes dos termos
 | Nome   | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados |
 |--------|-------------------------------|----------------|----------------|------------|------------|
 | Erika Iwakiri | Boa            | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|
+| Fernando Vela | Boa            | Sim | Feminino | Superior incompleto | Portugues, Espanhol|
 
 <center>
     <font size="2"><p style="text-align: center">Figura 2: Ciclo de vida em estrela</p></font>
