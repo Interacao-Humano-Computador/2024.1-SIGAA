@@ -33,10 +33,9 @@ Após a definição dos participantes e da data para a execução da atividade, 
  
  A figura 1 mostra a classificação feita pela participante. Sua escolha foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado a cada grupo por ela feito. 
 
-| Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
-|--------|---------------|----------------|----------------|----------------|------------|------------|------------|
-| Erika Iwakiri |  21    |    Boa    | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|01/05/2024|
-| Fernando Vela |  23    |     Boa   | Sim | Feminino | Superior incompleto | Portugues, Espanhol|01/05/2024|
+| Estágio e Pesquisa   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados |
+| Extensão |  21    |    Boa    | Sim | Feminino | Superior incompleto |
+| Fernando Vela |  23    |     Boa   | Sim | Feminino | Superior incompleto |
  
 ### Participante Fernando Vela
 
