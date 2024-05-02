@@ -20,17 +20,17 @@ Após a definição dos participantes e da data para a execução da atividade, 
 
 ## Resultados
 
-### Participante Erika Iwakiri
+### Participante Manuela Alcantara
 
 <center>
-  <font size="2"><p style="text-align: center">Figura 1: Grupos de Erika</p></font>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/CardsErika.jpeg">
+  <font size="2"><p style="text-align: center">Figura 1: Grupos de Manuela</p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/CardsManuela.jpeg">
     <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
  </center>
  
  A figura 1 mostra a classificação feita pela participante. Sua escolha foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado a cada grupo por ela feito. 
 
-<center><font size="2"><p style="text-align: center">Tabela 1: Itens e Títulos Erika</p></font></center>
+<center><font size="2"><p style="text-align: center">Tabela 1: Itens e Títulos Manuela</p></font></center>
 
 |Título escolhido|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|
 |-----|-----|-----|-----|-----|-----|-----|-----|
