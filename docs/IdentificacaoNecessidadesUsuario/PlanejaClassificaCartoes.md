@@ -55,6 +55,9 @@ Inicialmente deve serem selecionados um ou mais participantes cientes dos termos
 
 ## Quadro de participantes 
 
+| Nome   | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados |
+|--------|-------------------------------|----------------|----------------|------------|------------|
+| Erika Iwakiri | Boa            | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|
 
 <center>
     <font size="2"><p style="text-align: center">Figura 2: Ciclo de vida em estrela</p></font>
@@ -122,10 +125,5 @@ Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível 
 
 | Versão | Alteração                     | Responsável    | Revisor        | Data       |
 |--------|-------------------------------|----------------|----------------|------------|
-| 1.0    | Criação da base               | Bruno Araújo | Iago Passaglia | 06/04/2024 |
-| 1.1    |Adição da Figura e correção de erros | Iago Passaglia | Luana Medeiros | 06/04/2024 |
-| 1.2    |Adição do sumário | Pedro Augusto | Bruno Araújo | 07/04/2024 |
-| 1.3    |Adição dos demais modelos | Pedro Augusto | Bruno Araújo | 07/04/2024 |
-| 1.4    |Padronização e adição de citação da legenda de Figuras no texto | Luana Medeiros | Iago Passaglia | 11/04/2024 |
-| 1.5 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
+| 1.0    | Criação do documento          | Pedro Augusto  | -              | 01/05/2024 |
 
