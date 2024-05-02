@@ -36,7 +36,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 ## Termo de Consentimento
 
-Este link leva ao PDF do termo de consentimento assinado manualmente pelo Carlos Gabriel Cardoso Ramos.
+Este link leva para uma página que mostra do termo de consentimento assinado manualmente pelo Carlos Gabriel Cardoso Ramos.
 Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/CarlosGabriel.md) 
 
 
