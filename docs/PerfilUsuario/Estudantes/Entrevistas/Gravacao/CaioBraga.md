@@ -45,12 +45,16 @@ Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/Cai
 
 O vídeo 1 mostra a entrevista com o Caio Felipe Alves Braga
 
+vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com Caio Braga
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/mC1-75Od7Xo" title="IHC - Projeto sobre o SIGAA - Entrevista com Caio Braga" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=mC1-75Od7Xo) 
 
 ## Respostas
 
-Abaixo, há as respostas escritas dadas pelo Bruno durante a entrevista.
+Abaixo, há as respostas escritas dadas pelo Caio durante a entrevista.
 
 ### Nome
 Caio Felipe Alves Braga
@@ -66,7 +70,7 @@ Acredita ser uma experiência cheia de oportunidades.
 
 
 ### Antes da UnB, ou até mesmo durante a sua graduação atual, você fez algum outro curso? (Se sim, como era o site de lá, em questão de funcionalidade parecidas com o SIGAA?)
-Não.
+Ele não fez nenhum curso anteriormente.
 
 ### Quais são seus principais objetivos como estudante?
 - Aprender o máximo possível.
@@ -78,9 +82,9 @@ Não.
 - Realização de matrícula.
 
 ### Como você avalia a usabilidade do SIGAA?
-Terrível. A interface do SIGAA é “pré-histórica”. 
+Considera a usabilidade terrível. Acredita que a interface do SIGAA é “pré-histórica”. 
 
-Não tem responsividade no celular, pois não gosta da versão mobile e prefere usar a versão normal. 
+Pontuou que não tem responsividade no celular, pois não gosta da versão mobile e prefere usar a versão normal. 
        
 ### Você já usou as seguintes funcionalidades? Se sim, explique como foi a experiência:
 
@@ -118,7 +122,7 @@ Sim, já realizou algumas poucas vezes e acha razoável.
 Nunca utilizou.
 
 ##### Realização de matrícula 
-Sim, já realizou. Descreve uma situação problemática, principalmente no primeiro dia. 
+Sim, já realizou. Descreve uma situação problemática, principalmente na primeira vez. 
 
 ##### Retirada e trancamento de matrícula 
 Sim, já realizou a retirada e acha que a parte mais complicada é a parte de confirmação.
@@ -130,13 +134,13 @@ Sim, já realizou a retirada e acha que a parte mais complicada é a parte de co
 
 
 #### Você acredita que serial ideal ter um manual disponibilizado aos estudantes sobre o SIGAA?
-Sim, facilitaria muito a vida dos calouros.
+Sim, acredita que facilitaria muito a vida dos calouros.
 
 ### Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como? 
-Poderia ter um interface mais responsiva e melhorar a versão mobile.
+Acretida que poderia ter um interface mais responsiva e melhorar a versão mobile.
 
 ### Como você melhoraria a interface do Sigaa?
-Trocaria para um interface mais moderna.
+Ele trocaria para um interface mais moderna.
 
 ### Você tem alguma experiência específica no uso do SIGAA que gostaria de compartilhar? 
 Uma vez, tentou pegar uma matéria na época da extraordinária e na hora de confirmar, no momento de colocar a senha confirmando, o site caiu e ele perdeu a vaga.
