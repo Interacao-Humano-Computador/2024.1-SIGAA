@@ -8,7 +8,6 @@
 * [Análise dos resultados](#Análise-dos-resultados)
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
-* [Referências bibliográficas](#Referências)
 * [Histórico de versões](#Histórico-de-versões)
 
 ## Introdução
