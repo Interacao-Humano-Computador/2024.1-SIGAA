@@ -48,18 +48,13 @@ Os rótulos da Figura 2 (Estágio, Ensino, Extensão, Pesquisa, Pesquisa e Outro
 
 A figura 3 mostra qual a configuração atualmente utilizada pelo SIGAA quanto aos rótulos das opções e seus respectivos itens internos.
 
-### Procedimento
+## Procedimento
+
+Inicialmente deve serem selecionados um ou mais participantes cientes dos termos e condições da pesquisa e tomar nota de seus dados pessoais, como: nome, sua relação com a tecnologia, domínio e conhecimento do produto, sexo, grau de instrução, idiomas falados. Posteriormente, devem ser entregues aos participantes, os itens, sem ordem ou formação e deverá ser dito as instruções para o que fazer, ou seja, agrupar os itens de opções do site sigaa em grupos de quantidade variada de acordo com a impressão de semelhança entre eles. Após esta fase, o participante deve escolher um título para cada grupo, terminando aí sua participação.
 
 
-<center>
-  <font size="2"><p style="text-align: center">Figura 1: Ciclo de vida simples</p></font>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/Simples.png">
-    <font size="2"><p style="text-align: center">Fonte: [SlidePlayer](https://slideplayer.com.br/slide/13462698/).</p></font>
- </center>
+## Quadro de participantes 
 
-### Ciclo de vida em Estrela:
-No ciclo de vida em Estrela,como podemos ver na Figura 2, segundo Barbosa (2010, p. 104), o designer pode optar por onde começar a implementação. 
-Este modelo segue uma abordagem iterativa e flexível, sem uma sequência fixa de atividades, semelhante ao modelo genérico de design de interação humano-computador. De acordo com Barbosa (2010), a única condição é que, após a conclusão de cada atividade, o designer avalie os resultados para garantir sua adequação. As diferentes etapas do ciclo de vida em Estrela estão conectadas pela avaliação; para progredir de uma atividade para outra, é fundamental passar por esse processo de avaliação.
 
 <center>
     <font size="2"><p style="text-align: center">Figura 2: Ciclo de vida em estrela</p></font>
