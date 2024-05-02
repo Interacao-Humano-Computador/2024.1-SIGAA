@@ -35,7 +35,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 ## Termo de Consentimento
 
-Ao clicar no link, você será encaminhado para o pdf que mostra a termo de consentimento assinado pelo Isaque Santos
+Ao clicar no link, você será encaminhado para para uma página que mostra a termo de consentimento assinado pelo Isaque Santos
 Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/IsaqueSantos.md) 
 
 
@@ -43,11 +43,20 @@ Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/Isa
 
 O vídeo 1 mostra a entrevista com o Isaque Santos
 
+<center> 
+vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com o Isaque Santos
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/DqXTyF1JVHk" title="IHC - Projeto sobre o SIGAA - Entrevista com Estudante Isaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Fonte**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=DqXTyF1JVHk) 
 
 ## Respostas
 
-
+Abaixo há as respostas dadas por Isaque Santos
 
 ### Nome
 Isaque Santos
@@ -59,7 +68,7 @@ Engenharia de Software.
 Sexto semestre.
 
 ### Como você descreve a experiência como estudante da UnB?
-Até o momento, é uma boa experiência que proporcionou muitos conhecimentos, mas há momentos mais puxados. 
+Descreveu que até o momento, é uma boa experiência que proporcionou muitos conhecimentos, mas há momentos mais puxados. 
 
 ### Antes da UnB, ou até mesmo durante a sua graduação atual, você fez algum outro curso? (Se sim, como era o site de lá, em questão de funcionalidade parecidas com o SIGAA?)
 Não, essa é a sua primeira graduação.
@@ -124,16 +133,16 @@ Durante o período de matrícula extraordinária e das matrículas gerais.
 ### Você acredita que serial ideal ter um manual disponibilizado aos estudantes sobre o SIGAA?
 Sim, com certeza.
 
-Muitos calouros, nos primeiros dias de aulas, quando precisam acessar o SIGAA, por não terem onde consultar, eles precisam ir para a secretaria para tirar dúvidas.
+Pontuou que muitos calouros, nos primeiros dias de aulas, quando precisam acessar o SIGAA, por não terem onde consultar, eles precisam ir para a secretaria para tirar dúvidas.
 
 ### Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como? 
-Sim, melhorar o visual, pois muitas funções são escondidas, por exemplos, funções que para serem encontradas precisam ser acessadas várias abas. Então, o ideal seria ter uma interface mais direta.
+Sim, falou que é necessário melhorar o visual, pois muitas funções são escondidas, por exemplos, funções que para serem encontradas precisam ser acessadas várias abas. Então, o ideal seria ter uma interface mais direta.
        
 ### Como você melhoraria a interface do Sigaa?
-As funções mais relevantes mais expostas e mais fáceis de serem encontradas e colocaria um buscador para encontrar algumas funcionalidades com maior facilidade.
+Acredita ser necesário ter as funções mais relevantes mais expostas e mais fáceis de serem encontradas e colocaria um buscador para encontrar algumas funcionalidades com maior facilidade.
   
 ### Você tem alguma experiência específica no uso do SIGAA que gostaria de compartilhar? 
-Em relação à aba ensino, como é a mais utilizada por ele, ficaria mais exposta. 
+Em relação à aba ensino, como é a mais utilizada por ele, ficaria mais exposta, pois acha que dá trabalho para acessar.
 
 ## Conclusão
 A entrevista realizada com o Isaque Santos proporcionou uma perspectiva valiosa sobre o seu relacionamento com o Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA), o que permiriu identificar pontos que precisam ser melhorados no site.
