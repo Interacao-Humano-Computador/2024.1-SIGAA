@@ -70,7 +70,7 @@ Fisioterapia.
 No décimo semestre
 
 ### Como você descreve a experiência como estudante da UnB?
-Uma experiência variada, com momentos bons e ruins. Assim, foi experiência memorável de diversas maneiras.
+Pontou se uma experiência variada, com momentos bons e ruins. Assim, foi experiência memorável de diversas maneiras.
 
 
 ### Antes da UnB, ou até mesmo durante a sua graduação atual, você fez algum outro curso? (Se sim, como era o site de lá, em questão de funcionalidade parecidas com o SIGAA?)
