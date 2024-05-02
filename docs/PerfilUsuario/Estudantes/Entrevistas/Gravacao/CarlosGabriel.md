@@ -36,16 +36,26 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 ## Termo de Consentimento
 
-Este link leva ao PDF do termo de consentimento assinado digitalmente pelo GOV.br pelo Carlos Gabriel Cardoso Ramos.
+Este link leva ao PDF do termo de consentimento assinado manualmente pelo Carlos Gabriel Cardoso Ramos.
 Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/CarlosGabriel.md) 
 
 
 ## Gravação
 
-O vídeo 1 mostra a entrevista com o 
+O vídeo 1 mostra a entrevista com o Carlos Gabriel
 
+<center> 
+vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com Carlos Gabriel
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/q9ODmXPsXbc" title="IHC - Projeto sobre o SIGAA - Entrevista com Carlos Gabriel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Fonte**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+
+</center>
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=q9ODmXPsXbc) 
+
 
 ## Respostas
 
@@ -59,7 +69,7 @@ Engenharia de Software.
 Quinto semestre.
 
 ### Como você descreve a experiência como estudante da UnB?
-É uma experiência boa, porém desafiante. Por isso, é uma jornada que exige muita consistência para continuar nela.
+Acredita ser uma experiência boa, porém desafiante. Por isso é uma jornada que exige muita consistência para continuar nela.
 
 
 ### Antes da UnB, ou até mesmo durante a sua graduação atual, você fez algum outro curso? (Se sim, como era o site de lá, em questão de funcionalidade parecidas com o SIGAA?)
@@ -123,9 +133,8 @@ A falta de uma interface amigável, o que deixa o estudante apreensivo.
 
 Falta de exatidão de algumas funcionalidades.
 
-
 #### Você acredita que serial ideal ter um manual disponibilizado aos estudantes sobre o SIGAA?
-Um tutorial breve seria bom, mas não necessário.
+Acredita que um tutorial breve seria bom, mas não necessário.
 
 ### Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como? 
 Ele pode ser aprimorado, deixando as funcionalidades mais acessadas mais explicitas.
