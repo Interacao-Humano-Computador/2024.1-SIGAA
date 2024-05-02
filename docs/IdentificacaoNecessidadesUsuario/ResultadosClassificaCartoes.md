@@ -57,7 +57,7 @@ Após a definição dos participantes e da data para a execução da atividade, 
 |-----|-----|-----|-----|-----|
 | Eventos   | Inscrição online em ações de extensão | Mural de vagas | Congresso de iniciação científica | Projeto de pesquisa | 
 | Declarações |  Certificados e declarações | Emitir Carteirinha estudantil | Emitir histórico | Meus relatórios |
-| Aluno |  Coordenação de curso | Ambientes virtuais |  | Necessidades educacionais específicas | Avaliação Institucional |
+| Aluno |  Coordenação de curso | Ambientes virtuais | Avaliação Institucional | Necessidades educacionais específicas | 
 | Trabalho Junior |  Gerenciar estágios | Pré-cadastro de estágio | Visualizar resultados das inscrições | Consultar ações | 
 | Outros | Plano de Trabalho | Consultar minhas notas | Calendário Acadêmico | Certificados e declarações |
 
