@@ -34,6 +34,7 @@
      - [Avaliação Heurística](planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA.md)
 
 * Perfil de Usuário
+    * Professores
     * Estudantes
         * Entrevistas
             * Entrevistas Realizadas
@@ -44,5 +45,6 @@
                 - [Gabriel Rodrigo](PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielRodrigo.md)
                 - [Isaque Santos](PerfilUsuario/Estudantes/Entrevistas/Gravacao/IsaqueSantos.md)
                 - [Lavínia Inácia](PerfilUsuario/Estudantes/Entrevistas/Gravacao/LavíniaInácia.md)
+          * Análise dos resultados
              
       
