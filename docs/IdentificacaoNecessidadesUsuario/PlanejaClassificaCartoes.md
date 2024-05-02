@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Segundo Nielsen (2004)<sup>1</sup>, um erro nos sites e intranets é estruturar a informação baseado em como a empresa enxerga a sua informação. Uma importante técnica para indentificar as necessidades dos usuários relacionadas a facilidade de encontrar informações em um site, se chama card sorting ou classificação por cartões. Seu objetivo é aumentar a probabilidade do usuário encontrar um nó de informação quando estiver navegando.
+Segundo Nielsen (2004), um erro nos sites e intranets é estruturar a informação baseado em como a empresa enxerga a sua informação.<sup>1</sup> Uma importante técnica para indentificar as necessidades dos usuários relacionadas a facilidade de encontrar informações em um site, se chama card sorting ou classificação por cartões. Seu objetivo é aumentar a probabilidade do usuário encontrar um nó de informação quando estiver navegando.
 
 ## Metodologia
 
@@ -72,10 +72,13 @@ O método de Mayhew é adequado para a avaliação de sistemas complexos, como o
 Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível realizar uma avaliação detalhada que identifica não apenas os problemas de usabilidade, mas também fornece insights para melhorias contínuas no sistema.
 
 
-## Referências
+## Referências bibliográficas
 
-1. Fonte: Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
-2. Moodle EAD UNIPAR. Desenvolvendo Interfaces: 'O ciclo de vida em Estrela'. Disponível em < https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/unidade-ii.html#:~:text=O%20ciclo%20de%20vida%20em%20Estrela%20%C3%A9%20iterativo%20e%2C%20assim,verificar%20se%20ela%20%C3%A9%20satisfat%C3%B3ria > Acessado em 6 e 7 de abril de 2024.
+1. Nielsen, Jakob. Card sorting: How many users to test. Alertbox. Julho 2004.
+
+## Bibliografia
+
+
 
 ## Histórico de versões
 
