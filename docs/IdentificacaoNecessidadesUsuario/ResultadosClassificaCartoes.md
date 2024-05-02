@@ -1,4 +1,3 @@
-
 # Resultados da Classificação por Cartões
 
 ## Sumário 
@@ -26,7 +25,11 @@ Após a definição dos participantes e da data para a execução da atividade, 
 
 ### Participante Erika Iwakiri
 
-
+<center>
+  <font size="2"><p style="text-align: center">Figura 1: Grupos de Erika</p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsErika.jpeg">
+    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
+ </center>
 
 ### Itens
 
