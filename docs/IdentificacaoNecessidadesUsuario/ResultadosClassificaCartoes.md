@@ -33,11 +33,12 @@ Após a definição dos participantes e da data para a execução da atividade, 
  
  A figura 1 mostra a classificação feita pela participante. Sua escolha foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado a cada grupo por ela feito. 
 
-| Estágio e Pesquisa   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados |
-|-----|-----|-----|-----|-----|-----|-----|
-| Extensão |  21    |    Boa    | Sim | Feminino | Superior incompleto |
-| Fernando Vela |  23    |     Boa   | Sim | Feminino | Superior incompleto |
- 
+| Estágio e Pesquisa   | Projeto de pesquisa | Plano de trabalho | Congresso de iniciação científica | Pré-cadastro de estágio | Gerenciar estágios | Mural de vagas ||
+|-----|-----|-----|-----|-----|-----|-----|-----|
+| Extensão |  Inscrição online em ações de extensão    | Visualizar resultados das inscrições | Certificados e declarações |  |  | |
+| Curso |  Coordenação de curso | Avaliação institucional  | Ambientes virtuais | Necessidades educacionais específicas |   |  |
+| Estudante |  Meus relatórios | Consultar minhas notas | Emitir histórico | Consultar ações | Calendário acadêmico | Certificados e declarações | Emitir Carteirinha estudantil | |
+
 ### Participante Fernando Vela
 
 <center>
