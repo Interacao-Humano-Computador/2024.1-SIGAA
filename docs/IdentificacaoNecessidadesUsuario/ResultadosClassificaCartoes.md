@@ -53,13 +53,8 @@ Após a definição dos participantes e da data para a execução da atividade, 
 
 <center><font size="2"><p style="text-align: center">Tabela 2: Itens e Títulos Fernando</p></font></center>
 
-|Título escolhido|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| Eventos   | Projeto de pesquisa | Plano de trabalho | Congresso de iniciação científica | Pré-cadastro de estágio | Gerenciar estágios | Mural de vagas ||
-| Declarações |  Inscrição online em ações de extensão    | Visualizar resultados das inscrições | Certificados e declarações |  |  | | |
-| Aluno |  Coordenação de curso | Avaliação institucional  | Ambientes virtuais | Necessidades educacionais específicas |   |  | |
-| Trabalho Junior |  Meus relatórios | Consultar minhas notas | Emitir histórico | Consultar ações | Calendário acadêmico | Certificados e declarações | Emitir Carteirinha estudantil |
-
+|Título escolhido|Item do grupo|Item do grupo|Item do grupo|Item do grupo|
+|-----|-----|-----|-----|-----|
 | Eventos   | Inscrição online em ações de extensão | Mural de vagas | Congresso de iniciação científica | Projeto de pesquisa | 
 | Declarações |  Certificados e declarações | Emitir Carteirinha estudantil | Emitir histórico | Meus relatórios |
 | Aluno |  Coordenação de curso | Ambientes virtuais |  | Necessidades educacionais específicas | Avaliação Institucional |
