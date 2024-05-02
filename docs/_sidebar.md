@@ -49,5 +49,6 @@
                 - [Lavínia Inácia](PerfilUsuario/Estudantes/Entrevistas/Gravacao/LavíniaInácia.md)
           -  Análise dos resultados
       * Brainstorm
-      * Estudo de Campo  
+      * Estudo de Campo
+      * Clasificação de Cartões  
     * Técnicos
