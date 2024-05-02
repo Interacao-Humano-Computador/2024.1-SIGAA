@@ -32,12 +32,12 @@ Após a definição dos participantes e da data para a execução da atividade, 
 
 <center><font size="2"><p style="text-align: center">Tabela 1: Itens e Títulos</p></font></center>
 
-|Título escolhido|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Título escolhido|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|
+|-----|-----|-----|-----|-----|-----|-----|-----|
 | Estágio e Pesquisa   | Projeto de pesquisa | Plano de trabalho | Congresso de iniciação científica | Pré-cadastro de estágio | Gerenciar estágios | Mural de vagas ||
-| Extensão |  Inscrição online em ações de extensão    | Visualizar resultados das inscrições | Certificados e declarações |  |  | |
-| Curso |  Coordenação de curso | Avaliação institucional  | Ambientes virtuais | Necessidades educacionais específicas |   |  |
-| Estudante |  Meus relatórios | Consultar minhas notas | Emitir histórico | Consultar ações | Calendário acadêmico | Certificados e declarações | Emitir Carteirinha estudantil | |
+| Extensão |  Inscrição online em ações de extensão    | Visualizar resultados das inscrições | Certificados e declarações |  |  | | |
+| Curso |  Coordenação de curso | Avaliação institucional  | Ambientes virtuais | Necessidades educacionais específicas |   |  | |
+| Estudante |  Meus relatórios | Consultar minhas notas | Emitir histórico | Consultar ações | Calendário acadêmico | Certificados e declarações | Emitir Carteirinha estudantil |
 
 <center><font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font></center>
 
