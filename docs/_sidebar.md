@@ -36,6 +36,7 @@
 * Perfil de Usuário
     * Professores
     * Estudantes
+        * Questionário
         * Entrevistas
             - Planejamento
             * Entrevistas Realizadas
@@ -47,5 +48,6 @@
                 - [Isaque Santos](PerfilUsuario/Estudantes/Entrevistas/Gravacao/IsaqueSantos.md)
                 - [Lavínia Inácia](PerfilUsuario/Estudantes/Entrevistas/Gravacao/LavíniaInácia.md)
           -  Análise dos resultados
-             
-      
+      * Brainstorm
+      * Estudo de Campo  
+    * Técnicos
