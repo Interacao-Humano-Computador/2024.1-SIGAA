@@ -18,11 +18,20 @@ Estudo de campo é uma técnica de Identificação	de	Necessidades	dos	Usuários
 
 ## Metodologia
 
-A técnica escolhida para identificar as necessidades relacionadas a IHC do site SIGAA, foi a de Estudo de Campo com observação pura, onde não há interação entre o pesquisador que irá fazer a análise e o participante, de forma a não existir possíveis tendências por parte do pesquisador e a atividade seja mais isenta. O número de participantes escolhido para realizar o estudo individualmente foi de três, para que se possa ter parâmetros de comparação quando realizar a análise. Os locais escolhidos para a realização da tarefa foram de costume para cada participante. Também foram feitas perguntas iniciais sobre cada candidato, como: seu nome,
+A técnica escolhida para identificar as necessidades relacionadas a IHC do site SIGAA, foi a de Estudo de Campo com observação pura, onde não há interação entre o pesquisador que irá fazer a análise e o participante, de forma a não existir possíveis tendências por parte do pesquisador e a atividade seja mais isenta. O número de participantes escolhido para realizar o estudo individualmente foi de três, para que se possa ter parâmetros de comparação quando realizar a análise. Os locais escolhidos para a realização da tarefa foram de costume para cada participante. Também foram feitas perguntas iniciais sobre cada candidato, como: seu nome, idade, sua relação com a tecnologia, domínio e conhecimento do produto, sexo, grau de instrução e idiomas falados.
 
-### Itens
+## Quadro de participantes 
 
-Os itens escolhidos são as opões de Consultar minhas notas, Emitir histórico, Avaliação institucional, Calendário acadêmico, Emitir Carteirinha estudantil, Plano de trabalho, Certificados e declarações, Projeto de pesquisa, Congresso de iniciação científica, Consultar ações, Meus relatórios, Certificados e declarações, Visualizar resultados das inscrições, Inscrição online em ações de extensão, Mural de vagas, Pré-cadastro de estágio, Gerenciar estágios, Ambientes virtuais, Coordenação de curso e Necessidades educacionais específicas. Todos estão disponíveis na página principal do SIGAA.
+<p align="center"> Tabela 1. Quadro de participantes </p>
+
+| Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
+|--------|---------------|----------------|----------------|----------------|------------|------------|------------|
+| Erika Iwakiri |  21    |    Boa    | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|01/05/2024|
+| Fernando Vela |  23    |     Boa   | Sim | Feminino | Superior incompleto | Portugues, Espanhol|01/05/2024|
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
+
+A tabela 1, trás os participantes escolhidos para a atividade, assim como seus dados pessoais e a data de quando deverá ser feita a aplicação com cada um.
 
 <center>
   <font size="2"><p style="text-align: center">Figura 1: Itens</p></font>
@@ -50,21 +59,6 @@ A figura 3 mostra qual a configuração atualmente utilizada pelo SIGAA quanto a
 
 ## Procedimento
 
-Inicialmente deve serem selecionados um ou mais participantes cientes dos termos e condições da pesquisa e tomar nota de seus dados pessoais, como: nome, idade, sua relação com a tecnologia, domínio e conhecimento do produto, sexo, grau de instrução, idiomas falados. Posteriormente, devem ser entregues aos participantes, os itens, sem ordem ou formação e deverá ser dito as instruções para o que fazer, ou seja, agrupar os itens de opções do site sigaa em grupos de quantidade variada de acordo com a impressão de semelhança entre eles. Após esta fase, o participante deve escolher um título para cada grupo, terminando aí sua participação.
-
-
-## Quadro de participantes 
-
-<p align="center"> Tabela 1. Quadro de participantes </p>
-
-| Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
-|--------|---------------|----------------|----------------|----------------|------------|------------|------------|
-| Erika Iwakiri |  21    |    Boa    | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|01/05/2024|
-| Fernando Vela |  23    |     Boa   | Sim | Feminino | Superior incompleto | Portugues, Espanhol|01/05/2024|
-
-<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
-
-A tabela 1, trás os participantes escolhidos para a atividade, assim como seus dados pessoais e a data de quando deverá ser feita a aplicação com cada um.
 
 ## Motivos para a escolha
 
