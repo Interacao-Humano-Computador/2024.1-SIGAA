@@ -35,7 +35,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 ## Termo de Consentimento
 
-Ao clicar no link, você será encaminhado para o pdf que mostra a termo de consentimento assinado 
+Ao clicar no link, você será encaminhado para uma página que mostra a termo de consentimento assinado 
 Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/LavíniaInacia.md) 
 
 
@@ -43,11 +43,18 @@ Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/Lav
 
 O vídeo 1 mostra a entrevista com Lavínia Inácia Mota
 
+<center> 
+vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com Lavínia Inácia
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/nGgVrt7ZtSA" title="IHC - Projeto SIGAA - Entrevista com estudante Lavínia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Fonte**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=nGgVrt7ZtSA) 
 
 ## Respostas
-
-
 
 ### Nome
 Lavínia Inácia Mota
@@ -59,7 +66,7 @@ Biotecnologia.
 Se formou neste ano, no semestre 2023.2. Se formou após 10 semestres de curso.
 
 ### Como você descreve a experiência como estudante da UnB?
-Foi uma experiência conturbada devido à pandemia, mas foi uma experiência boa no final.
+Declarou que foi uma experiência conturbada devido à pandemia, mas foi uma experiência boa no final.
       
 A experiência na UnB foi boa em quesito social. Contudo, algumas coisas não gostou, por exemplo, o RU. Além disso, também achou que o currículo do curso de biotecnologia e como a maioria dos professores conduziu as disciplinas são menos que satisfatórios. 
 
