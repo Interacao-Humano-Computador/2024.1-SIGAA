@@ -55,16 +55,12 @@ Inicialmente deve serem selecionados um ou mais participantes cientes dos termos
 
 ## Quadro de participantes 
 
-| Nome   | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados |
-|--------|-------------------------------|----------------|----------------|------------|------------|
-| Erika Iwakiri | Boa            | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|
-| Fernando Vela | Boa            | Sim | Feminino | Superior incompleto | Portugues, Espanhol|
+| Nome   | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
+|--------|-------------------------------|----------------|----------------|------------|------------|------------|
+| Erika Iwakiri | Boa            | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|01/05/2024|
+| Fernando Vela | Boa            | Sim | Feminino | Superior incompleto | Portugues, Espanhol|01/05/2024|
 
-<center>
-    <font size="2"><p style="text-align: center">Figura 2: Ciclo de vida em estrela</p></font>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/Estrela.png">
-    <font size="2"><p style="text-align: center">Fonte: [SlidePlayer](https://slideplayer.com.br/slide/13462698/).</p></font>
- </center>
+
 
 ### Engenharia de Usabilidade de Nielsen:
 De acordo com as palavras de Nielsen (1993), a engenharia de usabilidade compreende uma série de atividades que se desenrolam ao longo de todo o ciclo de vida do produto, embora muitas delas ocorram mesmo antes do projeto da interface com o usuário ser elaborado. Barbosa (2010, p. 104) menciona que Nielsen apresenta o seguinte conjunto de atividades em seu ciclo de vida:
