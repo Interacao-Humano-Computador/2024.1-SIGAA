@@ -2,13 +2,14 @@
 
 ## Sumário 
 * [Introdução](#Introdução)
-* [Sobre o estudo](#Sobre-o-estudo)
-* [Modelos](#Modelos)
-* [Da metodologia](#Da-metodologia)
-* [Análise de Requisitos](#Análise-de-Requisitos)
+* [Metodologia](#Metodologia)
+* [Procedimento](#Procedimento)
+* [Quadro de participantes](#Quadro-de-participantes)
+* [Motivos para a escolha](#Motivos-para-a-escolha)
 * [Design, Avaliação e Desenvolvimento](#Design-Avaliação-e-Desenvolvimento)
 * [Instalação](#Instalação)
-* [Motivos para a escolha](#Motivos-para-a-escolha) 
+* [Motivos para a escolha](#Motivos-para-a-escolha)
+* [Bibliografia](#Bibliografia)
 * [Referências bibliográficas](#Referências)
 * [Histórico de versões](#Histórico-de-versões)
 
