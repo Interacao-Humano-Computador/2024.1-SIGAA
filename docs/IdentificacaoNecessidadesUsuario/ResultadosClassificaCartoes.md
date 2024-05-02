@@ -27,13 +27,18 @@ Após a definição dos participantes e da data para a execução da atividade, 
 
 <center>
   <font size="2"><p style="text-align: center">Figura 1: Grupos de Erika</p></font>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsErika.jpeg">
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/CardsErika.jpeg">
     <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
  </center>
+ 
+ A figura 1 mostra a classificação feita pela participante. Sua escolha foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado a cada grupo por ela feito. 
 
-### Itens
-
-Os itens escolhidos são as opões de Consultar minhas notas, Emitir histórico, Avaliação institucional, Calendário acadêmico, Emitir Carteirinha estudantil, Plano de trabalho, Certificados e declarações, Projeto de pesquisa, Congresso de iniciação científica, Consultar ações, Meus relatórios, Certificados e declarações, Visualizar resultados das inscrições, Inscrição online em ações de extensão, Mural de vagas, Pré-cadastro de estágio, Gerenciar estágios, Ambientes virtuais, Coordenação de curso e Necessidades educacionais específicas. Todos estão disponíveis na página principal do SIGAA.
+| Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
+|--------|---------------|----------------|----------------|----------------|------------|------------|------------|
+| Erika Iwakiri |  21    |    Boa    | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|01/05/2024|
+| Fernando Vela |  23    |     Boa   | Sim | Feminino | Superior incompleto | Portugues, Espanhol|01/05/2024|
+ 
+### Participante Fernando Vela
 
 <center>
   <font size="2"><p style="text-align: center">Figura 1: Itens</p></font>
