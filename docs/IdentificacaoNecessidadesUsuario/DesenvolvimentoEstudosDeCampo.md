@@ -16,6 +16,7 @@ O Estudo de campo é uma técnica fundamental para entender as necessidades do u
 
 ## Desenvolvimento
 
+A técnica foi desenvolvida no ambiente de costume de cada participante, em sua maioria, em casa, de forma a proporcionar maior confiança entre os participantes durante a gravação. Foram apresentados os termos e condições 
 
 ## Resultados
 ### Participante Erika Iwakiri
