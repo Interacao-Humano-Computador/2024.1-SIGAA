@@ -106,17 +106,18 @@ Ele ama o trabalho que faz, e o desempenha com carinho.
 
 ### Como foi o processo de quando começou a usar o SIGAA?
 - Inicialmente tinha um sistema conhecido como SIGRA que funcionava paralelamente com o SIGAA em 2019. Após isso apenas o SIGAA estaria sendo usado como sistema.
-- Fez um curso com a duração de uma semana.
-- Ele considera o SIGAA um sistema completo, porém não muito prático.
+- Fez um curso com a duração de uma semana, porém não foi possível aprender tudo, acabando dependendo do tempo de prática do usuário.
+- Ele considera o SIGAA um sistema completo, porém não muito prático, ao contrário do SIGRA. Por exemplo, quando algo dava errado, dava para corrigir rápido no SIGRA, já o SIGAA é mais complexo.
+- O SIGAA permite uma verificação de dados bem completa.
 
 ### Há quanto tempo o senhor utiliza o SIGAA?
 Ele trabalha com o SIGAA desde a sua implantação em 2019.
     
     O senhor recebeu algum manual ou treinamento antes de utilizar o SIGAA?
     Quais funcionalidades do SIGAA você utiliza com mais frequência em suas atividades? 
-    O SIGAA atende às suas necessidades em termos de organização e comunicação? Por quê? 
     Na sua experiência, quais são os maiores desafios enfrentados pelos técnicos no uso do SIGAA? 
-    Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como? 
+    Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como?
+    
     Você tem alguma experiência específica no uso do SIGAA que gostaria de compartilhar? 
     Gostaria de complementar a entrevista com algo a mais?
 
