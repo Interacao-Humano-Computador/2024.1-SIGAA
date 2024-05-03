@@ -117,38 +117,27 @@ Até o momento, não utilizou.
 #### Consulta de nota e frequência
 Sim, tranquilamente. Ela acessa por meio do acesso direto as disciplinas na página inicial, 
 que leva à página inicial da disciplina escolhida, depois vai na aba "Estudantes" e finalmente indo no botão
-"Ver Notas".
-
----------------------------------------------------------------------------------------------------------------------
+"Ver Notas". 
 
 #### Emissão de documentos (Histórico e Declaração de vínculo)
-Sim, já emitiu. Todos por meio do botão de ensino e considera um processo simples, pois ao clicar em um botão, o PDF já é instalado.
-
-Acredita que seria interessante ter um menu de opções de mais usados, pois o processo seria mais rápido.
+Sim, já emitiu. Ela teve dificuldades na primeira vez e precisou de ajuda de outra pessoa, porém após isso, ela considera um processo fácil. Todos por meio do botão de ensino, pois ao clicar em um botão, o PDF já é baixado.
 
 #### Avaliação Institucional 
-
-Sim, já realizou. Mas como os campos ficam bem juntinhos uns com os outros, considera que é bem fácil de cometer algum erro.
+Sim, já realizou. E considera um processo tranquilo pois é intuitivo.
 
 ##### Consulta de resultado da Avaliação Institucional 
 Não, nunca consultou.
 
 ##### Realização de matrícula 
-Em relação de fazer a matrícula das matérias ele considera um processo elaborado, pois há as opções matérias disponíveis e ao clicar é possível selecionar as opções. Então é possível adicionar e confirmar.
+Sim, e todas as vezes que fez achou tranquilo. Vendo que há as opções de matérias disponíveis e ao clicar é possível selecionar as opções. Então é possível adicionar e confirmar.
                
-Como ele é dá área de software, então acha tranquilo mexer com isso. 
-  
 ##### Retirada e trancamento de matrícula 
-Já retirou retirada, mas nunca trancamento. 
-
-Ele também considera a retirada um processo tranquilo de fazer para quem já está acostumado com o SIGAA.
+Não, nunca realizou.
 
 ### Na sua opinião, quais são os maiores desafios enfrentados pelos estudantes no uso do SIGAA? 
-
-Um problema grande que os estudantes estavam enfrentando algum tempo atrás era a dificuldade para ver o seu saldo no RU, mas já implementaram essa função.
-
-Um problema atual é a questão da interface na versão mobile.
-
+Achar o que procura na primeira vez que acessar o site, pois não é fácil e necessita de alguém para ensinar. Mas
+após isso é tranquilo.
+--------------------------------------------------------------------------------------------------------------------
 #### Você acredita que serial ideal ter um manual disponibilizado aos estudantes sobre o SIGAA?
 Acredita que ter um manual seria muito interessante para os calouros. Iria ajudá-los bastante.
 
