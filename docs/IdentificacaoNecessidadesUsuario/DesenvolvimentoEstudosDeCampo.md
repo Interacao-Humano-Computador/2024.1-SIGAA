@@ -19,9 +19,8 @@ O Estudo de campo é uma técnica fundamental para entender as necessidades do u
 A técnica foi desenvolvida no ambiente de costume de cada participante, em sua maioria, em casa, de forma a proporcionar maior confiança entre os participantes durante a gravação. Foram apresentados os termos e condições para gravação e postagem do video feito e logo após, a tarefa em sí. A seguir, veremos com mais detalhes as atividades realizadas por cada participante.
 
 ### Participante Erika Iwakiri
-A gravação da obeservação do uso do site Sigaa feita com a participante está no link: <a href="https://youtu.be/FYpaXzHjM_Q">Gravação Erika</a>
-
-## Análise dos resultados
+A gravação da observação do uso do site Sigaa feita com a participante está no link: <a href="https://youtu.be/FYpaXzHjM_Q">Gravação Erika</a>
+As ações realizadas pela participante foram: Login, Pular mensagens iniciais, Estágio e Mural de vagas, Entrou em uma turma e frequência da turma, Consultar minhas notas, Sair. 
 
 
 ## Conclusão
