@@ -137,22 +137,19 @@ Não, nunca realizou.
 ### Na sua opinião, quais são os maiores desafios enfrentados pelos estudantes no uso do SIGAA? 
 Achar o que procura na primeira vez que acessar o site, pois não é fácil e necessita de alguém para ensinar. Mas
 após isso é tranquilo.
---------------------------------------------------------------------------------------------------------------------
+
 #### Você acredita que serial ideal ter um manual disponibilizado aos estudantes sobre o SIGAA?
-Acredita que ter um manual seria muito interessante para os calouros. Iria ajudá-los bastante.
+Sim, acha que seria bom porque principalmente pros cauloros é mais difícil achar o que deseja.
 
 ### Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como? 
-- Uma questão que poderia ser feita é melhorar a questão de segurança, pois é relativamente fácil alguém conseguir a matrícula e a senha de um usuário.
-- Melhoraria o design do site, pois ele pensa que está bem ultrapassado. 
+- Ela acha que o site poderia ser mais intuitivo e organizado.
+- Poderia ter ícones maiores.
 
 ### Como você melhoraria a interface do Sigaa?
-- Adicionar um menu de acesso rápido. 
-- Melhoraria os botões.
-- Adicionar mais acessibilidade para deficientes visuais e auditivos.
-- Implementar um com modo escuro e claro.
+- Menus e fontes maiores.
 
 ### Você tem alguma experiência específica no uso do SIGAA que gostaria de compartilhar? 
-No momento em que se vê o detalhe de uma disciplina durante a realização da matrícula, pode ser que a descrição seja totalmente aleatória. 
+Não, pois não lembra.
 
 ## Conclusão
 
