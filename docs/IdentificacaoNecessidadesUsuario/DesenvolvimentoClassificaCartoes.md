@@ -1,4 +1,4 @@
-# Resultados da Classificação por Cartões
+# Desenvolvimento da Classificação por Cartões
 
 ## Sumário 
 * [Introdução](#Introdução)
