@@ -144,7 +144,7 @@ Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do no
 | Funcionalidade | Responsável |
 | -------------------- | ------------------ | 
 | Adesão de Cadastro Único | Breno Alexandre |
-| Declaração de Discente Prioritário | Breno Alexandre |
+| Gerenciamento da conta no RU | Breno Alexandre |
 | Solicitação de Bolsas | Bruno Cunha |
 | Declaração de Bolsista | Bruno Cunha |
 | Pré-Cadastro de estágio | Iago Passaglia |
@@ -185,5 +185,6 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 | 1.3    | Correção de erros ortográficos                                  | Pedro Augusto   | Bruno Araújo    | 07/04/2024 |
 | 1.4    | Refatoração do histórico de versionamento                       | Breno Alexandre | Larissa Stéfane | 07/04/2024 |
 | 1.5    | Adição e verificação das funcionalidades que serão estudadas    | Larissa Stéfane | Breno Alexandre | 07/04/2024 |
+| 1.5    | Altera funcionalidade que será estudada por Breno Alexandre     | Breno Alexandre | - | 03/05/2024 |
 | 1.6    | Padronização e adição de citação da legenda de Figuras no texto | Luana Medeiros | Iago Passaglia | 11/04/2024 |
 | 1.7    | Correção das legendas das figuras para norma ABNT | Iago Passaglia | - | 11/04/2024 |
