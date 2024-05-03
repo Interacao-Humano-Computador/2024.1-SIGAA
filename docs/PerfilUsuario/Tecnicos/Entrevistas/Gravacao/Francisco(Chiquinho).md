@@ -74,21 +74,43 @@ Secretário de Graduação da FGA/UnB.
 ### Concorda com os termos de consentimento lidos previamente?
 Sim, concordo com os termos.
 
+### Como é o seu trabalho? Quais atividades você realiza com mais frequência no geral?
+Realiza praticamente tudo, tem o controle de tudo na FGA e sabe de todos os serviços, podendo até substituir os
+funcionários dele caso necessário. E após completar cada serviço ele encaminha o despacho para o coordenador aprovar. Alguns desses serviços:
+- Ajudar os estudantes no que for necessário.
+- Matrículas dos discentes.
+- Encaminhamentos dos TCC para a biblioteca.
+- Atividades complementares.
+- Monitorias.
+- Supervisão dos equipamentos, das salas de aula, do auditório e banheiros.
+- Controle de material como café, apagador, giz, pen drives etc.
+
+Também tem acesso à:
+- As disciplinas mínimas que o estudante tem que fazer por semestre.
+- Possíveis formandos.
+- As disciplinas que o discente pode ter dispensa ou aproveitamento.
+
+Francisco desempenha seu trabalho com tranquilidade e faz com amor.
+
+### Há quanto tempo trabalha na UnB?
 
 
-3. Como é o seu trabalho? Quais atividades você realiza com mais frequência no geral?
-    4. Há quanto tempo trabalha na UnB?
+
+
+
+    Como é o seu trabalho? Quais atividades você realiza com mais frequência no geral?
+    Há quanto tempo trabalha na UnB?
     5. Antes da UnB, trabalhou em outra instituição de ensino? Se sim, como era o sistema acadêmico de lá (site com as mesmas funcionalidades do SIGAA)?
-    6. Como relata a sua experiência como técnico na UnB?
-    7. Como foi o processo de quando começou a usar o SIGAA?
-    8. Há quanto tempo o senhor utiliza o SIGAA?
-    9. O senhor recebeu algum manual ou treinamento antes de utilizar o SIGAA?
-    10. Quais funcionalidades do SIGAA você utiliza com mais frequência em suas atividades? 
-    11. O SIGAA atende às suas necessidades em termos de organização e comunicação? Por quê? 
-    12. Na sua experiência, quais são os maiores desafios enfrentados pelos técnicos no uso do SIGAA? 
-    13. Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como? 
-    14. Você tem alguma experiência específica no uso do SIGAA que gostaria de compartilhar? 
-    15. Gostaria de complementar a entrevista com algo a mais?
+    Como relata a sua experiência como técnico na UnB?
+    Como foi o processo de quando começou a usar o SIGAA?
+    Há quanto tempo o senhor utiliza o SIGAA?
+    O senhor recebeu algum manual ou treinamento antes de utilizar o SIGAA?
+    Quais funcionalidades do SIGAA você utiliza com mais frequência em suas atividades? 
+    O SIGAA atende às suas necessidades em termos de organização e comunicação? Por quê? 
+    Na sua experiência, quais são os maiores desafios enfrentados pelos técnicos no uso do SIGAA? 
+    Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como? 
+    Você tem alguma experiência específica no uso do SIGAA que gostaria de compartilhar? 
+    Gostaria de complementar a entrevista com algo a mais?
 
 ## Conclusão
 
