@@ -24,7 +24,7 @@ As ações realizadas pela participante foram: Login, Pular mensagens iniciais, 
 
 
 ## Conclusão
-
+O experimento foi realizado sem maiores dificuldades por parte dos participantes, sendo feito de maneira imparcial e verídica. O desenvolvimento se deu de maneira clara, dando possibilidade para uma análise correta quando a usabilidade do site.
 
 ## Bibliografia
 
