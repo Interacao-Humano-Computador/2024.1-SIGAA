@@ -16,9 +16,7 @@ Segundo Nielsen (2004), um erro nos sites e intranets é estruturar a informaç�
 
 ## Desenvolvimento
 
-Após a definição dos participantes e da data para a execução da atividade, foi discutivo a cerca do termo de consentimento e das condições do experimento. Sendo assim, foram entregues as "cartas" referentes aos itens do Sigaa de maneira individual para que fossem agrupadas. Após esta etapa, cada participante titulou os grupos criados. Adiante, veremos os resultados da atividade.
-
-## Resultados
+Após a definição dos participantes e da data para a execução da atividade, foi discutivo a cerca do termo de consentimento e das condições do experimento. Sendo assim, foram entregues as "cartas" referentes aos itens do Sigaa de maneira individual para que fossem agrupadas. Após esta etapa, cada participante titulou os grupos criados. Adiante, veremos mais detalhes sobre a aplicação de cada participante.
 
 ### Participante Manuela Alcantara
 
@@ -28,7 +26,7 @@ Após a definição dos participantes e da data para a execução da atividade, 
     <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
  </center>
  
- A figura 1 mostra a classificação feita pela participante. Sua escolha foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado a cada grupo por ela feito. 
+ A figura 1 mostra a classificação feita pela participante. A tarefa foi realizada de maneira remota e com instruções iniciais claras sobre como deveria ser feito, para que não houvesse nenhuma obstrução por parte do pesquisador durante a atividade. A escolha da participante foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado e cada grupo por ela feito. 
 
 <center><font size="2"><p style="text-align: center">Tabela 1: Itens e Títulos Manuela</p></font></center>
 
@@ -49,7 +47,7 @@ Após a definição dos participantes e da data para a execução da atividade, 
     <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
  </center>
  
- A figura 2 mostra a classificação feita pelo participante. Sua escolha foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado a cada grupo por ele feito. 
+ A figura 2 mostra a classificação feita pelo participante. A tarefa foi realizada de maneira remota e com instruções iniciais claras sobre como deveria ser feito, para que não houvesse nenhuma obstrução por parte do pesquisador durante a atividade. Sua escolha foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado e cada grupo por ele feito. 
 
 <center><font size="2"><p style="text-align: center">Tabela 2: Itens e Títulos Fernando</p></font></center>
 
@@ -63,12 +61,8 @@ Após a definição dos participantes e da data para a execução da atividade, 
 
 <center><font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font></center>
 
-
-## Análise dos resultados
-
-
 ## Conclusão
-
+O experimento foi realizado sem maiores problemas. Os candidatos compreenderam as instruções e fizeram suas classificações de maneira impassível e pessoal. Assim, será possível fazer a análise correta dos resultados obtidos.
 
 ## Referências bibliográficas
 
