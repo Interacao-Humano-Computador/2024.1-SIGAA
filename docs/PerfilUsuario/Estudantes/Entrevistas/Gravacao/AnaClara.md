@@ -65,47 +65,42 @@ Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch
 Abaixo, há as respostas escritas dadas pela Ana durante a entrevista.
 
 ### Nome
-Bruno Martins Valerio Bomfim
+Ana Clara Rosário Silva
 
 ### Qual o seu curso?
-Engenharia de Software.
+Relações Internacionais na UnB.
 
 ### Em qual semestre você se encontra?
-Sétimo semestre.
+Terceiro semestre.
 
 ### Como você descreve a experiência como estudante da UnB?
-
-No geral, considera uma experiência boa, pois as disciplinas são boas, os professores detém bastante conhecimento e o material bibliográfico também é ótimo. Todos os cursos têm os seus problemas, mas no geral, o curso tem um saldo positivo.
+Boa, satisfatória.
 
 ### Antes da UnB, ou até mesmo durante a sua graduação atual, você fez algum outro curso? (Se sim, como era o site de lá, em questão de funcionalidade parecidas com o SIGAA?)
-
-Sim, cursou inglês e francês no CIL (Centro de Integrações de Línguas). Além disso, atualmente, cursa piano erudito na escola de música.
-
-Na Escola de Música de Brasília, durante a pandemia, eles utilizaram um moodle como site de integração, porém, com o retorno presencial, não foi mais utilizado.
-
-No CIL, tinha um sistema onde podia acessar as notas.
+Não.
 
 ### Quais são seus principais objetivos como estudante?
-Obter conhecimento teórico na faculdade e prático com a experiência na área.
+Me formar bem e conseguir um conseguir um emprego depois da faculdade.
 
 ### Quais funcionalidades do SIGAA você utiliza com mais frequência em suas atividades?
 - Fazer matrícula no início do semestre.
-- Verificar horário de turma e dos professores.
-- Conferir as notas e realizar a revisão de menção.
+- Verificar frequência nas disciplinas.
+- Verificar notas nas disciplinas.
+- Consultar histórico do discente.
 
 ### Como você avalia a usabilidade do SIGAA?
-Consegue realizar todas as funções que satisfazem as suas necessidades, porém, considera a interface do site muito brega. 
+Ele é fácil de usar e intuitivo. Nunca tive dificuldades pelo menos.
 
 ### Você já usou as seguintes funcionalidades? Se sim, explique como foi a experiência:
 
 #### Adesão de Cadastro Único 
-Até o momento, não utilizou.
+Já. Foi fácil fazer.
 
 #### Declaração de Discente Prioritário
 Até o momento, não utilizou.
 
 #### Solicitação de Bolsas 
-Até o momento, não utilizou.
+Já, pra alguns auxílios. Foi tranquilo, fácil de achar.
 
 #### Declaração de Bolsista
 Até o momento, não utilizou.
@@ -120,7 +115,11 @@ Até o momento, não utilizou.
 Até o momento, não utilizou.
 
 #### Consulta de nota e frequência
-Sim, todo semestre. Ele acessa por meio do botão de ensino que leva à “minhas notas” ou emite o histórico de estudante.
+Sim, tranquilamente. Ela acessa por meio do acesso direto as disciplinas na página inicial, 
+que leva à página inicial da disciplina escolhida, depois vai na aba "Estudantes" e finalmente indo no botão
+"Ver Notas".
+
+---------------------------------------------------------------------------------------------------------------------
 
 #### Emissão de documentos (Histórico e Declaração de vínculo)
 Sim, já emitiu. Todos por meio do botão de ensino e considera um processo simples, pois ao clicar em um botão, o PDF já é instalado.
