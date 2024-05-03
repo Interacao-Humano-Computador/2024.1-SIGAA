@@ -93,17 +93,25 @@ Também tem acesso à:
 Francisco desempenha seu trabalho com tranquilidade e faz com amor.
 
 ### Há quanto tempo trabalha na UnB?
+Ele trabalha na UnB desde Janeiro de 1988 (36 anos). Chegou na FGA dia 14 de Dezembro de 2015.
+Previsão de aposentadoria para 2025, porém pretende esperar as novas doações de carreira do governo antes de aposentar.
 
+### Antes da UnB, trabalhou em outra instituição de ensino? Se sim, como era o sistema acadêmico de lá (site com as mesmas funcionalidades do SIGAA)?
+- Francisco era professor de Matemática pelo EJA (Educação para jovens e adultos), na cidade de Santa Maria e no Gama.
+Porém não trabalhou no EJA por muito tempo pois entrava em conflito com o trabalho na UnB.
+- Quando era professor não tinha sistema acadêmico digital, apenas diário físico, no papel.
 
+### Como relata a sua experiência como técnico na UnB?
+Ele ama o trabalho que faz, e o desempenha com carinho.
 
+### Como foi o processo de quando começou a usar o SIGAA?
+- Inicialmente tinha um sistema conhecido como SIGRA que funcionava paralelamente com o SIGAA em 2019. Após isso apenas o SIGAA estaria sendo usado como sistema.
+- Fez um curso com a duração de uma semana.
+- Ele considera o SIGAA um sistema completo, porém não muito prático.
 
-
-    Como é o seu trabalho? Quais atividades você realiza com mais frequência no geral?
-    Há quanto tempo trabalha na UnB?
-    5. Antes da UnB, trabalhou em outra instituição de ensino? Se sim, como era o sistema acadêmico de lá (site com as mesmas funcionalidades do SIGAA)?
-    Como relata a sua experiência como técnico na UnB?
-    Como foi o processo de quando começou a usar o SIGAA?
-    Há quanto tempo o senhor utiliza o SIGAA?
+### Há quanto tempo o senhor utiliza o SIGAA?
+Ele trabalha com o SIGAA desde a sua implantação em 2019.
+    
     O senhor recebeu algum manual ou treinamento antes de utilizar o SIGAA?
     Quais funcionalidades do SIGAA você utiliza com mais frequência em suas atividades? 
     O SIGAA atende às suas necessidades em termos de organização e comunicação? Por quê? 
