@@ -1,4 +1,4 @@
-# Análise de Tarefas: Gerenciamento de estágio na visão do estudante
+# Análise de Tarefas: Tarefas de estágio na visão do estudante (GOMS)
 
 ## Sumário
 * [Introdução](#Introdução)
