@@ -47,9 +47,8 @@ O vídeo 1 mostra a entrevista com a Ana Clara Rosário Silva.
 
 <center> 
 vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com a Ana Clara 
-  
-<iframe width="700" height="400" src="https://www.youtube.com/embed/-lTqDBvkt-U" title="IHC - Projeto sobre o SIGAA - Entrevista com a Ana Clara" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="700" height="600" src="https://www.youtube-nocookie.com/embed/U_EPy-Pxpkg?si=n7UrC_rKG1gu1dGV" title="IHC - Projeto sobre o SIGAA - Entrevista com a Ana Clara" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
 
@@ -57,7 +56,7 @@ vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com a Ana Clara
 </center>
 
 
-Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=-lTqDBvkt-U) 
+Caso o vídeo acima não funcione, use este [link](https://youtu.be/U_EPy-Pxpkg) 
 
 ## Respostas
 
