@@ -155,5 +155,5 @@ Interação Humano-Computador e Experiência do Usuário. Acesso em 18 de abr. 2
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 17/04/2024 |
-| 1.1 | Adição das perguntas que serão feitas | Larissa Stéfane | - | 18/04/2024 |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 17/04/2024 |
+| 1.1 | Adição das perguntas que serão feitas | Larissa Stéfane | Breno Alexandre | 18/04/2024 |
