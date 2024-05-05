@@ -81,11 +81,11 @@ A tabela 1 mostra o cronograma da análise de cada uma das funcionalidades:
 | Definir objetivos de cada funcionalidade | 29/04/2024 | 29/04/2024 |
 | Planejar como cada funcionalidade deve funcionar | 29/04/2024 | 29/04/2024 |
 | Executar análise hierárquica da funcionalidade de pedido de monitoria | 30/04/2024 | 01/04/2024 |
-| Executar análise GOMS da funcionalidade de pedido de monitoria | 30/04/2024 | 01/04/2024 |
-| Executar análise hierárquica da funcionalidade de monitoramento de monitoria | 01/04/2024 | 01/04/2024 |
-| Executar análise GOMS da funcionalidade de monitoramento de monitoria | 01/04/2024 | 01/04/2024 |
-| Executar análise da funcionalidade de conversas privada | 03/04/2024 | 02/04/2024 |
-| Executar análise GOMS da funcionalidade de monitoramento de monitoria | 01/04/2024 | 01/04/2024 |
+| Executar análise GOMS da funcionalidade de pedido de monitoria | 30/04/2024 | 01/05/2024 |
+| Executar análise hierárquica da funcionalidade de monitoramento de monitoria | 01/05/2024 | 01/05/2024 |
+| Executar análise GOMS da funcionalidade de monitoramento de monitoria | 01/05/2024 | 02/05/2024 |
+| Executar análise da funcionalidade de avaliar monitor | 03/04/2024 | 02/05/2024 |
+| Executar análise GOMS da funcionalidade de avaliar monitor| 02/04/2024 | 03/05/2024 |
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
