@@ -21,7 +21,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 <center>
   
-**Tabela 1**: Cronograma
+Tabela 1: Cronograma
 
 | Data       | Atividade                         |
 | ---------- | --------------------------------- |
@@ -29,7 +29,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 | 24/04/204  | Gravação da entrevista            |
 | 03/05/2024 | Documentação da entrevista        |
 
-**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
   
 </center>
@@ -50,7 +50,7 @@ vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com a Ana Clara
 
 <iframe width="700" height="800" src="https://www.youtube-nocookie.com/embed/U_EPy-Pxpkg?si=n7UrC_rKG1gu1dGV" title="IHC - Projeto sobre o SIGAA - Entrevista com a Ana Clara" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
 
 </center>
