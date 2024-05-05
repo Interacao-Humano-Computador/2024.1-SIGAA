@@ -83,7 +83,7 @@ funcionários dele caso necessário. E após completar cada serviço ele encamin
 - Atividades complementares.
 - Monitorias.
 - Supervisão dos equipamentos, das salas de aula, do auditório e banheiros.
-- Controle de material como café, apagador, giz, pen drives etc.
+- Controle de material como café, apagador, giz, pen drives, etc.
 
 Também tem acesso à:
 - As disciplinas mínimas que o estudante tem que fazer por semestre.
@@ -105,28 +105,37 @@ Porém não trabalhou no EJA por muito tempo pois entrava em conflito com o trab
 Ele ama o trabalho que faz, e o desempenha com carinho.
 
 ### Como foi o processo de quando começou a usar o SIGAA?
-- Inicialmente tinha um sistema conhecido como SIGRA que funcionava paralelamente com o SIGAA em 2019. Após isso apenas o SIGAA estaria sendo usado como sistema.
-- Fez um curso com a duração de uma semana, porém não foi possível aprender tudo, acabando dependendo do tempo de prática do usuário.
-- Ele considera o SIGAA um sistema completo, porém não muito prático, ao contrário do SIGRA. Por exemplo, quando algo dava errado, dava para corrigir rápido no SIGRA, já o SIGAA é mais complexo.
-- O SIGAA permite uma verificação de dados bem completa.
-- A SAA (Secretaria de Administração Acadêmica) retirou alguns serviços que os servidores da FGA faziam, atrapalhando a eficiência.
-- O SIGAA e o SEI (Sistema Eletrônico de Informações) tem uma integração grande.
-- Uma dificuldade so SIGAA 
+- Inicialmente tinha um sistema conhecido como SIGRA (Sistema de Informações Acadêmicas de Graduação) que funcionava paralelamente com o SIGAA em 2019. Após isso apenas o SIGAA estaria sendo usado como sistema.
+- Fez um curso, porém não foi possível aprender tudo.
 
 ### Há quanto tempo o senhor utiliza o SIGAA?
 Ele trabalha com o SIGAA desde a sua implantação em 2019.
     
-    O senhor recebeu algum manual ou treinamento antes de utilizar o SIGAA?
-    Quais funcionalidades do SIGAA você utiliza com mais frequência em suas atividades? 
-    Na sua experiência, quais são os maiores desafios enfrentados pelos técnicos no uso do SIGAA? 
-    Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como?
+### O senhor recebeu algum manual ou treinamento antes de utilizar o SIGAA?
+Fez um curso com a duração de uma semana.
+
+### Na sua experiência, quais são os maiores desafios enfrentados pelos técnicos no uso do SIGAA?
+- Ele considera o SIGAA um sistema completo, porém não muito prático, ao contrário do SIGRA. Por exemplo, quando algo dava errado, dava para corrigir rápido no SIGRA, já o SIGAA é mais complexo.
+- Antes os servidores conseguiam fazer uma simulação de mudança de curso para os discentes, facilitando fazer uma possível transferência de curso. Porém hoje em dia eles não tem mais acesso a essa funcionalidade no SIGAA.
+- Muitas coisas que os servidores faziam antigamente no SIGAA, agora são feitas pelos servidores da SAA, burocratizando o trabalho dos técnicos da UnB e atarefando mais os técnicos do SAA. Por exemplo:
+  - Retirar/trancar matérias caso os discentes desejassem.
+
+### Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como?
+- Ele considera que o aluno não deveria implantar o estágio no SIGAA, e sim os técnicos.
     
-    Você tem alguma experiência específica no uso do SIGAA que gostaria de compartilhar? 
-    Gostaria de complementar a entrevista com algo a mais?
+### Você tem alguma experiência específica no uso do SIGAA que gostaria de compartilhar?
+
+### Gostaria de complementar a entrevista com algo a mais?
+- Ele considera o SIGAA intuitivo após anos de prática.
+- O SIGAA permite uma verificação de dados bem completa. Como por exemplo, alunos trancados, alunos desligados, alunos com dupla diplomação, alunos reprovados, etc.
+- O SIGAA e o SEI (Sistema Eletrônico de Informações) tem uma integração grande.
+- O sistema antigo SIGRA conseguia impedir um aluno de tentar monitoria se não tivesse créditos suficiente, diferente do SIGAA.
+- O SIGAA controla o máximo de créditos que um discente pode pegar por semestre.
+- Uma praticidade do SIGAA é que ele é usado basicamente por 90% das universidades federais do Brasil, o que facilita transferência de discentes e aproveitamento de matérias e carga horária.
 
 ## Conclusão
 
-A entrevista realizada com a Ana proporcionou uma perspectiva valiosa sobre o seu relacionamento com o 
+A entrevista realizada com o Francisco proporcionou uma perspectiva valiosa sobre o seu relacionamento com o 
 Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA),
 o que permiriu identificar pontos que precisam ser melhorados no site.
 
