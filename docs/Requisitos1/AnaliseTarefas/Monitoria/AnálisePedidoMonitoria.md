@@ -35,31 +35,31 @@ utilizada.
 Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
 
     0. Realizar Pedido de Monitoria
-      1. Selecionar Disciplina (1/2)
-        1.1 Escolher Campus (1+2)
-          1.1.1 Identificar Faculdade ou Instituto (1>2)
-          1.1.2 Localizar o Departamento (1>2)
-       1.2 Localizar a Disciplina (Somente disciplinas cursadas e aprovadas) (1>2)
+      1. Selecionar Disciplina 
+        1.1 Escolher Campus 
+          1.1.1 Identificar Faculdade ou Instituto 
+          1.1.2 Localizar o Departamento 
+       1.2 Localizar a Disciplina (Somente disciplinas cursadas e aprovadas) 
     
-     2. Especificar Detalhes do Pedido (1>2)
-    	 2.1 Indicar Professor (Se aplicável) (1>2)
-    	 2.2 Selecionar Turma (Se o professor tiver múltiplas turmas) (1>2)
-    	 2.3 Adicionar Informações Adicionais (Como horários preferenciais, tópicos específicos para focar) (1>2)
+     2. Especificar Detalhes do Pedido 
+    	 2.1 Indicar Professor (Se aplicável) 
+    	 2.2 Selecionar Turma (Se o professor tiver múltiplas turmas) 
+    	 2.3 Adicionar Informações Adicionais (Como horários preferenciais, tópicos específicos para focar) 
     
-     3. Inserir Dados Pessoais (1>2)
-    	 3.1 Preencher Nome (1>2)
-    	 3.2 Inserir Matrícula (1>2)
-    	 3.3 Fornecer Contato (E-mail ou número de telefone) (1>2)
+     3. Inserir Dados Pessoais 
+    	 3.1 Preencher Nome 
+    	 3.2 Inserir Matrícula 
+    	 3.3 Fornecer Contato (E-mail ou número de telefone) 
     
-     4. Adicionar Mensagem de Pedido (1>2)
-    	 4.1 Escrever Motivação para Solicitar Monitoria (1>2)
-    	 4.2 Descrever Expectativas e Necessidades (1>2)
+     4. Adicionar Mensagem de Pedido 
+    	 4.1 Escrever Motivação para Solicitar Monitoria 
+    	 4.2 Descrever Expectativas e Necessidades 
     
-     5. Revisar Pedido (1>2)
-    	 5.1 Verificar Detalhes do Pedido (1>2)
-    	 5.2 Confirmar Precisão dos Dados Pessoais (1>2)
-    	 5.3 Revisar e Editar Mensagem de Pedido (1>2)
-     6. Enviar Pedido de Monitoria (1>2)
+     5. Revisar Pedido 
+    	 5.1 Verificar Detalhes do Pedido 
+    	 5.2 Confirmar Precisão dos Dados Pessoais 
+    	 5.3 Revisar e Editar Mensagem de Pedido 
+     6. Enviar Pedido de Monitoria 
 
 Após enviar o pedido, ele fica em modo de análise até que seja aprovado tanto pelo docente quando pela coordenação.
 
