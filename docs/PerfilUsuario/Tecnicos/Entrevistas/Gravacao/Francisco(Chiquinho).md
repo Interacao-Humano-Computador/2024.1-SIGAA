@@ -131,9 +131,8 @@ Fez um curso com a duração de uma semana.
 
 ## Conclusão
 
-A entrevista realizada com o Francisco proporcionou uma perspectiva valiosa sobre o seu relacionamento com o 
-Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA),
-o que permiriu identificar pontos que precisam ser melhorados no site.
+A entrevista realizada com o Francisco proporcionou uma perspectiva de alguém muito experiente com o uso do site do SIGAA e seu histórico. 
+O que permitiu identificar inúmeros pontos importantíssimos que precisam ser melhorados no site.
 
 ## Histórico de Versão
 
