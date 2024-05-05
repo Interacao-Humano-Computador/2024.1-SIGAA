@@ -6,43 +6,57 @@ A Análise Hierárquica de Tarefas (HTA) é uma técnica metodológica que se co
 
 ## Motivo da escolha
 
-Optou-se pela Análise Hierárquica de Tarefas devido à sua capacidade de estruturar de maneira clara e sistemática as interações complexas entre os usuários e o sistema SIGAA, especificamente na gestão de bolsas. Este método facilita a identificação e a análise de problemas, permitindo otimizações que podem melhorar significativamente a experiência do usuário e a eficácia do sistema.
+A escolha pela Análise Hierárquica de Tarefas foi feita pela sua capacidade de estruturar de maneira clara e sistemática as interações complexas entre os usuários e o sistema do SIGAA, especificamente na gestão de bolsas.
 
-## Análise de Tarefas na Aba Bolsas
+Este método facilita a identificação e a análise de problemas, permitindo otimizações que podem melhorar significativamente a experiência do usuário e a eficácia do sistema.
 
-### 1. Solicitação de Bolsa Auxílio
-- **1.1 Acessar a aba Bolsas**
-  - Entrar no SIGAA e navegar até a aba específica.
-- **1.2 Preencher formulário socioeconômico**
-  - Completar os campos necessários com informações pessoais e financeiras.
-- **1.3 Enviar solicitação**
-  - Revisar as informações inseridas e submeter a solicitação.
+# Análise Hierárquica de Tarefas no SIGAA - Aba Bolsas
 
-### 2. Acompanhar Solicitação de Bolsas Auxílios
-- **2.1 Acessar histórico de solicitações**
-  - Visualizar o status atual e histórico das solicitações submetidas.
-- **2.2 Interagir com feedbacks recebidos**
-  - Responder a requisições adicionais ou corrigir informações conforme solicitado.
+## Introdução
 
-### 3. Renovar Bolsa Auxílio
-- **3.1 Acessar solicitação atual**
-  - Verificar detalhes da bolsa atual e optar por renovar.
-- **3.2 Preencher requisitos para renovação**
-  - Atualizar informações socioeconômicas se necessário.
-- **3.3 Submeter renovação**
-  - Confirmar a intenção de continuar com a bolsa para o próximo período.
+A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e gerenciar vários aspectos relacionados às bolsas estudantis, desde a inscrição até o acompanhamento e renovação de bolsas. Cada tarefa foi decomposta para facilitar a compreensão dos processos envolvidos e melhorar a interação do usuário com o sistema.
 
-### 4. Consultar Adesões
-- **4.1 Acessar a lista de adesões**
-  - Verificar a situação atual das adesões ao cadastro único.
-- **4.2 Modificar ou atualizar informações**
-  - Fazer alterações conforme necessário e reenviar para validação.
+## Tarefas na Aba Bolsas
 
-### 5. Declaração de Prioridade ou de Bolsista
-- **5.1 Gerar Declaração de Prioridade**
-  - Produzir o documento para comprovar a condição de prioridade.
-- **5.2 Assinar Declaração de Não Acúmulo de Bolsas**
-  - Confirmar eletronicamente que não há acúmulo de bolsas conforme as regras da instituição.
+### 1. Cadastro Único - Aderir
+- **1.1 Acessar a funcionalidade de adesão ao cadastro único**
+  - Ingressar na seção para iniciar o processo de adesão a um cadastro que unifica o acesso às bolsas de assistência estudantil.
+- **1.2 Preencher formulário de adesão**
+  - Completar as informações necessárias para se qualificar para as bolsas disponíveis.
+
+### 2. Cadastro Único - Consultar Adesões
+- **2.1 Acessar histórico de adesões**
+  - Visualizar as adesões anteriores e o status atual de cada uma delas.
+- **2.2 Modificar ou atualizar adesões**
+  - Fazer ajustes nas informações fornecidas ou atualizar dados conforme necessário.
+
+### 3. Cadastro Único - Declaração de Discente Prioritário
+- **3.1 Gerar declaração de prioridade**
+  - Emitir um documento que comprove o status de prioridade do estudante para processos seletivos de bolsas.
+
+### 4. Declaração de Bolsista
+- **4.1 Confirmar não acúmulo de bolsas**
+  - Assinar eletronicamente uma declaração garantindo que o estudante não possui outras bolsas acumulativas.
+
+### 5. Oportunidades de Bolsa
+- **5.1 Pesquisar oportunidades disponíveis**
+  - Explorar as diferentes bolsas oferecidas pela instituição, filtrando por tipo e disponibilidade.
+
+### 6. Acompanhar Meus Registros de Interesse
+- **6.1 Acompanhar inscrições em oportunidades de bolsa**
+  - Verificar o status das inscrições realizadas em diferentes oportunidades de bolsas.
+
+### 7. Minhas Bolsas na Instituição
+- **7.1 Visualizar bolsas ativas e histórico**
+  - Consultar as bolsas que o estudante possui ou já possuiu dentro da instituição.
+
+### 8. Solicitação de Bolsa - Solicitação de Bolsa Auxílio
+- **8.1 Solicitar nova bolsa auxílio**
+  - Iniciar o processo de solicitação para uma nova bolsa auxílio, preenchendo o formulário necessário.
+
+### 9. Acompanhar Solicitação de Bolsas Auxílios
+- **9.1 Acompanhar o andamento das solicitações de bolsa auxílio**
+
 
 ## Conclusão
 Como é possível observar, a análise hierárquica e a aplicação do método GOMS para a funcionalidade de pedido de monitoria revelaram uma estrutura complexa de tarefas e interações dentro do processo. Assim, ao desmembrar cada etapa em objetivos, passo a passo, métodos e regras, foi possível compreender detalhadamente as ações dos usuários e identificar áreas de relevância.
