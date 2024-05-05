@@ -52,5 +52,16 @@ A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e geren
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
 | **1. Solicitar Bolsa Auxílio 1>2** | **Input:** Seleção da opção "Solicitação de Bolsa Auxílio".<br>**Feedback:** Formulário de solicitação é exibido.<br>**Plano:** Simplificar o formulário e fornecer orientações claras. |
+
+## Conclusão
+Como é possível observar, a análise hierárquica e a aplicação do método GOMS para a funcionalidade de pedido de monitoria revelaram uma estrutura complexa de tarefas e interações dentro do processo. Assim, ao desmembrar cada etapa em objetivos, passo a passo, métodos e regras, foi possível compreender detalhadamente as ações dos usuários e identificar áreas de relevância.
+
+## Bibliografia
+1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
+
+## Histórico de Versão
+| Versão | Alteração                                   | Responsável  | Revisor         | Data       |
+| ------ | ------------------------------------------- | ------------ | --------------- | ---------- |
+| 1.0    | Criação e realização da análise hierárquica | Bruno Araújo | Breno Alexandre | 04/05/2024 |
 | **2. Acompanhar Solicitação de Bolsa Auxílio 1+2** | **Input:** Clicar em "Acompanhar Solicitação de Bolsa Auxílio".<br>**Feedback:** Status atual das solicitações.<br>**Plano:** Fornecer detalhes precisos sobre o progresso e eventuais atrasos. |
 | **3. Renovar Bolsa Auxílio** | **Input:** Seleção da opção "Renovar Bolsa Auxílio".<br>**Feedback:** Formulário de renovação disponível.<br>**Plano:** Automatizar o preenchimento de dados conhecidos para facilitar o processo. |
