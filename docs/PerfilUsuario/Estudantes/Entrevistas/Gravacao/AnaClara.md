@@ -159,3 +159,4 @@ o que permiriu identificar pontos que precisam ser melhorados no site.
 | Versão | Alteração                         | Responsável     | Revisor | Data       |
 | ------ | --------------------------------- | --------------- | -       | ---------- |
 | 1.0    | Criação e realização do documento | Breno Alexandre | -       | 03/05/2024 |
+| 1.1    | Adiciona links do youtube         | Breno Alexandre | -       | 05/05/2024 |
