@@ -34,6 +34,9 @@ utilizada.
 ### Análise Contextual
 Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
 
+<details>
+  <summary size="20"><b> Análise Contextual </b></summary> 
+
     0. Realizar Pedido de Monitoria (1>2)
       1. Selecionar Disciplina (1>2)
         1.1 Identificar Instituto ou Departamento (1+2) 
@@ -60,6 +63,8 @@ Como há um conjunto de tarefas a serem realizadas, há baixo há a análise con
     	 5.3 Revisar e Editar Mensagem de Pedido 
      6. Enviar Pedido de Monitoria 
 
+</details>
+
 Após enviar o pedido, ele fica em modo de análise até que seja aprovado tanto pelo docente quando pela coordenação.
 
 ### Diagrama de Atividades
@@ -70,6 +75,9 @@ Desse modo, tendo isso e a análise contextual como base, a imagem 2 mostra o di
 
 ### Tabela de Análise
 A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcionalidade de pedido de monitoria.
+
+<details>
+  <summary size="20"><b> Tabela de Análise </b></summary> 
 
 **Tabela 1**: Análise Hierárquica de pedido de monitoria
 | Objetivos/Operações                              | Relações      | Problemas e Recomendações                                                                                              |
@@ -96,6 +104,7 @@ A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcional
 | 5.3 Revisar e Editar Mensagem de Pedido          |          | **Plano**: Revisar e editar a mensagem de pedido conforme necessário.<br>**Recomendação**: Garantir que a mensagem esteja clara e completa. |
 | 6. Enviar Pedido de Monitoria                    |               |**Input**: Enviar o pedido para avaliação. <br>**Plano**: Enviar o pedido de monitoria para avaliação.<br>Recomendação: Enviar o pedido somente após revisão completa. |
 
+</details>
 
 ## GOMS
 O GOMS é um método de análise de tarefas que descreve as atividades dos usuários em termos de objetivos (o que o usuário deseja alcançar), operadores (as ações realizadas, como clicar em um botão), métodos (sequências de ações para alcançar um objetivo) e regras de seleção (critérios para escolher entre métodos alternativos). Essa abordagem em relação à funcionalidade de **pedido de monitoria** será mostrada a seguir.
@@ -132,6 +141,12 @@ pedido de monitoria, como indicar o professor, selecionar a turma e adicionar de
 4. ### Execução do GOMS
 
 ### Execução do GOMS
+
+Abaixo, há a execução do método GOMS
+
+<details>
+  <summary size="20"><b> GOMS </b></summary> 
+
       
       GOAL 0: Realizar Pedido de Monitoria
       
@@ -179,7 +194,7 @@ pedido de monitoria, como indicar o professor, selecionar a turma e adicionar de
       - METHOD 6.A: Enviar Pedido de Monitoria
         - OPERATOR 6.A.1: Clicar no botão de enviar para concluir o pedido de monitoria.
       
-
+</details>
 
 ## Conclusão
 Como é possível observar, a análise hierárquica e a aplicação do método GOMS para a funcionalidade de pedido de monitoria revelaram uma estrutura complexa de tarefas e interações dentro do processo. Assim, ao desmembrar cada etapa em objetivos, passo a passo, métodos e regras, foi possível compreender detalhadamente as ações dos usuários e identificar áreas de relevância.
