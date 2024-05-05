@@ -28,6 +28,8 @@ A tabela 1 mostra o cronograma do processo.
 ## Resultados 
 Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questionário. Ao clicar nas perguntas, os resultados são mostrados.
 
+**Observação:** Nem todas as respostas eram obrigatórias, então, apesar de 118 pessoas terem respondido, algumas perguntas possuem uma quantidade menor de respostas.
+
 <details>
   <summary size="20"><b> Pergunta 1: Qual é a sua faixa etária? </b></summary> 
 
@@ -540,8 +542,6 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   <details>
   <summary size="20"><b> Pergunta 21: Qual é o seu nível de satisfação geral com o SIGAA? </b></summary> 
 
-  </details>
-
   <div align="center">
     Figura 41: Porcentagem da resposta.
     <br>
@@ -559,6 +559,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
      Fonte: Larissa Stéfane
     <br>
 </div>
+</details>
 
   <details>
   <summary size="20"><b> Pergunta 22: Você utiliza outras plataformas ou sistemas semelhantes ao SIGAA?</b></summary> 
@@ -610,20 +611,97 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   <details>
   <summary size="20"><b> Pergunta 24: Como você classificaria a qualidade das informações disponibilizadas no SIGAA? </b></summary> 
 
+<div align="center">
+    Figura 47: Porcentagem da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide25.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+<div align="center">
+    Figura 48: Gráfico da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado24.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+
   </details>
 
   <details>
   <summary size="20"><b> Pergunta 25: Qual é o principal benefício que você enxerga no uso do SIGAA? </b></summary> 
+
+<div align="center">
+    Figura 49: Porcentagem da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide26.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+<div align="center">
+    Figura 50: Gráfico da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado25.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
 
   </details>
 
   <details>
   <summary size="20"><b> Pergunta 26: Em sua opinião, a organização das informações no SIGAA é: </b></summary> 
 
+<div align="center">
+    Figura 51: Porcentagem da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide27.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+<div align="center">
+    Figura 52: Gráfico da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado27.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+
   </details>
 
   <details>
   <summary size="20"><b> Pergunta 27: Você acha que as informações apresentadas no SIGAA são suficientemente detalhadas e abrangentes? </b></summary> 
+
+<div align="center">
+    Figura 53: Porcentagem da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide29.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+<div align="center">
+    Figura 54: Gráfico da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado27.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+
 
   </details>
 
@@ -631,24 +709,102 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   <details>
   <summary size="20"><b> Pergunta 28: O design visual do SIGAA é: </b></summary> 
 
+<div align="center">
+    Figura 55: Porcentagem da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide30.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+<div align="center">
+    Figura 56: Gráfico da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado28.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+
+
   </details>
 
   
   <details>
   <summary size="20"><b> Pergunta 29: Como você avalia a acessibilidade do SIGAA para usuários com necessidades especiais (por exemplo, usuários com deficiência visual)? </b></summary> 
 
+<div align="center">
+    Figura 57: Porcentagem da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide31.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+<div align="center">
+    Figura 58: Gráfico da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado29.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+
   </details>
 
   
   <details>
   <summary size="20"><b> Pergunta 30: Quão fácil é encontrar as funcionalidades específicas que você precisa no SIGAA? </b></summary> 
+    
+<div align="center">
+    Figura 59: Porcentagem da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide33.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
 
-  </details>
+<div align="center">
+    Figura 60: Gráfico da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado30.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
 
-  
+</details>
+
   <details>
   <summary size="20"><b> Pergunta 31: Em quais linguas você consegue se comunicar? </b></summary> 
 
-  </details>
+**Observação:** Como as respostas não eram obrigatórias, têm se a opção do "português" com o intúito de saber quantos responderam essa pergunta, por exemplo 112 responderam, desses, 85 falam ingês fluentemente.
+
+<div align="center">
+    Figura 61: Gráfico da resposta.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado31.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+As outras linguas citadas por estudantes são:
+
+- Italiano;
+- Alemão;
+- Sérvio, Croata e Montenegrino;
+- Japonês;
+- Libras;
+- Nihongo (Japonês)
+
+</details>
   
-  
+## Conclusão
+
+
