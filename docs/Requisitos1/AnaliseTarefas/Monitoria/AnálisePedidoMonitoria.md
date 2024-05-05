@@ -69,7 +69,7 @@ Após enviar o pedido, ele fica em modo de análise até que seja aprovado tanto
 
 ### Diagrama de Atividades
 
-Para facilitar a visualização de tarefas, a imagem 1 mostra o diagrama:
+Para facilitar a visualização de tarefas, a figura 1 mostra o diagrama:
 
  <div align="center">
     Figura 1: Diagrama HTA do Pedido de Monitoria
