@@ -83,7 +83,7 @@ Para facilitar a visualização de tarefas, a imagem 1 mostra o diagrama:
     <br>
 </div>
 
-Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA do Pedido de Monitoria](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/AnaliseMonitoramentoMonitoria.drawio.png)
+Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA do Monitoramento de Monitoria](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/AnaliseMonitoramentoMonitoria.drawio.png)
 
 ### Tabela de Análise
 
