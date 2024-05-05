@@ -35,30 +35,30 @@ Bolsa Auxílio
 
 Nessa tarefa, o usuário possui o objetivo de acessar funcionalidades relacionadas ao Cadastro Único.
       
-            GOAL 0: Ir até a opção Bolsas
-            GOAL 1: Acessar a funcionalidade de aderir ao Cadastro Único
-            OP 1: Navegar até a seção "Bolsas"
-            OP 2: Selecionar "Cadastro Único"
-            OP 3: Clicar em "Aderir"
-            METH 1: Utilizar a navegação pelo menu principal para acessar a página de adesão
+      GOAL 0: Ir até a opção Bolsas
+        GOAL 1: Acessar a funcionalidade de aderir ao Cadastro Único
+          OP 1: Navegar até a seção "Bolsas"
+          OP 2: Selecionar "Cadastro Único"
+          OP 3: Clicar em "Aderir"
+          METH 1: Utilizar a navegação pelo menu principal para acessar a página de adesão
       
   #### 1.2. Consultar Adesões
       
       GOAL 0: Ir até a opção Bolsas
-      GOAL 1: Acessar a funcionalidade de consultar adesões ao Cadastro Único
-      OP 1: Navegar até a seção "Bolsas"
-      OP 2: Selecionar "Cadastro Único"
-      OP 3: Clicar em "Consultar Adesões"
-      METH 1: Utilizar a navegação pelo menu principal para acessar a página de consulta
+         GOAL 1: Acessar a funcionalidade de consultar adesões ao Cadastro Único
+           OP 1: Navegar até a seção "Bolsas"
+           OP 2: Selecionar "Cadastro Único"
+           OP 3: Clicar em "Consultar Adesões"
+           METH 1: Utilizar a navegação pelo menu principal para acessar a página de consulta
       
   #### 1.3. Declaração de Discente Prioritário
       
       GOAL 0: Ir até a opção Bolsas
-      GOAL 1: Acessar a funcionalidade de emitir declaração de discente prioritário
-      OP 1: Navegar até a seção "Bolsas"
-      OP 2: Selecionar "Cadastro Único"
-      OP 3: Clicar em "Declaração de Discente Prioritário"
-      METH 1:** Usar o menu para acessar a funcionalidade
+        GOAL 1: Acessar a funcionalidade de emitir declaração de discente prioritário
+          OP 1: Navegar até a seção "Bolsas"
+          OP 2: Selecionar "Cadastro Único"
+          OP 3: Clicar em "Declaração de Discente Prioritário"
+          METH 1:** Usar o menu para acessar a funcionalidade
       
   ### 2. Declaração de Bolsista
       
@@ -67,49 +67,48 @@ Nessa tarefa, o usuário possui o objetivo de acessar funcionalidades relacionad
   #### 2.1. Assinar Declaração
       
       GOAL 0: Ir até a opção Bolsas
-      GOAL 1: Acessar a funcionalidade de assinar declaração de bolsista
-      OP 1: Navegar até a seção "Bolsas"
-      OP 2: Selecionar "Declaração de Bolsista"
-      OP 3: Clicar em "Assinar Declaração"
-      METH 1: Usar o menu para encontrar e acessar a opção de assinatura
+        GOAL 1: Acessar a funcionalidade de assinar declaração de bolsista
+         OP 1: Navegar até a seção "Bolsas"
+         OP 2: Selecionar "Declaração de Bolsista"
+         OP 3: Clicar em "Assinar Declaração"
+         METH 1: Usar o menu para encontrar e acessar a opção de assinatura
       
    #### 2.2. Visualizar Assinaturas
       
       GOAL 0: Ir até a opção Bolsas
-      GOAL 1: Acessar a funcionalidade de visualizar assinaturas de declarações de bolsista
-      OP 1: Navegar até a seção "Bolsas"
-      OP 2: Selecionar "Declaração de Bolsista"
-      OP 3: Clicar em "Visualizar Assinaturas"
-      METH 1: Usar o menu para encontrar e acessar a opção de visualização de assinaturas
+        GOAL 1: Acessar a funcionalidade de visualizar assinaturas de declarações de bolsista
+         OP 1: Navegar até a seção "Bolsas"
+         OP 2: Selecionar "Declaração de Bolsista"
+         OP 3: Clicar em "Visualizar Assinaturas"
+         METH 1: Usar o menu para encontrar e acessar a opção de visualização de assinaturas
       
   ### 3. Oportunidades de Bolsa
       
   Nessa tarefa, o usuário tem como objetivo acessar a seção de oportunidades de bolsa.
       
       GOAL 0: Ir até a opção Bolsas
-      GOAL 1: Acessar a seção de oportunidades de bolsa
-      OP 1: Navegar até a seção "Oportunidades de Bolsa"
+        GOAL 1: Acessar a seção de oportunidades de bolsa
+         OP 1: Navegar até a seção "Oportunidades de Bolsa"
       
- 
-  ### 4. Acompanhar Meus Registros de Interesse em Bolsas
+   ### 4. Acompanhar Meus Registros de Interesse em Bolsas
       
   Nessa tarefa, o usuário tem como objetivo acompanhar seus registros de interesse em bolsas.
       
       GOAL 0: Ir até a opção Bolsas
-      GOAL 1: Acessar a funcionalidade de acompanhar registros de interesse em bolsas
-      OP 1: Navegar até a seção "Bolsas"
-      OP 2: Clicar em "Acompanhar Meus Registros de Interesse"
-      METH 1:Utilizar a navegação pelo menu para acessar o registro de interesses
+        GOAL 1: Acessar a funcionalidade de acompanhar registros de interesse em bolsas
+         OP 1: Navegar até a seção "Bolsas"
+         OP 2: Clicar em "Acompanhar Meus Registros de Interesse"
+         METH 1:Utilizar a navegação pelo menu para acessar o registro de interesses
       
   ### 5. Minhas Bolsas na Instituição
       
   Nessa tarefa, o usuário tem como objetivo visualizar suas bolsas na instituição.
       
       GOAL 0: Ir até a opção Bolsas
-      GOAL 1: Acessar a funcionalidade de visualizar minhas bolsas na instituição
-      OP 1: Navegar até a seção "Bolsas"
-      OP 2: Selecionar "Minhas Bolsas na Instituição"
-      METH 1:Usar o menu para acessar a lista de bolsas atuais
+        GOAL 1: Acessar a funcionalidade de visualizar minhas bolsas na instituição
+         OP 1: Navegar até a seção "Bolsas"
+         OP 2: Selecionar "Minhas Bolsas na Instituição"
+         METH 1:Usar o menu para acessar a lista de bolsas atuais
       
   ### 6. Solicitação de Bolsas
       
@@ -118,10 +117,10 @@ Nessa tarefa, o usuário possui objetivos relacionados à solicitação de bolsa
    #### 6.1. Solicitação de Bolsa Auxílio
       
       GOAL 0: Ir até a opção Bolsas
-      GOAL 1: Acessar a funcionalidade de solicitar bolsa auxílio
-      OP 1: Navegar até a seção "Bolsas"
-      OP 2: Selecionar "Solicitação de Bolsa Auxílio"
-      METH 1:Usar o menu para chegar à página de solicitação
+        GOAL 1: Acessar a funcionalidade de solicitar bolsa auxílio
+         OP 1: Navegar até a seção "Bolsas"
+         OP 2: Selecionar "Solicitação de Bolsa Auxílio"
+         METH 1:Usar o menu para chegar à página de solicitação
       
   #### 6.2. Acompanhar Solicitação de Bolsa Auxílio
       
