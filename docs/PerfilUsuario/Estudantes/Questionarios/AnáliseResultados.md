@@ -5,6 +5,7 @@
 * [Processo](#Processo)
 * [Resultados](#Resultados)
 * [Perfil do Usuário Identificado](#Perfil-do-Usuário-Identificado)
+* [Requisitos e Críticas](#Requisitos-e-Críticas)
 * [Conclusão](#Conclusão)
 * [Histórico de versão](#Histórico-de-versão)
 
