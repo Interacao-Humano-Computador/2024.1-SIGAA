@@ -113,3 +113,136 @@ A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcional
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </details>
+
+## GOMS
+O GOMS é uma estratégia de avaliação de tarefas que descreve as ações dos usuários em termos de objetivos (o que o usuário pretende alcançar), operadores (as ações executadas, como pressionar um botão), métodos (sequências de ações para atingir um objetivo) e regras de seleção (critérios para escolher entre métodos alternativos). Esta abordagem será aplicada à funcionalidade de monitoramento de monitoria.
+
+### Definição dos objetivos
+
+1. **Verificar Monitoria Atual:** Checar o estado atual (informações) da monitoria em curso.
+2. **Estabelecer Forma e Grade de Atendimento:** Definir como será conduzida a monitoria e organizar os horários disponíveis.
+3. **Configurar Forma de Atendimento:** Escolher a plataforma de comunicação e personalizar as configurações.
+4. **Estabelecer Grade de Atendimento:** Definir os horários de funcionamento e priorizar os horários de pico de dificuldade.
+5. **Solicitar Aluguel de Salas para Aulas de Monitorias:** Fazer a solicitação de salas para realizar as monitorias presenciais.
+6. **Verificar Disponibilidade de Salas:** Checar a disponibilidade de salas de acordo com os critérios especificados.
+7. **Exibir Mensagem de Indisponibilidade se Não Houver Salas Disponíveis:** Informar o usuário sobre a falta de salas disponíveis e sugerir alternativas.
+8. **Trocar Mensagens Privadas com Professores e Alunos:** Comunicar-se privadamente com os participantes da monitoria.
+9. **Verificar Monitorias Anteriores:** Acessar informações sobre monitorias passadas para consulta ou análise.
+
+
+
+### Definição dos operadores(Operators)
+
+- **Selecionar:** Escolher entre opções disponíveis, como forma de atendimento, professor ou período.
+- **Inserir:** Adicionar informações, como data, horário e duração da monitoria.
+- **Consultar:** Buscar informações, como registros de monitorias anteriores e disponibilidade de salas.
+- **Exibir:** Mostrar mensagens de notificação, disponibilidade de salas e registros de monitorias.
+- **Enviar/Responder:** Enviar e responder mensagens privadas entre professores, alunos e monitores.
+- **Editar:** Modificar informações previamente inseridas, como detalhes da monitoria ou configurações de atendimento.
+- **Confirmar:** Validar escolhas feitas pelo usuário, como confirmação de reservas de salas ou configurações de atendimento.
+- **Cancelar:** Anular ações realizadas, como cancelamento de reservas de salas ou exclusão de mensagens privadas.
+- **Navegar:** Mover-se entre diferentes seções ou telas da plataforma de monitoria, como navegação entre registros de monitorias anteriores.
+- **Interagir:** Engajar-se em atividades colaborativas, como troca de mensagens privadas ou agendamento de reuniões presenciais.
+
+
+### Definição dos Métodos
+- **Estabelecer Forma e Grade de Atendimento:** Configurar preferências de atendimento, como forma de comunicação e horários disponíveis.
+- **Solicitar Aluguel de Salas:** Inserir dados de reserva de salas e verificar disponibilidade.
+- **Trocar Mensagens Privadas:** Iniciar, responder e agendar conversas privadas.
+- **Visualizar Dados Anteriores de Monitorias:** Acessar registros passados, pesquisar e filtrar informações relevantes.
+- **Consultar Relatórios e Avaliações:** Analisar relatórios e feedback de monitorias anteriores sem possibilidade de modificação.
+
+
+### Definição das Regras de Seleção
+- **Selecionar Forma de Atendimento:** Escolher entre opções de comunicação, como WhatsApp, Telegram ou atendimento presencial.
+- **Priorizar Horários de Pico de Dificuldade:** Dar preferência a horários em que há maior demanda de dúvidas.
+- **Sugerir Alternativas de Salas:** Oferecer opções alternativas caso não haja salas disponíveis para reserva.
+- **Pesquisar Monitorias por Disciplina, Professor ou Período:** Filtrar registros de monitorias anteriores com base em critérios específicos.
+- **Notificar Usuário sobre Indisponibilidade de Salas:** Informar o usuário quando não houver salas disponíveis para reserva.
+
+### Execução do GOMS
+
+
+Abaixo, há a execução do método GOMS
+
+<details>
+  <summary size="20"><b> GOMS </b></summary> 
+
+      GOAL 0: Verificar Monitoria Atual
+      - METHOD 0.A: Visualizar Informações de Monitoria
+        - OPERATOR 0.A.1: Acessar a funcionalidade de visualização de monitoria.
+        - OPERATOR 0.A.2: Navegar pelas opções de monitoria atual e passada.
+        - SELECTION RULE 0.A.2: Priorizar visualização de monitorias atuais antes das passadas.
+      
+      GOAL 1: Estabelecer Forma e Grade de Atendimento
+      - METHOD 1.A: Estabelecer Forma e Grade de Atendimento
+        - OPERATOR 1.A.1: Selecionar a forma de atendimento.
+        - OPERATOR 1.A.2: Editar as configurações de atendimento, se necessário.
+        - OPERATOR 1.A.3: Confirmar as configurações estabelecidas.
+        - SELECTION RULE 1.A.1: Selecionar Forma de Atendimento.
+      
+      GOAL 2: Configurar Forma de Atendimento
+      - METHOD 2.A: Configurar Forma de Atendimento
+        - OPERATOR 2.A.1: Selecionar a plataforma de comunicação.
+        - OPERATOR 2.A.2: Personalizar as configurações de atendimento.
+        - OPERATOR 2.A.3: Confirmar as configurações configuradas.
+        - SELECTION RULE 2.A.1: Selecionar Forma de Atendimento.
+      
+      GOAL 3: Estabelecer Grade de Atendimento
+      - METHOD 3.A: Estabelecer Grade de Atendimento
+        - OPERATOR 3.A.1: Definir os horários de funcionamento.
+        - OPERATOR 3.A.2: Priorizar os horários de pico de dificuldade.
+        - OPERATOR 3.A.3: Confirmar as configurações estabelecidas.
+        - SELECTION RULE 3.A.2: Priorizar Horários de Pico de Dificuldade.
+      
+      GOAL 4: Solicitar Aluguel de Salas para Aulas de Monitorias
+      - METHOD 4.A: Solicitar Aluguel de Salas
+        - OPERATOR 4.A.1: Inserir data, horário desejado e duração da monitoria.
+        - OPERATOR 4.A.2: Consultar disponibilidade de salas.
+        - OPERATOR 4.A.3: Selecionar e confirmar a reserva da sala desejada.
+        - SELECTION RULE 4.A.2: Sugerir Alternativas de Salas.
+      
+      GOAL 5: Verificar Disponibilidade de Salas
+      - METHOD 5.A: Verificar Disponibilidade de Salas
+        - OPERATOR 5.A.1: Consultar o sistema de reservas de salas.
+        - OPERATOR 5.A.2: Selecionar uma sala disponível.
+      
+      GOAL 6: Exibir Mensagem de Indisponibilidade se Não Houver Salas Disponíveis
+      - METHOD 6.A: Verificar Disponibilidade de Salas
+        - OPERATOR 6.A.1: Consultar o sistema de reservas de salas.
+        - OPERATOR 6.A.2: Exibir mensagem de indisponibilidade se não houver salas disponíveis.
+        - OPERATOR 6.A.3: Confirmar a visualização da mensagem.
+        - SELECTION RULE 6.A.1: Notificar Usuário sobre Indisponibilidade de Salas.
+      
+      GOAL 7: Trocar Mensagens Privadas com Professores e Alunos
+      - METHOD 7.A: Trocar Mensagens Privadas
+        - OPERATOR 7.A.1: Selecionar o destinatário da mensagem (professor ou aluno).
+        - OPERATOR 7.A.2: Enviar ou responder mensagens privadas.
+        - OPERATOR 7.A.3: Confirmar o envio ou resposta da mensagem.
+      
+      GOAL 8: Verificar Monitorias Anteriores
+      - METHOD 8.A: Visualizar Dados Anteriores de Monitorias
+        - OPERATOR 8.A.1: Acessar registros de monitorias anteriores.
+        - OPERATOR 8.A.2: Pesquisar monitorias por disciplina, professor ou período.
+        - OPERATOR 8.A.3: Filtrar monitorias por estado (aprovadas, rejeitadas, pendentes).
+        - SELECTION RULE 8.A.2: Pesquisar Monitorias por Disciplina, Professor ou Período.
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</details>
+
+## Conclusão
+
+Ao examinar a funcionalidade de monitoramento de monitoria por meio de uma análise hierárquica e a aplicação do método GOMS, evidencia-se uma estrutura intricada de tarefas e interações. Essa abordagem minuciosa, ao desagregar cada etapa em objetivos, procedimentos, métodos e regras, permitiu uma compreensão aprofundada das ações dos usuários, destacando áreas de importância.
+
+## Bibliografia
+
+1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). **Interação Humano-Computador e Experiência do Usuário**. Acesso em 30 de abril de 2024.
+2. Carlos Mar, Msc. **Modelo GOMS – Análise de Tarefas**. Maio de 2014. Disponível em <https://carlosmardotcomdotbr.wordpress.com/wp-content/uploads/2014/04/modelotarefasgoms.pdf>. Acesso em 01 de maio de 2024.
+
+## Histórico de Versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | - | 30/04/2024 |
+| 1.1 | Execução do GOMS | Larissa Stéfane | - | 01/04/2024 |
