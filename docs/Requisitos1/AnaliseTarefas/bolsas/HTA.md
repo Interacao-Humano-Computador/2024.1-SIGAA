@@ -51,8 +51,8 @@ Como é possível observar, a análise hierárquica e a aplicação do método G
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
 
 ## Histórico de Versão
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação e realização da análise hierárquica| Bruno Araújo | - | 04/04/2024 |
+| Versão | Alteração                                   | Responsável  | Revisor         | Data       |
+| ------ | ------------------------------------------- | ------------ | --------------- | ---------- |
+| 1.0    | Criação e realização da análise hierárquica | Bruno Araújo | Breno Alexandre | 04/05/2024 |
 
 
