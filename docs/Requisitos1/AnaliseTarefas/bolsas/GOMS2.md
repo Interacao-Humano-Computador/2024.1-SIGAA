@@ -25,10 +25,7 @@ O método GOMS (Goals, Operators, Methods, Selection Rules) é uma técnica pode
 
 ### Execução do GOMS
 
-## Análise de Tarefas utilizando GOMS
-
-Nesta seção, realizaremos uma análise das tarefas envolvidas no sistema de Bolsas, seguindo a abordagem do GOMS (Goals, Operators, Methods, Selection rules).
-Bolsa Auxílio
+Nesta seção, realizaremos uma análise das tarefas envolvidas no menu de Bolsas, seguindo a abordagem do GOMS (Goals, Operators, Methods, Selection rules).
 
 
 ### 1. Cadastro Único
