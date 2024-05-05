@@ -91,45 +91,45 @@ Ele é fácil de usar e intuitivo. Nunca tive dificuldades pelo menos.
 
 ### Você já usou as seguintes funcionalidades? Se sim, explique como foi a experiência:
 
-#### Adesão de Cadastro Único 
+- ### Adesão de Cadastro Único 
 Já. Foi fácil fazer.
 
-#### Declaração de Discente Prioritário
+- ### Declaração de Discente Prioritário
 Até o momento, não utilizou.
 
-#### Solicitação de Bolsas 
+- ### Solicitação de Bolsas 
 Já, pra alguns auxílios. Foi tranquilo, fácil de achar.
 
-#### Declaração de Bolsista
+- ### Declaração de Bolsista
 Até o momento, não utilizou.
 
-#### Pré-Cadastro de estágio
+- ### Pré-Cadastro de estágio
 Até o momento, não utilizou.
 
-#### Gerenciar Estágio
+- ### Gerenciar Estágio
 Até o momento, não utilizou.
 
-#### Necessidade educacionais específicas → Já fez cadastro na DACES?
+- ### Necessidade educacionais específicas → Já fez cadastro na DACES?
 Até o momento, não utilizou.
 
-#### Consulta de nota e frequência
+- ### Consulta de nota e frequência
 Sim, tranquilamente. Ela acessa por meio do acesso direto as disciplinas na página inicial, 
 que leva à página inicial da disciplina escolhida, depois vai na aba "Estudantes" e finalmente indo no botão
 "Ver Notas". 
 
-#### Emissão de documentos (Histórico e Declaração de vínculo)
+- ### Emissão de documentos (Histórico e Declaração de vínculo)
 Sim, já emitiu. Ela teve dificuldades na primeira vez e precisou de ajuda de outra pessoa, porém após isso, ela considera um processo fácil. Todos por meio do botão de ensino, pois ao clicar em um botão, o PDF já é baixado.
 
-#### Avaliação Institucional 
+- ### Avaliação Institucional 
 Sim, já realizou. E considera um processo tranquilo pois é intuitivo.
 
-##### Consulta de resultado da Avaliação Institucional 
+- ### Consulta de resultado da Avaliação Institucional 
 Não, nunca consultou.
 
-##### Realização de matrícula 
+- ### Realização de matrícula 
 Sim, e todas as vezes que fez achou tranquilo. Vendo que há as opções de matérias disponíveis e ao clicar é possível selecionar as opções. Então é possível adicionar e confirmar.
                
-##### Retirada e trancamento de matrícula 
+- ### Retirada e trancamento de matrícula 
 Não, nunca realizou.
 
 ### Na sua opinião, quais são os maiores desafios enfrentados pelos estudantes no uso do SIGAA? 
