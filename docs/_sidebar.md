@@ -33,7 +33,7 @@
      - [O que é SIGAA](planejamento/SiteEscolhidoSIGAA/SIGAA.md)
      - [Avaliação Heurística](planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA.md)
 
-* Perfil de Usuário
+* Usuários
     * Professores
     * Estudantes
         * Questionário
