@@ -18,3 +18,8 @@ A imagem 1 mostra o termo de consentimento assinado:
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/TermosPNJ/TermoCaioAlves2.jpg">
 
 **Fonte:** Caio Felipe Alves Braga
+
+| Versão | Alteração                         | Responsável     | Revisor         | Data       |
+| ------ | --------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 30/04/2024 |
+| 1.1    | Adiciona histórico de versão      | Breno Alexandre | -               | 05/05/2024 |
