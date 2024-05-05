@@ -6,9 +6,9 @@ Caso deseje voltar para a entrevista com o Gabriel Lopes, aperte em [Entrevista]
 
 <div align="center">
   Imagem 1: Consentimento por escrito
-  
+  <br>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/Midia/Termos_Consentimentos_Assinados/Consentimento_Ana.jpeg">
-  
+  <br>
   Fonte: Ana Clara Rosário Silva
 </div>
 
