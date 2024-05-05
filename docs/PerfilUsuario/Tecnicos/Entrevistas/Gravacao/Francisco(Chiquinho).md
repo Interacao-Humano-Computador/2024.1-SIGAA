@@ -48,7 +48,7 @@ O vídeo 1 mostra a entrevista com o Francisco Cesar Borges Silva.
 <center> 
 vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com o Francisco
   
-<iframe width="700" height="400" src="https://www.youtube.com/embed/-lTqDBvkt-U" title="IHC - Projeto sobre o SIGAA -
+<iframe width="700" height="400" src="https://youtu.be/KpzJampj8Kc" title="IHC - Projeto sobre o SIGAA -
   Entrevista com o Francisco" frameborder="0"   allow="accelerometer; autoplay; clipboard-write; 
   encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
   allowfullscreen></iframe>
@@ -59,7 +59,7 @@ vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com o Francisco
 </center>
 
 
-Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=-lTqDBvkt-U) 
+Caso o vídeo acima não funcione, use este [link](https://youtu.be/KpzJampj8Kc) 
 
 ## Respostas
 
