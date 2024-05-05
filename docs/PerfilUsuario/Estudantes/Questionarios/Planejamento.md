@@ -18,9 +18,23 @@ Este documento apresenta o planejamento para a execução de um questionário on
 ## Metodologia
 Para a execução dos questionários, será inicialmente realizado um estudo baseado na vídeo aula [TIPOS de questionários para pesquisa - Projeto de pesquisa](https://www.youtube.com/watch?v=R58sY40fivI) (1) e nos princípios apresentados no slide [Entendendo usuários e necessidades](https://edisciplinas.usp.br/pluginfile.php/4531121/mod_resource/content/1/IHC%20Usuario_Personas_Pesquisas.pdf) (2), além de materiais disponibilizados pelo professor André Barros (3). Em seguida, a integrante do grupo, Larissa Stéfane, será responsável por desenvolver um termo de consentimento que resguardará os direitos dos participantes, além de selecionar um conjunto de perguntas elaboradas para alcançar os objetivos da pesquisa.
 
-Após a fase de preparação, o questionário será criado e disponibilizado na plataforma Microsoft Forms. A escolha dessa plataforma se dá pela sua facilidade de uso, capacidade de anonimato e pela possibilidade de coletar dados de forma organizada com resultados gerados em gráficos. Além disso, o questionário será estruturado de forma anônima, garantindo a confidencialidade das respostas dos participantes.
+Após a fase de preparação, o questionário será criado e disponibilizado na **plataforma Microsoft Forms**. A escolha dessa plataforma se dá pela sua facilidade de uso, capacidade de anonimato e pela possibilidade de coletar dados de forma organizada com resultados gerados em gráficos. Além disso, o questionário será estruturado de forma anônima, garantindo a confidencialidade das respostas dos participantes.
 
 Após um período determinado de coleta de dados, as respostas serão compiladas e analisadas para gerar um relatório do perfil do usuário do estudante em relação ao SIGAA. Essa análise permitirá identificar padrões, tendências e áreas de melhoria na experiência dos estudantes com a plataforma.
+
+## Como o questionário será divulgado:
+
+O questionário será divulgado em:
+
+- Contato de amigos e conhecidos que são estudantes da UnB via whatsapp.
+- Grupo de Whatsapp: UnB FGA.
+- Grupo de Whatsapp: Turma de EDA 2.
+- Grupo de Whatsapp: Turma de Compiladores.
+- Grupo de Whatsapp: Turma de Felicidade.
+- Grupo de telegram: FGA - UnB.
+- Grupo de telegram: UnB - Engeharia de Software.
+- Grupo de telegram: UnB - Biotecnologia.
+- Grupo de telegram: UnB - Audio Visual.
 
 ## Perguntas Realizadas
 Antes da realização das perguntas, será disponibilizado um termo de consentimento. Pare ler o termo, clique em [Termo de Consentimento para estudantes](PerfilUsuario/Estudantes/Questionarios/termoCosentimento.md).
