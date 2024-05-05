@@ -1,5 +1,13 @@
 # Análise Hierárquica de Tarefas no SIGAA - Aba Bolsas
 
+## Sumário
+* [Introdução](#Introdução)
+* [Objetivos](#Objetivos)
+* [Análise de Tarefas](Análise-Hierárquica-de-Tarefas)
+* [Análise Contextual](#Análise-Contextual)
+* [Bibliografia](#Bibliografia)
+* [Histórico de versão](#Histórico-de-versão)
+
 ## Introdução
 
 A Análise Hierárquica de Tarefas (HTA) é uma técnica metodológica que se concentra em decompor uma tarefa complexa em hierarquias de sub-tarefas mais simples e gerenciáveis. Esta abordagem é amplamente utilizada na área de Interação Humano-Computador (IHC) para detalhar como os usuários interagem com um sistema, identificando os objetivos do usuário, as operações necessárias para alcançá-los e as estratégias utilizadas para executar essas operações. A HTA fornece uma visão clara da sequência de ações e das dependências entre as tarefas, permitindo o desenvolvimento de sistemas mais intuitivos e eficientes.
@@ -19,7 +27,7 @@ A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e geren
 # Análise Hierárquica de Tarefas (HTA) para o Menu "Bolsas" no SIGAA
 
 ## Tabela 1: HTA para Cadastro Único de Bolsas
-**Introdução:** Esta seção abrange todas as operações relacionadas ao Cadastro Único de Bolsas, permitindo aos alunos aderir ao cadastro, consultar suas adesões e gerar declarações de discente prioritário.
+**Introdução:** Nessa tarefa, o usuário possui o objetivo de acessar o Cadastro Único de Bolsas no menu do sistema, onde pode aderir ao cadastro, consultar suas adesões e gerar declarações de discente prioritário.
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
@@ -29,7 +37,7 @@ A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e geren
 | **3. Declaração de Discente Prioritário** | **Input:** Seleção da opção "Declaração de Discente Prioritário".<br>**Feedback:** Possibilidade de gerar declaração.<br>**Plano:** Simplificar o processo de geração e garantir a validade da informação. |
 
 ## Tabela 2: HTA para Declaração de Bolsista
-**Introdução:** Esta tabela descreve o processo pelo qual os bolsistas assinam e visualizam declarações relativas ao não acúmulo de bolsas, uma exigência administrativa importante.
+**Introdução:** Nessa tarefa, o usuário possui o objetivo de acessar as declarações de bolsista, onde pode assinar ou visualizar declarações relativas ao não acúmulo de bolsas.
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
@@ -38,7 +46,7 @@ A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e geren
 | **2. Visualizar Assinaturas 1+2** | **Input:** Clicar em "Visualizar Assinaturas".<br>**Feedback:** Lista de declarações assinadas disponível.<br>**Plano:** Proporcionar uma visualização fácil e acessível das informações. |
 
 ## Tabela 3: HTA para Gestão de Bolsas
-**Introdução:** Abrange as operações de visualização de oportunidades de bolsa, acompanhamento de registros de interesse e gestão das bolsas atuais na instituição.
+**Introdução:** Nessa tarefa, o usuário possui o objetivo de gerenciar suas bolsas na instituição, incluindo a visualização de oportunidades, o acompanhamento de registros de interesse e a visualização das bolsas que possui.
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
@@ -47,11 +55,14 @@ A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e geren
 | **3. Visualizar Minhas Bolsas na Instituição 2/3** | **Input:** Seleção da opção "Minhas Bolsas na Instituição".<br>**Feedback:** Visualização das bolsas que o usuário possui.<br>**Plano:** Manter a informação clara e atualizada para facilitar o gerenciamento por parte do estudante. |
 
 ## Tabela 4: HTA para Solicitação e Gerenciamento de Bolsas Auxílio
-**Introdução:** Detalha o processo de solicitação de novas bolsas auxílio, acompanhamento e renovação dessas bolsas, focando em aspectos operacionais e administrativos.
+**Introdução:** Nessa tarefa, o usuário possui o objetivo de solicitar novas bolsas auxílio, acompanhar e renovar essas bolsas, focando em aspectos operacionais e administrativos.
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
 | **1. Solicitar Bolsa Auxílio 1>2** | **Input:** Seleção da opção "Solicitação de Bolsa Auxílio".<br>**Feedback:** Formulário de solicitação é exibido.<br>**Plano:** Simplificar o formulário e fornecer orientações claras. |
+| **2. Acompanhar Solicitação de Bolsa Auxílio 1+2** | **Input:** Clicar em "Acompanhar Solicitação de Bolsa Auxílio".<br>**Feedback:** Status atual das solicitações.<br>**Plano:** Fornecer detalhes precisos sobre o progresso e eventuais atrasos. |
+| **3. Renovar Bolsa Auxílio** | **Input:** Seleção da opção "Renovar Bolsa Auxílio".<br>**Feedback:** Formulário de renovação disponível.<br>**Plano:** Automatizar o preenchimento de dados conhecidos para facilitar o processo. |
+
 
 ## Conclusão
 Como é possível observar, a análise hierárquica e a aplicação do método GOMS para a funcionalidade de pedido de monitoria revelaram uma estrutura complexa de tarefas e interações dentro do processo. Assim, ao desmembrar cada etapa em objetivos, passo a passo, métodos e regras, foi possível compreender detalhadamente as ações dos usuários e identificar áreas de relevância.
