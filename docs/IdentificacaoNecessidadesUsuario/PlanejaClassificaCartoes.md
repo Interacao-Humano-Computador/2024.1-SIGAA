@@ -60,10 +60,12 @@ Inicialmente deve serem selecionados um ou mais participantes cientes dos termos
 
 | Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
 |--------|---------------|----------------|----------------|----------------|------------|------------|------------|
-| Manuela Alcantara |  21    |    Boa    | Sim | Feminino | Superior incompleto | Portugues |01/05/2024|
-| Fernando Vela |  23    |     Boa   | Sim | Masculino | Superior incompleto | Portugues, Espanhol|01/05/2024|
+| Manuela Alcantara |  21  | Boa | Sim | Feminino  | Superior incompleto | Portugues                 |01/05/2024|
+| Fernando Vela     |  23  | Boa | Sim | Masculino | Superior incompleto | Portugues, Espanhol       |01/05/2024|
+| Pedro Siqueira    |  22  | Boa | Sim | Masculino | Superior incompleto | Portugues, Inglês, Alemão |05/05/2024|
+| Leonardo Ramiro   |  21  | Boa | Sim | Masculino | Superior incompleto | Portugues, Inglês         |05/05/2024|
 
-<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias), [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 A tabela 1, trás os participantes escolhidos para a atividade, assim como seus dados pessoais e a data de quando deverá ser feita a aplicação com cada um.
 
@@ -85,4 +87,5 @@ Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-.
 | Versão | Alteração                     | Responsável    | Revisor         | Data       |
 |--------|-------------------------------|----------------|---------------- |------------|
 | 1.0    | Criação do documento          | Pedro Augusto  | Breno Alexandre | 01/05/2024 |
+| 1.1    | Complementação do documento   | Luana Medeiros | -               | 05/05/2024 |
 
