@@ -16,46 +16,44 @@ Este método facilita a identificação e a análise de problemas, permitindo ot
 
 A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e gerenciar vários aspectos relacionados às bolsas estudantis, desde a inscrição até o acompanhamento e renovação de bolsas. Cada tarefa foi decomposta para facilitar a compreensão dos processos envolvidos e melhorar a interação do usuário com o sistema.
 
-## Tarefas na Aba Bolsas
+# Análise Hierárquica de Tarefas (HTA) para o Menu "Bolsas" no SIGAA
 
-### 1. Cadastro Único - Aderir
-- **1.1 Acessar a funcionalidade de adesão ao cadastro único**
-  - Ingressar na seção para iniciar o processo de adesão a um cadastro que unifica o acesso às bolsas de assistência estudantil.
-- **1.2 Preencher formulário de adesão**
-  - Completar as informações necessárias para se qualificar para as bolsas disponíveis.
+## Tabela 1: HTA para Cadastro Único de Bolsas
+**Introdução:** Esta seção abrange todas as operações relacionadas ao Cadastro Único de Bolsas, permitindo aos alunos aderir ao cadastro, consultar suas adesões e gerar declarações de prioridade.
 
-### 2. Cadastro Único - Consultar Adesões
-- **2.1 Acessar histórico de adesões**
-  - Visualizar as adesões anteriores e o status atual de cada uma delas.
-- **2.2 Modificar ou atualizar adesões**
-  - Fazer ajustes nas informações fornecidas ou atualizar dados conforme necessário.
+| Objetivos/Operações | Problemas e Recomendações |
+|---------------------|----------------------------|
+| **0. Acessar Cadastro Único** | **Input:** Seleção da opção "Cadastro Único" no menu Bolsas.<br>**Feedback:** Exibição das subopções.<br>**Plano:** Garantir visibilidade e entendimento das opções disponíveis. |
+| **1. Aderir ao Cadastro Único 1>2** | **Input:** Seleção da opção "Aderir".<br>**Feedback:** Formulário de adesão é apresentado.<br>**Plano:** Assegurar que o formulário seja intuitivo e completo. |
+| **2. Consultar Adesões 2>3** | **Input:** Seleção da opção "Consultar Adesões".<br>**Feedback:** Visualização das adesões existentes.<br>**Plano:** Prover detalhes claros sobre o status de cada adesão. |
+| **3. Declaração de Discente Prioritário** | **Input:** Seleção da opção "Declaração de Discente Prioritário".<br>**Feedback:** Possibilidade de gerar declaração.<br>**Plano:** Simplificar o processo de geração e garantir a validade da informação. |
 
-### 3. Cadastro Único - Declaração de Discente Prioritário
-- **3.1 Gerar declaração de prioridade**
-  - Emitir um documento que comprove o status de prioridade do estudante para processos seletivos de bolsas.
+## Tabela 2: HTA para Declaração de Bolsista
+**Introdução:** Esta tabela descreve o processo pelo qual os bolsistas assinam e visualizam declarações relativas ao não acúmulo de bolsas, uma exigência administrativa importante.
 
-### 4. Declaração de Bolsista
-- **4.1 Confirmar não acúmulo de bolsas**
-  - Assinar eletronicamente uma declaração garantindo que o estudante não possui outras bolsas acumulativas.
+| Objetivos/Operações | Problemas e Recomendações |
+|---------------------|----------------------------|
+| **0. Acessar Declarações de Bolsista** | **Input:** Seleção da opção "Declaração de Bolsista".<br>**Feedback:** Opções para assinar ou visualizar declarações são exibidas.<br>**Plano:** Assegurar clareza nas opções e processos. |
+| **1. Assinar Declaração 1/2** | **Input:** Clicar em "Assinar Declaração".<br>**Feedback:** Formulário para assinatura aparece.<br>**Plano:** Facilitar o processo de assinatura e garantir a segurança dos dados. |
+| **2. Visualizar Assinaturas 1+2** | **Input:** Clicar em "Visualizar Assinaturas".<br>**Feedback:** Lista de declarações assinadas disponível.<br>**Plano:** Proporcionar uma visualização fácil e acessível das informações. |
 
-### 5. Oportunidades de Bolsa
-- **5.1 Pesquisar oportunidades disponíveis**
-  - Explorar as diferentes bolsas oferecidas pela instituição, filtrando por tipo e disponibilidade.
+## Tabela 3: HTA para Gestão de Bolsas
+**Introdução:** Abrange as operações de visualização de oportunidades de bolsa, acompanhamento de registros de interesse e gestão das bolsas atuais na instituição.
 
-### 6. Acompanhar Meus Registros de Interesse
-- **6.1 Acompanhar inscrições em oportunidades de bolsa**
-  - Verificar o status das inscrições realizadas em diferentes oportunidades de bolsas.
+| Objetivos/Operações | Problemas e Recomendações |
+|---------------------|----------------------------|
+| **1. Visualizar Oportunidades de Bolsa 1>2** | **Input:** Seleção da opção "Oportunidades de Bolsa".<br>**Feedback:** Lista de oportunidades disponíveis.<br>**Plano:** Garantir atualização constante e precisão das oportunidades listadas. |
+| **2. Acompanhar Registros de Interesse 2>3** | **Input:** Clicar em "Acompanhar Meus Registros de Interesse".<br>**Feedback:** Estado atual dos registros de interesse.<br>**Plano:** Assegurar que o usuário receba atualizações regulares sobre o status. |
+| **3. Visualizar Minhas Bolsas na Instituição** | **Input:** Seleção da opção "Minhas Bolsas na Instituição".<br>**Feedback:** Visualização das bolsas que o usuário possui.<br>**Plano:** Manter a informação clara e atualizada para facilitar o gerenciamento por parte do estudante. |
 
-### 7. Minhas Bolsas na Instituição
-- **7.1 Visualizar bolsas ativas e histórico**
-  - Consultar as bolsas que o estudante possui ou já possuiu dentro da instituição.
+## Tabela 4: HTA para Solicitação e Gerenciamento de Bolsas Auxílio
+**Introdução:** Detalha o processo de solicitação de novas bolsas auxílio, acompanhamento e renovação dessas bolsas, focando em aspectos operacionais e administrativos.
 
-### 8. Solicitação de Bolsa - Solicitação de Bolsa Auxílio
-- **8.1 Solicitar nova bolsa auxílio**
-  - Iniciar o processo de solicitação para uma nova bolsa auxílio, preenchendo o formulário necessário.
-
-### 9. Acompanhar Solicitação de Bolsas Auxílios
-- **9.1 Acompanhar o andamento das solicitações de bolsa auxílio**
+| Objetivos/Operações | Problemas e Recomendações |
+|---------------------|----------------------------|
+| **1. Solicitar Bolsa Auxílio 1>2** | **Input:** Seleção da opção "Solicitação de Bolsa Auxílio".<br>**Feedback:** Formulário de solicitação é exibido.<br>**Plano:** Simplificar o formulário e fornecer orientações claras. |
+| **2. Acompanhar Solicitação de Bolsa Auxílio 2>3** | **Input:** Clicar em "Acompanhar Solicitação de Bolsa Auxílio".<br>**Feedback:** Status atual das solicitações.<br>**Plano:** Fornecer detalhes precisos sobre o progresso e eventuais atrasos. |
+| **3. Renovar Bolsa Auxílio** | **Input:** Seleção da opção "Renovar Bolsa Auxílio".<br>**Feedback:** Formulário de renovação disponível.<br>**Plano:** Automatizar o preenchimento de dados conhecidos para facilitar o processo. |
 
 
 ## Conclusão
