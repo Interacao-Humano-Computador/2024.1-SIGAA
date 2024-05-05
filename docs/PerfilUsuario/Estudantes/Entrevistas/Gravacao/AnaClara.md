@@ -152,7 +152,7 @@ Não, pois não lembra.
 ## Conclusão
 
 A entrevista realizada com a Ana proporcionou uma perspectiva valiosa sobre o seu relacionamento com o Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA),
-o que permiriu identificar pontos que precisam ser melhorados no site.
+o que permitiu identificar pontos que precisam ser melhorados no site.
 
 ## Histórico de Versão
 
