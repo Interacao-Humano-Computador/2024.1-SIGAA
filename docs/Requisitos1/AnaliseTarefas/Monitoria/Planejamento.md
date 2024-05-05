@@ -10,9 +10,32 @@
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
-Durante as entrevistas com os estudantes, um assunto discutido foi a necessidade de se ter uma funcionalidade destinada aos assuntos de monitoria, uma vez que ela não está presente no SIGAA. Deste modo, este documento tem o intuito de realizar um planejamento da análise das tarefas envolvidas no processo de pedido, monitoramento e troca de mensagens de monitorias na perspectiva do estudante ao se utilizar o SIGAA.
+Durante as entrevistas com os estudantes, um assunto discutido foi a necessidade de se ter uma funcionalidade destinada aos assuntos de monitoria, uma vez que ela não está presente no SIGAA. Até existe o módulo, mas ele não funciona. A imagem 1 mostra que não a monitoria na aba de funcionalidades:
 
-Com base nisso, para criar a área de monitoria é necessário garantir a eficiência e eficácia do sistema ao proporcionar uma experiência satisfatória aos usuários. Por isso, a análise de tarefas adotada nesta fase segue uma abordagem hierárquica, conhecida como **Análise Hierárquica de Tarefas (HTA)**, que permite uma representação sistemática das atividades em etapas menores e mais gerenciáveis. Com isso, ao decompor as metas dos estudantes em submetas e tarefas específicas, é possível identificar os pontos de entrada no sistema, as operações realizadas pelos usuários e os resultados esperados, algo que será apresentado nos documentos da execução da análise.
+ <div align="center">
+    Imagem 1: Abas de algumas funcionalides (Não há monitoria)
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/iMAGENSsIGAA/Screenshot%20from%202024-05-05%2017-07-53.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+A imagem 2 mostra que até há um módulo para a monitoria, mas ele está inativo, como é possível perceber pelas cores cinzas (Cinza é que não está ativo e azul é o que está para o estudantes).
+
+ <div align="center">
+    Imagem 2: Módulos inátivos no campo de módulos.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/iMAGENSsIGAA/Screenshot%20from%202024-05-05%2017-08-35.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+
+Deste modo, este documento tem o intuito de realizar um planejamento da análise das tarefas envolvidas no processo de pedido, monitoramento e avaliação do monitor na perspectiva do estudante ao se utilizar o SIGAA.
+
+Com base nisso, para criar a área de monitoria, será necessário garantir a eficiência e eficácia na usabilidade do sistema. Por isso, a análise de tarefas adotada nesta fase segue uma abordagem hierárquica, conhecida como **Análise Hierárquica de Tarefas (HTA)**, que permite uma representação sistemática das atividades em etapas menores e mais gerenciáveis. Com isso, ao decompor as metas dos estudantes em submetas e tarefas específicas, será possível identificar os pontos de entrada no sistema, as operações realizadas pelos usuários e os resultados esperados, algo que será apresentado nos documentos da execução da análise.
 
 Além disso, a análise de tarefas para as funcionalidades presentes na aba de monitoria será conduzida utilizando o método **GOMS (Goals, Operators, Methods, e Selection Rules)**. Esse método é uma abordagem de avaliação de usabilidade que se concentra na compreensão de como os usuários interagem com um sistema para atingir seus objetivos. Com isso, o "Goals" (objetivos) referem-se aos resultados desejados pelos usuários, "Operators" (operadores) são ações mentais e físicas realizadas para alcançar esses objetivos, "Methods" (métodos) são as sequências de operadores necessárias para concluir uma tarefa e "Selection Rules" (regras de seleção) determinam como os usuários escolhem entre métodos alternativos. Ao aplicar o método GOMS, é possível identificar pontos de otimização e simplificação nas tarefas de monitoria.
 
@@ -21,10 +44,9 @@ A aba de monitoria no sistema do SIGAA será concebida com o objetivo de simplif
 
 Essa aba terá três funcionalidades principais, que incluem:
 
-- A opção de solicitar monitoria, permitindo que os alunos requisitem a supervisão de um docente específico para uma disciplina em particular.
-- A possibilidade de ter uma visão dos dados de monitoria que já exerceu ou exercita atualmente, além de permitir que os monitores documentem uma grade de horários de atendimento, que poderá ser disponibilizada no perfil da turma, facilitando a interação entre monitores e alunos.
-- Possibilidade de solicitar o uso de salas para as sessões presenciais de monitoria.
-- Comunicação privada, onde os monitores podem trocar mensagens com professores e alunos da turma.
+- A opção de solicitar monitoria, permitindo que os alunos requisitem ser monitor a um docente específico para uma disciplina em particular.
+- A possibilidade de ter uma visão dos dados de monitoria que já exerceu ou exercita atualmente, além de permitir que os monitores documentem uma grade de horários de atendimento, que poderá ser disponibilizada no perfil da turma, facilitando a interação entre monitores e alunos. Assim como também será permitida a comunicação.
+- Possibilidade de avaliar os monitores.
 
 ## Inspirações
 
@@ -42,7 +64,7 @@ Os materiais disponibilizados pelo professor são:
 
 ## Metodologia
 
-Para analisar o processo das funcionalidades de monitorias na perspectiva do estudante, inicialmente, será realizada uma análise e uma compreensão dos objetivos gerais do usuário ao utilizar essa funcionalidade. Assim, esses objetivos serão divididos em subobjetivos mais específicos, que são então relacionados com as operações concretas que o estudante precisará realizar no SIGAA. Essas operações serão mostradas contextualmente.
+Para analisar o processo das funcionalidades de monitorias na perspectiva do estudante, inicialmente, será realizada uma análise e uma compreensão dos objetivos gerais do usuário ao utilizar essa funcionalidade. Assim, esses objetivos serão divididos em subobjetivos mais específicos, que serão então relacionados com as operações concretas que o estudante precisará realizar no SIGAA. Essas operações serão mostradas contextualmente.
 
 Em seguida, para ser contextualizado dentro do fluxo de interação, será elaborado um diagrama, uma vez que ele fornecerá uma visão geral do processo, destacando as inter-relações entre as diferentes tarefas e ajudando a identificar possíveis gargalos ou lacunas no fluxo. Após a elaboração do diagrama, será elaborada uma tabela detalhando cada tarefa conforme o “input”, “feedback”, “plano” e “recomendação”.
 
@@ -86,4 +108,5 @@ O planejamento da execução da análise hierárquica de tarefas e da GOMS para 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e realização do documento| Larissa Stéfane | Breno Alexandre | 28/04/2024 |
+| 1.1 | Adicição de imagens e correção do cronograma| Larissa Stéfane | -  | 05/05/2024 |
 
