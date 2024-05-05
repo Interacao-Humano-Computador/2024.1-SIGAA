@@ -848,4 +848,7 @@ Os resultados do questionário revelaram informações importantes sobre o perfi
 
 É importante ressaltar que, devido à distribuição do questionário em grupos de estudantes de graduação, alguns dados podem ter sido influenciados por um desvio padrão significativo. No entanto, essas informações ainda são valiosas para o desenvolvimento do projeto.
 
-
+## Histórico de Versão
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação e realização do documento. | Larissa Stéfane | - | 05/05/2024 |
