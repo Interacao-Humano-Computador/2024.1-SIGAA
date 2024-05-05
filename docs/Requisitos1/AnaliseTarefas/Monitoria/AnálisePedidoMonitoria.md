@@ -26,14 +26,16 @@ O objetivo de **pedido de monitoria** é oferecer aos estudantes uma maneira con
 ## Análise Hierárquica de Tarefas
 A análise de tarefas é um processo de decomposição das atividades dos usuários em partes menores, chamadas de tarefas, em um sistema ou interface. Com isso, as tarefas complexas são divididas em objetivos, subobjetivos e operações, e um plano é estabelecido para definir a ordem em que esses subobjetivos devem ser alcançados.
 
-Abaixo, serão apresentados a análise contextual, o diagrame e a tabela desse processo.
+Abaixo, serão apresentados a análise contextual, o diagrama e a tabela desse processo.
 
 
 ### Análise Contextual
-Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
+Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, há a análise contextual e hierárquica utilizada.
 
 <details>
-  <summary size="20"><b> Análise Contextual </b></summary> 
+  <summary size="20"><b> Algoritmo 1: Análise Contextual </b></summary> 
+
+  **Algoritmo 1: Análise Contextual**
 
     0. Realizar Pedido de Monitoria (1>2)
       1. Selecionar Disciplina (1>2)
@@ -65,11 +67,11 @@ Como há um conjunto de tarefas a serem realizadas, há baixo há a análise con
 
 </details>
 
-Após enviar o pedido, ele fica em modo de análise até que seja aprovado tanto pelo docente quando pela coordenação.
+Após enviar o pedido, ele fica em modo de análise até que seja aprovado tanto pelo docente quanto pela coordenação.
 
 ### Diagrama de Atividades
 
-Para facilitar a visualização de tarefas, a figura 1 mostra o diagrama:
+Para facilitar a visualização das tarefas, a figura 1 mostra o diagrama:
 
  <div align="center">
     Figura 1: Diagrama HTA do Pedido de Monitoria
@@ -152,11 +154,12 @@ pedido de monitoria, como indicar o professor, selecionar a turma e adicionar de
 ### Execução do GOMS
 
 
-Abaixo, há a execução do método GOMS
+Abaixo, no algoritmo 2, há a execução do método GOMS
 
 <details>
-  <summary size="20"><b> GOMS </b></summary> 
+  <summary size="20"><b> Algoritmo 2: GOMS </b></summary> 
 
+**Algoritmo 2:** Execução do GOMS.
       
       GOAL 0: Realizar Pedido de Monitoria
       
