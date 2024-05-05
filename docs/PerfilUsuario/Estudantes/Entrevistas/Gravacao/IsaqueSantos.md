@@ -154,4 +154,4 @@ A entrevista realizada com o Isaque Santos proporcionou uma perspectiva valiosa 
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento| Larissa Stéfane| -  |  21/04/2024 |
+| 1.0 | Criação e realização do documento| Larissa Stéfane| Breno Alexandre |  21/04/2024 |
