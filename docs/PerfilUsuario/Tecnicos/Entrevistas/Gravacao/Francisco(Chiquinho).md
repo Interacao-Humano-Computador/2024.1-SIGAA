@@ -22,7 +22,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 <center>
   
-**Tabela 1**: Cronograma
+Tabela 1: Cronograma
 
 | Data       | Atividade                         |
 | ---------- | --------------------------------- |
@@ -30,7 +30,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 | 02/05/204  | Gravação da entrevista            |
 | 03/05/2024 | Documentação da entrevista        |
 
-**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
   
 </center>
@@ -43,14 +43,14 @@ Após isso, ele concordou com os termos em vídeo.
 
 ## Gravação
 
-O vídeo 1 mostra a entrevista com o Francisco Cesar Borges Silva.
+O vídeo 1 mostra a entrevista.
 
 <center> 
-vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com o Francisco
+Vídeo 1: Entrevista com o Francisco.
 
 <iframe width="700" height="800" src="https://www.youtube-nocookie.com/embed/KpzJampj8Kc?si=8x1YU5qRc3WBuIbR" title="IHC - Projeto sobre o SIGAA - Entrevista com o Francisco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
 </center>
 
