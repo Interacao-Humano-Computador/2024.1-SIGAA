@@ -28,9 +28,6 @@ A análise de tarefas é um processo de decomposição das atividades dos usuár
 
 Abaixo, serão apresentados a análise contextual, o diagrame e a tabela desse processo.
 
-### Análise Contextual
-Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica
-utilizada.
 
 ### Análise Contextual
 Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
