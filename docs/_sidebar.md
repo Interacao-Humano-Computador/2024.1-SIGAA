@@ -53,4 +53,12 @@
       * Estudo de Campo
       * Classificação de Cartões  
     * Técnicos
-      - [Francisco Cesar (Chiquinho)](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md)
+        * Entrevistas
+            * Entrevistas Realizadas
+              - [Francisco Cesar (Chiquinho)](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md)
+* Análise de Tarefas
+  * Monitoria
+    - [Planejamento da Análise](Requisitos1/AnaliseTarefas/Monitoria/Planejamento.md)
+    - [Análise Pedido de Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnálisePedidoMonitoria.md)
+    - [Análise Monitoramento da Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnaliseMonitoramentoMonitoria.md)
+    - [Análise Avaliação de monitores](Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor.md)
