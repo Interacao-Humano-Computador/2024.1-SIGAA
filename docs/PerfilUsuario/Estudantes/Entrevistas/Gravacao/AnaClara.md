@@ -38,7 +38,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 Este link leva ao PDF do termo de consentimento assinado presencialmente por Ana Clara Rosário Silva.
 
-Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/Ana.md) 
+Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/AnaClara.md) 
 
 
 ## Gravação
