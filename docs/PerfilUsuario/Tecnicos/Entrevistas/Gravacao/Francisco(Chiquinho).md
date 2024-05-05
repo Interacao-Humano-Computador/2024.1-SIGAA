@@ -109,6 +109,9 @@ Ele ama o trabalho que faz, e o desempenha com carinho.
 - Fez um curso com a duração de uma semana, porém não foi possível aprender tudo, acabando dependendo do tempo de prática do usuário.
 - Ele considera o SIGAA um sistema completo, porém não muito prático, ao contrário do SIGRA. Por exemplo, quando algo dava errado, dava para corrigir rápido no SIGRA, já o SIGAA é mais complexo.
 - O SIGAA permite uma verificação de dados bem completa.
+- A SAA (Secretaria de Administração Acadêmica) retirou alguns serviços que os servidores da FGA faziam, atrapalhando a eficiência.
+- O SIGAA e o SEI (Sistema Eletrônico de Informações) tem uma integração grande.
+- Uma dificuldade so SIGAA 
 
 ### Há quanto tempo o senhor utiliza o SIGAA?
 Ele trabalha com o SIGAA desde a sua implantação em 2019.
@@ -130,5 +133,5 @@ o que permiriu identificar pontos que precisam ser melhorados no site.
 ## Histórico de Versão
 
 | Versão | Alteração                         | Responsável     | Revisor | Data       |
-| ------ | --------------------------------- | --------------- | -       | ---------- |
+| ------ | --------------------------------- | --------------- | ------- | ---------- |
 | 1.0    | Criação e realização do documento | Breno Alexandre | -       | 03/05/2024 |
