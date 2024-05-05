@@ -74,5 +74,3 @@ Como é possível observar, a análise hierárquica e a aplicação do método G
 | Versão | Alteração                                   | Responsável  | Revisor         | Data       |
 | ------ | ------------------------------------------- | ------------ | --------------- | ---------- |
 | 1.0    | Criação e realização da análise hierárquica | Bruno Araújo | Breno Alexandre | 04/05/2024 |
-| **2. Acompanhar Solicitação de Bolsa Auxílio 1+2** | **Input:** Clicar em "Acompanhar Solicitação de Bolsa Auxílio".<br>**Feedback:** Status atual das solicitações.<br>**Plano:** Fornecer detalhes precisos sobre o progresso e eventuais atrasos. |
-| **3. Renovar Bolsa Auxílio** | **Input:** Seleção da opção "Renovar Bolsa Auxílio".<br>**Feedback:** Formulário de renovação disponível.<br>**Plano:** Automatizar o preenchimento de dados conhecidos para facilitar o processo. |
