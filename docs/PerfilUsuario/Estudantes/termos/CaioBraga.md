@@ -19,6 +19,8 @@ A imagem 1 mostra o termo de consentimento assinado:
 
 **Fonte:** Caio Felipe Alves Braga
 
+## Histórico de Versão
+
 | Versão | Alteração                         | Responsável     | Revisor         | Data       |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 30/04/2024 |
