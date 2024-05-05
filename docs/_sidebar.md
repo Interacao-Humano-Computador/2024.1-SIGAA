@@ -52,3 +52,4 @@
       * Estudo de Campo
       * Classificação de Cartões  
     * Técnicos
+      - [Francisco Cesar (Chiquinho)](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md)
