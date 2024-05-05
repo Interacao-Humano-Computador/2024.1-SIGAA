@@ -63,4 +63,4 @@ Nesta tarefa, o objetivo do usuário é efetuar o pré-cadastro de um estágio
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização da análise GOMS | Iago Passaglia | - | 04/05/2024 |
+| 1.0 | Criação e realização da análise GOMS | Iago Passaglia | Breno Alexandre | 04/05/2024 |
