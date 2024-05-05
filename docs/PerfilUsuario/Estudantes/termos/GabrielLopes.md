@@ -15,7 +15,9 @@ Caso deseje voltar para a entrevista com o Gabriel Lopes, aperte em [Entrevista]
   
 </div>
 
+## Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criaçao do documento | Larissa Stéfane | - | 22/04/2024 |
+| Versão | Alteração                         | Responsável     | Revisor         | Data       |
+| ------ | --------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 22/04/2024 |
+| 1.1    | Adiciona histórico de versão      | Breno Alexandre | -               | 05/05/2024 |
