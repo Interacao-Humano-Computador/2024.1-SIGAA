@@ -34,28 +34,27 @@ utilizada.
 ### Análise Contextual
 Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
 
-    0. Realizar Pedido de Monitoria
-      1. Selecionar Disciplina 
-        1.1 Escolher Campus 
-          1.1.1 Identificar Faculdade ou Instituto 
-          1.1.2 Localizar o Departamento 
+    0. Realizar Pedido de Monitoria (1>2)
+      1. Selecionar Disciplina (1>2)
+        1.1 Identificar Instituto ou Departamento (1+2) 
+          1.1.1 Identificar Nível de Ensino
+          1.1.2 Identificar Unidade 
        1.2 Localizar a Disciplina (Somente disciplinas cursadas e aprovadas) 
     
-     2. Especificar Detalhes do Pedido 
-    	 2.1 Indicar Professor (Se aplicável) 
-    	 2.2 Selecionar Turma (Se o professor tiver múltiplas turmas) 
-    	 2.3 Adicionar Informações Adicionais (Como horários preferenciais, tópicos específicos para focar) 
+     2. Especificar Detalhes do Pedido (1>2)
+    	 2.1 Escolher Professor 
+    	 2.2 Selecionar Turma (Caso o professor lecione para diversas turmas da disciplina) 
+    	 2.3 Adicionar Informações Adicionais (Horários preferenciais de atendimento, tópicos que possui mais facilidade, entre outros) 
     
-     3. Inserir Dados Pessoais 
-    	 3.1 Preencher Nome 
-    	 3.2 Inserir Matrícula 
-    	 3.3 Fornecer Contato (E-mail ou número de telefone) 
+     3. Inserir Dados Pessoais (1+2) 
+    	 3.1 Preencher Nome e Fornecer Contato (E-mail mais utilizado e telefone) 
+    	 3.2 Inserir Matrícula (Vai indicar o histórico no sistema)
     
-     4. Adicionar Mensagem de Pedido 
+     4. Adicionar Mensagem de Pedido (1+2)
     	 4.1 Escrever Motivação para Solicitar Monitoria 
-    	 4.2 Descrever Expectativas e Necessidades 
+    	 4.2 Descrever expectativas, necessidades e restrições 
     
-     5. Revisar Pedido 
+     5. Revisar Pedido (1+2)
     	 5.1 Verificar Detalhes do Pedido 
     	 5.2 Confirmar Precisão dos Dados Pessoais 
     	 5.3 Revisar e Editar Mensagem de Pedido 
@@ -72,30 +71,31 @@ Desse modo, tendo isso e a análise contextual como base, a imagem 2 mostra o di
 ### Tabela de Análise
 A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcionalidade de pedido de monitoria.
 
-| Objetivos/Operações | Relações | Problemas e Recomendações |
-|--|--|--|
-| 0. Realizar Pedido de Monitoria | | |
-| 1. Selecionar Disciplina | (1/2) | **Input:** Facilitar a busca pela disciplina desejada. <br> **Feedback:** Confirmar se a disciplina escolhida é a correta. <br> **Plano:** Implementar uma barra de pesquisa para facilitar a localização. <br> **Recomendação:** Melhorar a usabilidade do sistema para uma navegação mais intuitiva. |
-| 1.1 Escolher Campus | (1+2) | **Input:** Disponibilizar opções claras e organizadas dos campi. <br> **Feedback:** Garantir que o estudante selecione o campus correto. <br> **Plano:** Incluir descrições dos campi para facilitar a escolha. <br> **Recomendação:** Oferecer uma lista de campi com descrições breves para orientar a escolha. |
-| 1.1.1 Identificar Faculdade ou Instituto | (1>2) | **Input:** Facilitar a identificação da faculdade ou instituto. <br> **Feedback:** Garantir que o estudante escolha a faculdade ou instituto correto. <br> **Plano:** Incluir logotipos ou nomes completos das faculdades e institutos. <br> **Recomendação:** Melhorar a identificação visual das faculdades e institutos. |
-| 1.1.2 Localizar o Departamento | (1>2) | **Input:** Tornar mais fácil a localização do departamento. <br> **Feedback:** Confirmar que o departamento selecionado é o desejado. <br> **Plano:** Incluir descrições breves dos departamentos. <br> **Recomendação:** Facilitar a identificação dos departamentos através de descrições sucintas. |
-| 1.2 Localizar a Disciplina | (1>2) | **Input:** Facilitar a busca por disciplinas previamente cursadas e aprovadas. <br> **Feedback:** Garantir que o estudante selecione a disciplina correta. <br> **Plano:** Oferecer uma lista de disciplinas cursadas e aprovadas. <br> **Recomendação:** Aprimorar a navegação para uma seleção mais rápida e precisa das disciplinas. |
-| 2. Especificar Detalhes do Pedido | (1>2)| |
-| 2.1 Indicar Professor | (1>2) | **Input:** Facilitar a seleção do professor desejado. <br> **Feedback:** Confirmar se o professor escolhido é o correto. <br> **Plano:** Implementar uma lista de professores com suas respectivas disciplinas. <br> **Recomendação:** Aprimorar a busca por professores para uma escolha mais precisa. |
-| 2.2 Selecionar Turma | (1>2) | **Input:** Tornar mais fácil a seleção da turma desejada. <br> **Feedback:** Confirmar se a turma selecionada é a correta. <br> **Plano:** Incluir informações adicionais sobre as turmas, como horários e locais de aula. <br> **Recomendação:** Melhorar a visualização das turmas para uma escolha mais informada. |
-| 2.3 Adicionar Informações Adicionais | (1>2) | **Input:** Facilitar a inclusão de informações relevantes para o pedido de monitoria. <br> **Feedback:** Confirmar se as informações adicionais são necessárias ou relevantes. <br> **Plano:** Oferecer campos específicos para informações adicionais. <br> **Recomendação:** Simplificar o processo de adição de informações complementares. |
-| 3. Inserir Dados Pessoais | (1>2) | |
-| 3.1 Preencher Nome | (1>2) | **Input:** Facilitar o preenchimento do nome do estudante. <br> **Feedback:** Confirmar a precisão do nome inserido. <br> **Plano:** Utilizar um campo de preenchimento automático baseado no cadastro do estudante. <br> **Recomendação:** Implementar preenchimento automático com base no perfil do estudante. |
-| 3.2 Inserir Matrícula | (1>2) | **Input:** Tornar mais fácil a inserção do número de matrícula. <br> **Feedback:** Confirmar a exatidão da matrícula inserida. <br> **Plano:** Utilizar um campo de preenchimento automático baseado no cadastro do estudante. <br> **Recomendação:** Implementar preenchimento automático com base no perfil do estudante. |
-| 3.3 Fornecer Contato | (1>2) | **Input:** Facilitar o fornecimento de informações de contato. <br> **Feedback:** Confirmar a precisão das informações de contato fornecidas. <br> **Plano:** Utilizar campos específicos para e-mail e número de telefone. <br> **Recomendação:** Simplificar o processo de inserção de informações de contato. |
-| 4. Adicionar Mensagem de Pedido | (1>2) | |
-| 4.1 Escrever Motivação para Solicitar Monitoria| (1>2) | **Input:** Facilitar a inclusão de uma mensagem explicativa para o pedido de monitoria. <br> **Feedback:** Confirmar se a mensagem de motivação é clara e relevante. <br> **Plano:** Oferecer um campo específico para a mensagem de motivação. <br> **Recomendação:** Simplificar o processo de inserção da mensagem de motivação. |
-| 4.2 Descrever Expectativas e Necessidades | (1>2) | **Input:** Facilitar a descrição das expectativas e necessidades do estudante em relação à monitoria. <br> **Feedback:** Confirmar se as expectativas e necessidades estão claramente descritas. <br> **Plano:** Oferecer um campo específico para a descrição das expectativas e necessidades. <br> **Recomendação:** Simplificar o processo de inserção das expectativas e necessidades. |
-| 5. Revisar Pedido | (1>2) | |
-| 5.1 Verificar Detalhes do Pedido | (1>2) | **Input:** Facilitar a revisão dos detalhes do pedido de monitoria. <br> **Feedback:** Confirmar se os detalhes do pedido estão corretos. <br> **Plano:** Oferecer uma visualização resumida dos detalhes do pedido para revisão. <br> **Recomendação:** Aprimorar a visualização dos detalhes do pedido para uma revisão mais eficiente. |
-| 5.2 Confirmar Precisão dos Dados Pessoais | (1>2) | **Input:** Facilitar a verificação da precisão dos dados pessoais inseridos. <br> **Feedback:** Confirmar se os dados pessoais estão corretos e atualizados. <br> **Plano:** Oferecer uma visualização resumida dos dados pessoais para revisão. <br> **Recomendação:** Aprimorar a visualização dos dados pessoais para uma verificação mais eficaz. |
-| 5.3 Revisar e Editar Mensagem de Pedido | (1>2) | **Input:** Facilitar a revisão e edição da mensagem de pedido de monitoria. <br> **Feedback:** Confirmar se a mensagem de pedido está clara e precisa. <br> **Plano:** Oferecer um campo de edição para a mensagem de pedido. <br> **Recomendação:** Simplificar o processo de edição da mensagem de pedido. |
-| 6. Enviar Pedido de Monitoria | (1>2) | |
+**Tabela 1**: Análise Hierárquica de pedido de monitoria
+| Objetivos/Operações                              | Relações      | Problemas e Recomendações                                                                                              |
+|--------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------|
+| 0. Realizar Pedido de Monitoria                  | 1 > 2         | **Input**: Necessidade de monitoria em uma disciplina específica.<br>**Feedback**: Professor recebe pedido de monitoria para ser analisado.<br>**Plano**: Realizar a seleção da disciplina desejada.<br>**Recomendação**: Prosseguir para especificar os detalhes do pedido. |
+| 1. Selecionar Disciplina                        | 1 > 2         | **Input**: Escolha da disciplina desejada.<br>**Feedback**: Lista de disciplinas disponíveis de acordo com os critérios selecionados.<br>**Plano:** Selecionar a disciplina desejada.<br>**Recomendação**: Identificar instituto ou departamento relevante. |
+| 1.1 Identificar Instituto ou Departamento        | 1 + 2         | **Plano**: Pesquisar institutos e departamentos.<br>**Recomendação**: Selecionar o instituto ou departamento relevante.            |
+| 1.1.1 Identificar Nível de Ensino                |         | **Plano**: Identificar o nível de ensino da disciplina selecionada.<br>**Recomendação**: Escolher o nível de ensino adequado.       |
+| 1.1.2 Identificar Unidade                        |         | **Plano:** Identificar a unidade acadêmica responsável pela disciplina selecionada.<br>**Recomendação**: Escolher a unidade adequada. |
+| 1.2 Localizar a Disciplina (Somente disciplinas cursadas e aprovadas) |  | **Plano**: Localizar a disciplina dentro da estrutura de disciplinas aprovadas.<br>**Recomendação**: Selecionar a disciplina corretamente. |
+| 2. Especificar Detalhes do Pedido                | 1 > 2         | **Input**: Preferências de horários de atendimento e tópicos específicos de dificuldade.<br>**Plano**: Especificar os detalhes do pedido.<br>**Recomendação**: Escolher professor e turma adequados. |
+| 2.1 Escolher Professor                           |        | **Plano**: Selecionar o professor desejado para a monitoria.<br>**Recomendação**: Escolher um professor com disponibilidade adequada. |
+| 2.2 Selecionar Turma (Caso o professor lecione para diversas turmas da disciplina) |  | **Plano**: Escolher a turma desejada para a monitoria.<br>**Recomendação**: Escolher uma turma compatível com a disponibilidade. |
+| 2.3 Adicionar Informações Adicionais             |         | **Plano**: Inserir informações adicionais relevantes para o pedido de monitoria.<br>**Recomendação**: Inserir informações relevantes e claras. |
+| 3. Inserir Dados Pessoais                        | 1 + 2         | **Input**: Nome, e-mail principal e telefone para contato.<br>**Feedback**: Confirmação dos dados pessoais.<br>**Plano**: Inserir os dados pessoais necessários.<br>**Recomendação**: Revisar os dados inseridos. |
+| 3.1 Preencher Nome e Fornecer Contato            |        | **Plano**: Preencher o nome e fornecer informações de contato.<br>**Recomendação**: Fornecer informações corretas e atualizadas. |
+| 3.2 Inserir Matrícula                            |          | **Plano**: Inserir a matrícula do aluno.<br>**Recomendação**: Verificar a matrícula para garantir a precisão dos dados. |
+| 4. Adicionar Mensagem de Pedido                  | 1 + 2         | **Input**: Necessidades de informações relevantes que orientam a autorização do pedido.<br>**Plano**: Escrever uma mensagem de pedido contendo motivação, expectativas e restrições.<br>**Recomendação**: Elaborar uma mensagem clara e concisa. |
+| 4.1 Escrever Motivação para Solicitar Monitoria  |          | **Plano**: Escrever a motivação para solicitar a monitoria.<br>**Recomendação**: Expressar claramente as razões para a solicitação. |
+| 4.2 Descrever expectativas, necessidades e restrições |  | **Plano**: Descrever as expectativas, necessidades e restrições para a monitoria.<br>**Recomendação**: Detalhar as expectativas de forma precisa. |
+| 5. Revisar Pedido                               | 1 + 2         | **Input**: Necessidade de conferir, pois os dados não poderão ser alterados depois. <br>**Plano**: Revisar todos os detalhes do pedido antes de enviar.<br>**Recomendação**: Verificar cuidadosamente todas as informações inseridas. |
+| 5.1 Verificar Detalhes do Pedido                 |         | **Plano**: Verificar se todos os detalhes do pedido estão corretos.<br>**Recomendação**: Revisar cada detalhe minuciosamente. |
+| 5.2 Confirmar Precisão dos Dados Pessoais        |          | **Plano**: Confirmar se os dados pessoais inseridos estão corretos.<br>**Recomendação**: Verificar a precisão dos dados pessoais. |
+| 5.3 Revisar e Editar Mensagem de Pedido          |          | **Plano**: Revisar e editar a mensagem de pedido conforme necessário.<br>**Recomendação**: Garantir que a mensagem esteja clara e completa. |
+| 6. Enviar Pedido de Monitoria                    |               |**Input**: Enviar o pedido para avaliação. <br>**Plano**: Enviar o pedido de monitoria para avaliação.<br>Recomendação: Enviar o pedido somente após revisão completa. |
+
 
 ## GOMS
 O GOMS é um método de análise de tarefas que descreve as atividades dos usuários em termos de objetivos (o que o usuário deseja alcançar), operadores (as ações realizadas, como clicar em um botão), métodos (sequências de ações para alcançar um objetivo) e regras de seleção (critérios para escolher entre métodos alternativos). Essa abordagem em relação à funcionalidade de **pedido de monitoria** será mostrada a seguir.
@@ -105,7 +105,10 @@ O GOMS é um método de análise de tarefas que descreve as atividades dos usuá
 1. **Selecionar Disciplina**: O usuário pretende escolher a disciplina para a qual deseja solicitar monitoria.
 2. **Especificar Detalhes do Pedido**: O usuário precisa fornecer informações específicas sobre o
 pedido de monitoria, como indicar o professor, selecionar a turma e adicionar detalhes adicionais, como horários preferenciais.
-3. **Enviar Pedido de Monitoria**: O objetivo final é concluir o processo de solicitação de monitoria enviando o pedido com todas as informações necessárias.
+3. **Inserir Dados Pessois**: O usuário precisa se identificar e mostrar os seus dados pessoais e de contato, como telefone.
+4.  **Adicionar Mensagem de Pedido**: O usuário precisa indicar motivações e restrições.
+5.  **Revisar Pedido**: Necessidade de conferir se dados estão corretos, pois não poderão ser alterados.
+6. **Enviar Pedido de Monitoria**: O objetivo final é concluir o processo de solicitação de monitoria enviando o pedido com todas as informações necessárias.
 
 ### Definição dos operadores(Operators)
 - **Selecione**: Usado para escolher opções, como disciplina, campus, departamento, professor e turma.
@@ -113,6 +116,7 @@ pedido de monitoria, como indicar o professor, selecionar a turma e adicionar de
 - **Especifique**: Para fornecer detalhes adicionais, como horários preferenciais e informações de contato.
 - **Inserir/Preencher/Fornecer**: Ações para adicionar dados pessoais, como nome, matrícula e contato.
 - **Adicionar/Escrever/Descrever**: Para incluir mensagens de pedido, como motivação para solicitar monitoria e expectativas.
+  
 ### Definição dos Métodos
 - **Identificar Faculdade ou Instituto e Localizar o Departamento**: Subtarefas para selecionar o campus e encontrar o departamento correspondente.
 - **Localizar a Disciplina**: Subtarefa para encontrar a disciplina desejada, considerando apenas as disciplinas cursadas e aprovadas.
@@ -128,24 +132,24 @@ pedido de monitoria, como indicar o professor, selecionar a turma e adicionar de
 4. ### Execução do GOMS
 
 ### Execução do GOMS
-
+      
       GOAL 0: Realizar Pedido de Monitoria
       
       GOAL 1: Selecionar Disciplina
       - METHOD 1.A: Escolher Campus
         - METHOD 1.A.A: Identificar Faculdade ou Instituto
-          - OPERATOR 1.A.A.1: Clicar na opção de campus desejada.
+          - OPERATOR 1.A.A.1: Selecionar o campus desejado.
         - METHOD 1.A.B: Localizar o Departamento
-          - OPERATOR 1.A.B.1: Localizar e clicar na opção de departamento correspondente ao campus selecionado.
+          - OPERATOR 1.A.B.1: Localizar e selecionar o departamento correspondente ao campus escolhido.
       - METHOD 1.B: Localizar a Disciplina
-        - OPERATOR 1.B.1: Pesquisar ou navegar pelas disciplinas disponíveis.
-        - SELECTION RULE 1.B.1: Permitir apenas a seleção de disciplinas cursadas e aprovadas pelo estudante, com menção mínima de MS ou SS.
+        - OPERATOR 1.B.1: Navegar pelas disciplinas disponíveis.
+        - SELECTION RULE 1.B.1: Selecionar apenas disciplinas cursadas e aprovadas, com menção mínima de MS ou SS.
       
       GOAL 2: Especificar Detalhes do Pedido
       - METHOD 2.A: Indicar Professor
-        - OPERATOR 2.A.1: Selecione o professor desejado, se aplicável.
+        - OPERATOR 2.A.1: Selecionar o professor desejado, se aplicável.
       - METHOD 2.B: Selecionar Turma
-        - OPERATOR 2.B.1: Escolher a turma desejada, se o professor tiver múltiplas turmas.
+        - OPERATOR 2.B.1: Escolher a turma desejada, se necessário.
       - METHOD 2.C: Adicionar Informações Adicionais
         - OPERATOR 2.C.1: Inserir detalhes adicionais, como horários preferenciais e tópicos específicos.
       
@@ -174,6 +178,7 @@ pedido de monitoria, como indicar o professor, selecionar a turma e adicionar de
       GOAL 6: Enviar Pedido de Monitoria
       - METHOD 6.A: Enviar Pedido de Monitoria
         - OPERATOR 6.A.1: Clicar no botão de enviar para concluir o pedido de monitoria.
+      
 
 
 ## Conclusão
