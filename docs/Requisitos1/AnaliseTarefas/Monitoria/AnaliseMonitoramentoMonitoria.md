@@ -19,11 +19,10 @@
 
 ## Introdução
 
-A funcionalidade de monitoramento proporcionará aos estudantes uma visão abrangente de sua participação em programas de monitoria ao longo dos semestres e permitirá que a monitoria atual tenha seus dados atualizados e incrementados. Sendo
-assim, este documento tem o objetivo de realizar uma análise detalhada das tarefas envolvidas nessa funcionalidade, visando compreender os processos subjacentes e identificar áreas de foco. Além disso, como essa funcionalidade também terá o objetivo de promover um conjunto de dados sobre o formato que a monitoria será dada, a análise terá o objetivo de verificar a complexidade de aprendizado do seu uso.
+A funcionalidade de monitoramento proporcionará aos estudantes uma visão abrangente de sua participação em programas de monitoria ao longo dos semestres e permitirá que a monitoria atual tenha seus dados atualizados e incrementados. Sendo assim, este documento tem o objetivo de realizar uma análise detalhada das tarefas envolvidas nessa funcionalidade, visando compreender os processos subjacentes e identificar áreas de foco. Além disso, como essa funcionalidade também terá o objetivo de promover um conjunto de dados sobre o formato que a monitoria será dada, a nálise deverá permitir a análise para vários caminhos também.
 
 ## Objetivos
-A funcionalidade de monitoramento visa atender a uma série de objetivos essenciais para aumentar a eficácia de acesso a dados e melhorar a organização. Alguns dos principais objetivos incluem:
+A funcionalidade de monitoramento visa atender a uma série de objetivos para aumentar a eficácia de acesso a dados e melhorar a organização. Alguns dos principais objetivos incluem:
 
 - Permitir acesso a informações detalhadas sobre a participação em programas de monitoria ao longo de vários semestres, anteriores e atuais.
 - Possibilitar que os estudantes monitores documentem e disponibilizem uma grade horária de atendimento.
@@ -73,6 +72,18 @@ Como há um conjunto de tarefas a serem realizadas, há baixo há a análise con
 ### Diagrama de Atividades
 
 Para facilitar a visualização de tarefas, a imagem 1 mostra o diagrama:
+
+
+ <div align="center">
+    Figura 1: Diagrama HTA do monitoramento de monitoria
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/AnaliseMonitoramentoMonitoria.drawio.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA do Pedido de Monitoria](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/AnaliseMonitoramentoMonitoria.drawio.png)
 
 ### Tabela de Análise
 
@@ -179,14 +190,13 @@ Abaixo, há a execução do método GOMS
         - OPERATOR 1.A.1: Selecionar a forma de atendimento.
         - OPERATOR 1.A.2: Editar as configurações de atendimento, se necessário.
         - OPERATOR 1.A.3: Confirmar as configurações estabelecidas.
-        - SELECTION RULE 1.A.1: Selecionar Forma de Atendimento.
+        - SELECTION RULE 1.A.1: Selecionar Forma de Atendimento tem que estar entre as opções.
       
       GOAL 2: Configurar Forma de Atendimento
       - METHOD 2.A: Configurar Forma de Atendimento
         - OPERATOR 2.A.1: Selecionar a plataforma de comunicação.
         - OPERATOR 2.A.2: Personalizar as configurações de atendimento.
         - OPERATOR 2.A.3: Confirmar as configurações configuradas.
-        - SELECTION RULE 2.A.1: Selecionar Forma de Atendimento.
       
       GOAL 3: Estabelecer Grade de Atendimento
       - METHOD 3.A: Estabelecer Grade de Atendimento
@@ -246,3 +256,4 @@ Ao examinar a funcionalidade de monitoramento de monitoria por meio de uma anál
 | - | - | - | - | - |
 | 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | Breno Alexandre | 30/04/2024 |
 | 1.1 | Execução do GOMS | Larissa Stéfane | Breno Alexandre | 01/05/2024 |
+| 1.2 | Reorganização da estrutura e adição da imagem | Larissa Stéfane | - | 05/05/2024 |
