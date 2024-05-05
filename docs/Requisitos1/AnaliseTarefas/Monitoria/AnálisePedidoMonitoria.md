@@ -220,6 +220,6 @@ Como é possível observar, a análise hierárquica e a aplicação do método G
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | - | 30/04/2024 |
-| 1.1 | Execução do GOMS | Larissa Stéfane | - | 01/04/2024 |
-| 1.2 | Reorganização do documento | Larissa Stéfane | - | 04/04/2024 |
+| 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | Breno Alexandre | 30/04/2024 |
+| 1.1 | Execução do GOMS | Larissa Stéfane | Breno Alexandre | 01/05/2024 |
+| 1.2 | Reorganização do documento | Larissa Stéfane | Breno Alexandre | 04/05/2024 |
