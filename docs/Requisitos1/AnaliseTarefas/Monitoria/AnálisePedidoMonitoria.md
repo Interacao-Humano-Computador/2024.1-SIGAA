@@ -64,6 +64,8 @@ Como há um conjunto de tarefas a serem realizadas, há baixo há a análise con
     	 5.3 Revisar e Editar Mensagem de Pedido 
      6. Enviar Pedido de Monitoria 
 
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
 </details>
 
 Após enviar o pedido, ele fica em modo de análise até que seja aprovado tanto pelo docente quando pela coordenação.
@@ -152,7 +154,6 @@ pedido de monitoria, como indicar o professor, selecionar a turma e adicionar de
 
 ### Execução do GOMS
 
-### Execução do GOMS
 
 Abaixo, há a execução do método GOMS
 
@@ -205,7 +206,9 @@ Abaixo, há a execução do método GOMS
       GOAL 6: Enviar Pedido de Monitoria
       - METHOD 6.A: Enviar Pedido de Monitoria
         - OPERATOR 6.A.1: Clicar no botão de enviar para concluir o pedido de monitoria.
-      
+
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
 </details>
 
 ## Conclusão
