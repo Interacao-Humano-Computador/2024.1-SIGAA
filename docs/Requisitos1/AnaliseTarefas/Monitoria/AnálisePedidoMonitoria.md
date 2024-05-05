@@ -114,6 +114,8 @@ A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcional
 | 5.3 Revisar e Editar Mensagem de Pedido          |          | **Plano**: Revisar e editar a mensagem de pedido conforme necessário.<br>**Recomendação**: Garantir que a mensagem esteja clara e completa. |
 | 6. Enviar Pedido de Monitoria                    |               |**Input**: Enviar o pedido para avaliação. <br>**Plano**: Enviar o pedido de monitoria para avaliação.<br>Recomendação: Enviar o pedido somente após revisão completa. |
 
+**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
 </details>
 
 ## GOMS
