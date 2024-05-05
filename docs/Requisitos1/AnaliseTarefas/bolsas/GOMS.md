@@ -122,8 +122,8 @@ Como é possível observar, a análise hierárquica e a aplicação do método G
 
 
 ## Histórico de Versão
-| Versão | Data       | Descrição                           | Autor(es)          | Revisor(es)         |
-|--------|------------|-------------------------------------|--------------------|---------------------|
-| 1.0    | 05/05/2024 | Criação inicial do documento GOMS.  | Bruno Araújo         |   |
+| Versão | Alteração                            | Responsável  | Revisor         | Data       |
+| ------ | ------------------------------------ | ------------ | --------------- | ---------- |
+| 1.0    |  Criação inicial do documento GOMS.  | Bruno Araújo | Breno Alexandre | 05/05/2024 |
 
 
