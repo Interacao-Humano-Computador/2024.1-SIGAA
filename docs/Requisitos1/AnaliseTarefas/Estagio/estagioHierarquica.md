@@ -24,4 +24,4 @@
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização da análise hierárquica | Iago Passaglia | - | 04/05/2024 |
+| 1.0 | Criação e realização da análise hierárquica | Iago Passaglia | Breno Alexandre | 04/05/2024 |
