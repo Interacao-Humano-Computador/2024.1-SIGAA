@@ -40,6 +40,7 @@
         * Entrevistas
             - [Planejamento](PerfilUsuario/Estudantes/Entrevistas/PlanejamentoEntrevista.md)
             * Entrevistas Realizadas
+                - [Ana Clara](PerfilUsuario/Estudantes/Entrevistas/Gravacao/AnaClara.md)
                 - [Bruno Bomfim](PerfilUsuario/Estudantes/Entrevistas/Gravacao/BrunoMartins.md)
                 - [Caio Braga](PerfilUsuario/Estudantes/Entrevistas/Gravacao/CaioBraga.md)
                 - [Carlos Gabriel](PerfilUsuario/Estudantes/Entrevistas/Gravacao/CarlosGabriel.md)
