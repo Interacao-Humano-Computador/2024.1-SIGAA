@@ -52,7 +52,7 @@ A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e geren
 |---------------------|----------------------------|
 | **1. Visualizar Oportunidades de Bolsa 1>2** | **Input:** Seleção da opção "Oportunidades de Bolsa".<br>**Feedback:** Lista de oportunidades disponíveis.<br>**Plano:** Garantir atualização constante e precisão das oportunidades listadas. |
 | **2. Acompanhar Registros de Interesse 1+2** | **Input:** Clicar em "Acompanhar Meus Registros de Interesse".<br>**Feedback:** Estado atual dos registros de interesse.<br>**Plano:** Assegurar que o usuário receba atualizações regulares sobre o status. |
-| **3. Visualizar Minhas Bolsas na Instituição 2/3** | **Input:** Seleção da opção "Minhas Bolsas na Instituição".<br>**Feedback:** Visualização das bolsas que o usuário possui.<br>**Plano:** Manter a informação clara e atualizada para facilitar o gerenciamento por parte do estudante. |
+| **3. Visualizar Minhas Bolsas na Instituição 1/2** | **Input:** Seleção da opção "Minhas Bolsas na Instituição".<br>**Feedback:** Visualização das bolsas que o usuário possui.<br>**Plano:** Manter a informação clara e atualizada para facilitar o gerenciamento por parte do estudante. |
 
 ## Tabela 4: HTA para Solicitação e Gerenciamento de Bolsas Auxílio
 **Introdução:** Nessa tarefa, o usuário possui o objetivo de solicitar novas bolsas auxílio, acompanhar e renovar essas bolsas, focando em aspectos operacionais e administrativos.
