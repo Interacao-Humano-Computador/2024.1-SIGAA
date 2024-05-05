@@ -16,6 +16,7 @@
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
+  
 ## Introdução
 Por meio da análise de tarefas, este documento apresenta a análise detalhada da funcionalidade de **pedido de monitoria**, uma parte essencial do sistema que visa facilitar o processo de solicitação de supervisão acadêmica por parte dos alunos. Sendo assim, através da decomposição das tarefas envolvidas nesse processo, utilizando-se o método de análise hierárquica e do GOMS (Goals, Operators, Methods, e Selection Rules), será buscado compreender e avaliar as interações dos usuários com a interface e identificar as áreas necessárias para que o pedido sejá solicitado no SIGAA.
 
@@ -69,9 +70,18 @@ Após enviar o pedido, ele fica em modo de análise até que seja aprovado tanto
 
 ### Diagrama de Atividades
 
-O capítulo 6, Organização do espaço problema, do livro IHC (1), de Barbosa e Silva, indica a seguinte notação para ser utilizada no diagrama, de acordo com a imagem 1.
+Para facilitar a visualização de tarefas, a imagem 1 mostra o diagrama:
 
-Desse modo, tendo isso e a análise contextual como base, a imagem 2 mostra o diagrama da análise hierárquica de tarefas.
+ <div align="center">
+    Figura 1: Diagrama HTA do Pedido de Monitoria
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/pedidoMOnitoriaHierarquica.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA do Pedido de Monitoria](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/pedidoMOnitoriaHierarquica.png)
 
 ### Tabela de Análise
 A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcionalidade de pedido de monitoria.
@@ -207,3 +217,4 @@ Como é possível observar, a análise hierárquica e a aplicação do método G
 | - | - | - | - | - |
 | 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | - | 30/04/2024 |
 | 1.1 | Execução do GOMS | Larissa Stéfane | - | 01/04/2024 |
+| 1.2 | Reorganização do documento | Larissa Stéfane | - | 04/04/2024 |
