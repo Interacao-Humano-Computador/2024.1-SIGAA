@@ -244,5 +244,5 @@ Ao examinar a funcionalidade de monitoramento de monitoria por meio de uma anál
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | - | 30/04/2024 |
-| 1.1 | Execução do GOMS | Larissa Stéfane | - | 01/04/2024 |
+| 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | Breno Alexandre | 30/04/2024 |
+| 1.1 | Execução do GOMS | Larissa Stéfane | Breno Alexandre | 01/05/2024 |
