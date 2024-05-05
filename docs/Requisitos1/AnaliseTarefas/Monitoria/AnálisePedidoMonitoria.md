@@ -148,7 +148,7 @@ pedido de monitoria, como indicar o professor, selecionar a turma e adicionar de
 2. **Avaliar Carga Horária do Estudante**: O sistema deve verificar se o estudante não está com a grade horária completa, com um limite máximo de 24 créditos, para garantir que ele tenha disponibilidade de tempo para cumprir as responsabilidades de monitoria, sem comprometer o desempenho acadêmico em outras disciplinas.
 3. **Limitar Pedidos Simultâneos de Monitoria**: Para evitar sobrecarga de responsabilidades, o sistema deve permitir que o estudante faça apenas um pedido de monitoria por vez, impedindo que ele solicite monitoria para múltiplas disciplinas simultaneamente.
 
-4. ### Execução do GOMS
+### Execução do GOMS
 
 ### Execução do GOMS
 
