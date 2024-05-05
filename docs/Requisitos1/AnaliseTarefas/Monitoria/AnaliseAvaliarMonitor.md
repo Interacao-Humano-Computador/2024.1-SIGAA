@@ -30,10 +30,10 @@ Essa funcionalidade tem como objetivo principal fornecer aos estudantes a oportu
 A análise de tarefas envolve a decomposição das ações dos usuários em partes menores, chamadas de tarefas, em um sistema ou interface. Essa estratégia busca simplificar atividades complexas, fragmentando-as em metas, submetas e ações operacionais, e criando um roteiro para determinar a ordem correta de execução dessas submetas.
 
 ### Análise Contextual
-Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
+Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, há a análise contextual e hierárquica utilizada.
 
 <details>
-  <summary size="20"><b> Análise Contextual </b></summary> 
+  <summary size="20"><b>  Algoritmo 1:Análise Contextual </b></summary> 
 
       0. Avaliar Monitor (1>2)
           1. Selecionar Monitor a ser Avaliado (1>2)
@@ -63,6 +63,18 @@ Como há um conjunto de tarefas a serem realizadas, há baixo há a análise con
 ### Diagrama de Atividades
 
 Para facilitar a visualização de tarefas, a figura 1 mostra o diagrama:
+
+ <div align="center">
+    Figura 1: Diagrama HTA da avaliação de monitores
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/AnaliseAvaliarMonitor.drawio.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+
+Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA Avaliação de monitores](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/AnaliseAvaliarMonitor.drawio.png)
 
 
 
@@ -150,11 +162,12 @@ O GOMS é uma técnica que analisa as atividades dos usuários, descrevendo seus
 ### Execução do GOMS
 
 
-Abaixo, há a execução do método GOMS
+Abaixo, no algoritmo 2, há a execução do método GOMS
 
 <details>
-  <summary size="20"><b> GOMS </b></summary> 
+  <summary size="20"><b> Algoritmo 2: GOMS </b></summary> 
 
+**Algoritmo 2**: GOMS
          
          GOAL 1: Avaliar Monitor
          - METHOD 1.A: Selecionar Monitor a ser Avaliado
@@ -220,5 +233,6 @@ Ao analisar a função de avaliar monitores usando uma abordagem hierárquica e 
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | -| 30/04/2024 |
-| 1.1 | Execução do GOMS | Larissa Stéfane | - | 01/05/2024 |
+| 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | -| 02/04/2024 |
+| 1.1 | Execução do GOMS | Larissa Stéfane | - | 03/05/2024 |
+| 1.2 | Organização do documento e adição dos diagramas | Larissa Stéfane | - | 05/05/2024 |
