@@ -43,10 +43,10 @@ Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/Ana
 
 ## Gravação
 
-O vídeo 1 mostra a entrevista com a Ana Clara Rosário Silva.
+O vídeo 1 mostra a entrevista.
 
 <center> 
-vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com a Ana Clara 
+Vídeo 1: Entrevista com a Ana Clara 
 
 <iframe width="700" height="800" src="https://www.youtube-nocookie.com/embed/U_EPy-Pxpkg?si=n7UrC_rKG1gu1dGV" title="IHC - Projeto sobre o SIGAA - Entrevista com a Ana Clara" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
