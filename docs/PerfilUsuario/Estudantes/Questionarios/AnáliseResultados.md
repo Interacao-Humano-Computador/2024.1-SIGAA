@@ -4,6 +4,7 @@
 * [Introdução](#Introdução)
 * [Processo](#Processo)
 * [Resultados](#Resultados)
+* [Perfil do Usuário Identificado](#Perfil-do-Usuário-Identificado)
 * [Conclusão](#Conclusão)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -804,7 +805,47 @@ As outras linguas citadas por estudantes são:
 - Nihongo (Japonês)
 
 </details>
+
+## Perfil do Usuário Identificado
+
+- A faixa etária varia entre menos de 18 anos (provavelmente 16, que é a idade mínima para ingressar na UnB) e 65 anos, com maior frequência entre e 18 e 25 anos e também com uma quantidade consideralvel entre 26 e 35 anos.
+- Os gêneros variam entre feminino, masculino e não binário, sendo que a maior frequência é masculino (54%) e, em seguida, tendo o feminino (35%).
+- Os usuários variam entre agraduando, graduando e pós-graduando, mas a mior frequência é em relação ao graduando (81%).
+- As etinias variam entre branca, parda, negra, indígena e asiática, mas com maior foco na branca (46%) e na parda (35%).
+- A maioria dos estudantes tem como principais objetivos: Obter um diploma, adquirir novas amizades e fazer conexões profissionais.
+- Em relação a classe social, também é diverso, variando entre a classe baixa até a alta, mas com maior foco em classe média alta (38%) e classe média (26%).
+- O tempo de uso do SIGAA fica entre menos de 1 ano  até 4, onde o maior foco nas respostas foram entre 2 a 4 anos (54%).
+- A habilidade de leitura variou entre muito ruim e excelente, com maior foco em boa(43%), excelente(24%) e regular (22%).
+- Preferência de apredizado foi mais frequênte entre visual (42%) e prático (40%).
+- O nível de alfabetismo computacional variou entre muito básico (9%), básico (28%), intermediário(31%) e avançado (29%).
+- O nível de experiência com termos acadêmicos teve maior incidência no nível médio (54%).
+- A maioria consegue se comunicar em inglês e em espanhol, com alguns também sabendo francês e outras línguas.
+- Cerca de 78% não realizou outros cursos em outras instituições, já 21% estudou.
+- No geral, os estudantes estão disposotos a explorarem novas tecnologias, como 46% de "disposto" e 31% de "Muito disposto".
+- A maioria utiliza o smartphone andoid (34%) e um computador portátil(30%)  para acessar o SIGAA.
+- Em relação a frequência de uso, 52% acassa semanalmente, 24% mensalmente, 19% diariamente e 4% raramente.
+
+## Requisitos e Críticas
+
+- Cerca de 62% acredita que seja necessário o SIGAA ter um manual e 29% acredita que não é necessário.
+- O SIGAA é acessado tanto em computadores (desktop e portátil), quanto em smartpnhones (android e ios) e tablets, por isso precissa ter uma interface própria para esses dispositivos.
+- O uso do SIGAA é focado em verificação de notas, realização de matrículas, acesso de dados e realização de processos.
+- A usabilidade do SIGAA é considerada baixa, com 39% considerando neutra, 38% achando difícil, 2% no muito difícil de usar contra apenas 16% (fácil) e 3% (muito fácil).
+- A maioria não utiliza o SIGAA para comunicação: 67% nunca utilizou e 26% usa raramente.
+- O nível de satisfação também é baixo, com 39% estando insatisfeito, 37% netro e apenas 14% satisfeito.
+- Em relação a qualidade das informações, a maioira considera regular(45%), 25% acha ruim e 23% acha boa. Nisso, 5% acha péssima.
+- Ainda em relação a qaulidade das informações, 43% acha confusa, mas utilizavél e 28% acredita que poderia ser melhor, mesmo considerando clara.
+- 58% considera que o SIGAA facilita o acesso a informações e 17% acredita que dificulta. 15% está com a opinião neutra.
+- Os principais benefícios do SIGAA são focados em agilidade nos processos acadêmicos (41%) e com a melhora na organização (30%).
+- Em relação ao design, 55% considerou muito desatualizado e pouco atraente e 40% achou pouco atraente, mas funcional.
+- Em relação a acessibilidade, 43% acha inacessível, mas que tem potencial de melhoria e 30% achou muito inacessível por não oferecer recursos.
   
+
 ## Conclusão
+
+
+Os resultados do questionário revelaram informações importantes sobre o perfil e a percepção dos usuários em relação ao SIGAA. Por exemplo, observou-se que a maioria dos usuários está na faixa etária entre 18 e 25 anos, o que corresponde ao público típico de graduação. Outro aspecto importante identificado foi a avaliação da usabilidade do SIGAA, onde a maioria dos usuários o considerou neutro ou difícil de usar. Essa percepção sugere possíveis áreas de melhoria na interface e na experiência do usuário do sistema. 
+
+É importante ressaltar que, devido à distribuição do questionário em grupos de estudantes de graduação, alguns dados podem ter sido influenciados por um desvio padrão significativo. No entanto, essas informações ainda são valiosas para o desenvolvimento do projeto.
 
 
