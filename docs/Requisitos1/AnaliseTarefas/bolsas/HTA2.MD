@@ -27,7 +27,7 @@ A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e geren
 # Análise Hierárquica de Tarefas (HTA) para o Menu "Bolsas" no SIGAA
 
 ## Tabela 1: HTA para Cadastro Único de Bolsas
-**Introdução:** Nessa tarefa, o usuário possui o objetivo de acessar o Cadastro Único de Bolsas no menu do sistema, onde pode aderir ao cadastro, consultar suas adesões e gerar declarações de discente prioritário.
+Nessa tarefa, o usuário possui o objetivo de acessar o Cadastro Único de Bolsas no menu do sistema, onde pode aderir ao cadastro, consultar suas adesões e gerar declarações de discente prioritário.
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
@@ -37,7 +37,7 @@ A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e geren
 | **3. Declaração de Discente Prioritário** | **Input:** Seleção da opção "Declaração de Discente Prioritário".<br>**Feedback:** Possibilidade de gerar declaração.<br>**Plano:** Simplificar o processo de geração e garantir a validade da informação. |
 
 ## Tabela 2: HTA para Declaração de Bolsista
-**Introdução:** Nessa tarefa, o usuário possui o objetivo de acessar as declarações de bolsista, onde pode assinar ou visualizar declarações relativas ao não acúmulo de bolsas.
+Nessa tarefa, o usuário possui o objetivo de acessar as declarações de bolsista, onde pode assinar ou visualizar declarações relativas ao não acúmulo de bolsas.
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
@@ -46,7 +46,7 @@ A funcionalidade da aba "Bolsas" no SIGAA permite aos estudantes acessar e geren
 | **2. Visualizar Assinaturas 1+2** | **Input:** Clicar em "Visualizar Assinaturas".<br>**Feedback:** Lista de declarações assinadas disponível.<br>**Plano:** Proporcionar uma visualização fácil e acessível das informações. |
 
 ## Tabela 3: HTA para Gestão de Bolsas
-**Introdução:** Nessa tarefa, o usuário possui o objetivo de gerenciar suas bolsas na instituição, incluindo a visualização de oportunidades, o acompanhamento de registros de interesse e a visualização das bolsas que possui.
+Nessa tarefa, o usuário possui o objetivo de gerenciar suas bolsas na instituição, incluindo a visualização de oportunidades, o acompanhamento de registros de interesse e a visualização das bolsas que possui.
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
@@ -73,4 +73,4 @@ Como é possível observar, a análise hierárquica e a aplicação do método G
 ## Histórico de Versão
 | Versão | Alteração                                   | Responsável  | Revisor         | Data       |
 | ------ | ------------------------------------------- | ------------ | --------------- | ---------- |
-| 1.0    | Criação e realização da análise hierárquica | Bruno Araújo | Breno Alexandre | 04/05/2024 |
+| 1.0    | Criação e realização da análise hierárquica | Bruno Araújo | - | 04/05/2024 |
