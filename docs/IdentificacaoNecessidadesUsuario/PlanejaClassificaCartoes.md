@@ -82,7 +82,7 @@ Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-.
 
 ## Histórico de versões
 
-| Versão | Alteração                     | Responsável    | Revisor        | Data       |
-|--------|-------------------------------|----------------|----------------|------------|
-| 1.0    | Criação do documento          | Pedro Augusto  | -              | 01/05/2024 |
+| Versão | Alteração                     | Responsável    | Revisor         | Data       |
+|--------|-------------------------------|----------------|---------------- |------------|
+| 1.0    | Criação do documento          | Pedro Augusto  | Breno Alexandre | 01/05/2024 |
 
