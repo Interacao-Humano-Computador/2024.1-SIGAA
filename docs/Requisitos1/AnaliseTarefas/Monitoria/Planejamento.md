@@ -85,5 +85,5 @@ O planejamento da execução da análise hierárquica de tarefas e da GOMS para 
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento| Larissa Stéfane | - | 28/04/2024 |
+| 1.0 | Criação e realização do documento| Larissa Stéfane | Breno Alexandre | 28/04/2024 |
 
