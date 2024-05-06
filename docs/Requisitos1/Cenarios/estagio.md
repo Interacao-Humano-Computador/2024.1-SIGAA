@@ -2,10 +2,9 @@
 
 ## Sumário 
 * [Introdução](#Introdução)
-* [Cenários - Estágio](#Estágio)
-* [Cenários - x](#Cenario-x)
-* [Cenários - y](#Cenario-y)
-* [Cenários - z](#Cenario-z)
+* [Definição dos elementos](#Definição-dos-elementos)
+* [Narrativa](#Narrativa)
+* [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Histórico de versões](#Histórico-de-versões)
 
