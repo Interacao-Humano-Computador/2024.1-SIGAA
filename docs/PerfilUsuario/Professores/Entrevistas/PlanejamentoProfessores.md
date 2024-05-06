@@ -42,6 +42,7 @@ BR&gbpv=1&printsec=frontcover) (4)
 A tabela 1 mostra o cronograma, em ordem alfabética por professor entrevistado:
 
 **Tabela 1**: Cronograma
+
 | Entrevistado | Entrevistador | Data que entrou em contato | Data da entrevista | Horário da entrevista|
 | - | - | - | - | - |
 | André Sales | Larissa Stéfane | 30/04/2024 | 30/04/2024 | 11:30 |
