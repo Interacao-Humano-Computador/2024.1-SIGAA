@@ -89,7 +89,7 @@ A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcional
 ## Introdução
 O método GOMS é uma abordagem de análise de tarefas que ajuda a descrever como os usuários interagem com um sistema para alcançar seus objetivos. Esta análise se concentra especificamente nas tarefas relacionadas à Declaração de Bolsistas no sistema SIGAA, cobrindo as operações de "Assinar Declaração" e "Visualizar Assinaturas".
 
-## Defiinção dos Objetivos
+## Definição dos Objetivos
 Identificar e descrever as etapas que os usuários seguem para realizar a assinatura e visualização de declarações de bolsistas no SIGAA. Isso ajuda a otimizar a interface do usuário para essas tarefas, melhorando a eficiência e a satisfação do usuário.
 
 ## Tarefas Analisadas
