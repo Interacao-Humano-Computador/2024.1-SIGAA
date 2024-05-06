@@ -34,7 +34,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 ## Termo de Consentimento
 
-Este link leva ao PDF do termo de consentimento assinado 
+Este link leva ao termo de consentimento assinado 
 
 Clique em: [Termo de consentimento assinado](PerfilUsuario/Professores/Entrevistas/Termos/MarioAndrade.md) 
 
