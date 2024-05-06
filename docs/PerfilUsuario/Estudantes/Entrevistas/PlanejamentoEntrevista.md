@@ -45,9 +45,9 @@ Este treinamento procura fazer com que os integrantes do grupo responsáveis pel
 
 A tabela 1 mostra o cronograma, em ordem alfabética por entrevistado, realizado durante o processo das entrevistas:
 
-<center>
-  
+
 **Tabela 1**: Cronograma
+
 | Entrevistado | Entrevistador | Data que entrou em contato | Data da entrevista | Horário da entrevista|
 | - | - | - | - | - |
 | Bruno Martins | Larissa Stéfane | 17/04/2024 | 20/04/2024 | 15:30 |
@@ -63,7 +63,6 @@ A tabela 1 mostra o cronograma, em ordem alfabética por entrevistado, realizado
 
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-</center>
 
 ## Perguntas Realizadas
 Abaixo, no código 1, há o roteiro das perguntas que serão realizadas durantes as entrevistas, ele foi
