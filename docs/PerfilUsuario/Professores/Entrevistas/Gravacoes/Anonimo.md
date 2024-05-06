@@ -52,7 +52,7 @@ Sim, recebeu um treinamento do SIGAA e do Moodle, mas o treinamento foi bem bás
 Não, o SIGAA não atende a todas as suas necessidades. Particularmente, considera o sistema obsoleto e de difícil manuseio, principalmente em relação à árvore do site, onde entra em subitens. Além disso, considera que os itens não são muito claros e evidentes.
 Particularmente, utiliza mais o SIGAA para lançar as notas finais dos alunos e faz mais uso de outras plataformas, como o Microsoft Teams.
 ### Na sua experiência, quais são os maiores desafios enfrentados pelos professores no uso do SIGAA?
-Como considera o site pouco atrativo, então uma dificuldade é estímulo para explorá-lo em sua totalidade.
+Como considera o site pouco atrativo, então uma dificuldade é a falta de estímulo para explorá-lo em sua totalidade.
 
 ### Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às
 demandas acadêmicas? Se sim, como?
