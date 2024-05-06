@@ -69,8 +69,15 @@
                 - [Rodrigo Vaz](PerfilUsuario/Estudantes/Entrevistas/Gravacao/RodrigoVaz.md)
           -  [Análise dos resultados](PerfilUsuario/Estudantes/Entrevistas/ResultadoEntrevista.md)
       * Brainstorming
+        - [Planejamento do Brainstorm](IdentificacaoNecessidadesUsuario/PlanejaBrainstorm.md)
+        - [Execução do Brainstorm](IdentificacaoNecessidadesUsuario/ExecBrainstorm.md)
       * Estudo de Campo
+        - [Planejamento dos Estudos de Campo](IdentificacaoNecessidadesUsuario/PlanejaEstudosDeCampo.md)
+        - [Execução dos Estudos de Campo](IdentificacaoNecessidadesUsuario/DesenvolvimentoEstudosDeCampo.md)
       * Classificação de Cartões
+        - [Planejamento da Classificação de Cartões](IdentificacaoNecessidadesUsuario/PlanejaClassificaCartoes.md)
+        - [Execução da Classificação de Cartões](IdentificacaoNecessidadesUsuario/DesenvolvimentoClassificaCartoes.md)
+        - [Resultados da Classificação de Cartões](IdentificacaoNecessidadesUsuario/ResultadoClassificaCartoes.md)
       - [Perfil Usuário: Estudante](PerfilUsuario/Estudantes/perfilEstudante.md)
     * Técnicos
         * Entrevistas
@@ -78,36 +85,45 @@
               - [Francisco Cesar (Chiquinho)](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md)
               - [Andressa Novais Rodrigues](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Andressa.md)
         - [Perfil Usuário: Servidores-Técnicos](PerfilUsuario/Tecnicos/PerfilServidor.md)
-    * Personas 
+    * Personas
              
 * Análise de Requisitos
     * Cenários
+      * Bolsas
+
+      * Estágio
+        - [Cenário Estágio](Requisitos1/Cenarios/estagio.md)
+
+      * Histórico
+
+      * Matrícula
+      
       * Monitoria
         - [Planejamento](Requisitos1/Cenarios/Monitoria/Planejamento.md)
         - [Cenário pedido monitoria](Requisitos1/Cenarios/Monitoria/PedidoMonitoria.md)
         - [Cenário monitoramento monitoria](Requisitos1/Cenarios/Monitoria/MonitoramentoMonitoria.md)
         - [Cenário avaliar monitor](Requisitos1/Cenarios/Monitoria/AvaliarMonitor.md)
-   
-      * Bolsas
-        - [Cenário declaração de Bolsista](Requisitos1/Cenarios/Bolsas/DeclaraçãodeBolsista.md)
-        - [Cenário solicitação de Bolsas](Requisitos1/Cenarios/Bolsas/SolicitaçãodeBolsas.md)
-
-       * Estágio
-        - [Cenário Estágio](Requisitos1/Cenarios/estagio.md)
+          
+      * Restaurante Universitário
+        
     * Análise de Tarefas
+      * Bolsas
+        - [Análise Declaração de Bolsista](Requisitos1/AnaliseTarefas/Bolsas/DeclaraçãodeBolsista2.md)
+        - [Análise Solicitação de Bolsas](Requisitos1/AnaliseTarefas/Bolsas/SolicitaçãodeBolsasHTA.md)
+       
+      * Estágio
+        - [Análise Estágio GOMS](Requisitos1/AnaliseTarefas/Estagio/estagioGoms.md)
+        - [Análise Estágio Hierárquica](Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica.md)
+       
+      * Histórico
+
+      * Matrícula
+        - [Análise Realização de Matrícula](Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS.md)
+     
       * Monitoria
         - [Planejamento da Análise](Requisitos1/AnaliseTarefas/Monitoria/Planejamento.md)
         - [Análise Pedido de Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnálisePedidoMonitoria.md)
         - [Análise Monitoramento da Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnaliseMonitoramentoMonitoria.md)
         - [Análise Avaliação de monitores](Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor.md)
-       
-      * Estágio
-        - [Análise Estágio GOMS](Requisitos1/AnaliseTarefas/Estagio/estagioGoms.md)
-        - [Análise Estágio Hierárquica](Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica.md)
-  
-      * Bolsas
-        - [Análise Declaração de Bolsista](Requisitos1/AnaliseTarefas/Bolsas/DeclaraçãodeBolsista2.md)
-        - [Análise Solicitação de Bolsas](Requisitos1/AnaliseTarefas/Bolsas/SolicitaçãodeBolsasHTA.md)
-          
-      * Matrícula
-        - [Análise Realização de Matrícula](Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS.md)
+
+      * Restaurante Universitário
