@@ -106,3 +106,4 @@ se eu quiser me inscrever em um curso ou ação, preciso logar em outra conta do
 | Versão | Alteração                         | Responsável     | Revisor         | Data       |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação e realização do documento | Bruno Araújo    | Breno Alexandre | 06/05/2024 |
+| 1.1    | Adição do vídeo editado | Larissa Stéfane   | - | 06/05/2024 |
