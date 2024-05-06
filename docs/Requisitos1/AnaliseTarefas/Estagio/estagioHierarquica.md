@@ -35,7 +35,7 @@ A funcionalidade da aba "Estágios" no SIGAA permite aos estudantes acessar e ge
 |---------------------|----------------------------|
 | **0. Acessar Gerenciamento** | **Input:** Seleção da opção "Gerenciar Estágios".<br>**Feedback:** Estágios cadastrados para o aluno serão mostrados.<br>**Plano:** Assegurar clareza nas opções e processos. |
 | **1. Executar ações 1>2** | **Input:** Seleção da opção "Visualizar menus".<br>**Feedback:** Opções de ações aparecem.<br>**Plano:** Facilitar o processo de consulta. |
-| **2. Visualizar informações do estágio ** | **Input:** Clicar em "Visualizar estágio".<br>**Feedback:** Informações sobre o estágio aparecem.<br>**Plano:** Proporcionar uma visualização fácil e acessível das informações. |
+| **2. Visualizar informações do estágio** | **Input:** Clicar em "Visualizar estágio".<br>**Feedback:** Informações sobre o estágio aparecem.<br>**Plano:** Proporcionar uma visualização fácil e acessível das informações. |
 
 ## Conclusão
 Como é possível observar, a análise hierárquica para a funcionalidade de pré-cadastro e gerenciamento de estágios revelaram uma estrutura complexa de tarefas e interações dentro do processo. Assim, ao desmembrar cada etapa em objetivos, passo a passo, métodos e regras, foi possível compreender detalhadamente as ações dos usuários e identificar áreas de relevância.
