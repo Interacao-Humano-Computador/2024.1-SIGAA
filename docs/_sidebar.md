@@ -46,6 +46,7 @@
                 - [Elaine Venson](PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson.md)
                 - [Mário Andrade](PerfilUsuario/Professores/Entrevistas/Gravacoes/MarioAndrade.md)
             - [Análise dos Resultados](PerfilUsuario/Professores/Entrevistas/ResultadoEntrevista.md)
+        - [Perfil Usuário: Professores](PerfilUsuario/Professores/PerfilProfessor.md)
     * Estudantes
         * Questionário
             - [Planejamento](PerfilUsuario/Estudantes/Questionarios/Planejamento.md)
@@ -67,7 +68,8 @@
           -  [Análise dos resultados](PerfilUsuario/Estudantes/Entrevistas/ResultadoEntrevista.md)
       * Brainstorming
       * Estudo de Campo
-      * Classificação de Cartões  
+      * Classificação de Cartões
+      - [Perfil Usuário: Estudante](PerfilUsuario/Estudantes/perfilEstudante.md)
     * Técnicos
         * Entrevistas
             * Entrevistas Realizadas
