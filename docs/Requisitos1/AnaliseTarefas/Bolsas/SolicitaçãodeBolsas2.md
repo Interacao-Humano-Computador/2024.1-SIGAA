@@ -18,7 +18,7 @@
 
 ## Introdução
 
-A funcionalidade de monitoramento proporcionará aos estudantes uma visão abrangente de sua participação em programas de monitoria ao longo dos semestres e permitirá que a monitoria atual tenha seus dados atualizados e incrementados. Sendo assim, este documento tem o objetivo de realizar uma análise detalhada das tarefas envolvidas nessa funcionalidade, visando compreender os processos subjacentes e identificar áreas de foco. Além disso, como essa funcionalidade também terá o objetivo de promover um conjunto de dados sobre o formato que a monitoria será dada, a nálise deverá permitir a análise para vários caminhos também.
+A solicitação de bolsa é um processo importante para estudantes que buscam apoio financeiro para sua educação, entender o fluxo e os requisitos envolvidos nesse procedimento é fundamental para garantir que os alunos possam acessar os recursos de forma eficiente e transparente. Este documento tem como objetivo analisar o processo de solicitação de bolsa, identificando pontos-chave e possíveis áreas de otimização para aprimorar a experiência dos solicitantes e facilitar o acesso aos recursos disponíveis.
 
 ## Objetivos
 A funcionalidade de monitoramento visa atender a uma série de objetivos para aumentar a eficácia de acesso a dados e melhorar a organização. Alguns dos principais objetivos incluem:
