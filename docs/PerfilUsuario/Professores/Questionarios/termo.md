@@ -19,7 +19,7 @@ Este documento visa registrar a manifestação livre, informada e inequívoca pe
 
 ## Retorno para o documento de planejamento
 
-Case deseje voltar ao documento de planejamento clique em [Planejamento](PerfilUsuario/Estudantes/Questionarios/Planejamento.md)
+Case deseje voltar ao documento de planejamento clique em [Planejamento](PerfilUsuario/Professores/Questionarios/Planejamento.md)
 ## Apresentação
 
 Caro(a) Participante,
