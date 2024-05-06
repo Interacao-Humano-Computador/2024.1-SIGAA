@@ -12,7 +12,6 @@
 * [Como Aprimorar o SIGAA](#Como-Aprimorar-o-SIGAA)
 * [Como Melhorar a Interface](#Como-Melhorar-a-Interface)
 * [Conclusão](#Conclusão)
-* [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
@@ -158,7 +157,6 @@ Abaixo tem-se uma lista com as principais dicas de como melhorar a interface do 
 
 As entrevistas realizadas proporcionaram uma visão detalhada sobre o perfil do usuário e como é a vida dos estudantes que acessam o SIGAA. Com isso, observou-se que existem áreas passíveis de melhorias, como a interface do usuário, a acessibilidade e a integração de novas funcionalidades, as quais foram possíveis serem listadas neste documento.
 
-## Referências Bibliográficas
 
 ## Históricos de Versões:
 
