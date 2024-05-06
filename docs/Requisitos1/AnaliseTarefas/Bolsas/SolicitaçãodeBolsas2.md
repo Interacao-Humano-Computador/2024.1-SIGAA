@@ -59,35 +59,124 @@ Esta tabela detalha as tarefas envolvidas na solicitação, acompanhamento e ren
 
 ### Tabela de Análise para Solicitação de Bolsas
 
-| Objetivos / Operações                                       | Relações  | Problemas e Recomendações                                        |
-|-------------------------------------------------------------|-----------|-----------------------------------------------------------------|
-| **0. Acessar o módulo de Solicitação de Bolsas**            |           | **Input:** Localização e acesso ao módulo.                      |
-| **1. Selecionar a opção "Solicitação de Bolsa Auxílio"**    | 1 > 2, 3  | **Input:** Escolha da opção para iniciar o processo de solicitação.|
-| **2. Ler as condições do Edital**                           | 2 > 3     | **Input:** Leitura e compreensão dos requisitos do edital.      |
-| **3. Escolher a opção de bolsa**                            | 3 > 4     | **Input:** Seleção do tipo de bolsa desejada.                   |
-| **4. Preencher os campos requeridos no formulário**         | 4 > 5     | **Input:** Inserção de dados pessoais e documentos.             |
-| **5. Submeter a solicitação**                               | 5 > 6     | **Feedback:** Confirmação da submissão da solicitação.          |
-| **6. Acompanhar a Solicitação de Bolsas Auxílios**          | 6 > 7     | **Input:** Verificação do status da solicitação.                |
-| **7. Conferir status da solicitação**                       | 7 > 8     | **Feedback:** Informação sobre o progresso ou resultados da análise.|
-| **8. Clicar em Renovar Bolsa Auxílio**                      | 8 > 9, 10 | **Input:** Início do processo de renovação da bolsa.            |
-| **9. Conferir cadastro e preencher o questionário**         | 9 > 10    | **Input:** Atualização de informações e resposta ao questionário.|
-| **10. Anexar documentos necessários e confirmar a submissão** |           | **Feedback:** Finalização do processo de renovação da bolsa.    |
+### Tabela de Análise para Solicitação de Bolsas
 
+| Objetivos / Operações                                       | Relações | Problemas e Recomendações                                       |
+|-------------------------------------------------------------|----------|-----------------------------------------------------------------|
+| 0. Acessar o módulo de Solicitação de Bolsas                |          | **Input:** Localização e acesso ao módulo.                      |
+| 1. Selecionar a opção "Solicitação de Bolsa Auxílio"        | 1 > 2    | **Input:** Escolha da opção para iniciar o processo de solicitação. |
+| 2. Ler as condições do Edital                               | 2 > 3    | **Input:** Leitura e compreensão dos requisitos do edital.      |
+| 3. Escolher a opção de bolsa                                | 3 > 4    | **Input:** Seleção do tipo de bolsa desejada.                   |
+| 4. Preencher os campos requeridos no formulário             | 4 > 5    | **Input:** Inserção de dados pessoais e documentos.             |
+| 5. Submeter a solicitação                                   | 5 > 6    | **Feedback:** Confirmação da submissão da solicitação.          |
+| 6. Acompanhar a Solicitação de Bolsas Auxílios              | 6 > 7    | **Input:** Verificação do status da solicitação.                |
+| 7. Conferir status da solicitação                           |          | **Feedback:** Informação sobre o progresso ou resultados da análise. |
+
+# GOMS
+
+## Introdução
+O método GOMS é uma abordagem de análise de tarefas que ajuda a descrever como os usuários interagem com um sistema para alcançar seus objetivos. Esta análise se concentra especificamente nas tarefas relacionadas à Declaração de Bolsistas no sistema SIGAA, cobrindo as operações de "Assinar Declaração" e "Visualizar Assinaturas"
+
+# Definição dos Objetivos
+
+Identificar e descrever as etapas que os usuários que utilizaram a opção do menu Bolsas, Solicitação de Bolsas, no SIGAA, para realizar a solicitação, acompanhamento e renovação de bolsas no SIGAA. Isso visa ajudar a otimizar a interface do usuário para essas tarefas, melhorando a eficiência e a satisfação do usuário.
+
+## Tarefas Analisadas
+
+- **Solicitar Bolsa Auxílio**: Envolve o preenchimento e a submissão de um formulário socioeconômico para solicitar uma bolsa auxílio.
+- **Acompanhar Solicitação de Bolsa Auxílio**: Permite verificar o status atual da solicitação de bolsa auxílio.
+- **Renovar Bolsa Auxílio**: Permite aos discentes contemplados com bolsa auxílio solicitar a renovação de suas bolsas.
+
+## Definição dos Operadores
+
+- **Selecionar**: Escolher opções específicas dentro do módulo de bolsas.
+- **Preencher**: Adicionar informações pessoais e outras necessárias no formulário.
+- **Submeter**: Enviar o formulário preenchido para análise.
+- **Consultar**: Verificar o status atual da solicitação de bolsa.
+- **Renovar**: Solicitar a renovação de uma bolsa já concedida.
+
+## Definição dos Métodos
+
+- **Solicitar Bolsa Auxílio**: Acessar o formulário, preencher os dados necessários, e submeter.
+- **Acompanhar Solicitação de Bolsa Auxílio**: Selecionar a opção para verificar o status atual da solicitação.
+- **Renovar Bolsa Auxílio**: Acessar a opção de renovação, preencher os dados necessários para a renovação, e submeter.
+
+## Definição das Regras de Seleção
+
+- **Escolher o Tipo de Bolsa**: Decidir qual tipo de bolsa auxílio deseja solicitar com base nas opções disponíveis.
+- **Verificar Requisitos**: Antes de submeter a solicitação, verificar se todos os requisitos e documentações estão completos.
+
+## Solicitar Bolsa Auxílio
+
+- **Goal**: Acessar e completar o formulário de solicitação de bolsa auxílio.
+- **Operators**:
+  - Navegar até a seção "Solicitação de Bolsa Auxílio"
+  - Preencher o formulário
+  - Submeter o formulário
+- **Methods**:
+  - Usar a interface do sistema para inserir todas as informações requeridas e submeter a solicitação.
+- **Selection Rules**:
+  - Se todas as informações e documentos necessários estiverem completos, proceder com a submissão.
+
+## Acompanhar Solicitação de Bolsa Auxílio
+
+- **Goal**: Verificar o status da solicitação de bolsa auxílio.
+- **Operators**:
+  - Navegar até "Acompanhar Solicitação de Bolsa Auxílio"
+  - Consultar o status da solicitação
+- **Methods**:
+  - Usar a interface do sistema para localizar a solicitação e verificar seu status atual.
+- **Selection Rules**:
+  - Se o usuário precisa de informações atualizadas sobre sua solicitação, usar esta funcionalidade.
+
+## Renovar Bolsa Auxílio
+
+- **Goal**: Renovar uma bolsa auxílio existente.
+- **Operators**:
+  - Navegar até "Renovar Bolsa Auxílio"
+  - Preencher o formulário de renovação
+  - Submeter a renovação
+- **Methods**:
+  - Usar a interface do sistema para renovar a bolsa, preenchendo todas as informações necessárias.
+- **Selection Rules**:
+  - Se a bolsa atual está prestes a expirar e o usuário deseja continuar recebendo o auxílio, proceder com a renovação.
 
 ### Execução do GOMS
 
-#### GOMS para "Solicitação de Bolsas"
-
 ```
-Nessa tarefa, o usuário possui o objetivo de preencher e submeter um formulário para solicitar uma bolsa de auxílio.
-         - GOAL 0: Solicitar uma bolsa de auxílio.
-           - METHOD 0.A: Selecionar "Solicitação de Bolsa - Solicitação de Bolsa Auxílio".
-             - OP. 0.A.1: Clicar na opção "Solicitação de Bolsa Auxílio".
-           - METHOD 0.B: Preencher o formulário.
-             - OP. 0.B.1: Entrar dados no formulário.
-           - METHOD 0.C: Submeter o formulário.
-             - OP. 0.C.1: Clicar em "Continuar".
-             - (SEL. RULE: o usuário preencheu todas as informações necessárias e deseja prosseguir.)
+Nessa tarefa, o usuário possui o objetivo de solicitar uma bolsa de auxílio.
+   - **GOAL 0**: Acessar a funcionalidade de solicitação de bolsa auxílio.
+     - **METHOD 0.A**: Navegar até a seção "Bolsas".
+       - **OP. 0.A.1**: Clicar na aba "Bolsas".
+     - **METHOD 0.B**: Selecionar a opção "Solicitação de Bolsa Auxílio".
+       - **OP. 0.B.1**: Clicar na opção "Solicitação de Bolsa Auxílio".
+       - **SEL. RULE**: Se o usuário deseja solicitar uma bolsa auxílio.
+     - **METHOD 0.C**: Preencher e submeter o formulário de solicitação.
+       - **OP. 0.C.1**: Entrar dados no formulário.
+       - **OP. 0.C.2**: Clicar em "Continuar".
+       - **SEL. RULE**: Se o usuário preencheu todas as informações necessárias e deseja prosseguir.
+
+Nessa tarefa, o usuário possui o objetivo de acompanhar a solicitação de uma bolsa de auxílio.
+   - **GOAL 1**: Acessar a funcionalidade de acompanhamento de bolsa auxílio.
+     - **METHOD 1.A**: Navegar até a seção "Bolsas".
+       - **OP. 1.A.1**: Clicar na aba "Bolsas".
+     - **METHOD 1.B**: Selecionar "Acompanhar Solicitação de Bolsa Auxílio".
+       - **OP. 1.B.1**: Clicar na opção "Acompanhar Solicitação de Bolsa Auxílio".
+       - **SEL. RULE**: Se o usuário deseja verificar o status da sua solicitação de bolsa auxílio.
+     - **METHOD 1.C**: Visualizar o status da solicitação.
+       - **OP. 1.C.1**: Observar as informações exibidas na tela sobre o status atual da solicitação.
+
+Nessa tarefa, o usuário possui o objetivo de renovar uma bolsa de auxílio existente.
+   - **GOAL 2**: Acessar a funcionalidade de renovação de bolsa auxílio.
+     - **METHOD 2.A**: Navegar até a seção "Bolsas".
+       - **OP. 2.A.1**: Clicar na aba "Bolsas".
+     - **METHOD 2.B**: Selecionar "Renovar Bolsa Auxílio".
+       - **OP. 2.B.1**: Clicar na opção "Renovar Bolsa Auxílio".
+       - **SEL. RULE**: Se o usuário deseja renovar sua bolsa auxílio.
+     - **METHOD 2.C**: Preencher e submeter o formulário de renovação.
+       - **OP. 2.C.1**: Inserir dados requeridos no formulário de renovação.
+       - **OP. 2.C.2**: Clicar em "Submeter" ou "Continuar".
+       - **SEL. RULE**: Se o usuário completou todos os campos necessários e deseja continuar com a renovação.
 ```
 ## Conclusão
 
