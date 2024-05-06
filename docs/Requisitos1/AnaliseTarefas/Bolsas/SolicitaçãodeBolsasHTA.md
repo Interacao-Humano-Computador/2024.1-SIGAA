@@ -1,5 +1,4 @@
-# Análise de Tarefas: Monitoramento da Monitoria
-
+# Análise de Tarefas: Solicitação de Bolsas
 ## Sumário
 * [Introdução](#Introdução)
 * [Objetivos](#Objetivos)
@@ -104,16 +103,4 @@ Esta análise GOMS revela áreas chave onde melhorias podem ser feitas para torn
 
 | Versão | Data     | Descrição                           | Autor(es)              | Revisor(es)         |
 | ------ | -------- | ----------------------------------- | ---------------------- | ------------------- |
-| 1.0    | 14/10/23 | Criação do documento GOMS para SIGAA | Seu Nome ou Identidade | Nome do Revisor     |
-
-
-
-## Bibliografia
-1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 04 de maio de 2024.
-2. Vários Autores. GOMS. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/goms/#comprar-ingresso/>. Acesso em 04 de maio de 2024.
-
-## Histórico de Versão
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação e realização da análise GOMS | Iago Passaglia | Breno Alexandre | 04/05/2024 |
-
+| 1.0    | 05/05/24 | Criação do documento GOMS para SIGAA | Bruno Araújo | -     |
