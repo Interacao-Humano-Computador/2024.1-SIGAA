@@ -39,7 +39,10 @@ A funcionalidade de declaração de bolsista no SIGAA UNB visa atender a uma sé
 -Garantir que o processo de declaração de bolsista seja transparente e eficaz, proporcionando uma comunicação clara entre os bolsistas e a instituição.
 
 ## Análise Hierárquica de Tarefas
-A análise de tarefas consiste em desmembrar as atividades dos usuários em elementos menores, denominados tarefas, que estão inseridas em um sistema ou interface. Essa abordagem visa simplificar tarefas complexas, dividindo-as em objetivos, subobjetivos e operações, e estabelecendo um plano para determinar a sequência adequada de realização desses subobjetivos. Abaixo, serão fornecidos detalhes sobre a análise contextual, o diagrama e a tabela que ilustram esse processo.
+A análise de tarefas consiste em desmembrar as atividades dos usuários em elementos menores, denominados tarefas, que estão inseridas em um sistema ou interface. Essa abordagem visa simplificar tarefas complexas, dividindo-as em objetivos, subobjetivos e operações, e estabelecendo um plano para determinar a sequência adequada de realização desses subobjetivos.
+Abaixo, serão fornecidos detalhes sobre a análise contextual, o diagrama e a tabela que ilustram esse processo.
+
+![hta 1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/dea7ad3b-87f5-4742-9cab-1e928e867f22)
 
 ### Análise Contextual
 Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
@@ -54,12 +57,22 @@ Nesta tarefa, o usuário tem como objetivo acessar e interagir com as declaraç�
 
 ## Tabela HTA para Declaração de Bolsista
 Nessa tarefa, o usuário tem como objetivo acessar as declarações de bolsista, onde pode assinar ou visualizar declarações relativas ao não acúmulo de bolsas.
+![declaração de bolsa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/d897fc92-af4b-4b19-8252-fade79edf978)
 
-| Objetivos/Operações                              | Problemas e Recomendações                                                                                      |
-|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| **0. Acessar Declarações de Bolsista**           | **Input:** Seleção da opção "Declaração de Bolsista" no menu Bolsas.<br>**Feedback:** Opções para assinar ou visualizar declarações são exibidas.<br>**Plano:** Assegurar clareza nas opções e processos. |
-| **1. Assinar Declaração (0>1)**                  | **Input:** Clicar em "Assinar Declaração".<br>**Feedback:** Formulário para assinatura aparece.<br>**Plano:** Facilitar o processo de assinatura e garantir a segurança dos dados. |
-| **2. Visualizar Assinaturas (0>2)**              | **Input:** Clicar em "Visualizar Assinaturas".<br>**Feedback:** Lista de declarações assinadas disponível.<br>**Plano:** Proporcionar uma visualização fácil e acessível das informações. |
+| Objetivos / Operações                                     | Relações | Problemas e Recomendações                                     |
+|-----------------------------------------------------------|----------|--------------------------------------------------------------|
+| 0. Solicitar bolsas                                       | 1 > 1.1, 1.2, 1.3 |                                                              |
+| 1. Selecionar a opção "Solicitação de Bolsa Auxílio"      | 1.1 > 1.1.1       |                                                              |
+| 1.1 Ler as condições do Edital                            | 1.1.1 > 1.1.1.1   | Input: Leitura do edital.                                    |
+| 1.1.1 Escolher opção de bolsa                             | 1.1.1.1           | Input: Selecionar tipo específico de bolsa.                  |
+| 1.1.1.1 Preencher os campos requeridos no formulário      | 1.1.1.1.1         | Input: Preenchimento de informações necessárias.             |
+| 1.1.1.1.1 Justificar e anexar documentos                  |                   | Input: Justificativa para a solicitação e anexação de documentos comprobatórios. |
+| 1.1.1.1.1.1 Continuar com a solicitação                  |                   | Feedback: Submissão final da solicitação de bolsa.           |
+| 1.2 Acompanhar Solicitação de Bolsas Auxílios             | 1.2.1             | Input: Acompanhamento do status da solicitação.              |
+| 1.2.1 Conferir status da solicitação                      |                   | Feedback: Visualização do status atual da solicitação.       |
+| 1.3 Clicar em Renovar Bolsa Auxílio                       | 1.3.1             | Input: Seleção da opção de renovação da bolsa.               |
+| 1.3.1 Conferir cadastro e preencher o questionário        | 1.3.1.1           | Input: Verificação dos dados cadastrais e preenchimento de questionário adicional. |
+| 1.3.1.1 Anexar documentos necessários e confirmar a submissão |               | Feedback: Anexação de documentos adicionais e confirmação da submissão da renovação. |
 
 # GOMS
 
