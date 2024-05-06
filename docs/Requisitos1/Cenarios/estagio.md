@@ -14,7 +14,7 @@ A criação inicial de um cenário de análise implica em desenvolver uma narrat
 
 ## Definição dos elementos
 
-A tabela 1 mostra os elementos em relação ao cenário de pedido para ser monitor.
+A tabela 1 mostra os elementos em relação ao cenário de efetuar o pré-cadastro de estágio.
 
 **Tabela 1**: Elementos do cenário
 | Elemento | Descrição |
