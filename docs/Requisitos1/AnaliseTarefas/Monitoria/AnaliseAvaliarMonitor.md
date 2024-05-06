@@ -233,6 +233,6 @@ Ao analisar a função de avaliar monitores usando uma abordagem hierárquica e 
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | -| 02/04/2024 |
-| 1.1 | Execução do GOMS | Larissa Stéfane | - | 03/05/2024 |
-| 1.2 | Organização do documento e adição dos diagramas | Larissa Stéfane | - | 05/05/2024 |
+| 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | Bruno Araújo| 02/04/2024 |
+| 1.1 | Execução do GOMS | Larissa Stéfane | Bruno Araújo | 03/05/2024 |
+| 1.2 | Organização do documento e adição dos diagramas | Larissa Stéfane | Bruno Araújo | 05/05/2024 |
