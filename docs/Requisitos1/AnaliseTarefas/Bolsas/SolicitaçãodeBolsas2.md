@@ -1,11 +1,17 @@
-# Análise de Tarefas: Solicitação de Bolsas
+# Análise de Tarefas: Declaração de Bolsista
 
 - [Introdução](#introdução)
 - [Objetivos](#objetivos)
-- [Análise Hierárquica de Tarefas](#análise-hierárquica-de-tarefas)
+- [Análise Hierárquica de Tarefas (HTA)](#análise-hierárquica-de-tarefas-hta)
   - [Análise Contextual](#análise-contextual)
-  - [Tabela: HTA para Solicitação de Bolsas](#tabela-hta-para-solicitação-de-bolsas)
-- [Execução do GOMS](#execução-do-goms)
+  - [Diagrama de Atividades](#diagrama-de-atividades)
+  - [Tabela de Análise](#tabela-de-análise)
+- [GOMS](#goms)
+  - [Definição dos Objetivos](#definição-dos-objetivos)
+  - [Definição dos Operadores](#definição-dos-operadores)
+  - [Definição dos Métodos](#definição-dos-métodos)
+  - [Definição das Regras de Seleção](#definição-das-regras-de-seleção)
+  - [Execução do GOMS](#execução-do-goms)
 - [Conclusão](#conclusão)
 - [Bibliografia](#bibliografia)
 - [Histórico de Versão](#histórico-de-versão)
