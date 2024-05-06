@@ -95,8 +95,6 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
 
 ## Tarefas Analisadas
 
-# GOMS para Declaração de Bolsista
-
 - **Assinar Declaração de Não Acúmulo de Bolsas:** Confirmar que o estudante não está recebendo múltiplas bolsas indevidamente.
 - **Visualizar Declarações Anteriores:** Acessar informações sobre declarações de não acúmulo de bolsas previamente submetidas.
 
