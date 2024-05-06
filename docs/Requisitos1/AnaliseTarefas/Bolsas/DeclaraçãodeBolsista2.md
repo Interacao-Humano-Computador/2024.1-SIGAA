@@ -24,8 +24,11 @@ Introdução - Solicitaç
 
 ## Objetivos
 A funcionalidade de declaração de bolsista no SIGAA UNB visa atender a uma série de objetivos para melhorar a eficiência e transparência do processo de gestão de bolsas. Alguns dos principais objetivos incluem:
+
 -Facilitar o acesso dos bolsistas a informações detalhadas sobre suas bolsas de estudo, incluindo termos, condições e status atual.
+
 -Permitir que os bolsistas assinem declarações referentes ao não acúmulo de bolsas ou visualizem declarações já assinadas de forma rápida e conveniente.
+
 -Garantir que o processo de declaração de bolsista seja transparente e eficaz, proporcionando uma comunicação clara entre os bolsistas e a instituição.
 
 ## Análise Hierárquica de Tarefas
