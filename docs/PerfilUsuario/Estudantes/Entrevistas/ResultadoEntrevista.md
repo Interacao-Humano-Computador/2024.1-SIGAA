@@ -5,10 +5,8 @@
 * [Introdução](#Introdução)
 * [Experiência de Estudante](#Experiência-de-Estudante)
 * [Objetivos como Estudante](#Objetivos-como-Estudante)
-* [Realização de Outros Cursos](#Realização-de-Outros-Cursos)
 * [Funcionalidades Mais Utilizadas no SIGAA](#Funcionalidades-Mais-Utilizadas-no-SIGAA)
 * [Como Avalia a Usabilidade do Site](#Como-Avalia-a-Usabilidade-do-Site)
-* [Uso das Funcionalidades Definidas](#Avaliação-Sobre-as-Funcionalidades-Definidas)
 * [Desafios de Uso](#Desafios-de-Uso)
 * [Uso de Manual](#Uso-de-Manual)
 * [Como Aprimorar o SIGAA](#Como-Aprimorar-o-SIGAA)
@@ -25,6 +23,8 @@ Este relatório apresenta a análise e os resultados de um conjunto de entrevist
 
 Abaixo serão apresentados os nomes dos estudantes entrevistados e as suas respostas sobre a experiência como estudante da UnB.
 
+- **Ana Clara**: Boa, satisfatória.
+  
 - **Bruno Martins Bomfim**: No geral, é uma experiência boa, pois as disciplinas são boas, os professores detém bastante conhecimento e o material bibliográfico também é ótimo. Todos os cursos têm os seus problemas, mas no geral, esse curso tem um saldo positivo.
 
 - **Caio Felipe Alves Braga**: Acredita ser uma experiência cheia de oportunidades.
@@ -40,6 +40,8 @@ Abaixo serão apresentados os nomes dos estudantes entrevistados e as suas respo
 - **Lavínia Inácia Mota**: Foi uma experiência conturbada devido a pandemia, mas foi uma experiência boa no final. Assim, a experiência na UnB foi boa em quesito social. Contudo, algumas coisas ela não gostou, por exemplo, o RU. Além disso, também achou que o currículo do curso de biotecnologia e como a maioria dos professores conduziu as disciplinas são menos que satisfatórios.
 
 - **Leonardo Gonçalvez Machado**: É uma boa experiência, porém trabalhosa.
+  
+- **Rodrigo Vaz**: É uma experiência interessante, pois permite que o estudante faça parte de projetos e ele está gostando.
 
 
 ## Objetivos como Estudante
@@ -49,22 +51,13 @@ Abaixo há uma lista dos objetivos que foram listados em conjunto nas entrevista
 - Aprender o máximo de conteúdo teórico com o curso.
 - Colocar o conteúdo aprendido em prática.
 - Se destacar academicamente.
+- Fazer novas amizades.
 - Obter o diploma.
 - Encontrar uma área que lhe agrade no seu curso.
 - Montar um bom currículo e se preparar para o mercado de trabalho.
 - Fazer uma pós-graduação.
 - Estudar fora do Brasil.
 - Continuar na academia para lecionar.
-
-Realização de Outros Cursos
-
-A imagem 1 mostra um gráfico sobre a proporção de alunos que realizaram algum outro curso além da graduação da FGA.
-
-**Imagem 1**: Realização de outros cursos.
-
-
-**Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
-
 
 
 ## Funcionalidades Mais Utilizadas no SIGAA
@@ -91,6 +84,8 @@ Abaixo há uma lista das funcionalidades utilizadas que foram mais listadas no c
 
 Abaixo serão apresentados os nomes dos estudantes entrevistados e as suas respostas sobre como classificar a usabilidade do site:
 
+- **Ana Clara**: Ele é fácil de usar e intuitivo. Nunca teve dificuldades pelo menos.
+  
 - **Bruno Martins Bomfim**: Consegue realizar todas as funções que satisfazem as suas necessidades, porém, considera a interface do site muito brega. 
 
 - **Caio Felipe Alves Braga**: Terrível, considera que a interface do SIGAA é “pré-histórica”. Também relata que o site não tem responsividade no celular, pois não gosta da versão mobile e prefere usar a versão normal.
@@ -107,15 +102,8 @@ Abaixo serão apresentados os nomes dos estudantes entrevistados e as suas respo
 - **Lavínia Inácia Mota**: Acha o SIGAA tranquilo e claro, com uma exceção, quando se busca as turmas que serão ofertadas. Pois nesta parte, é necessário acessar o portal público do SIGAA. Além disso, tem o problema de encontrar um link específico para encontrar a área de ofertas das disciplinas.
 
 - **Leonardo Gonçalvez Machado**: O SIGAA cumpre o que é proposto a fazer, mas daria para melhorar com o intuito dos estudantes utilizarem mais as suas funcionalidades.
-
-## Uso as Funcionalidades Definidas
-
-A imagem 2 mostra um gráfico sobre a recorrência em que as funcionalidades que serão trabalhadas no projeto são utilizadas.
-
-**Imagem 2**: Recorrência de uso.
-
-
-**Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+  
+- **Rodrigo Vaz**: Para ele, navegar no SIGAA pode ser fácil ou difícil.
 
 ## Desafios de Uso
 
@@ -177,5 +165,6 @@ As entrevistas realizadas proporcionaram uma visão detalhada sobre o perfil do 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e elaboração do documento | Larissa Stéfane | Breno Alexandre | 21/04/2024 |
+| 1.1 | Adição de opinião de mais entrevistados | Larissa Stéfane | - | 05/04/2024 |
 
 
