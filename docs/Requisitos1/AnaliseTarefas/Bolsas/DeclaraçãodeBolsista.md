@@ -70,9 +70,34 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
 
 ## Tarefas Analisadas
 
+# GOMS para Declaração de Bolsista
+
+## Definição dos Objetivos
+
+- **Assinar Declaração de Não Acúmulo de Bolsas:** Confirmar que o estudante não está recebendo múltiplas bolsas indevidamente.
+- **Visualizar Declarações Anteriores:** Acessar informações sobre declarações de não acúmulo de bolsas previamente submetidas.
+
+## Definição dos Operadores
+
+- **Selecionar:** Escolher a opção "Declaração de Bolsista" no menu de bolsas.
+- **Inserir:** Adicionar informações pessoais e senha para autenticação.
+- **Consultar:** Buscar registros de declarações anteriores.
+- **Exibir:** Mostrar informações das declarações já realizadas.
+- **Confirmar:** Validar a declaração com a inserção de dados autenticados.
+- **Navegar:** Mover-se entre diferentes seções ou telas relacionadas a bolsas.
+
+## Definição dos Métodos
+
+- **Assinar Declaração de Não Acúmulo:** Selecionar a declaração, inserir e confirmar dados pessoais e submeter.
+- **Visualizar Declarações Anteriores:** Selecionar e exibir informações detalhadas das declarações previamente assinadas.
+
+## Definição das Regras de Seleção
+
+- **Escolher Declaração para Assinar ou Visualizar:** Decidir entre criar uma nova declaração ou revisar uma existente, baseado na necessidade do usuário.
+- **Confirmar Identidade para Segurança:** Inserir senha para assegurar que a declaração é submetida pelo próprio estudante.
+
 ## Execução GOMS
 
-## Acessar a opção Bolsas  
          METHOD 0:
          - OP 0: Navegar até a seção "Bolsas" usando o menu principal.
          
