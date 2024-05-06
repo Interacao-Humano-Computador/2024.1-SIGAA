@@ -87,6 +87,7 @@
         - [Cenário pedido monitoria](Requisitos1/Cenarios/Monitoria/PedidoMonitoria.md)
         - [Cenário monitoramento monitoria](Requisitos1/Cenarios/Monitoria/MonitoramentoMonitoria.md)
         - [Cenário avaliar monitor](Requisitos1/Cenarios/Monitoria/AvaliarMonitor.md)
+      * Estágio
         - [Cenário Estágio](Requisitos1/Cenarios/estagio.md)
     * Análise de Tarefas
       * Monitoria
@@ -94,5 +95,7 @@
         - [Análise Pedido de Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnálisePedidoMonitoria.md)
         - [Análise Monitoramento da Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnaliseMonitoramentoMonitoria.md)
         - [Análise Avaliação de monitores](Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor.md)
+       
+      * Estágio
         - [Análise Estágio GOMS](Requisitos1/AnaliseTarefas/Estagio/estagioGoms.md)
-        - [Análise Estágio GOMS](Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica.md)
+        - [Análise Estágio Hierárquica](Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica.md)
