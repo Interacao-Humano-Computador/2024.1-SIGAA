@@ -70,9 +70,6 @@ O cenário apresentado revela a complexidade enfrentada pelos monitores no conte
 2. **Personas e Cenário**, Informática- Puc- rio. Disponível em <https://www.inf.puc-rio.br/~inf1403/docs/alberto2011_1/07_Personas_Cenarios.pdf>
 
 ## Histórico de Versão
-
 | Versão | Alteração | Responsável | Revisor | Data |
-
 | - | - | - | - | - |
-
 | 1.0 | Criação e realização do documento | Larissa Stéfane | - | 06/05/2024 |
