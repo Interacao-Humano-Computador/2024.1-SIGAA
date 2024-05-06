@@ -13,20 +13,20 @@ Durante as entrevistas foi comentado pelo estudantes sobre a dificuldade de acom
 <center>
   <font size="2"><p style="text-align: center">Figura 1: Aba Histórico </p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/AbaHistorico.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
  </center>
  
 O histórico que os alunos podem emitir hoje contém informações que são úteis, como por exemplo, matérias que já foram cursadas como podemos ver na figura 2 e matérias obrigatórias que estão pendentes para o aluno como podemos ver na figura 3.
 <center>
   <font size="2"><p style="text-align: center">Figura 2: Matérias Cursadas </p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/ExemploHistorico.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
  </center>
 
  <center>
   <font size="2"><p style="text-align: center">Figura 3: Matérias Pendentes </p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/ExemploHistorico3.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
  </center>
 
  Porém o aluno não tem acesso pelo histórico aos pré-requisitos das matérias pendentes, esse acesso é pelo fluxograma que podemos ver na figura 4. O ideal para o aluno seria ter todas a informações essenciais juntas em um só lugar, fazendo com que ele tenha o acesso mais fácil a informação que deseja.
@@ -34,7 +34,7 @@ O histórico que os alunos podem emitir hoje contém informações que são úte
  <center>
   <font size="2"><p style="text-align: center">Figura 4: Fluxograma </p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/Fluxograma.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
  </center>
 
  ## A Funcionalidade do Histórico
@@ -72,7 +72,7 @@ A tabela 1 mostra o cronograma da análise de cada uma das funcionalidades:
 | Executar análise da funcionalidade de visualizar matérias optativas          | 06/05/2024 | 06/05/2024 |
 | Executar análise GOMS da funcionalidade de visualizar matérias optativas     | 06/05/2024 | 06/05/2024 |
 
-<font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ## Conclusão
 O planejamento da execução da análise hierárquica de tarefas e da GOMS para a aba de histórico apresenta uma estrutura sólida e abrangente para o desenvolvimento e aprimoramento desta funcionalidade que será criada no sistema do SIGAA.
