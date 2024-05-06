@@ -18,7 +18,7 @@
 * [Histórico de versão](#Histórico-de-versão)
   
 ## Introdução
-Por meio da análise de tarefas, este documento apresenta a análise detalhada da funcionalidade de **pedido de monitoria**, uma parte essencial do sistema que visa facilitar o processo de solicitação de supervisão acadêmica por parte dos alunos. Sendo assim, através da decomposição das tarefas envolvidas nesse processo, utilizando-se o método de análise hierárquica e do GOMS (Goals, Operators, Methods, e Selection Rules), será buscado compreender e avaliar as interações dos usuários com a interface e identificar as áreas necessárias para que o pedido sejá solicitado no SIGAA.
+Por meio da análise de tarefas, este documento apresenta a análise detalhada da funcionalidade de **pedido de monitoria**, uma parte essencial do sistema que visa facilitar o processo de solicitação para ser monitor por parte dos alunos. Sendo assim, através da decomposição das tarefas envolvidas nesse processo, utilizando-se o método de análise hierárquica e do GOMS (Goals, Operators, Methods, e Selection Rules), será buscado compreender e avaliar as interações dos usuários com a interface e identificar as áreas necessárias para que o pedido sejá solicitado no SIGAA.
 
 ## Objetivos
 O objetivo de **pedido de monitoria** é oferecer aos estudantes uma maneira conveniente e eficiente de expressar seu interesse em oferecer apoio acadêmico adicional em disciplinas específicas com determinado docente.
