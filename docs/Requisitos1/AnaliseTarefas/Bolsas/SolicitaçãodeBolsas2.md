@@ -22,8 +22,11 @@ A solicitação de bolsa é um processo importante para estudantes que buscam ap
 
 ## Objetivos
 A funcionalidade de solicitação de bolsa no SIGAA UNB tem como objetivo atender a uma série de metas para simplificar e agilizar o processo de solicitação de apoio financeiro. Alguns dos principais objetivos incluem:
+
 -Permitir que os estudantes preencham e enviem formulários de solicitação de bolsa de forma fácil e intuitiva, fornecendo todas as informações necessárias de maneira clara.
+
 -Facilitar o acompanhamento do status da solicitação de bolsa, fornecendo atualizações regulares sobre o progresso do processo.
+
 -Garantir que o processo de solicitação de bolsa seja transparente e justo, fornecendo feedback claro aos solicitantes e garantindo uma comunicação aberta entre os estudantes e a instituição.
 
 ## Análise Hierárquica de Tarefas
