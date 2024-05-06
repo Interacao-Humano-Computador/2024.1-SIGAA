@@ -21,12 +21,10 @@
 A solicitação de bolsa é um processo importante para estudantes que buscam apoio financeiro para sua educação, entender o fluxo e os requisitos envolvidos nesse procedimento é fundamental para garantir que os alunos possam acessar os recursos de forma eficiente e transparente. Este documento tem como objetivo analisar o processo de solicitação de bolsa, identificando pontos-chave e possíveis áreas de otimização para aprimorar a experiência dos solicitantes e facilitar o acesso aos recursos disponíveis.
 
 ## Objetivos
-A funcionalidade de monitoramento visa atender a uma série de objetivos para aumentar a eficácia de acesso a dados e melhorar a organização. Alguns dos principais objetivos incluem:
-
-- Permitir acesso a informações detalhadas sobre a participação em programas de monitoria ao longo de vários semestres, anteriores e atuais.
-- Possibilitar que os estudantes monitores documentem e disponibilizem uma grade horária de atendimento.
-- Permitir que seja realizado o aluguel de salas para aula de monitoria atual.
-- Permitir que o monitor envie mensagens para a turma ou para o docente no privado.
+A funcionalidade de solicitação de bolsa no SIGAA UNB tem como objetivo atender a uma série de metas para simplificar e agilizar o processo de solicitação de apoio financeiro. Alguns dos principais objetivos incluem:
+-Permitir que os estudantes preencham e enviem formulários de solicitação de bolsa de forma fácil e intuitiva, fornecendo todas as informações necessárias de maneira clara.
+-Facilitar o acompanhamento do status da solicitação de bolsa, fornecendo atualizações regulares sobre o progresso do processo.
+-Garantir que o processo de solicitação de bolsa seja transparente e justo, fornecendo feedback claro aos solicitantes e garantindo uma comunicação aberta entre os estudantes e a instituição.
 
 ## Análise Hierárquica de Tarefas
 
@@ -93,4 +91,4 @@ Esta análise GOMS revela áreas chave onde melhorias podem ser feitas para torn
 
 | Versão | Data     | Descrição                           | Autor(es)              | Revisor(es)         |
 | ------ | -------- | ----------------------------------- | ---------------------- | ------------------- |
-| 1.0    | 05/05/24 | Criação do documento GOMS para SIGAA | Bruno Araújo | -     |
+| 1.0    | 05/05/24 | Criação | Bruno Araújo | -     |
