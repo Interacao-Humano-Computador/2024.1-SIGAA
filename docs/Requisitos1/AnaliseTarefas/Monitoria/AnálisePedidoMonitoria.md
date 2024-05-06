@@ -91,6 +91,7 @@ A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcional
   <summary size="20"><b> Tabela de Análise </b></summary> 
 
 **Tabela 1**: Análise Hierárquica de pedido de monitoria
+
 | Objetivos/Operações                              | Relações      | Problemas e Recomendações                                                                                              |
 |--------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------|
 | 0. Realizar Pedido de Monitoria                  | 1 > 2         | **Input**: Necessidade de monitoria em uma disciplina específica.<br>**Feedback**: Professor recebe pedido de monitoria para ser analisado.<br>**Plano**: Realizar a seleção da disciplina desejada.<br>**Recomendação**: Prosseguir para especificar os detalhes do pedido. |
