@@ -155,4 +155,4 @@ A entrevista com o Rodrigo ofereceu reflexões para aprimorar a experiência do 
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento| Larissa Stéfane| -  |  05/05/2024 |
+| 1.0 | Criação e realização do documento| Larissa Stéfane| Breno Alexandre | 05/05/2024 |
