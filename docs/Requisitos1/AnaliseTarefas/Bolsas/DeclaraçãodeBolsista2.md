@@ -38,22 +38,33 @@ A funcionalidade de declaração de bolsista no SIGAA UNB visa atender a uma sé
 
 -Garantir que o processo de declaração de bolsista seja transparente e eficaz, proporcionando uma comunicação clara entre os bolsistas e a instituição.
 
-## Análise Hierárquica de Tarefas
-A análise de tarefas consiste em desmembrar as atividades dos usuários em elementos menores, denominados tarefas, que estão inseridas em um sistema ou interface. Essa abordagem visa simplificar tarefas complexas, dividindo-as em objetivos, subobjetivos e operações, e estabelecendo um plano para determinar a sequência adequada de realização desses subobjetivos.
-Abaixo, serão fornecidos detalhes sobre a análise contextual, o diagrama e a tabela que ilustram esse processo.
+# Análise Hierárquica de Tarefas para o SIGAA
 
-![hta 1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/dea7ad3b-87f5-4742-9cab-1e928e867f22)
+A análise hierárquica de tarefas (HTA) é uma técnica utilizada para desmembrar as atividades dos usuários em tarefas menores. Este processo facilita a compreensão dos objetivos do usuário, organiza os subobjetivos e operações necessárias, e determina a sequência mais eficiente para sua realização. Abaixo, detalhamos o contexto, o diagrama e a tabela que ilustram esse processo para a funcionalidade de Declaração de Bolsista no SIGAA.
 
-### Análise Contextual
-Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
+## Análise Contextual
 
-# Análise Hierárquica de Tarefas (HTA) para Solicitação de Bolsas no SIGAA
+O módulo de Declaração de Bolsista no SIGAA permite aos usuários gerenciar declarações relativas a bolsas, incluindo a assinatura de documentos que confirmam o não acúmulo de bolsas e a visualização de declarações previamente assinadas. Este módulo é essencial para garantir a transparência e conformidade com as normativas acadêmicas.
 
-## HTA para Solicitação de Bolsas
-Esta tabela detalha as tarefas envolvidas na solicitação, acompanhamento e renovação de bolsas auxílio.
+## Análise Hierárquica de Tarefas para Declaração de Bolsista
 
-###  Declaração de Bolsista
-Nesta tarefa, o usuário tem como objetivo acessar e interagir com as declarações de bolsista, podendo assinar declarações referentes ao não acúmulo de bolsas ou visualizar as declarações já assinadas.
+O objetivo principal dessa análise é descrever as tarefas associadas ao acesso e interação com as declarações de bolsista. As seguintes tarefas foram identificadas:
+
+1. **Acessar o módulo de Declaração de Bolsista**
+   - A partir da interface principal do SIGAA, o usuário deve localizar e acessar a opção específica para declarações de bolsista.
+
+2. **Assinar Declaração de Não Acúmulo de Bolsas**
+   - 2.1 Navegar até a seção de assinatura de declarações.
+   - 2.2 Ler e entender os termos da declaração.
+   - 2.3 Assinar eletronicamente a declaração.
+   - 2.4 Submeter a declaração assinada.
+
+3. **Visualizar Declarações Assinadas**
+   - 3.1 Navegar até a seção de declarações assinadas.
+   - 3.2 Selecionar uma declaração específica para visualização.
+   - 3.3 Revisar a declaração.
+
+### Tabela HTA para Declaração de Bolsista
 
 ## Tabela HTA para Declaração de Bolsista
 Nessa tarefa, o usuário tem como objetivo acessar as declarações de bolsista, onde pode assinar ou visualizar declarações relativas ao não acúmulo de bolsas.
@@ -85,8 +96,6 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
 ## Tarefas Analisadas
 
 # GOMS para Declaração de Bolsista
-
-## Definição dos Objetivos
 
 - **Assinar Declaração de Não Acúmulo de Bolsas:** Confirmar que o estudante não está recebendo múltiplas bolsas indevidamente.
 - **Visualizar Declarações Anteriores:** Acessar informações sobre declarações de não acúmulo de bolsas previamente submetidas.
