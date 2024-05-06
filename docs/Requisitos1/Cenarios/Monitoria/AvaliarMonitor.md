@@ -58,11 +58,11 @@ O cenário apresentado evidencia a importância de uma comunicação eficaz entr
 
 ## Bibliografia
 
-1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
-2. **Personas e Cenário**, Informática- Puc- rio. Disponível em <https://www.inf.puc-rio.br/~inf1403/docs/alberto2011_1/07_Personas_Cenarios.pdf>
+Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário.
+**Personas e Cenário**, Informática- Puc- rio. Disponível em: <https://www.inf.puc-rio.br/~inf1403/docs/alberto2011_1/07_Personas_Cenarios.pdf>. Acesso em 28 de abril de 2024.
 
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 06/05/2024 |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 06/05/2024 |
