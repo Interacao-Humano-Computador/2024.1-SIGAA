@@ -38,18 +38,27 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 ## Termo de Consentimento
 
-Este link leva ao termo de consentimento assinado pela professora 
+Este link leva ao termo de consentimento assinado pela professora Elaine
+
 
 Clique em: [Termo de consentimento assinado](PerfilUsuario/Professores/Entrevistas/Termos/ElaineVenson.md) 
 
 
 ## Gravação
 
-O vídeo 1 mostra a entrevista com a professora:
+O vídeo 1 mostra a entrevista com a professora Elaine:
+
+<center> 
+vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com a professora Elaine Venson
+  
+<iframe width="700" height="400" src="https://www.youtube.com/embed/lgdUXziPi54" title="IHC - Projeto sobre o SIGAA - Entrevista com a professora Elaine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Fonte**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 
+</center>
 
-Caso o vídeo acima não funcione, use este [link]() 
+Caso o vídeo acima não funcione, use este [link](https://youtu.be/lgdUXziPi54) 
 
 ## Respostas
 
