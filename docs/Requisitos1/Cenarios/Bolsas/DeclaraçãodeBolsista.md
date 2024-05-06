@@ -19,7 +19,7 @@ A criação deste cenário foi orientada pela técnica de **questionamento siste
 
 ### Tabela de Questionamento Sistemático
 
-<font size="2"><p style="text-align: center"> Tabela 21 - Questionamento sistemático </p></font>
+<font size="2"><p style="text-align: center"> Tabela 1 - Questionamento sistemático </p></font>
 
 | Questão | Conteúdo das respostas |
 | --- | --- |
@@ -39,7 +39,6 @@ Através deste cenário, é possível perceber a importância de uma interface c
 
 ## Bibliografia
 
-- ROSSON, M.B., CARROL, J.M. Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann, 2002.
 - BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
