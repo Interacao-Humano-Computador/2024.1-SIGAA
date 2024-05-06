@@ -812,7 +812,7 @@ As outras linguas citadas por estudantes são:
 - A faixa etária varia entre menos de 18 anos (provavelmente 16, que é a idade mínima para ingressar na UnB) e 65 anos, com maior frequência entre e 18 e 25 anos e também com uma quantidade consideralvel entre 26 e 35 anos.
 - Os gêneros variam entre feminino, masculino e não binário, sendo que a maior frequência é masculino (54%) e, em seguida, tendo o feminino (35%).
 - Os usuários variam entre agraduando, graduando e pós-graduando, mas a mior frequência é em relação ao graduando (81%).
-- As etinias variam entre branca, parda, negra, indígena e asiática, mas com maior foco na branca (46%) e na parda (35%).
+- As etnias variam entre branca, parda, negra, indígena e asiática, mas com maior foco na branca (46%) e na parda (35%).
 - A maioria dos estudantes tem como principais objetivos: Obter um diploma, adquirir novas amizades e fazer conexões profissionais.
 - Em relação a classe social, também é diverso, variando entre a classe baixa até a alta, mas com maior foco em classe média alta (38%) e classe média (26%).
 - O tempo de uso do SIGAA fica entre menos de 1 ano  até 4, onde o maior foco nas respostas foram entre 2 a 4 anos (54%).
