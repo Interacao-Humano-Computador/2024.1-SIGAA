@@ -56,6 +56,7 @@
         * Entrevistas
             * Entrevistas Realizadas
               - [Francisco Cesar (Chiquinho)](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md)
+              - [Andressa Novais Rodrigues](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Andressa.md)
 * Análise de Tarefas
   * Monitoria
     - [Planejamento da Análise](Requisitos1/AnaliseTarefas/Monitoria/Planejamento.md)
