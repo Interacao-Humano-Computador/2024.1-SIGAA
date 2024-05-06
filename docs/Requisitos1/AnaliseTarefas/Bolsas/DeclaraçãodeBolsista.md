@@ -96,6 +96,29 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
 - **Escolher Declaração para Assinar ou Visualizar:** Decidir entre criar uma nova declaração ou revisar uma existente, baseado na necessidade do usuário.
 - **Confirmar Identidade para Segurança:** Inserir senha para assegurar que a declaração é submetida pelo próprio estudante.
 
+### Assinar Declaração
+- **Goal**: Acessar e completar o formulário de assinatura de declaração de bolsista.
+- **Operators**:
+  - Navegar até a seção "Declaração de Bolsistas"
+  - Selecionar "Assinar Declaração"
+  - Preencher o formulário
+  - Submeter o formulário
+- **Methods**:
+  - Usar a interface do sistema para navegar, selecionar e preencher as informações necessárias.
+- **Selection Rules**:
+  - Se o usuário precisa revisar a declaração antes de submeter, revisar o texto antes de finalizar o envio.
+
+### 2. Visualizar Assinaturas
+- **Goal**: Acessar e revisar as assinaturas de declarações realizadas anteriormente.
+- **Operators**:
+  - Navegar até a seção "Declaração de Bolsistas"
+  - Selecionar "Visualizar Assinaturas"
+  - Visualizar os documentos assinados
+- **Methods**:
+  - Usar a interface do sistema para localizar e revisar documentos específicos.
+- **Selection Rules**:
+  - Se o usuário busca uma declaração específica, usar filtros para facilitar a busca.
+
 ## Execução GOMS
 
          METHOD 0:
@@ -115,31 +138,6 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
          - OP 3: Revisar a lista de declarações assinadas.
 
 
-
-### Declaração de Bolsistas
-
-#### 1. Assinar Declaração
-- **Goal**: Acessar e completar o formulário de assinatura de declaração de bolsista.
-- **Operators**:
-  - Navegar até a seção "Declaração de Bolsistas"
-  - Selecionar "Assinar Declaração"
-  - Preencher o formulário
-  - Submeter o formulário
-- **Methods**:
-  - Usar a interface do sistema para navegar, selecionar e preencher as informações necessárias.
-- **Selection Rules**:
-  - Se o usuário precisa revisar a declaração antes de submeter, revisar o texto antes de finalizar o envio.
-
-#### 2. Visualizar Assinaturas
-- **Goal**: Acessar e revisar as assinaturas de declarações realizadas anteriormente.
-- **Operators**:
-  - Navegar até a seção "Declaração de Bolsistas"
-  - Selecionar "Visualizar Assinaturas"
-  - Visualizar os documentos assinados
-- **Methods**:
-  - Usar a interface do sistema para localizar e revisar documentos específicos.
-- **Selection Rules**:
-  - Se o usuário busca uma declaração específica, usar filtros para facilitar a busca.
 
 ## Conclusão
 
