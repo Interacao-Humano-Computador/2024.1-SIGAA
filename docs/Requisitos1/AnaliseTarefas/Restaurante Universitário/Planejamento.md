@@ -2,7 +2,6 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [A Funcionalidade de Gerenciamento da conta no Restaurante Universitário](#A-Funcionalidade-de-Gerenciamento-da-conta-no-Restaurante-Universitário)
-* [Inspirações](#Inspirações)
 * [Metodologia](#Metodologia)
 * [Cronograma](#Cronograma)
 * [Conclusão](#Conclusão)
@@ -38,7 +37,7 @@ A imagem 2 mostra que até há a possibilidade de consulta de extrato no RU.
 
 ##  
 
-Deste modo, este documento tem o intuito de realizar um planejamento da análise das tarefas envolvidas no processo de consulta de saldo, recarga de crédito, consulta de cárdapio da semana
+Deste modo, este documento tem o intuito de realizar um planejamento da análise das tarefas envolvidas no processo de consulta de saldo, recarga de crédito, consulta de cardápio da semana
 e pesquisa de satisfação do DRU na perspectiva do estudante ao se utilizar o SIGAA.
 
 Com base nisso, para criar a área de gerenciamento da conta no RU, será necessário garantir a eficiência e eficácia na usabilidade do sistema. 
@@ -60,5 +59,34 @@ Essa aba terá quatro funcionalidades principais, que incluem:
 - Consultar o saldo atual.
 - Fazer recarga.
 - Consultar o cardápio da semana.
-- Preencher a pesquisa de satisfação do DRU.
+- Pesquisa de satisfação do DRU.
+
+## Metodologia
+
+Para analisar o processo das funcionalidades de gerenciamento da canta no RU na perspectiva do estudante, inicialmente, será realizada uma análise e uma compreensão dos objetivos gerais do usuário ao utilizar essas funcionalidades. Assim, esses objetivos serão divididos em subobjetivos mais específicos, que serão então relacionados com as operações concretas que o estudante precisará realizar no SIGAA. Essas operações serão mostradas contextualmente.
+
+Em seguida, para ser contextualizado dentro do fluxo de interação, será elaborado um diagrama, uma vez que ele fornecerá uma visão geral do processo, destacando as inter-relações entre as diferentes tarefas e ajudando a identificar possíveis gargalos ou lacunas no fluxo. Após a elaboração do diagrama, será elaborada uma tabela detalhando cada tarefa conforme o “input”, “feedback”, “plano” e “recomendação”.
+
+Após a realização da análise hierárquica, será realizada a análise por meio do GOMS para as atividades. Para isso, será mais uma vez revisado o escopo da tarefa com os seus objetivos, então serão definidos os seus métodos e operações. Com isso, este processo visa garantir uma análise mais precisa das tarefas.
+
+## Cronograma
+A tabela 1 mostra o cronograma da análise de cada uma das funcionalidades:
+
+Tabela 1: Cronograma
+
+| Atividade                                                                | Data de início | Data de fim |
+| ------------------------------------------------------------------------ | -------------- | ----------- |
+| Elicitar requisitos por meio de entrevistas e brainstorming              | 20/04/2024     | 01/05/2024  |
+| Definir objetivos de cada funcionalidade                                 | 06/05/2024     | 06/05/2024  |
+| Planejar como cada funcionalidade deve funcionar                         | 06/05/2024     | 06/05/2024  |
+| Executar análise hierárquica da funcionalidade de consulta do saldo      | 06/05/2024     | 06/05/2024  |
+| Executar análise GOMS da funcionalidade de consulta do saldo             | 06/05/2024     | 06/05/2024  |
+| Executar análise hierárquica da funcionalidade de recarga                | 06/05/2024     | 06/05/2024  |
+| Executar análise GOMS da funcionalidade de recarga                       | 06/05/2024     | 06/05/2024  |
+| Executar análise hierárquica da funcionalidade de consulta do cardápio   | 06/05/2024     | 06/05/2024  |
+| Executar análise GOMS da funcionalidade de consulta do cardápio          | 06/05/2024     | 06/05/2024  |
+| Executar análise hierárquica da funcionalidade da pesquisa de satisfação | 06/05/2024     | 06/05/2024  |
+| Executar análise GOMS da funcionalidade da pesquisa de satisfação        | 06/05/2024     | 06/05/2024  |
+
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
