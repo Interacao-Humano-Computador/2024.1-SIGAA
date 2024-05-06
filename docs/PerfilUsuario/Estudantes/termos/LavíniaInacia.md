@@ -1,6 +1,6 @@
 # Termo de consentimento assinado por Lavínia Inácia Mota
 
-**Voltar**: Caso você deseje voltar para a entrevista com a Lavínia Inácia Mota clique [aqui](PerfilUsuario/Estudantes/Entrevistas/Gravacao/BrunoMartins.md)
+**Voltar**: Caso você deseje voltar para a entrevista com a Lavínia Inácia Mota clique [aqui](PerfilUsuario/Estudantes/Entrevistas/Gravacao/LavíniaInácia.md)
 
 A imagem 1 mostra o termo de consentimento assinado:
 
