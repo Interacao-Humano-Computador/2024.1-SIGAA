@@ -123,7 +123,7 @@ A entrevista com a professora Elaine Venson proporcionou uma visão aprofundada 
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 03/05/2024 |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 03/05/2024 |
 
 
 
