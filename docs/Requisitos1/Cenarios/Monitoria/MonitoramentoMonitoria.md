@@ -57,6 +57,7 @@ Com base tanto na narrativa quanto na realidade vivida por diversos estudante, a
 |                                                                                                      | Como essa dificuldade impacta na eficácia do suporte oferecido pela monitora aos alunos?                            | A dificuldade impacta negativamente na eficácia do suporte, pois impede a monitora de realizar atividades planejadas para ajudar os alunos. | Melhorar o processo de gestão de salas no SIGAA, garantindo que haja salas disponíveis para monitores quando necessário. |
 | Falta de uma plataforma online para comunicação e registro de atividades.                            | Por que a monitora sente falta de uma plataforma online para comunicação e registro de atividades?               | A monitora sente falta porque sem essa ferramenta ela não consegue manter um registro das interações com os alunos e oferecer suporte eficaz. | Desenvolver uma ferramenta no SIGAA que permita aos monitores e alunos interagir em um ambiente online seguro, com opções de mensagens e registro de atividades. |
 |                                                                                                      | Como essa falta de ferramenta impacta na capacidade da monitora de acompanhar o progresso dos alunos?           | A falta de ferramenta impacta negativamente, pois a monitora não consegue monitorar o progresso dos alunos de forma eficiente e oferecer suporte personalizado. | Criar uma plataforma integrada no SIGAA que permita aos monitores acompanhar o progresso dos alunos e oferecer suporte individualizado com base nas necessidades de cada aluno. |
+
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## Conclusão 
@@ -66,10 +67,10 @@ O cenário apresentado revela a complexidade enfrentada pelos monitores no conte
 
 ## Bibliografia
 
-1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
-2. **Personas e Cenário**, Informática- Puc- rio. Disponível em <https://www.inf.puc-rio.br/~inf1403/docs/alberto2011_1/07_Personas_Cenarios.pdf>
+Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário.
+**Personas e Cenário**, Informática- Puc- rio. Disponível em: <https://www.inf.puc-rio.br/~inf1403/docs/alberto2011_1/07_Personas_Cenarios.pdf>. Acesso em 28 de abril de 2024.
 
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 06/05/2024 |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 06/05/2024 |
