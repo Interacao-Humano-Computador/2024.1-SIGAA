@@ -39,32 +39,61 @@ Como há um conjunto de tarefas a serem realizadas, há baixo há a análise con
 
 # Análise Hierárquica de Tarefas (HTA) para Solicitação de Bolsas no SIGAA
 
-## Tabela: HTA para Solicitação de Bolsas
+## HTA para Solicitação de Bolsas
 Esta tabela detalha as tarefas envolvidas na solicitação, acompanhamento e renovação de bolsas auxílio.
 
-| Objetivos/Operações                                   | Problemas e Recomendações                                                                                                  |
-|-------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **0. Acessar Solicitação de Bolsas**                  | **Input:** Seleção da opção "Solicitação de Bolsas" no menu "Bolsas".<br>**Feedback:** Exibição das opções de solicitação de bolsa.<br>**Plano:** Assegurar fácil acesso e visibilidade das opções de solicitação. |
-| **1. Solicitar Bolsa Auxílio (1>2)**                  | **Input:** Clicar em "Solicitar Bolsa Auxílio".<br>**Feedback:** Formulário de solicitação é apresentado.<br>**Plano:** Garantir que o formulário seja intuitivo e fácil de preencher, oferecendo instruções claras. |
-| **2. Acompanhar Solicitação de Bolsa Auxílio (1+2)**  | **Input:** Clicar em "Acompanhar Solicitação de Bolsa Auxílio".<br>**Feedback:** Status atual da solicitação é exibido.<br>**Plano:** Prover atualizações regulares sobre o status da solicitação, permitindo ao usuário acompanhar o progresso. |
-| **3. Renovar Bolsa Auxílio (1/2)**                    | **Input:** Clicar em "Renovar Bolsa Auxílio".<br>**Feedback:** Formulário de renovação é disponibilizado.<br>**Plano:** Simplificar o processo de renovação com preenchimento automático de informações conhecidas e claras instruções de submissão. |
+###  Declaração de Bolsista
+
+Nesta tarefa, o usuário tem como objetivo acessar e interagir com as declarações de bolsista, podendo assinar declarações referentes ao não acúmulo de bolsas ou visualizar as declarações já assinadas.
+
+| **Objetivos/Operações** | **Problemas e Recomendações** |
+|-------------------------|-------------------------------|
+| **0. Acessar Declarações de Bolsista** | **Input:** Seleção da opção "Declaração de Bolsista" no menu de bolsas.<br>**Feedback:** As opções para assinar ou visualizar declarações são exibidas.<br>**Plano:** Assegurar clareza e acessibilidade nas opções e descrições para evitar confusões. |
+| **1. Assinar Declaração (0>1)** | **Input:** Clicar em "Assinar Declaração".<br>**Feedback:** Formulário para assinatura é apresentado, solicitando confirmação de dados e senha.<br>**Plano:** Simplificar o formulário garantindo segurança nos dados. Confirmações visuais de sucesso devem ser claras. |
+| **2. Visualizar Assinaturas (0>2)** | **Input:** Clicar em "Visualizar Assinaturas".<br>**Feedback:** Lista de declarações assinadas é exibida.<br>**Plano:** Proporcionar uma fácil navegação e filtros eficientes para buscar declarações por datas ou outros critérios relevantes. |
+
+
 
 Esta HTA simplifica e esclarece as relações entre as operações dentro da função "Solicitação de Bolsas", garantindo que os usuários possam navegar e completar suas tarefas com eficiência e eficácia.
 
 ### GOMS
 
-## Análise de Tarefas
+# GOMS (Goals, Operators, Methods and Selection Rules)
 
-# Análise Hierárquica de Tarefas (HTA) para Declaração de Bolsistas no SIGAA
+## Introdução
 
-## Tabela: HTA para Declaração de Bolsistas
-Esta tabela detalha as tarefas envolvidas na assinatura e visualização de declarações de bolsista.
+O método GOMS é uma abordagem de análise de tarefas que ajuda a descrever como os usuários interagem com um sistema para alcançar seus objetivos. Esta análise se concentra especificamente nas tarefas relacionadas à declaração de bolsistas no sistema SIGAA, cobrindo as operações de "Assinar Declaração" e "Visualizar Assinaturas".
 
-| Objetivos/Operações                                   | Problemas e Recomendações                                                                                                  |
-|-------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **0. Acessar Declaração de Bolsistas**                | **Input:** Seleção da opção "Declaração de Bolsistas" no menu "Bolsas".<br>**Feedback:** Exibição das opções de declaração.<br>**Plano:** Assegurar fácil acesso e visibilidade das opções de declaração. |
-| **1. Assinar Declaração (1>2)**                       | **Input:** Clicar em "Assinar Declaração".<br>**Feedback:** Formulário de declaração é apresentado.<br>**Plano:** Garantir que o formulário seja intuitivo e fácil de preencher, fornecendo instruções claras para evitar erros. |
-| **2. Visualizar Assinaturas (1+2)**                   | **Input:** Clicar em "Visualizar Assinaturas".<br>**Feedback:** Visualização das declarações assinadas anteriormente.<br>**Plano:** Prover uma interface clara para revisão das assinaturas, facilitando o acesso a histórico de declarações. |
+## Objetivo da Análise
+
+Identificar e descrever as etapas que os usuários seguem para realizar a assinatura e visualização de declarações de bolsistas no SIGAA. Isso ajuda a otimizar a interface do usuário para essas tarefas, melhorando a eficiência e a satisfação do usuário.
+
+## Tarefas Analisadas
+
+### Declaração de Bolsistas
+
+#### 1. Assinar Declaração
+- **Goal**: Acessar e completar o formulário de assinatura de declaração de bolsista.
+- **Operators**:
+  - Navegar até a seção "Declaração de Bolsistas"
+  - Selecionar "Assinar Declaração"
+  - Preencher o formulário
+  - Submeter o formulário
+- **Methods**:
+  - Usar a interface do sistema para navegar, selecionar e preencher as informações necessárias.
+- **Selection Rules**:
+  - Se o usuário precisa revisar a declaração antes de submeter, revisar o texto antes de finalizar o envio.
+
+#### 2. Visualizar Assinaturas
+- **Goal**: Acessar e revisar as assinaturas de declarações realizadas anteriormente.
+- **Operators**:
+  - Navegar até a seção "Declaração de Bolsistas"
+  - Selecionar "Visualizar Assinaturas"
+  - Visualizar os documentos assinados
+- **Methods**:
+  - Usar a interface do sistema para localizar e revisar documentos específicos.
+- **Selection Rules**:
+  - Se o usuário busca uma declaração específica, usar filtros para facilitar a busca.
 
 ## Conclusão
 
@@ -78,4 +107,6 @@ Esta análise GOMS revela áreas chave onde melhorias podem ser feitas para torn
 
 | Versão | Data     | Descrição                           | Autor(es)              | Revisor(es)         |
 | ------ | -------- | ----------------------------------- | ---------------------- | ------------------- |
-| 1.0    | 05/05/24 | Criação do documento GOMS para SIGAA | Bruno Araújo | -     |
+| 1.0    | 14/10/23 | Criação do documento | Bruno Araújo | -    |
+
+
