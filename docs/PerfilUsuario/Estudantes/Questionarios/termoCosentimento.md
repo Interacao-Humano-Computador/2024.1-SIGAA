@@ -17,6 +17,9 @@
 
 Este documento visa registrar a manifestação livre, informada e inequívoca pela qual o Titular (ou seu Representante Legal) concorda com o tratamento de seus dados pessoais para finalidade específica.
 
+## Retorno para o documento de planejamento
+
+Case deseje voltar ao documento de planejamento clique em [Planejamento](PerfilUsuario/Estudantes/Questionarios/Planejamento.md)
 ## Apresentação
 
 Caro(a) Participante,
