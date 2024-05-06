@@ -1,24 +1,23 @@
 # Análise de Tarefas: Declaração de Bolsista
 
 ## Sumário
-* [Introdução](#Introdução)
-* [Objetivos](#Objetivos)
-* [Análise Hierárquica de Tarefas](Análise-Hierárquica-de-Tarefas)
+*[Introdução](#Introdução)
+*[Objetivos](#Objetivos)
+*[Análise Hierárquica de Tarefas](Análise-Hierárquica-de-Tarefas)
     * [Análise Contextual](#Análise-Contextual)
     * [Diagrama de Atividades](#Diagrama-de-Atividades)
     * [Tabela de Análise](#Tabela-de-Análise)
-* [GOMS](#GOMS)
+*[GOMS](#GOMS)
     * [Definição dos objetivos(Goals)](#Definição-dos-objetivos)
     * [Definição dos operadores(Operators)](#Definição-dos-operadores(Operators))
     * [Definição dos Métodos](#Definição-dos-Métodos )
     * [Definição das Regras de Seleção](#Definição-das-Regras-de-Seleção)
     * [Execução do GOMS](#Execução-do-GOMS)
-* [Conclusão](#Conclusão)
-* [Bibliografia](#Bibliografia)
-* [Histórico de versão](#Histórico-de-versão)
+*[Conclusão](#Conclusão)
+*[Bibliografia](#Bibliografia)
+*[Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
-
 A declaração de bolsista no SIGAA UNB é um recurso fundamental para estudantes que recebem bolsas de estudo na Universidade de Brasília. Essa funcionalidade proporciona aos bolsistas uma maneira eficiente de acessar e gerenciar informações essenciais relacionadas à sua bolsa. Este documento tem como objetivo realizar uma análise detalhada dessa ferramenta, destacando seus principais recursos e funcionalidades, além de identificar possíveis melhorias para aprimorar a experiência dos usuários.
 Introdução - Solicitaç
 
@@ -32,11 +31,9 @@ A funcionalidade de declaração de bolsista no SIGAA UNB visa atender a uma sé
 -Garantir que o processo de declaração de bolsista seja transparente e eficaz, proporcionando uma comunicação clara entre os bolsistas e a instituição.
 
 ## Análise Hierárquica de Tarefas
-
 A análise de tarefas consiste em desmembrar as atividades dos usuários em elementos menores, denominados tarefas, que estão inseridas em um sistema ou interface. Essa abordagem visa simplificar tarefas complexas, dividindo-as em objetivos, subobjetivos e operações, e estabelecendo um plano para determinar a sequência adequada de realização desses subobjetivos. Abaixo, serão fornecidos detalhes sobre a análise contextual, o diagrama e a tabela que ilustram esse processo.
 
 ### Análise Contextual
-
 Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
 
 # Análise Hierárquica de Tarefas (HTA) para Solicitação de Bolsas no SIGAA
@@ -45,7 +42,6 @@ Como há um conjunto de tarefas a serem realizadas, há baixo há a análise con
 Esta tabela detalha as tarefas envolvidas na solicitação, acompanhamento e renovação de bolsas auxílio.
 
 ###  Declaração de Bolsista
-
 Nesta tarefa, o usuário tem como objetivo acessar e interagir com as declarações de bolsista, podendo assinar declarações referentes ao não acúmulo de bolsas ou visualizar as declarações já assinadas.
 
 ## Tabela HTA para Declaração de Bolsista
@@ -57,12 +53,12 @@ Nessa tarefa, o usuário tem como objetivo acessar as declarações de bolsista,
 | **1. Assinar Declaração (0>1)**                  | **Input:** Clicar em "Assinar Declaração".<br>**Feedback:** Formulário para assinatura aparece.<br>**Plano:** Facilitar o processo de assinatura e garantir a segurança dos dados. |
 | **2. Visualizar Assinaturas (0>2)**              | **Input:** Clicar em "Visualizar Assinaturas".<br>**Feedback:** Lista de declarações assinadas disponível.<br>**Plano:** Proporcionar uma visualização fácil e acessível das informações. |
 
-## Introdução
+# GOMS
 
+## Introdução
 O método GOMS é uma abordagem de análise de tarefas que ajuda a descrever como os usuários interagem com um sistema para alcançar seus objetivos. Esta análise se concentra especificamente nas tarefas relacionadas à declaração de bolsistas no sistema SIGAA, cobrindo as operações de "Assinar Declaração" e "Visualizar Assinaturas".
 
 ## Objetivo da Análise
-
 Identificar e descrever as etapas que os usuários seguem para realizar a assinatura e visualização de declarações de bolsistas no SIGAA. Isso ajuda a otimizar a interface do usuário para essas tarefas, melhorando a eficiência e a satisfação do usuário.
 
 ## Tarefas Analisadas
@@ -118,9 +114,7 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
 
 ## Execução GOMS
 
-## GOMS para "Declaração de Bolsista"
-
-### Nessa tarefa, o usuário possui o objetivo de acessar a funcionalidade de declaração de bolsista no sistema.
+Nessa tarefa, o usuário possui o objetivo de acessar a funcionalidade de declaração de bolsista no sistema.
          - GOAL 0: Acessar a funcionalidade de declaração de bolsista.
            - METHOD 0.A: Navegar até a seção "Bolsas".
              - OP. 0.A.1: Clicar na aba "Bolsas".
@@ -128,7 +122,7 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
              - OP. 0.B.1: Clicar na opção "Declaração de Bolsista".
              - (SEL. RULE: o usuário deseja realizar ou revisar uma declaração.)
          
-         ### Nessa tarefa, o usuário possui o objetivo de assinar digitalmente a declaração que atesta o não acúmulo indevido de bolsas.
+Nessa tarefa, o usuário possui o objetivo de assinar digitalmente a declaração que atesta o não acúmulo indevido de bolsas.
          - GOAL 1: Assinar a declaração de não acúmulo de bolsas.
            - METHOD 1.A: Ler as instruções na tela.
              - OP. 1.A.1: Ler informações apresentadas na tela.
@@ -138,7 +132,7 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
              - OP. 1.C.1: Clicar em "Confirmar".
              - (SEL. RULE: o usuário confirma que as informações estão corretas.)
          
-         ### Nessa tarefa, o usuário possui o objetivo de revisar declarações de bolsista anteriormente submetidas.
+Nessa tarefa, o usuário possui o objetivo de revisar declarações de bolsista anteriormente submetidas.
          - GOAL 2: Visualizar assinaturas anteriores.
            - METHOD 2.A: Selecionar "Visualizar Assinaturas".
              - OP. 2.A.1: Clicar na opção "Visualizar Assinaturas".
