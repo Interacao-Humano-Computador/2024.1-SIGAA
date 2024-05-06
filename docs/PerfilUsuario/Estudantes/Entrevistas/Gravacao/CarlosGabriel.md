@@ -18,7 +18,6 @@ Este documento apresenta a entrevista realizada com o estudante Carlos Gabriel C
 
 A tabela 1 apresenta o cronograma da entrevista.
 
-<center>
   
 **Tabela 1**: Cronograma
 
@@ -31,7 +30,6 @@ A tabela 1 apresenta o cronograma da entrevista.
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
   
-</center>
 
 ## Termo de Consentimento
 
