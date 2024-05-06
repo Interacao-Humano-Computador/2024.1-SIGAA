@@ -13,29 +13,33 @@ Durante as entrevistas foi comentado pelo estudantes sobre a dificuldade de acom
 <center>
   <font size="2"><p style="text-align: center">Figura 1: Aba Histórico </p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/AbaHistorico.jpeg">
-    <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
  </center>
+ 
+ <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
  
 O histórico que os alunos podem emitir hoje contém informações que são úteis, como por exemplo, matérias que já foram cursadas como podemos ver na figura 2 e matérias obrigatórias que estão pendentes para o aluno como podemos ver na figura 3.
 <center>
   <font size="2"><p style="text-align: center">Figura 2: Matérias Cursadas </p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/ExemploHistorico.jpeg">
-    <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
  </center>
+
+ <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
  <center>
   <font size="2"><p style="text-align: center">Figura 3: Matérias Pendentes </p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/ExemploHistorico3.jpeg">
-    <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
  </center>
+
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
  Porém o aluno não tem acesso pelo histórico aos pré-requisitos das matérias pendentes, esse acesso é pelo fluxograma que podemos ver na figura 4. O ideal para o aluno seria ter todas a informações essenciais juntas em um só lugar, fazendo com que ele tenha o acesso mais fácil a informação que deseja.
 
  <center>
   <font size="2"><p style="text-align: center">Figura 4: Fluxograma </p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/Fluxograma.jpeg">
-    <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
  </center>
+
+ <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
  ## A Funcionalidade do Histórico
  A aba de histórico no sistema do SIGAA será concebida com o objetivo de simplificar a visualização do histórico, além de deixar mais didático para que o aluno tenha uma ampla visão de como está o andamento do seu curso. Isso porque esta área poderá oferecer ferramentas essenciais para os alunos.
