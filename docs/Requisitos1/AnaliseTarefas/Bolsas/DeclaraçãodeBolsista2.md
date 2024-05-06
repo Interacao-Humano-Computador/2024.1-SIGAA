@@ -1,29 +1,21 @@
-# Análise de Tarefas: Declaração de Bolsista
-
 ## Sumário
-<ul>
-    <li><a href="#Introdução">Introdução</a></li>
-    <li><a href="#Objetivos">Objetivos</a></li>
-    <li><a href="#Análise-Hierárquica-de-Tarefas">Análise Hierárquica de Tarefas</a>
-        <ul>
-            <li><a href="#Análise-Contextual">Análise Contextual</a></li>
-            <li><a href="#Diagrama-de-Atividades">Diagrama de Atividades</a></li>
-            <li><a href="#Tabela-de-Análise">Tabela de Análise</a></li>
-        </ul>
-    </li>
-    <li><a href="#GOMS">GOMS</a>
-        <ul>
-            <li><a href="#Definição-dos-objetivos">Definição dos objetivos (Goals)</a></li>
-            <li><a href="#Definição-dos-operadores">Definição dos operadores (Operators)</a></li>
-            <li><a href="#Definição-dos-Métodos">Definição dos Métodos</a></li>
-            <li><a href="#Definição-das-Regras-de-Seleção">Definição das Regras de Seleção</a></li>
-            <li><a href="#Execução-do-GOMS">Execução do GOMS</a></li>
-        </ul>
-    </li>
-    <li><a href="#Conclusão">Conclusão</a></li>
-    <li><a href="#Bibliografia">Bibliografia</a></li>
-    <li><a href="#Histórico-de-versão">Histórico de versão</a></li>
-</ul>
+- [Introdução](#introdução)
+- [Objetivos](#objetivos)
+- [Análise Hierárquica de Tarefas para o SIGAA](#análise-hierárquica-de-tarefas-para-o-sigaa)
+  - [Análise Contextual](#análise-contextual)
+  - [Tabela HTA para Declaração de Bolsista](#tabela-hta-para-declaração-de-bolsista)
+- [GOMS](#goms)
+  - [Introdução GOMS](#introdução-goms)
+  - [Definição dos Objetivos](#definição-dos-objetivos)
+  - [Definição dos Operadores](#definição-dos-operadores)
+  - [Definição dos Métodos](#definição-dos-métodos)
+  - [Definição das Regras de Seleção](#definição-das-regras-de-seleção)
+  - [Assinar Declaração](#assinar-declaração)
+  - [Visualizar Assinaturas](#visualizar-assinaturas)
+  - [Execução GOMS](#execução-goms)
+- [Conclusão](#conclusão)
+- [Bibliografia](#bibliografia)
+- [Histórico de Versão](#histórico-de-versão)
 
 ## Introdução
 A declaração de bolsista no SIGAA UNB é um recurso fundamental para estudantes que recebem bolsas de estudo na Universidade de Brasília. Essa funcionalidade proporciona aos bolsistas uma maneira eficiente de acessar e gerenciar informações essenciais relacionadas à sua bolsa. Este documento tem como objetivo realizar uma análise detalhada dessa ferramenta, destacando seus principais recursos e funcionalidades, além de identificar possíveis melhorias para aprimorar a experiência dos usuários.
@@ -86,7 +78,7 @@ A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcional
 
 # GOMS
 
-## Introdução
+## Introdução GOMS
 O método GOMS é uma abordagem de análise de tarefas que ajuda a descrever como os usuários interagem com um sistema para alcançar seus objetivos. Esta análise se concentra especificamente nas tarefas relacionadas à Declaração de Bolsistas no sistema SIGAA, cobrindo as operações de "Assinar Declaração" e "Visualizar Assinaturas".
 
 ## Definição dos Objetivos
