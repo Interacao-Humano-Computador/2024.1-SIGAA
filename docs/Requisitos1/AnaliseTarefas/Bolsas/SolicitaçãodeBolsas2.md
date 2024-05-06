@@ -54,28 +54,32 @@ Esta HTA simplifica e esclarece as relações entre as operações dentro da fun
 
 ## GOMS para "Solicitação de Bolsas"
 
-      ### GOAL 0: Solicitar uma bolsa de auxílio
-      - METHOD 0.A: Selecionar "Solicitação de Bolsa - Solicitação de Bolsa Auxílio"
-        - OP. 0.A.1: Clicar na opção "Solicitação de Bolsa Auxílio"
-      - METHOD 0.B: Preencher o formulário
-        - OP. 0.B.1: Entrar dados no formulário
-      - METHOD 0.C: Submeter o formulário
-        - OP. 0.C.1: Clicar em "Continuar"
-        - (SEL. RULE: o usuário preencheu todas as informações necessárias e deseja prosseguir)
-      
-      ### GOAL 1: Acompanhar solicitação de bolsa auxílio
-      - METHOD 1.A: Visualizar informações atualizadas sobre o status da solicitação
-        - OP. 1.A.1: Clicar em "Acompanhar Solicitação de Bolsa Auxílio"
-        - (SEL. RULE: o usuário necessita acompanhar uma solicitação existente)
-      
-      ### GOAL 2: Renovar bolsa auxílio
-      - METHOD 2.A: Selecionar "Renovar Bolsa Auxílio"
-        - OP. 2.A.1: Clicar na opção "Renovar Bolsa Auxílio"
-      - METHOD 2.B: Preencher o formulário de renovação
-        - OP. 2.B.1: Entrar dados no formulário de renovação
-      - METHOD 2.C: Submeter o formulário de renovação
-        - OP. 2.C.1: Clicar em "Cadastrar"
-        - (SEL. RULE: o usuário deseja renovar uma bolsa e já preencheu todas as informações)
+### Nessa tarefa, o usuário possui o objetivo de preencher e submeter um formulário para solicitar uma bolsa de auxílio.
+         - GOAL 0: Solicitar uma bolsa de auxílio.
+           - METHOD 0.A: Selecionar "Solicitação de Bolsa - Solicitação de Bolsa Auxílio".
+             - OP. 0.A.1: Clicar na opção "Solicitação de Bolsa Auxílio".
+           - METHOD 0.B: Preencher o formulário.
+             - OP. 0.B.1: Entrar dados no formulário.
+           - METHOD 0.C: Submeter o formulário.
+             - OP. 0.C.1: Clicar em "Continuar".
+             - (SEL. RULE: o usuário preencheu todas as informações necessárias e deseja prosseguir.)
+         
+         ### Nessa tarefa, o usuário possui o objetivo de verificar o status atual de suas solicitações de bolsa auxílio.
+         - GOAL 1: Acompanhar solicitação de bolsa auxílio.
+           - METHOD 1.A: Visualizar informações atualizadas sobre o status da solicitação.
+             - OP. 1.A.1: Clicar em "Acompanhar Solicitação de Bolsa Auxílio".
+             - (SEL. RULE: o usuário necessita acompanhar uma solicitação existente.)
+         
+         ### Nessa tarefa, o usuário possui o objetivo de renovar uma bolsa auxílio existente.
+         - GOAL 2: Renovar bolsa auxílio.
+           - METHOD 2.A: Selecionar "Renovar Bolsa Auxílio".
+             - OP. 2.A.1: Clicar na opção "Renovar Bolsa Auxílio".
+           - METHOD 2.B: Preencher o formulário de renovação.
+             - OP. 2.B.1: Entrar dados no formulário de renovação.
+           - METHOD 2.C: Submeter o formulário de renovação.
+             - OP. 2.C.1: Clicar em "Cadastrar".
+             - (SEL. RULE: o usuário deseja renovar uma bolsa e já preencheu todas as informações.)
+
 
 ## Conclusão
 
