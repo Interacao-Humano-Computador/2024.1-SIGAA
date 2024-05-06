@@ -27,7 +27,7 @@ Ao finalizar todas as entrevistas, os resultados serão consolidados em um docum
 
 Para garantir que a integrante do grupo esteja adequadamente preparada para conduzir as entrevistas, será realizado um estudo com as seguintes vídeo-aulas:
 - [Como fazer ENTREVISTAS? // Pesquisa qualitativa no Mestrado ou Doutorado - Pesquisa na Prática 204](https://www.youtube.com/watch?v=UeWwl5yKBfU) (2)
-- [Como ser um bom entrevistador? Apresentador de podcast responde (https://www.youtube.com/watch?v=5UD2NePl4bk) (3)
+- [Como ser um bom entrevistador? Apresentador de podcast responde](https://www.youtube.com/watch?v=5UD2NePl4bk) (3)
 - [Aprenda a fazer uma entrevista de vídeo, rádio ou podcast. Comunicação na Prática 35](https://www.youtube.com/watch?v=pCDN3faGd9I) (1)
 - [Quais perguntas devo fazer ao candidato em uma entrevista de emprego](https://www.youtube.com/watch?v=9WkBYU1Vn0w) (6)
 - [Roteiro para entrevistas - Pesquisa na Prática #29](https://www.youtube.com/watch?v=nG2fSx4yEwU)(8)
