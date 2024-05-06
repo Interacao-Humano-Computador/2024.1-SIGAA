@@ -78,4 +78,4 @@ Também gostaria de pontuar os pontos positivos do SIGAA, que envolve a questão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 02/05/2024 |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 02/05/2024 |
