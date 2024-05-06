@@ -128,7 +128,7 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
 - **Selection Rules**:
   - Se o usuário precisa revisar a declaração antes de submeter, revisar o texto antes de finalizar o envio.
 
-### 2. Visualizar Assinaturas
+### Visualizar Assinaturas
 - **Goal**: Acessar e revisar as assinaturas de declarações realizadas anteriormente.
 - **Operators**:
   - Navegar até a seção "Declaração de Bolsistas"
