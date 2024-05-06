@@ -87,8 +87,12 @@
         - [Cenário pedido monitoria](Requisitos1/Cenarios/Monitoria/PedidoMonitoria.md)
         - [Cenário monitoramento monitoria](Requisitos1/Cenarios/Monitoria/MonitoramentoMonitoria.md)
         - [Cenário avaliar monitor](Requisitos1/Cenarios/Monitoria/AvaliarMonitor.md)
-          
-      * Estágio
+   
+      * Bolsas
+        - [Cenário declaração de Bolsista](Requisitos1/Cenarios/Bolsas/DeclaraçãodeBolsista.md)
+        - [Cenário solicitação de Bolsas](Requisitos1/Cenarios/Bolsas/SolicitaçãodeBolsas.md)
+
+       * Estágio
         - [Cenário Estágio](Requisitos1/Cenarios/estagio.md)
     * Análise de Tarefas
       * Monitoria
