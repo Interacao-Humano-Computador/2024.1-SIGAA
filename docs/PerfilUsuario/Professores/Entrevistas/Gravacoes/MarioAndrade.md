@@ -110,4 +110,4 @@ Ao longo da entrevista com o professor, foram exploradas suas experiências e pe
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 21/04/2024 |
-| 1.1 | Correção da introdução e da conclusão | Larissa Stéfane | - | 05/05/2024 |
+| 1.1 | Correção da introdução e da conclusão | Larissa Stéfane | Breno Alexandre | 05/05/2024 |
