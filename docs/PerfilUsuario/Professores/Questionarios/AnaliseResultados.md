@@ -843,3 +843,42 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 </div>
 
 </details>
+
+## Perfil do Usuário Identificado
+
+- A faixa etária varia entre 26 e 65 anos, com maior frequência entre 46 e 65 anos (53%). Em segundo lugar, a faixa entre 36 a 45 anos ficou com 38% e 7% entre 26 e 35 anos.  
+- Os gêneros foram equilibrados, com 53% do masculino e 46% do feminino.
+- A maior parte possui pós-doutorado, com 69%, e 30% possui doutorado.
+- As etnias são predominantmente branca (53%) e parda (38%). Há também os professores asiáticos, 7% de acordo com o questionário.
+- Sobre realizar mais alguma especialização, 60% não pretende realizar mais uma, 15% faria dependendo das oportunidades, 15% não tem certeza e 10% faria.
+- A habilidade de leitura variou entre excelente, boa e regular, com maior foco em excelente(69%) e em boa(23%).  Apenas 7% é regular.
+- A Preferência de apredizado foi mais frequênte entre visual (42%), prático (38%) e auditivo (14%).
+- O nível de alfabetismo computacional variou entre Avançado(15%), intermediário(69%) e básico e muito básico (ambos com 7%).
+- O nível de experiência com termos acadêmicos e técnicos teve maior incidência no nível alto (46%), com muito alta ficando em segundo lugar (30%).
+- Todos os professores lecionaram em outras instituições antes da UnB.
+- 69% está disposto a explorar novas tecnologias, 15% está muito disposto e 15% está neutro.
+- Em relação a frequência de uso, 84% acassa semanalmente e 15% diariamente.
+-  A maioria utiliza computador portátil (57%) ou um computador descktop(36%) para acessar o SIGAA.
+-  Em relação ao uso de outras plataformas de ensino, 30% utiliza outros com frequência, 30% utiliza outros ocasionalmente e 38% utilia apenas o SIGAA.
+-  Todos os professores são fluentes em inglês e 44% é fluente em espanhol.
+
+## Requisitos e Críticas
+
+- Cerca de 92% acredita que seja necessário o SIGAA ter um manual e 7% acredita que não é necessário.
+- Os principail motivos de acesso são: Registrar notas e frequência dos alunos, submissão de documentos, acesso a informações e dados.
+- 53% acha fácil de usar, 38% considera neutro.
+- Da mesma forma, 53% está satisfeito com o site e 38% está neutro.
+- 76% acredita que o SIGAA facilita o acesso a informações.
+- 46% considera a qualidade das informações boas e 46% considera regular.
+- Em relação a organização das informações, 61% considera que poderia ser melhor, apesar de ser clara e 30% tem a opinião neutra.
+- Em relação as informações apresentadas, 46% acredita que poderia ser mais detalhada em alguns casos e 38% considera as informações neutras, nem suficientes nem insuficientes.
+- Em relação a interface, 69% considerou pouco atraente, mas funcional.
+
+## Conclusão
+
+Os resultados do questionário revelaram informações importantes sobre os docentes, porém, devido à quantidade de respostas ter sido pouca, o desvio padrão em relação à realidade pode ser grande. Mesmo assim, as informações coletadas serão de grande utilidade para o projeto.  
+
+## Histórico de Versão
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação e realização do documento. | Larissa Stéfane | - | 05/05/2024 |
