@@ -100,3 +100,7 @@
       * Estágio
         - [Análise Estágio GOMS](Requisitos1/AnaliseTarefas/Estagio/estagioGoms.md)
         - [Análise Estágio Hierárquica](Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica.md)
+  
+      * Bolsas
+        - [Análise Declaração de Bolsista](Requisitos1/AnaliseTarefas/Bolsas/DeclaraçãodeBolsista2.md)
+        - [Análise Solicitação de Bolsas](Requisitos1/AnaliseTarefas/Bolsas/SolicitaçãodeBolsasHTA.md)
