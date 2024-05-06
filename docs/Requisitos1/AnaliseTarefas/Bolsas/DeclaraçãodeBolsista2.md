@@ -61,6 +61,8 @@ Para facilitar a visualização de tarefas, a imagem 1 mostra o diagrama:
 
 ### Tabela de Análise
 A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcionalidade de pedido de monitoria.
+
+
 | Objetivos / Operações                                     | Relações | Problemas e Recomendações                                     |
 |-----------------------------------------------------------|----------|--------------------------------------------------------------|
 | 0. Solicitar bolsas                                       | 1 > 1.1, 1.2, 1.3 |                                                              |
