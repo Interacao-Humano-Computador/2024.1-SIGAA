@@ -128,6 +128,6 @@ Por meio da entrevista com Cecília Alves, foi possível obter uma perspectiva e
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento| Larissa Stéfane| - |  03/05/2024 |
+| 1.0 | Criação e realização do documento| Larissa Stéfane| Breno Alexandre |  03/05/2024 |
 
 
