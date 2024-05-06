@@ -1,4 +1,4 @@
- Entrevista com o professor André Barros de Sales
+# Entrevista com o professor André Barros de Sales
 
 ## Sumário
 * [Introdução](#Introdução)
@@ -129,6 +129,6 @@ A entrevista conduzida com o professor André Barros de Sales proporcionou mais 
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 04/05/2024 |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 04/05/2024 |
 
 
