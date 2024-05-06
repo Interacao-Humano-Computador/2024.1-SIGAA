@@ -68,6 +68,7 @@ O cenário apresentado revela a complexidade enfrentada pelos monitores no conte
 ## Bibliografia
 
 Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário.
+
 **Personas e Cenário**, Informática- Puc- rio. Disponível em: <https://www.inf.puc-rio.br/~inf1403/docs/alberto2011_1/07_Personas_Cenarios.pdf>. Acesso em 28 de abril de 2024.
 
 ## Histórico de Versão
