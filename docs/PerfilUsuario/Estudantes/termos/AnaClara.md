@@ -1,6 +1,6 @@
 # Este é o consentimento dado por Ana Clara Rosário Silva
 
-Caso deseje voltar para a entrevista com o Gabriel Lopes, aperte em [Entrevista](PerfilUsuario/Estudantes/Entrevistas/Gravacao/AnaClara.md)
+Para ver a entrevista com a Ana Clara, aperte em [Entrevista.](PerfilUsuario/Estudantes/Entrevistas/Gravacao/AnaClara.md)
 
 **Observação**: Devido à falta de uma impressora e a falta de experiência com assinatura digital, o consentimento foi confirmado por Ana por meio da mensagem na Imagem 1:
 
