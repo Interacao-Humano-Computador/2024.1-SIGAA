@@ -7,7 +7,6 @@
 * [Gravação](#Gravação)
 * [Respostas](#Respostas)
 * [Conclusão](#Conclusão)
-* [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
 
