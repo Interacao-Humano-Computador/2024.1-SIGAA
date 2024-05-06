@@ -35,6 +35,17 @@
 
 * Usuários
     * Professores
+        * Questionário
+            - [Planejamento](PerfilUsuario/Professores/Questionarios/Planejamento.md)
+            - [Resultados](PerfilUsuario/Professores/Questionarios/AnaliseResultados.md)
+        * Entrevistas
+            - [Planejamento](PerfilUsuario/Professores/Entrevistas/PlanejamentoProfessores.md)
+            * Entrevistas Realizadas
+                - [André Barros de Sales](PerfilUsuario/Professores/Entrevistas/Gravacoes/AndreSales.md)
+                - [Anônimo](PerfilUsuario/Professores/Entrevistas/Gravacoes/Anonimo.md)
+                - [Elaine Venson](PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson.md)
+                - [Mário Andrade](PerfilUsuario/Professores/Entrevistas/Gravacoes/MarioAndrade.md)
+            - [Análise dos Resultados](PerfilUsuario/Professores/Entrevistas/ResultadoEntrevista.md)
     * Estudantes
         * Questionário
             - [Planejamento](PerfilUsuario/Estudantes/Questionarios/Planejamento.md)
