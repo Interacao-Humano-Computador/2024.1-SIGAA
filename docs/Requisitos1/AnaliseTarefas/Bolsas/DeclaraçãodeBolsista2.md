@@ -150,8 +150,8 @@ Nessa tarefa, o usuário possui o objetivo de acessar a funcionalidade de declar
            - METHOD 0.B: Selecionar a opção "Declaração de Bolsista".
              - OP. 0.B.1: Clicar na opção "Declaração de Bolsista".
              - (SEL. RULE: o usuário deseja realizar ou revisar uma declaração.)
-```
-         
+´
+```        
 Nessa tarefa, o usuário possui o objetivo de assinar digitalmente a declaração que atesta o não acúmulo indevido de bolsas.
          - GOAL 1: Assinar a declaração de não acúmulo de bolsas.
            - METHOD 1.A: Ler as instruções na tela.
@@ -162,7 +162,7 @@ Nessa tarefa, o usuário possui o objetivo de assinar digitalmente a declaraçã
              - OP. 1.C.1: Clicar em "Confirmar".
              - (SEL. RULE: o usuário confirma que as informações estão corretas.)
 
-
+```
 Nessa tarefa, o usuário possui o objetivo de revisar declarações de bolsista anteriormente submetidas.
          - GOAL 2: Visualizar assinaturas anteriores.
            - METHOD 2.A: Selecionar "Visualizar Assinaturas".
