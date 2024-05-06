@@ -19,7 +19,6 @@ A tabela 1 mostra os elementos em relação ao cenário de pedido para ser monit
 **Tabela 1**: Elementos do cenário
 | Elemento | Descrição |
 | - | - | 
-| **Ambiente** | Ambiente universitário que estimula os estudantes a serem monitores de matérias que lhe agradam. |
 | **Atores** | Estudante dedicada do último ano da universidade. |
 | **Objetivos** | A estudante deseja cadastrar o estágio para que possa se formar. |
 | **Planejamento** | A estudante planeja solicitar o pré-cadastro do estágio em que pretende trabalhar |
