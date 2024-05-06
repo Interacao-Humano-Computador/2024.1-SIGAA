@@ -23,12 +23,10 @@ A declaração de bolsista no SIGAA UNB é um recurso fundamental para estudante
 Introdução - Solicitaç
 
 ## Objetivos
-A funcionalidade de monitoramento visa atender a uma série de objetivos para aumentar a eficácia de acesso a dados e melhorar a organização. Alguns dos principais objetivos incluem:
-
-- Permitir acesso a informações detalhadas sobre a participação em programas de monitoria ao longo de vários semestres, anteriores e atuais.
-- Possibilitar que os estudantes monitores documentem e disponibilizem uma grade horária de atendimento.
-- Permitir que seja realizado o aluguel de salas para aula de monitoria atual.
-- Permitir que o monitor envie mensagens para a turma ou para o docente no privado.
+A funcionalidade de declaração de bolsista no SIGAA UNB visa atender a uma série de objetivos para melhorar a eficiência e transparência do processo de gestão de bolsas. Alguns dos principais objetivos incluem:
+-Facilitar o acesso dos bolsistas a informações detalhadas sobre suas bolsas de estudo, incluindo termos, condições e status atual.
+-Permitir que os bolsistas assinem declarações referentes ao não acúmulo de bolsas ou visualizem declarações já assinadas de forma rápida e conveniente.
+-Garantir que o processo de declaração de bolsista seja transparente e eficaz, proporcionando uma comunicação clara entre os bolsistas e a instituição.
 
 ## Análise Hierárquica de Tarefas
 
