@@ -19,7 +19,8 @@
 
 ## Introdução
 
-A funcionalidade de monitoramento proporcionará aos estudantes uma visão abrangente de sua participação em programas de monitoria ao longo dos semestres e permitirá que a monitoria atual tenha seus dados atualizados e incrementados. Sendo assim, este documento tem o objetivo de realizar uma análise detalhada das tarefas envolvidas nessa funcionalidade, visando compreender os processos subjacentes e identificar áreas de foco. Além disso, como essa funcionalidade também terá o objetivo de promover um conjunto de dados sobre o formato que a monitoria será dada, a nálise deverá permitir a análise para vários caminhos também.
+A declaração de bolsista no SIGAA UNB é um recurso fundamental para estudantes que recebem bolsas de estudo na Universidade de Brasília. Essa funcionalidade proporciona aos bolsistas uma maneira eficiente de acessar e gerenciar informações essenciais relacionadas à sua bolsa. Este documento tem como objetivo realizar uma análise detalhada dessa ferramenta, destacando seus principais recursos e funcionalidades, além de identificar possíveis melhorias para aprimorar a experiência dos usuários.
+Introdução - Solicitaç
 
 ## Objetivos
 A funcionalidade de monitoramento visa atender a uma série de objetivos para aumentar a eficácia de acesso a dados e melhorar a organização. Alguns dos principais objetivos incluem:
