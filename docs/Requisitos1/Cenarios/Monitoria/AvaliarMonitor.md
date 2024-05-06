@@ -16,6 +16,9 @@ Esse documento apresenta um cenário que visa explorar a realidade de quando os 
 ## Definição dos elementos
 
 A tabela 1 mostra os elementos em relação ao cenário de avaliação de monitor.
+
+**tabela 1:** Elementos do cenário
+
 | Elemento       | Descrição                                                                                                                                                       |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Ambiente**   | Ambiente acadêmico onde os estudantes precisam avaliar os monitores para darem um feedback.                                               |
@@ -44,6 +47,7 @@ Diante da proposta de Adam, a professora reconheceu a importância de garantir q
 Com base tanto na narrativa quanto na realidade vivida por diversos estudante, a tabela 2 mostra as questões, resposas e sugestões para os problemas encontrados na narrativa.
 
 **Tabela 2**: Questionamento Sistemático
+
 | Situação                                                                                             | Questão                                                                                                         | Resposta                                                                                                          | Sugestão de Solução                                                                                                         |
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Falta de uma ferramenta de avaliação de monitores.                                                  | Por que não existe uma ferramenta de avaliação de monitores disponível?                                       | A falta de uma ferramenta se deve à ausência de um sistema formal de avaliação de monitores na universidade.    | Desenvolver e implementar uma ferramenta de avaliação de monitores na plataforma online da universidade.                       |
