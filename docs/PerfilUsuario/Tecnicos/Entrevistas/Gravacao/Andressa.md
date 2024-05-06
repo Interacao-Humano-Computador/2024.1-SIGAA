@@ -104,6 +104,6 @@ se eu quiser me inscrever em um curso ou ação, preciso logar em outra conta do
 
 ## Histórico de Versão
 
-| Versão | Alteração                                                      | Responsável     | Revisor | Data       |
-| ------ | -------------------------------------------------------------- | --------------- | ------- | ---------- |
-| 1.0    | Criação e realização do documento                              | Bruno Araújo | -       | 06/05/2024 |
+| Versão | Alteração                         | Responsável     | Revisor         | Data       |
+| ------ | --------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação e realização do documento | Bruno Araújo    | Breno Alexandre | 06/05/2024 |
