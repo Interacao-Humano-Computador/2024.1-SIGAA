@@ -1,6 +1,6 @@
 # Termo de consentimento assinado pelo professor doutor André Barros Sales
 
-**Voltar**: Caso você deseje voltar para a entrevista com o professor Adré clique [aqui](PerfilUsuario/Professores/Entrevistas/Gravacoes/AndreSales.md)
+**Voltar**: Caso você deseje voltar para a entrevista com o professor André clique [aqui](PerfilUsuario/Professores/Entrevistas/Gravacoes/AndreSales.md)
 
 A imagem 1 mostra o termo de consentimento assinado:
 
