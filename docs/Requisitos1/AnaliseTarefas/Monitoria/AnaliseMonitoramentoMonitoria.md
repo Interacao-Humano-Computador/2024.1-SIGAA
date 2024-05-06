@@ -256,4 +256,4 @@ Ao examinar a funcionalidade de monitoramento de monitoria por meio de uma anál
 | - | - | - | - | - |
 | 1.0 | Criação e realização da análise hierárquica| Larissa Stéfane | Breno Alexandre | 30/04/2024 |
 | 1.1 | Execução do GOMS | Larissa Stéfane | Breno Alexandre | 01/05/2024 |
-| 1.2 | Reorganização da estrutura e adição da imagem | Larissa Stéfane | - | 05/05/2024 |
+| 1.2 | Reorganização da estrutura e adição da imagem | Larissa Stéfane | Bruno Araújo | 05/05/2024 |
