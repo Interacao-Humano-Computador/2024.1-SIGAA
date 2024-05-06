@@ -163,6 +163,6 @@ As entrevistas realizadas proporcionaram uma visão detalhada sobre o perfil do 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e elaboração do documento | Larissa Stéfane | Breno Alexandre | 21/04/2024 |
-| 1.1 | Adição de opinião de mais entrevistados | Larissa Stéfane | - | 05/04/2024 |
+| 1.1 | Adição de opinião de mais entrevistados | Larissa Stéfane | Breno Alexandre | 05/04/2024 |
 
 
