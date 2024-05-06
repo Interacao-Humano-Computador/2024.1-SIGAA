@@ -52,9 +52,9 @@ Esta HTA simplifica e esclarece as relações entre as operações dentro da fun
 
 ### GOMS
 
+
 ## Análise de Tarefas
 
-# GOMS (Goals, Operators, Methods and Selection Rules)
 
 ## Introdução
 
@@ -65,6 +65,32 @@ O método GOMS é uma abordagem de análise de tarefas que ajuda a descrever com
 Identificar e descrever as etapas que os usuários seguem para realizar a assinatura e visualização de declarações de bolsistas no SIGAA. Isso ajuda a otimizar a interface do usuário para essas tarefas, melhorando a eficiência e a satisfação do usuário.
 
 ## Tarefas Analisadas
+
+# GOMS para Solicitação de Bolsas
+
+## Definição dos Objetivos
+
+- **Preencher Formulário de Solicitação de Bolsa:** Completar todas as informações necessárias para solicitar uma bolsa.
+- **Submeter Solicitação de Bolsa:** Enviar o formulário preenchido para análise.
+- **Acompanhar o Status da Solicitação:** Verificar o progresso da solicitação no sistema.
+
+## Definição dos Operadores
+
+- **Selecionar:** Escolher o tipo de bolsa desejada.
+- **Inserir:** Preencher informações no formulário de solicitação, incluindo justificativas e documentos necessários.
+- **Enviar:** Submeter o formulário completo.
+- **Consultar:** Buscar o status atual da solicitação.
+- **Exibir:** Mostrar status atual e detalhes da solicitação.
+
+## Definição dos Métodos
+
+- **Preencher e Submeter Formulário:** Selecionar tipo de bolsa, inserir informações necessárias, anexar documentos e enviar para análise.
+- **Acompanhar Solicitação:** Consultar e exibir o status da solicitação após a submissão.
+
+## Definição das Regras de Seleção
+
+- **Escolher Tipo de Bolsa Baseado em Critérios de Elegibilidade:** Selecionar a bolsa mais adequada com base nas necessidades e na elegibilidade do estudante.
+- **Decidir Quando Consultar o Status:** Verificar o status após um período adequado desde a submissão para obter atualizações significativas.
 
 ### Solicitação de bolsas
 
