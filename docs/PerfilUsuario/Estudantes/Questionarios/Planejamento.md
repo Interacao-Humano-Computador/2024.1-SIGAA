@@ -64,6 +64,7 @@ As perguntas realizadas no questionário serão:
 - Graduado
 - Pós-graduando (mestrado)
 - Pós-graduando (doutorado)
+  
 4. **Quais são as suas principais metas acadêmicas?**
 - Obter um diploma
 - Adquirir novas habilidades
@@ -102,6 +103,7 @@ As perguntas realizadas no questionário serão:
 - Ruim
 - Muito Ruim
 - Não sei/não quero responder
+  
 9. **Qual a sua preferência de aprendizado?**
 - Visual
 - Auditivo
@@ -109,6 +111,7 @@ As perguntas realizadas no questionário serão:
 - Outro
 - Não tenho preferência
 - Não sei/não quero responder
+  
 10. **Qual o seu nível de alfabetismo computacional? (Suas habilidades com informática)**
 - Avançado
 - Intermediário
@@ -116,6 +119,7 @@ As perguntas realizadas no questionário serão:
 - Muito Básico
 - Nenhum
 - Não sei/não quero responder
+  
 11. **Como você classifica a sua experiência com jargões acadêmicos e técnicos?**
 - Muito baixa
 - Baixa
@@ -145,6 +149,7 @@ As perguntas realizadas no questionário serão:
 - Pouco disposto
 - Não disposto
 - Não sei/não quero responder
+  
 16. **Com que frequência você acessa o SIGAA?**
 - Diariamente
 - Semanalmente
@@ -192,15 +197,18 @@ As perguntas realizadas no questionário serão:
 - Neutro
 - Insatisfeito(a)
 - Muito insatisfeito(a)
+  
 22. **Você utiliza outras plataformas ou sistemas semelhantes ao SIGAA?**
 - Sim, frequentemente
 - Sim, ocasionalmente
 - Não, apenas o SIGAA
+  
 23. **Você considera que o SIGAA facilita o acesso a informações acadêmicas e administrativas?**
 - Sim, muito
 - Sim, em certa medida
 - Neutro
 - Não, dificulta o acesso
+  
 24. **Como você classificaria a qualidade das informações disponibilizadas no SIGAA?**
 - Excelente
 - Boa
@@ -220,14 +228,15 @@ As perguntas realizadas no questionário serão:
 - Clara, mas poderia ser melhor
 - Neutra, nem boa nem ruim
 - Confusa, mas utilizável
-
 - Muito confusa e desorganizada
+  
 27. **Você acha que as informações apresentadas no SIGAA são suficientemente detalhadas e abrangentes?**
 - Não, as informações são confusas e difíceis de entender
 - Não, as informações são insuficientes e superficiais
 - Neutra, nem suficiente nem insuficiente
 - Sim, mas poderiam ser mais detalhadas em alguns casos
 - Sim, as informações são detalhadas e abrangentes
+  
 28. **O design visual do SIGAA é:**
 - Muito desatualizado e pouco atraente
 - Pouco atraente, mas funcional
@@ -242,12 +251,14 @@ deficiência visual)?**
 - Neutra, nem acessível nem inacessível
 - Acessível na maioria das vezes
 - Muito acessível, oferece recursos adequados de acessibilidade
+  
 30. **Quão fácil é encontrar as funcionalidades específicas que você precisa no SIGAA?**
 - Muito difícil, muitas vezes não encontro o que procuro
 - Difícil, leva tempo para encontrar
 - Neutra, nem fácil nem difícil
 - Fácil na maioria das vezes
 - Muito fácil, sempre encontro rapidamente
+  
 31. **Em quais linguas você consegue se comunicar?**
 - Português
 - Inglês
