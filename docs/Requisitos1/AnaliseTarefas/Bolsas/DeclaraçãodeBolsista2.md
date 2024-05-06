@@ -1,21 +1,29 @@
 # Análise de Tarefas: Declaração de Bolsista
 
 ## Sumário
-*[Introdução](#Introdução)
-*[Objetivos](#Objetivos)
-*[Análise Hierárquica de Tarefas](Análise-Hierárquica-de-Tarefas)
-    * [Análise Contextual](#Análise-Contextual)
-    * [Diagrama de Atividades](#Diagrama-de-Atividades)
-    * [Tabela de Análise](#Tabela-de-Análise)
-*[GOMS](#GOMS)
-    * [Definição dos objetivos(Goals)](#Definição-dos-objetivos)
-    * [Definição dos operadores(Operators)](#Definição-dos-operadores(Operators))
-    * [Definição dos Métodos](#Definição-dos-Métodos )
-    * [Definição das Regras de Seleção](#Definição-das-Regras-de-Seleção)
-    * [Execução do GOMS](#Execução-do-GOMS)
-*[Conclusão](#Conclusão)
-*[Bibliografia](#Bibliografia)
-*[Histórico de versão](#Histórico-de-versão)
+<ul>
+    <li><a href="#Introdução">Introdução</a></li>
+    <li><a href="#Objetivos">Objetivos</a></li>
+    <li><a href="#Análise-Hierárquica-de-Tarefas">Análise Hierárquica de Tarefas</a>
+        <ul>
+            <li><a href="#Análise-Contextual">Análise Contextual</a></li>
+            <li><a href="#Diagrama-de-Atividades">Diagrama de Atividades</a></li>
+            <li><a href="#Tabela-de-Análise">Tabela de Análise</a></li>
+        </ul>
+    </li>
+    <li><a href="#GOMS">GOMS</a>
+        <ul>
+            <li><a href="#Definição-dos-objetivos">Definição dos objetivos (Goals)</a></li>
+            <li><a href="#Definição-dos-operadores">Definição dos operadores (Operators)</a></li>
+            <li><a href="#Definição-dos-Métodos">Definição dos Métodos</a></li>
+            <li><a href="#Definição-das-Regras-de-Seleção">Definição das Regras de Seleção</a></li>
+            <li><a href="#Execução-do-GOMS">Execução do GOMS</a></li>
+        </ul>
+    </li>
+    <li><a href="#Conclusão">Conclusão</a></li>
+    <li><a href="#Bibliografia">Bibliografia</a></li>
+    <li><a href="#Histórico-de-versão">Histórico de versão</a></li>
+</ul>
 
 ## Introdução
 A declaração de bolsista no SIGAA UNB é um recurso fundamental para estudantes que recebem bolsas de estudo na Universidade de Brasília. Essa funcionalidade proporciona aos bolsistas uma maneira eficiente de acessar e gerenciar informações essenciais relacionadas à sua bolsa. Este documento tem como objetivo realizar uma análise detalhada dessa ferramenta, destacando seus principais recursos e funcionalidades, além de identificar possíveis melhorias para aprimorar a experiência dos usuários.
@@ -115,12 +123,14 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
 ## Execução GOMS
 
 Nessa tarefa, o usuário possui o objetivo de acessar a funcionalidade de declaração de bolsista no sistema.
+```
          - GOAL 0: Acessar a funcionalidade de declaração de bolsista.
            - METHOD 0.A: Navegar até a seção "Bolsas".
              - OP. 0.A.1: Clicar na aba "Bolsas".
            - METHOD 0.B: Selecionar a opção "Declaração de Bolsista".
              - OP. 0.B.1: Clicar na opção "Declaração de Bolsista".
              - (SEL. RULE: o usuário deseja realizar ou revisar uma declaração.)
+```
          
 Nessa tarefa, o usuário possui o objetivo de assinar digitalmente a declaração que atesta o não acúmulo indevido de bolsas.
          - GOAL 1: Assinar a declaração de não acúmulo de bolsas.
@@ -131,7 +141,8 @@ Nessa tarefa, o usuário possui o objetivo de assinar digitalmente a declaraçã
            - METHOD 1.C: Submeter a declaração.
              - OP. 1.C.1: Clicar em "Confirmar".
              - (SEL. RULE: o usuário confirma que as informações estão corretas.)
-         
+
+
 Nessa tarefa, o usuário possui o objetivo de revisar declarações de bolsista anteriormente submetidas.
          - GOAL 2: Visualizar assinaturas anteriores.
            - METHOD 2.A: Selecionar "Visualizar Assinaturas".
