@@ -36,7 +36,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 ## Termo de Consentimento
 
 Ao clicar no link, você será encaminhado para uma página que mostra a termo de consentimento assinado 
-Clique em: [Termo de consentimento assinado](...) 
+Clique em: [Termo de consentimento assinado](PerfilUsuario/Estudantes/termos/LeonardoMachado.md) 
 
 
 ## Gravação
