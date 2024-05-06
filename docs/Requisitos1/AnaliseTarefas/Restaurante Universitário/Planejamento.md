@@ -63,7 +63,7 @@ Essa aba terá quatro funcionalidades principais, que incluem:
 
 ## Metodologia
 
-Para analisar o processo das funcionalidades de gerenciamento da canta no RU na perspectiva do estudante, inicialmente, será realizada uma análise e uma compreensão dos objetivos gerais do usuário ao utilizar essas funcionalidades. Assim, esses objetivos serão divididos em subobjetivos mais específicos, que serão então relacionados com as operações concretas que o estudante precisará realizar no SIGAA. Essas operações serão mostradas contextualmente.
+Para analisar o processo das funcionalidades de gerenciamento da conta no RU na perspectiva do estudante, inicialmente, será realizada uma análise e uma compreensão dos objetivos gerais do usuário ao utilizar essas funcionalidades. Assim, esses objetivos serão divididos em subobjetivos mais específicos, que serão então relacionados com as operações concretas que o estudante precisará realizar no SIGAA. Essas operações serão mostradas contextualmente.
 
 Em seguida, para ser contextualizado dentro do fluxo de interação, será elaborado um diagrama, uma vez que ele fornecerá uma visão geral do processo, destacando as inter-relações entre as diferentes tarefas e ajudando a identificar possíveis gargalos ou lacunas no fluxo. Após a elaboração do diagrama, será elaborada uma tabela detalhando cada tarefa conforme o “input”, “feedback”, “plano” e “recomendação”.
 
@@ -72,7 +72,7 @@ Após a realização da análise hierárquica, será realizada a análise por me
 ## Cronograma
 A tabela 1 mostra o cronograma da análise de cada uma das funcionalidades:
 
-Tabela 1: Cronograma
+Tabela 1: Cronograma.
 
 | Atividade                                                                | Data de início | Data de fim |
 | ------------------------------------------------------------------------ | -------------- | ----------- |
@@ -90,3 +90,22 @@ Tabela 1: Cronograma
 
 Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
+## Conclusão
+O planejamento da execução da análise hierárquica de tarefas e da GOMS para a aba de gerenciamento da conta no RU apresenta uma estrutura sólida e abrangente para o desenvolvimento e aprimoramento desta funcionalidade que será criada no sistema do SIGAA.
+
+## Bibliografia
+
+Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. pgs. 177-187.
+
+Projeto BCE. Disponível em: <https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_2/analise_tarefas>. Acesso em 06 de maio de 2024.
+
+Projeto do Banco Central do Brasil. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas>. Acesso em 06 de maio de 2024.
+   
+Projeto Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/>. Acesso em 06 de maio de 2024.
+   
+Projeto Lichess. Disponívem em: <https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/>. Acesso em 06 de maio de 2024.
+
+## Histórico de Versão
+| Versão | Alteração                         | Responsável     | Revisor | Data       |
+| ------ | --------------------------------- | --------------- | ------- | ---------- |
+| 1.0    | Criação e realização do documento | Breno Alexandre | -       | 06/05/2024 |
