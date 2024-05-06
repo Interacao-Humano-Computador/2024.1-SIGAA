@@ -16,7 +16,7 @@
 
 ## Introdução
 
-O perfil do usuário dos estudantes é um aspecto fundamental a ser compreendido em qualquer instituição educacional, pois permite que o atendimento administrativo e, até mesmo, as aulas ministradas, sejam mais eficientes e direcionadas aos estudantes. Com base nisso, neste documento, será apresentada uma análise do perfil dos usuários estudantis adquiridos com as técnicas executadas. Assim, será possível abortar aspectos demográficos, hábitos de estudo, preferências de aprendizagem, tecnologias utilizadas e interesses acadêmicos, entre outros.
+O perfil do usuário dos estudantes é um aspecto fundamental a ser compreendido em qualquer instituição educacional, pois permite que o atendimento administrativo e, até mesmo, as aulas ministradas, sejam mais eficientes e direcionadas aos estudantes. Com base nisso, neste documento, será apresentada uma análise do perfil dos usuários estudantis adquiridos com as técnicas executadas. Assim, será possível abordar aspectos demográficos, hábitos de estudo, preferências de aprendizagem, tecnologias utilizadas e interesses acadêmicos, entre outros.
 
 
 ## Metodologia
