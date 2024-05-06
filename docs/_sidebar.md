@@ -73,9 +73,17 @@
             * Entrevistas Realizadas
               - [Francisco Cesar (Chiquinho)](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md)
               - [Andressa Novais Rodrigues](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Andressa.md)
-* Análise de Tarefas
-  * Monitoria
-    - [Planejamento da Análise](Requisitos1/AnaliseTarefas/Monitoria/Planejamento.md)
-    - [Análise Pedido de Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnálisePedidoMonitoria.md)
-    - [Análise Monitoramento da Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnaliseMonitoramentoMonitoria.md)
-    - [Análise Avaliação de monitores](Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor.md)
+             
+* Análise de Requisitos
+    * Cenários
+      * Monitoria
+        - [Planejamento](Requisitos1/Cenarios/Monitoria/Planejamento.md)
+        - [Cenário pedido monitoria](Requisitos1/Cenarios/Monitoria/PedidoMonitoria.md)
+        - [Cenário monitoramento monitoria](Requisitos1/Cenarios/Monitoria/MonitoramentoMonitoria.md)
+        - [Cenário avaliar monitor](Requisitos1/Cenarios/Monitoria/AvaliarMonitor.md)
+    * Análise de Tarefas
+      * Monitoria
+        - [Planejamento da Análise](Requisitos1/AnaliseTarefas/Monitoria/Planejamento.md)
+        - [Análise Pedido de Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnálisePedidoMonitoria.md)
+        - [Análise Monitoramento da Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnaliseMonitoramentoMonitoria.md)
+        - [Análise Avaliação de monitores](Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor.md)
