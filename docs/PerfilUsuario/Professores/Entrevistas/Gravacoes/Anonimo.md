@@ -1,4 +1,4 @@
-# Entrevista com uma professora anonima
+# Entrevista com uma professora anônima
 ## Sumário
 * [Introdução](#Introdução)
 * [Cronograma](#Cronograma)
