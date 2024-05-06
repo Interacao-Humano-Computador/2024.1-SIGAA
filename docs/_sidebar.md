@@ -108,3 +108,6 @@
       * Bolsas
         - [Análise Declaração de Bolsista](Requisitos1/AnaliseTarefas/Bolsas/DeclaraçãodeBolsista2.md)
         - [Análise Solicitação de Bolsas](Requisitos1/AnaliseTarefas/Bolsas/SolicitaçãodeBolsasHTA.md)
+          
+      * Matrícula
+        - [Análise Realização de Matrícula](Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS.md)
