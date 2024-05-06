@@ -47,7 +47,7 @@ Essa realidade fez Jorge repensar seus planos e avaliar se assumir a responsabil
 
 Com base tanto na narrativa quanto na realidade vivida por diversos estudante, a tabela 2 mostra as questões, resposas e sugestões para os problemas encontrados na narrativa.
 
-**Tabela 2: Questionamento Sistemático
+**Tabela 2**: Questionamento Sistemático
 
 | Situação                                                                                             | Questão                                                                                                         | Resposta                                                                                                          | Sugestão de Solução                                                                                                         |
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
