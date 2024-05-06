@@ -21,15 +21,15 @@ Contando com a participação de 8 estudantes da UnB e usuários do SIGAA, ident
 <p align="center"> Tabela 1. Quadro de participantes </p>
 
 | Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Data |
-|--------|---------------|----------------|----------------|----------------|------------|------------|------------|
-| Caio |  24    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
+|--------|---------------|----------------|----------------|----------------|------------|------------|
+| Caio      |  24    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
 | Ana Clara |  21    |    Boa    | Sim | Feminino | Superior incompleto | 01/05/2024|
-| Óton |  20    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
-| Eduardo |  19    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
-| Janaina |  22    |    Boa    | Sim | Feminino | Superior incompleto | 01/05/2024|
-| Rafael |  21    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
-| Pablo |  20    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
-| Victor |  21    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
+| Óton      |  20    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
+| Eduardo   |  19    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
+| Janaina   |  22    |    Boa    | Sim | Feminino | Superior incompleto | 01/05/2024|
+| Rafael    |  21    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
+| Pablo     |  20    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
+| Victor    |  21    |    Boa    | Sim | Masculino | Superior incompleto | 01/05/2024|
 
 <font size="3"><p style="text-align: center">Fonte: [Iago Passaglia](https://github.com/paxxaglia).</p></font>
 
