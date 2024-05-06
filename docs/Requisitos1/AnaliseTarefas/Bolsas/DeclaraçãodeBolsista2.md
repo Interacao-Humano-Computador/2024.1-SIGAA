@@ -44,32 +44,31 @@ A análise hierárquica de tarefas (HTA) é uma técnica utilizada para desmembr
 
 ## Análise Contextual
 
-O módulo de Declaração de Bolsista no SIGAA permite aos usuários gerenciar declarações relativas a bolsas, incluindo a assinatura de documentos que confirmam o não acúmulo de bolsas e a visualização de declarações previamente assinadas. Este módulo é essencial para garantir a transparência e conformidade com as normativas acadêmicas.
+Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
 
-## Análise Hierárquica de Tarefas para Declaração de Bolsista
+            1. **Acessar o módulo de Declaração de Bolsista**
+               - A partir da interface principal do SIGAA, o usuário deve localizar e acessar a opção específica para declarações de bolsista.
+            
+            2. **Assinar Declaração de Não Acúmulo de Bolsas**
+               - 2.1 Navegar até a seção de assinatura de declarações.
+               - 2.2 Ler e entender os termos da declaração.
+               - 2.3 Assinar eletronicamente a declaração.
+               - 2.4 Submeter a declaração assinada.
+            
+            3. **Visualizar Declarações Assinadas**
+               - 3.1 Navegar até a seção de declarações assinadas.
+               - 3.2 Selecionar uma declaração específica para visualização.
+               - 3.3 Revisar a declaração.
 
-O objetivo principal dessa análise é descrever as tarefas associadas ao acesso e interação com as declarações de bolsista. As seguintes tarefas foram identificadas:
 
-1. **Acessar o módulo de Declaração de Bolsista**
-   - A partir da interface principal do SIGAA, o usuário deve localizar e acessar a opção específica para declarações de bolsista.
-
-2. **Assinar Declaração de Não Acúmulo de Bolsas**
-   - 2.1 Navegar até a seção de assinatura de declarações.
-   - 2.2 Ler e entender os termos da declaração.
-   - 2.3 Assinar eletronicamente a declaração.
-   - 2.4 Submeter a declaração assinada.
-
-3. **Visualizar Declarações Assinadas**
-   - 3.1 Navegar até a seção de declarações assinadas.
-   - 3.2 Selecionar uma declaração específica para visualização.
-   - 3.3 Revisar a declaração.
-
-### Tabela HTA para Declaração de Bolsista
 
 ## Tabela HTA para Declaração de Bolsista
-Nessa tarefa, o usuário tem como objetivo acessar as declarações de bolsista, onde pode assinar ou visualizar declarações relativas ao não acúmulo de bolsas.
+Para facilitar a visualização de tarefas, a imagem 1 mostra o diagrama:
 ![declaração de bolsa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/d897fc92-af4b-4b19-8252-fade79edf978)
 
+
+### Tabela de Análise
+A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcionalidade de pedido de monitoria.
 | Objetivos / Operações                                     | Relações | Problemas e Recomendações                                     |
 |-----------------------------------------------------------|----------|--------------------------------------------------------------|
 | 0. Solicitar bolsas                                       | 1 > 1.1, 1.2, 1.3 |                                                              |
@@ -90,7 +89,7 @@ Nessa tarefa, o usuário tem como objetivo acessar as declarações de bolsista,
 ## Introdução
 O método GOMS é uma abordagem de análise de tarefas que ajuda a descrever como os usuários interagem com um sistema para alcançar seus objetivos. Esta análise se concentra especificamente nas tarefas relacionadas à Declaração de Bolsistas no sistema SIGAA, cobrindo as operações de "Assinar Declaração" e "Visualizar Assinaturas".
 
-## Objetivo da Análise
+## Defiinção dos Objetivos
 Identificar e descrever as etapas que os usuários seguem para realizar a assinatura e visualização de declarações de bolsistas no SIGAA. Isso ajuda a otimizar a interface do usuário para essas tarefas, melhorando a eficiência e a satisfação do usuário.
 
 ## Tarefas Analisadas
@@ -181,4 +180,6 @@ Esta análise GOMS revela áreas chave onde melhorias podem ser feitas para torn
 
 | Versão | Data     | Descrição                           | Autor(es)              | Revisor(es)         |
 | ------ | -------- | ----------------------------------- | ---------------------- | ------------------- |
-| 1.0    | 14/10/23 | Criação do documento | Bruno Araújo | -    |
+| 1.0    | 05/05/2024 | Criação do documento | Bruno Araújo | -    |
+| 1.1 | 06/05/2024 | Reorganização da estrutura e adição da imagem | Bruno Araújo | ------------------- |
+
