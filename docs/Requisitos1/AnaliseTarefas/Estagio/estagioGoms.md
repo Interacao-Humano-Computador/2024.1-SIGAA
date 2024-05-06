@@ -56,6 +56,12 @@ Nesta tarefa, o objetivo do usuário é efetuar o pré-cadastro de um estágio
         OP 2.2: Clicar na opção Visualizar Estágio
 
 
+## Conclusão
+
+A aplicação do método GOMS ao sistema SIGAA, especificamente nas tarefas de pré-cadastro e gerenciamento de estágios, proporcionou uma análise detalhada das ações necessárias para a realização dessas atividades. Através deste método, foi possível identificar cada etapa envolvida, desde o login no sistema até a execução final das tarefas específicas, destacando os operadores e métodos utilizados pelo usuário.
+
+A análise realizada oferece uma visão clara dos processos cognitivos e das interações físicas que os usuários precisam executar, permitindo identificar potenciais áreas de melhoria no design da interface. Por exemplo, a redução do número de cliques necessários e a simplificação dos processos de navegação podem diminuir a carga cognitiva e melhorar a eficiência do usuário na realização de suas tarefas.
+
 ## Bibliografia
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 04 de maio de 2024.
 2. Vários Autores. GOMS. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/goms/#comprar-ingresso/>. Acesso em 04 de maio de 2024.
