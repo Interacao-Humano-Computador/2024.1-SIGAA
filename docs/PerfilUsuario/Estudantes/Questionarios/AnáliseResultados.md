@@ -28,7 +28,7 @@ A tabela 1 mostra o cronograma do processo.
 | Fechamento para respostas| 05/05/2024 | 15:42 |
 
 ## Resultados 
-Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questionário. Ao clicar nas perguntas, os resultados são mostrados.
+Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questionário. Ao clicar nas perguntas, os resultados são mostrados. As figuras de 1 até 61 mostram os gráficos e as porcentagens das respostas.
 
 **Observação:** Nem todas as respostas eram obrigatórias, então, apesar de 118 pessoas terem respondido, algumas perguntas possuem uma quantidade menor de respostas.
 
