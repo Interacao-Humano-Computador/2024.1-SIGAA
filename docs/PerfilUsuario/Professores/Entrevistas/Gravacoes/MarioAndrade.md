@@ -13,6 +13,7 @@
 
 ## Introdução
 
+Este documento tem o objetivo de oferecer uma visão detalhada das percepções e experiências do professor Mário Andrade, com conhecimento focado no campo da engenharia de produção e na engenharia automotiva. Também conhecido por lecionar a disciplina de gestão de produção e qualidade na FGA. Sendo assim, nesta entrevista, o professor Mário Andrade compartilha as suas impressões sobre o Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA), destacando sua interação com a plataforma, os desafios enfrentados e também algumas sugestões para aprimoramento.
 
 ## Cronograma
 
@@ -37,12 +38,23 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 Este link leva ao PDF do termo de consentimento assinado 
 
-Clique em: [Termo de consentimento assinado]() 
+Clique em: [Termo de consentimento assinado](PerfilUsuario/Professores/Entrevistas/Termos/MarioAndrade.md) 
 
 
 ## Gravação
 
-O vídeo 1 mostra a entrevista com o 
+O vídeo 1 mostra a entrevista com o professor Mario
+
+<center> 
+vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com o professor Mario 
+  
+<iframe width="700" height="400" src="https://www.youtube.com/embed/fOBopcf0fJI" title="IHC - Projeto SIGAA - Entrevista com professor Mario." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Fonte**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+
+</center>
+
 
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=fOBopcf0fJI) 
@@ -90,12 +102,14 @@ Outro problema é que, como algumas disciplinas possuem crédito de extensão, �
 
 ### Gostaria de complementar a entrevista com algo a mais?
 É necessário focar na questão do treinamento e verificar como os professores podem utilizar mais a ferramenta em sua totalidade.
+
 ## Conclusão
 
-
+Ao longo da entrevista com o professor, foram exploradas suas experiências e perspectivas em relação ao SIGAA. Desse modo, as suas reflexões ofereceram uma compreensão mais profunda dos desafios enfrentados pelos educadores no uso dessa plataforma, bem como das oportunidades para melhorias futuras.
 
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 21/04/2024 |
+| 1.1 | Correção da introdução e da conclusão | Larissa Stéfane | - | 05/05/2024 |
