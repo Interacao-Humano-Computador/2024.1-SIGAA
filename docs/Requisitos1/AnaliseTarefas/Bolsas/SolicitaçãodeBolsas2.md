@@ -30,25 +30,25 @@ A análise de tarefas consiste em desmembrar as atividades dos usuários em elem
 
 Como há um conjunto de tarefas a serem realizadas, abaixo está a análise contextual e hierárquica utilizada.
 
-         Acessar o módulo de Solicitação de Bolsas
-         A partir da interface principal do SIGAA, o usuário deve localizar e acessar a opção "Solicitação de Bolsas" dentro do menu correspondente.
-         Selecionar a opção "Solicitação de Bolsa Auxílio"
-         2.1 Clicar na opção para abrir o formulário de solicitação.
-         2.2 Ler as condições do edital disponíveis para entender os critérios e requisitos necessários.
-         Escolher a opção de bolsa desejada
-         3.1 Analisar as diferentes opções de bolsas oferecidas e selecionar a que melhor se adequa às necessidades do estudante.
-         Preencher os campos requeridos no formulário
-         4.1 Inserir todas as informações necessárias conforme solicitado no formulário.
-         4.2 Justificar a necessidade da bolsa e anexar documentos comprobatórios.
-         4.3 Submeter o formulário para análise.
-         Acompanhar a Solicitação de Bolsas Auxílios
-         5.1 Voltar ao módulo de solicitação de bolsas para verificar o status da solicitação.
-         5.2 Analisar o feedback recebido e tomar ações conforme necessário.
-         Renovar Bolsa Auxílio
-         6.1 Clicar na opção "Renovar Bolsa Auxílio".
-         6.2 Conferir os dados cadastrais e atualizar se necessário.
-         6.3 Preencher o questionário de renovação e anexar documentos adicionais se requeridos.
-         6.4 Confirmar a submissão da renovação da bolsa.
+         1.Acessar o módulo de Solicitação de Bolsas
+           1.1A partir da interface principal do SIGAA, o usuário deve localizar e acessar a opção "Solicitação de Bolsas" dentro do menu correspondente.
+         2.Selecionar a opção "Solicitação de Bolsa Auxílio"
+           2.1 Clicar na opção para abrir o formulário de solicitação.
+           2.2 Ler as condições do edital disponíveis para entender os critérios e requisitos necessários.
+         3.Escolher a opção de bolsa desejada
+           3.1 Analisar as diferentes opções de bolsas oferecidas e selecionar a que melhor se adequa às necessidades do estudante.
+         4.Preencher os campos requeridos no formulário
+           4.1 Inserir todas as informações necessárias conforme solicitado no formulário.
+           4.2 Justificar a necessidade da bolsa e anexar documentos comprobatórios.
+           4.3 Submeter o formulário para análise.
+         5.Acompanhar a Solicitação de Bolsas Auxílios
+           5.1 Voltar ao módulo de solicitação de bolsas para verificar o status da solicitação.
+           5.2 Analisar o feedback recebido e tomar ações conforme necessário.
+         6.Renovar Bolsa Auxílio
+           6.1 Clicar na opção "Renovar Bolsa Auxílio".
+           6.2 Conferir os dados cadastrais e atualizar se necessário.
+           6.3 Preencher o questionário de renovação e anexar documentos adicionais se requeridos.
+           6.4 Confirmar a submissão da renovação da bolsa.
 
 #### Tabela: HTA para Solicitação de Bolsas
 Para facilitar a visualização de tarefas, a imagem 1 mostra o diagrama:
