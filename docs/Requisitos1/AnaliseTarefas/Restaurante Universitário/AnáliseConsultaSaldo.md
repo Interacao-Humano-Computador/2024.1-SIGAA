@@ -53,11 +53,11 @@ Para facilitar a visualização das tarefas, a figura 1 mostra o diagrama:
  <div align="center">
     Figura 1: Diagrama HTA da Consulta de Saldo
     <br>
-    <img src="">
+    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAconsultaSaldo.png">
     <br>
      Fonte: Breno Alexandre
     <br>
 </div>
 
 Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em 
-[Diagrama HTA do Pedido de Monitoria.]()
+[Diagrama HTA do Pedido de Monitoria.](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAconsultaSaldo.png)
