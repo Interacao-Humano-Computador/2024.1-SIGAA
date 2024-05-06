@@ -37,9 +37,12 @@
     * Professores
     * Estudantes
         * Questionário
+            - [Planejamento](PerfilUsuario/Estudantes/Questionarios/Planejamento.md)
+            - [Resultados](PerfilUsuario/Estudantes/Questionarios/AnáliseResultados.md)
         * Entrevistas
             - [Planejamento](PerfilUsuario/Estudantes/Entrevistas/PlanejamentoEntrevista.md)
             * Entrevistas Realizadas
+                - [Especial: Cecília Alves](PerfilUsuario/Estudantes/Entrevistas/Gravacao/CeciliaAlves.md)
                 - [Ana Clara](PerfilUsuario/Estudantes/Entrevistas/Gravacao/AnaClara.md)
                 - [Bruno Bomfim](PerfilUsuario/Estudantes/Entrevistas/Gravacao/BrunoMartins.md)
                 - [Caio Braga](PerfilUsuario/Estudantes/Entrevistas/Gravacao/CaioBraga.md)
@@ -48,7 +51,9 @@
                 - [Gabriel Rodrigo](PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielRodrigo.md)
                 - [Isaque Santos](PerfilUsuario/Estudantes/Entrevistas/Gravacao/IsaqueSantos.md)
                 - [Lavínia Inácia](PerfilUsuario/Estudantes/Entrevistas/Gravacao/LavíniaInácia.md)
-          -  Análise dos resultados
+                - [Leonardo Machado](PerfilUsuario/Estudantes/Entrevistas/Gravacao/Leonardo.md)
+                - [Rodrigo Vaz](PerfilUsuario/Estudantes/Entrevistas/Gravacao/RodrigoVaz.md)
+          -  [Análise dos resultados](PerfilUsuario/Estudantes/Entrevistas/ResultadoEntrevista.md)
       * Brainstorming
       * Estudo de Campo
       * Classificação de Cartões  
