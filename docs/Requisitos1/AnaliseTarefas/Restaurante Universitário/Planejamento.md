@@ -10,7 +10,7 @@
 
 ## Introdução
 Durante as entrevistas com os estudantes e a entrevista de [brainstorm](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/IdentificacaoNecessidadesUsuario/ExecBrainstorm.md), 
-um assunto discutido foi a necessidade de se ter uma funcionalidade destinada aos assuntos do Restaurante Universitário, uma vez que ela quase não está presente no SIGAA. 
+foi também debatido a necessidade de se ter uma funcionalidade sobre o Restaurante Universitário, pois ela quase não está presente no SIGAA. 
 Dá no máximo para ver o extrato no RU dos últimos sete dias. A imagem 1 mostra que não há o RU na aba de funcionalidades:
 
 <div align="center">
@@ -37,19 +37,11 @@ A imagem 2 mostra que até há a possibilidade de consulta de extrato no RU.
 
 ##  
 
-Deste modo, este documento tem o intuito de realizar um planejamento da análise das tarefas envolvidas no processo de consulta de saldo, recarga de crédito, consulta de cardápio da semana
-e pesquisa de satisfação do DRU na perspectiva do estudante ao se utilizar o SIGAA.
+Este documento visa planejar a análise das tarefas que compõem o processo de verificação de saldo, recarga de créditos, visualização do cardápio semanal e realização de pesquisas de satisfação do DRU, tudo sob a ótica do estudante que utiliza o SIGAA.
 
-Com base nisso, para criar a área de gerenciamento da conta no RU, será necessário garantir a eficiência e eficácia na usabilidade do sistema. 
-Por isso, a análise de tarefas adotada nesta fase segue uma abordagem hierárquica, conhecida como Análise Hierárquica de Tarefas (HTA), que permite uma representação sistemática das atividades 
-em etapas menores e mais gerenciáveis. Com isso, ao decompor as metas dos estudantes em submetas e tarefas específicas, será possível identificar os pontos de entrada no sistema, as operações 
-realizadas pelos usuários e os resultados esperados, algo que será apresentado nos documentos da execução da análise.
+Para estabelecer a seção de gerenciamento de contas no RU, é essencial assegurar que o sistema seja tanto eficiente quanto eficaz em termos de usabilidade. Neste contexto, a análise de tarefas emprega uma metodologia hierárquica, a Análise Hierárquica de Tarefas (HTA), que facilita a representação ordenada das atividades em fases mais simples e controláveis. Ao fragmentar os objetivos dos estudantes em subobjetivos e tarefas detalhadas, é possível mapear os pontos de interação com o sistema, as ações dos usuários e os resultados almejados, detalhes que serão elucidados nos documentos de análise.
 
-Além disso, a análise de tarefas para as funcionalidades presentes na aba do RU será conduzida utilizando o método GOMS (Goals, Operators, Methods, e Selection Rules). 
-Esse método é uma abordagem de avaliação de usabilidade que se concentra na compreensão de como os usuários interagem com um sistema para atingir seus objetivos. 
-Com isso, o "Goals" (objetivos) referem-se aos resultados desejados pelos usuários, "Operators" (operadores) são ações mentais e físicas realizadas para alcançar esses objetivos, 
-"Methods" (métodos) são as sequências de operadores necessárias para concluir uma tarefa e "Selection Rules" (regras de seleção) determinam como os usuários escolhem entre métodos alternativos. 
-Ao aplicar o método GOMS, é possível identificar pontos de otimização e simplificação nas tarefas de gerenciamento da conta no RU.
+Adicionalmente, a avaliação das tarefas associadas às funcionalidades da seção do RU será feita por meio do método GOMS (Goals, Operators, Methods e Selection Rules). Esta técnica de avaliação de usabilidade foca em entender como os usuários navegam pelo sistema para alcançar suas metas. Assim, “Goals” (Metas) dizem respeito aos resultados que os usuários pretendem obter, “Operators” (Operadores) são as ações mentais e físicas executadas para atingir essas metas, “Methods” (Métodos) são as sequências de operadores necessárias para completar uma tarefa e “Selection Rules” (Regras de Seleção) guiam os usuários na escolha entre diferentes métodos disponíveis. A implementação do método GOMS permite identificar áreas para otimização e simplificação no gerenciamento de contas do RU.
 
 ## A Funcionalidade de Gerenciamento da conta no Restaurante Universitário
 A aba de gerenciamento da conta no RU no sistema do SIGAA será concebida com o objetivo de agilizar os processos de consulta do saldo e do cárdapio, além deixar mais prático o ato de recarga.
@@ -62,12 +54,12 @@ Essa aba terá quatro funcionalidades principais, que incluem:
 - Pesquisa de satisfação do DRU.
 
 ## Metodologia
+Para avaliar o processo das funcionalidades de administração de contas no RU do ponto de vista do aluno, começaremos por entender e decompor os objetivos gerais dos usuários ao empregar essas funções. Estes serão então segmentados em subobjetivos mais detalhados, que se alinharão com as ações específicas que os alunos devem executar no SIGAA, apresentadas de forma contextual.
 
-Para analisar o processo das funcionalidades de gerenciamento da conta no RU na perspectiva do estudante, inicialmente, será realizada uma análise e uma compreensão dos objetivos gerais do usuário ao utilizar essas funcionalidades. Assim, esses objetivos serão divididos em subobjetivos mais específicos, que serão então relacionados com as operações concretas que o estudante precisará realizar no SIGAA. Essas operações serão mostradas contextualmente.
+Posteriormente, um diagrama será desenvolvido para se integrar ao fluxo de interação, oferecendo um panorama do processo e evidenciando as conexões entre as diversas tarefas, além de auxiliar na identificação de possíveis pontos críticos ou deficiências no fluxo. Com o diagrama pronto, uma tabela será criada para detalhar cada tarefa, incluindo “input”, “feedback”, “plano” e “recomendação”.
 
-Em seguida, para ser contextualizado dentro do fluxo de interação, será elaborado um diagrama, uma vez que ele fornecerá uma visão geral do processo, destacando as inter-relações entre as diferentes tarefas e ajudando a identificar possíveis gargalos ou lacunas no fluxo. Após a elaboração do diagrama, será elaborada uma tabela detalhando cada tarefa conforme o “input”, “feedback”, “plano” e “recomendação”.
+Concluída a análise hierárquica, passaremos à análise GOMS das atividades. Isso envolverá uma nova revisão do escopo da tarefa e seus objetivos, seguida pela definição de métodos e operações. Esse procedimento tem como meta assegurar uma avaliação mais exata das tarefas.
 
-Após a realização da análise hierárquica, será realizada a análise por meio do GOMS para as atividades. Para isso, será mais uma vez revisado o escopo da tarefa com os seus objetivos, então serão definidos os seus métodos e operações. Com isso, este processo visa garantir uma análise mais precisa das tarefas.
 
 ## Cronograma
 A tabela 1 mostra o cronograma da análise de cada uma das funcionalidades:
@@ -91,7 +83,7 @@ Tabela 1: Cronograma.
 Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
 ## Conclusão
-O planejamento da execução da análise hierárquica de tarefas e da GOMS para a aba de gerenciamento da conta no RU apresenta uma estrutura sólida e abrangente para o desenvolvimento e aprimoramento desta funcionalidade que será criada no sistema do SIGAA.
+A estruturação do plano para realizar a análise hierárquica de tarefas e a metodologia GOMS na seção de gerenciamento de contas do RU constitui uma base robusta e completa, que orientará o desenvolvimento e o refinamento dessa nova funcionalidade no sistema SIGAA.
 
 ## Bibliografia
 
@@ -106,6 +98,6 @@ Projeto Domínio Público. Disponível em: <https://interacao-humano-computador.
 Projeto Lichess. Disponívem em: <https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/>. Acesso em 06 de maio de 2024.
 
 ## Histórico de Versão
-| Versão | Alteração                         | Responsável     | Revisor | Data       |
-| ------ | --------------------------------- | --------------- | ------- | ---------- |
+| Versão | Alteração                         | Responsável     | Revisor          | Data       |
+| ------ | --------------------------------- | --------------- | ---------------- | ---------- |
 | 1.0    | Criação e realização do documento | Breno Alexandre | Larissa Stéfane  | 06/05/2024 |
