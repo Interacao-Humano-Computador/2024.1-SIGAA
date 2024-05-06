@@ -44,7 +44,9 @@ As perguntas realizadas no questionário serão:
 <details>
   <summary size="20"><b> Perguntas do Questionário para Estudantes </b></summary> 
   
+  
 1. **Qual é a sua faixa etária?**
+   
 - Menos de 18 anos
 - 18-25 anos
 - 26-35 anos
