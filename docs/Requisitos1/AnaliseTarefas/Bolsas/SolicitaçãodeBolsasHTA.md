@@ -66,30 +66,41 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
 
 ## Tarefas Analisadas
 
-### Declaração de Bolsistas
+### Solicitação de bolsas
 
-#### 1. Assinar Declaração
-- **Goal**: Acessar e completar o formulário de assinatura de declaração de bolsista.
-- **Operators**:
-  - Navegar até a seção "Declaração de Bolsistas"
-  - Selecionar "Assinar Declaração"
-  - Preencher o formulário
-  - Submeter o formulário
-- **Methods**:
-  - Usar a interface do sistema para navegar, selecionar e preencher as informações necessárias.
-- **Selection Rules**:
-  - Se o usuário precisa revisar a declaração antes de submeter, revisar o texto antes de finalizar o envio.
+Nessa tarefa, o usuário possui 3 opções objetivos relacionados à solicitação de bolsas.
 
-#### 2. Visualizar Assinaturas
-- **Goal**: Acessar e revisar as assinaturas de declarações realizadas anteriormente.
-- **Operators**:
-  - Navegar até a seção "Declaração de Bolsistas"
-  - Selecionar "Visualizar Assinaturas"
-  - Visualizar os documentos assinados
-- **Methods**:
-  - Usar a interface do sistema para localizar e revisar documentos específicos.
-- **Selection Rules**:
-  - Se o usuário busca uma declaração específica, usar filtros para facilitar a busca.
+## Solicitação de Bolsa Auxílio
+
+Nessa tarefa, o usuário possui objetivos relacionados à solicitação de bolsas auxílio.
+
+         GOAL 0: Acessar a opção Bolsas
+         METHOD 0:
+         OP 0: Navegar até a seção "Bolsas" usando o menu principal.
+         GOAL 1: Solicitar bolsa auxílio
+         METHOD 1:
+         OP 1: Selecionar "Solicitação de Bolsa - Solicitação de Bolsa Auxílio" no menu de bolsas.
+         OP 2: Preencher e enviar o formulário de solicitação de bolsa auxílio, incluindo a seleção da bolsa desejada e anexar documentação necessária.
+
+## Acompanhar Solicitação de Bolsa Auxílio
+         GOAL 0: Acessar a opção Bolsas
+         METHOD 0:
+         OP 0: Navegar até a seção "Bolsas" usando o menu principal.
+         GOAL 1: Acompanhar a solicitação de bolsa auxílio
+         METHOD 1:
+         OP 1: Selecionar "Acompanhar Solicitação de Bolsas Auxílios" no menu de bolsas.
+         OP 2: Verificar o status da solicitação na interface que lista as solicitações feitas.
+
+## Renovar Bolsa Auxílio
+
+         GOAL 0: Acessar a opção Bolsas
+         METHOD 0:
+         OP 0: Navegar até a seção "Bolsas" usando o menu principal.
+         GOAL 1: Renovar bolsa auxílio
+         METHOD 1:
+         OP 1: Selecionar "Renovar Bolsa Auxílio" no menu de bolsas.
+         OP 2: Completar o formulário de renovação da bolsa, escolhendo o meio de transporte e preenchendo a justificativa de renovação.
+         OP 3: Submeter a solicitação de renovação.
 
 ## Conclusão
 
