@@ -70,6 +70,27 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
 
 ## Tarefas Analisadas
 
+## Execução GOMS
+
+## Acessar a opção Bolsas  
+         METHOD 0:
+         - OP 0: Navegar até a seção "Bolsas" usando o menu principal.
+         
+         **GOAL 1: Assinar declaração de não acúmulo de bolsas**  
+         **METHOD 1:**  
+         - OP 1: Selecionar "Declaração de Bolsista" no menu de bolsas.
+         - OP 2: Clicar em "Assinar Declaração".
+         - OP 3: Confirmar identidade inserindo a data de nascimento e senha.
+         - OP 4: Submeter a declaração e verificar a mensagem de sucesso.
+         
+         **GOAL 2: Visualizar declarações assinadas**  
+         **METHOD 2:**  
+         - OP 1: Selecionar "Declaração de Bolsista" no menu de bolsas.
+         - OP 2: Clicar em "Visualizar Assinaturas".
+         - OP 3: Revisar a lista de declarações assinadas.
+
+
+
 ### Declaração de Bolsistas
 
 #### 1. Assinar Declaração
