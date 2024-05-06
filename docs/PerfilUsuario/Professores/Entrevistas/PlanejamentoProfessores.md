@@ -1,4 +1,4 @@
-# Planejamento Entrevistas Professores
+# Planejamento Entrevistas com Professores
 
 ## Sumário
 * [Introdução](#Introdução)
