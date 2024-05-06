@@ -127,3 +127,6 @@
         - [Análise Avaliação de monitores](Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor.md)
 
       * Restaurante Universitário
+        - [Planejamento](Requisitos1/AnaliseTarefas/Restaurante_Universitário/Planejamento.md)
+        - [Planejamento](Requisitos1/AnaliseTarefas/Restaurante_Universitário/AnáliseConsultaSaldo.md)
+
