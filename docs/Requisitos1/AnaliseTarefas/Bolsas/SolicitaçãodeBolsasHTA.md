@@ -55,6 +55,57 @@ Esta HTA simplifica e esclarece as relações entre as operações dentro da fun
 
 ## Análise de Tarefas
 
+# GOMS (Goals, Operators, Methods and Selection Rules)
+
+## Introdução
+
+O método GOMS é uma abordagem de análise de tarefas que ajuda a descrever como os usuários interagem com um sistema para alcançar seus objetivos. Esta análise se concentra especificamente nas tarefas relacionadas à declaração de bolsistas no sistema SIGAA, cobrindo as operações de "Assinar Declaração" e "Visualizar Assinaturas".
+
+## Objetivo da Análise
+
+Identificar e descrever as etapas que os usuários seguem para realizar a assinatura e visualização de declarações de bolsistas no SIGAA. Isso ajuda a otimizar a interface do usuário para essas tarefas, melhorando a eficiência e a satisfação do usuário.
+
+## Tarefas Analisadas
+
+### Declaração de Bolsistas
+
+#### 1. Assinar Declaração
+- **Goal**: Acessar e completar o formulário de assinatura de declaração de bolsista.
+- **Operators**:
+  - Navegar até a seção "Declaração de Bolsistas"
+  - Selecionar "Assinar Declaração"
+  - Preencher o formulário
+  - Submeter o formulário
+- **Methods**:
+  - Usar a interface do sistema para navegar, selecionar e preencher as informações necessárias.
+- **Selection Rules**:
+  - Se o usuário precisa revisar a declaração antes de submeter, revisar o texto antes de finalizar o envio.
+
+#### 2. Visualizar Assinaturas
+- **Goal**: Acessar e revisar as assinaturas de declarações realizadas anteriormente.
+- **Operators**:
+  - Navegar até a seção "Declaração de Bolsistas"
+  - Selecionar "Visualizar Assinaturas"
+  - Visualizar os documentos assinados
+- **Methods**:
+  - Usar a interface do sistema para localizar e revisar documentos específicos.
+- **Selection Rules**:
+  - Se o usuário busca uma declaração específica, usar filtros para facilitar a busca.
+
+## Conclusão
+
+Esta análise GOMS revela áreas chave onde melhorias podem ser feitas para tornar a experiência do usuário mais eficiente e agradável. Otimizar os formulários e a navegabilidade pode reduzir erros e aumentar a satisfação dos usuários ao interagir com o sistema SIGAA.
+
+## Bibliografia
+
+- BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+## Histórico de Versão
+
+| Versão | Data     | Descrição                           | Autor(es)              | Revisor(es)         |
+| ------ | -------- | ----------------------------------- | ---------------------- | ------------------- |
+| 1.0    | 14/10/23 | Criação do documento GOMS para SIGAA | Seu Nome ou Identidade | Nome do Revisor     |
+
 
 
 ## Bibliografia
