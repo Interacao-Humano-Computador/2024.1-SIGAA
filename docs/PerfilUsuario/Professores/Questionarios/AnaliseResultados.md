@@ -25,10 +25,10 @@ Diante da baixa participação, os membros do grupo adotaram uma abordagem mais 
 | - | - | - |
 | Criação do questionário| 16/04/2024 | 23:40 |
 | Abertura ao público | 19/04/2024 | 16:00 |
-| Fechamento para respostas| 05/05/2024 | 15:42 |
+| Fechamento para respostas| 05/05/2024 | 15:45 |
 
 ## Resultados 
-Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questionário. Ao clicar nas perguntas, os resultados são mostrados. As figuras de 1 até 61 mostram os gráficos e as porcentagens das respostas.
+Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questionário. Ao clicar nas perguntas, os resultados são mostrados. As figuras de 1 até 65 mostram os gráficos e as porcentagens das respostas.
 
 **Observação:** Nem todas as respostas eram obrigatórias, então, apesar de 118 pessoas terem respondido, algumas perguntas possuem uma quantidade menor de respostas.
 
@@ -38,7 +38,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 1: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes1.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -47,7 +47,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 2: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes1.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -60,7 +60,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 3: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes2.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -69,7 +69,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 4: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes2.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -84,7 +84,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 5: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes3.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -93,7 +93,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 6: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes3.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -108,7 +108,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 7: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes4.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -117,7 +117,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 8: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes4.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -131,7 +131,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 9: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes5.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -140,7 +140,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 10: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes5.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -156,7 +156,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 11: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes6.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -165,7 +165,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 12: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes6.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -179,7 +179,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 13: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes7.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -188,7 +188,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 14: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes7.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -203,7 +203,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 15: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes8.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -212,7 +212,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 16: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes8.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -229,7 +229,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 17: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes9.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -238,7 +238,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 18: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes9.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -254,7 +254,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 19: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes10.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -263,7 +263,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 20: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes10.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -279,7 +279,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 21: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes11.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -288,7 +288,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 22: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes11.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -303,7 +303,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 23: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes12.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -312,7 +312,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 24: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes12.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -328,7 +328,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 25: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes13.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -337,7 +337,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 26: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes13.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -353,7 +353,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 27: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes14.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -362,11 +362,23 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 28: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes14.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
 </div>
+
+**As instiuições que os professores já lecionaram são**: 
+
+- Universidade Católica de Brasília;
+- UNICEUB;
+- USP, Unesp
+- UTFPR;
+- UFS;
+- UNESC;
+- IESB;
+- Instituto Líbano;
+- UNOPAR;
 
 
   </details>
@@ -377,7 +389,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 29: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes15.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -386,7 +398,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 30: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes15.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -402,7 +414,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 31: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes16.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -411,7 +423,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 32: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes16.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -428,7 +440,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 33: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes17.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -437,7 +449,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 34: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes17.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -453,7 +465,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 35: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes18.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -462,7 +474,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 36: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes18.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -477,7 +489,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 37: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes19.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -486,7 +498,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 38: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes19.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -501,7 +513,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   <div align="center">
     Figura 39: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes20.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -510,7 +522,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 40: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes20.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -524,7 +536,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   <div align="center">
     Figura 41: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes21.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -533,7 +545,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 42: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes21.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -546,7 +558,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
  <div align="center">
     Figura 43: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes23.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -555,7 +567,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 44: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes22.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -569,7 +581,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 45: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes24.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -578,7 +590,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 46: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes23.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -593,7 +605,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 47: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes25.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -602,7 +614,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 48: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes24.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -617,7 +629,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 49: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes26.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -626,7 +638,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 50: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes25.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -641,7 +653,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 51: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes27.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -650,7 +662,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 52: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes26.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -665,7 +677,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 53: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes28.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -674,7 +686,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 54: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes27.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -691,7 +703,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 55: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes29.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -700,7 +712,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 56: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes28.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -717,7 +729,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 57: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes30.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -726,7 +738,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 58: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes29.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -742,7 +754,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 59: Porcentagem da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes31.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -751,7 +763,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 60: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes30.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -767,7 +779,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 61: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes32.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -776,7 +788,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 <div align="center">
     Figura 62: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes31.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -788,24 +800,17 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   <details>
   <summary size="20"><b> Pergunta 32: Em quais linguas você consegue se comunicar? </b></summary> 
 
+**Observação:** Como as respostas não eram obrigatórias, têm se a opção do "português" com o intúito de saber quantos responderam essa pergunta, por exemplo 13 responderam essa pergunta, desses, 13 falam ingês fluentemente. 
 
 <div align="center">
     Figura 63: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes32.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
 </div>
 
-<div align="center">
-    Figura 64: Gráfico da resposta.
-    <br>
-    <img src="">
-    <br>
-     Fonte: Larissa Stéfane
-    <br>
-</div>
 
 </details>
 
@@ -814,9 +819,9 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
 
 <div align="center">
-    Figura 65: Gráfico da resposta.
+    Figura 64: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes33.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -829,9 +834,9 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
 
 <div align="center">
-    Figura 66: Gráfico da resposta.
+    Figura 65: Gráfico da resposta.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes34.png">
     <br>
      Fonte: Larissa Stéfane
     <br>
