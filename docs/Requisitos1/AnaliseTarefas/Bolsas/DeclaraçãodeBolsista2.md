@@ -116,28 +116,31 @@ Identificar e descrever as etapas que os usuários seguem para realizar a assina
 
 ## Execução GOMS
 
-      ## GOMS para "Declaração de Bolsista"
-      
-      ### GOAL 0: Acessar a funcionalidade de declaração de bolsista
-      - METHOD 0.A: Navegar até a seção "Bolsas"
-        - OP. 0.A.1: Clicar na aba "Bolsas"
-      - METHOD 0.B: Selecionar a opção "Declaração de Bolsista"
-        - OP. 0.B.1: Clicar na opção "Declaração de Bolsista"
-        - (SEL. RULE: o usuário deseja realizar ou revisar uma declaração)
-      
-      ### GOAL 1: Assinar a declaração de não acúmulo de bolsas
-      - METHOD 1.A: Ler as instruções na tela
-        - OP. 1.A.1: Ler informações apresentadas na tela
-      - METHOD 1.B: Inserir dados pessoais e senha
-        - OP. 1.B.1: Inserir informações nos campos apropriados
-      - METHOD 1.C: Submeter a declaração
-        - OP. 1.C.1: Clicar em "Confirmar"
-        - (SEL. RULE: o usuário confirma que as informações estão corretas)
-      
-      ### GOAL 2: Visualizar assinaturas anteriores
-      - METHOD 2.A: Selecionar "Visualizar Assinaturas"
-        - OP. 2.A.1: Clicar na opção "Visualizar Assinaturas"
-        - (SEL. RULE: o usuário deseja verificar declarações previamente submetidas)
+## GOMS para "Declaração de Bolsista"
+
+### Nessa tarefa, o usuário possui o objetivo de acessar a funcionalidade de declaração de bolsista no sistema.
+         - GOAL 0: Acessar a funcionalidade de declaração de bolsista.
+           - METHOD 0.A: Navegar até a seção "Bolsas".
+             - OP. 0.A.1: Clicar na aba "Bolsas".
+           - METHOD 0.B: Selecionar a opção "Declaração de Bolsista".
+             - OP. 0.B.1: Clicar na opção "Declaração de Bolsista".
+             - (SEL. RULE: o usuário deseja realizar ou revisar uma declaração.)
+         
+         ### Nessa tarefa, o usuário possui o objetivo de assinar digitalmente a declaração que atesta o não acúmulo indevido de bolsas.
+         - GOAL 1: Assinar a declaração de não acúmulo de bolsas.
+           - METHOD 1.A: Ler as instruções na tela.
+             - OP. 1.A.1: Ler informações apresentadas na tela.
+           - METHOD 1.B: Inserir dados pessoais e senha.
+             - OP. 1.B.1: Inserir informações nos campos apropriados.
+           - METHOD 1.C: Submeter a declaração.
+             - OP. 1.C.1: Clicar em "Confirmar".
+             - (SEL. RULE: o usuário confirma que as informações estão corretas.)
+         
+         ### Nessa tarefa, o usuário possui o objetivo de revisar declarações de bolsista anteriormente submetidas.
+         - GOAL 2: Visualizar assinaturas anteriores.
+           - METHOD 2.A: Selecionar "Visualizar Assinaturas".
+             - OP. 2.A.1: Clicar na opção "Visualizar Assinaturas".
+             - (SEL. RULE: o usuário deseja verificar declarações previamente submetidas.)
 
 ## Conclusão
 
