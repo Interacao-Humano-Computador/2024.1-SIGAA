@@ -1,20 +1,20 @@
 # Análise de Tarefas: Solicitação de Bolsas
 ## Sumário
-* [Introdução](#Introdução)
-* [Objetivos](#Objetivos)
-* [Análise Hierárquica de Tarefas](Análise-Hierárquica-de-Tarefas)
+*[Introdução](#Introdução)
+*[Objetivos](#Objetivos)
+*[Análise Hierárquica de Tarefas](Análise-Hierárquica-de-Tarefas)
     * [Análise Contextual](#Análise-Contextual)
     * [Diagrama de Atividades](#Diagrama-de-Atividades)
     * [Tabela de Análise](#Tabela-de-Análise)
-* [GOMS](#GOMS)
+*[GOMS](#GOMS)
     * [Definição dos objetivos(Goals)](#Definição-dos-objetivos)
     * [Definição dos operadores(Operators)](#Definição-dos-operadores(Operators))
     * [Definição dos Métodos](#Definição-dos-Métodos )
     * [Definição das Regras de Seleção](#Definição-das-Regras-de-Seleção)
     * [Execução do GOMS](#Execução-do-GOMS)
-* [Conclusão](#Conclusão)
-* [Bibliografia](#Bibliografia)
-* [Histórico de versão](#Histórico-de-versão)
+*[Conclusão](#Conclusão)
+*[Bibliografia](#Bibliografia)
+*[Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
 
@@ -34,7 +34,6 @@ A funcionalidade de solicitação de bolsa no SIGAA UNB tem como objetivo atende
 A análise de tarefas consiste em desmembrar as atividades dos usuários em elementos menores, denominados tarefas, que estão inseridas em um sistema ou interface. Essa abordagem visa simplificar tarefas complexas, dividindo-as em objetivos, subobjetivos e operações, e estabelecendo um plano para determinar a sequência adequada de realização desses subobjetivos. Abaixo, serão fornecidos detalhes sobre a análise contextual, o diagrama e a tabela que ilustram esse processo.
 
 ### Análise Contextual
-
 Como há um conjunto de tarefas a serem realizadas, há baixo há a análise contextual e hierárquica utilizada.
 
 # Análise Hierárquica de Tarefas (HTA) para Solicitação de Bolsas no SIGAA
@@ -55,7 +54,7 @@ Esta HTA simplifica e esclarece as relações entre as operações dentro da fun
 
 ## GOMS para "Solicitação de Bolsas"
 
-### Nessa tarefa, o usuário possui o objetivo de preencher e submeter um formulário para solicitar uma bolsa de auxílio.
+Nessa tarefa, o usuário possui o objetivo de preencher e submeter um formulário para solicitar uma bolsa de auxílio.
          - GOAL 0: Solicitar uma bolsa de auxílio.
            - METHOD 0.A: Selecionar "Solicitação de Bolsa - Solicitação de Bolsa Auxílio".
              - OP. 0.A.1: Clicar na opção "Solicitação de Bolsa Auxílio".
@@ -64,14 +63,14 @@ Esta HTA simplifica e esclarece as relações entre as operações dentro da fun
            - METHOD 0.C: Submeter o formulário.
              - OP. 0.C.1: Clicar em "Continuar".
              - (SEL. RULE: o usuário preencheu todas as informações necessárias e deseja prosseguir.)
-         
-         ### Nessa tarefa, o usuário possui o objetivo de verificar o status atual de suas solicitações de bolsa auxílio.
+
+Nessa tarefa, o usuário possui o objetivo de verificar o status atual de suas solicitações de bolsa auxílio.
          - GOAL 1: Acompanhar solicitação de bolsa auxílio.
            - METHOD 1.A: Visualizar informações atualizadas sobre o status da solicitação.
              - OP. 1.A.1: Clicar em "Acompanhar Solicitação de Bolsa Auxílio".
              - (SEL. RULE: o usuário necessita acompanhar uma solicitação existente.)
          
-         ### Nessa tarefa, o usuário possui o objetivo de renovar uma bolsa auxílio existente.
+Nessa tarefa, o usuário possui o objetivo de renovar uma bolsa auxílio existente.
          - GOAL 2: Renovar bolsa auxílio.
            - METHOD 2.A: Selecionar "Renovar Bolsa Auxílio".
              - OP. 2.A.1: Clicar na opção "Renovar Bolsa Auxílio".
@@ -81,9 +80,7 @@ Esta HTA simplifica e esclarece as relações entre as operações dentro da fun
              - OP. 2.C.1: Clicar em "Cadastrar".
              - (SEL. RULE: o usuário deseja renovar uma bolsa e já preencheu todas as informações.)
 
-
 ## Conclusão
-
 Esta análise GOMS revela áreas chave onde melhorias podem ser feitas para tornar a experiência do usuário mais eficiente e agradável. Otimizar os formulários e a navegabilidade pode reduzir erros e aumentar a satisfação dos usuários ao interagir com o sistema SIGAA.
 
 ## Bibliografia
