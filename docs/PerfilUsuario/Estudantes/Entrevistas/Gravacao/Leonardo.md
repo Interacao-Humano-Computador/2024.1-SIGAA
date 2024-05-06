@@ -17,7 +17,6 @@ Neste documento, é mostrado os dados e respostas adquiridas com a entrevista co
 
 A tabela 1 apresenta o cronograma da entrevista.
 
-<center>
   
 **Tabela 1**: Cronograma
 
@@ -30,7 +29,6 @@ A tabela 1 apresenta o cronograma da entrevista.
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
   
-</center>
 
 ## Termo de Consentimento
 
