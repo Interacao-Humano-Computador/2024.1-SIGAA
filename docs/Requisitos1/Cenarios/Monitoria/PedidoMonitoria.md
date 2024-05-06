@@ -18,6 +18,7 @@ No contexto acadêmico, o desejo dos estudantes em atuarem como monitores repres
 A tabela 1 mostra os elementos em relação ao cenário de pedido para ser monitor.
 
 **Tabela 1**: Elementos do cenário
+
 | Elemento | Descrição |
 | - | - | 
 | **Ambiente** | Ambiente universitário que estimula os estudantes a serem monitores de matérias que lhe agradam. |
