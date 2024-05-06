@@ -30,7 +30,7 @@ Na tabela 1 podemos ver a análise relacionada a Emitir Histórico.
 | **0. Acessar aba de emitir histórico** | **Input:** Seleção da opção "Emitir Histórico" no menu Histórico.<br>**Feedback:** Exibição de arquivo sendo baixado.<br>**Plano:** Assegurar fácil acesso e visibilidade da opção de solicitação. |
 | **1. Confirmar a emissão do histórico** | **Input:** Conferir se o arquivo foi baixado corretamente e está abrindo.<br>**Feedback:** Histórico acadêmico é apresentado.<br>**Plano:** Assegurar que o histórico seja intuitivo e completo. |
 
-<font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 Na tabela 2 podemos ver a análise relacionada a Visualizar Matérias Optativas
 
@@ -41,7 +41,7 @@ Na tabela 2 podemos ver a análise relacionada a Visualizar Matérias Optativas
 | **0. Acessar aba de Grade Currícular** | **Input:** Seleção da opção "Grade Currícular" no menu Histórico.<br>**Feedback:** Exibição da grade do período em que o aluno se encontra.<br>**Plano:** Assegurar fácil acesso e visibilidade da opção de solicitação. |
 | **1. Acessar Matérias Optativas** | **Input:** Seleção da opção "Matérias Optativas" no menu Grade Currícular.<br>**Feedback:** Matérias Optativas possíveis para o curso do aluno são apresentadas.<br>**Plano:** Assegurar que a visualização das matérias seja intuitiva e completa. |
 
-<font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 Na tabela 3 podemos ver a análise relacionada a Visualizar Pré-Requisitos
 
@@ -52,7 +52,7 @@ Na tabela 3 podemos ver a análise relacionada a Visualizar Pré-Requisitos
 | **0. Acessar aba de Grade Currícular** | **Input:** Seleção da opção "Fluxograma" no menu Histórico.<br>**Feedback:** Exibição do fluxograma do curso em que o aluno se encontra.<br>**Plano:** Assegurar fácil acesso e visibilidade da opção de solicitação. |
 | **1. Conferir Pré-Requisitos** | **Input:** Conferir pré-requisitos de matérias desejadas.<br>**Feedback:** Exibição do fluxograma do curso em que o aluno se encontra.<br>**Plano:** Assegurar que a visualização das matérias seja intuitiva e completa. |
 
-<font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ## GOMS
 O GOMS é uma técnica que analisa as atividades dos usuários, descrevendo seus objetivos (o que desejam alcançar), os operadores utilizados (ações como clicar em um botão), os métodos empregados (sequências de ações para atingir objetivos específicos) e as regras de seleção (critérios para escolher entre diferentes métodos). Esta metodologia será empregada na análise da funcionalidade de Emitir Histórico
@@ -83,8 +83,8 @@ O GOMS é uma técnica que analisa as atividades dos usuários, descrevendo seus
         OP 3.1: Guiar o mouse para a aba que se abriu no navegador que contém o histórico acadêmico
         OP 3.2: Pressionar o botão esquerdo do mouse
         OP 3.3: Conferir informações presentes no histórico
-
- <font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
+        
+<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
  ## Conclusão
 
