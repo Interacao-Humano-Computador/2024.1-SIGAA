@@ -1,7 +1,7 @@
 # Planejamento Análise Hierárquica de Tarefas para a aba do Restaurante Universitário
 ## Sumário
 * [Introdução](#Introdução)
-* [A Funcionalidade de Gerenciamento da conta no RU](#Gerenciamento-da-conta-no-RU)
+* [A Funcionalidade de Gerenciamento da conta no Restaurante Universitário](#A-Funcionalidade-de-Gerenciamento-da-conta-no-Restaurante-Universitário)
 * [Inspirações](#Inspirações)
 * [Metodologia](#Metodologia)
 * [Cronograma](#Cronograma)
@@ -12,7 +12,7 @@
 ## Introdução
 Durante as entrevistas com os estudantes e a entrevista de [brainstorm](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/IdentificacaoNecessidadesUsuario/ExecBrainstorm.md), 
 um assunto discutido foi a necessidade de se ter uma funcionalidade destinada aos assuntos do Restaurante Universitário, uma vez que ela quase não está presente no SIGAA. 
-Dá no máximo para ver o extrato no RU dos últimos 7 dias. A imagem 1 mostra que não há o RU na aba de funcionalidades:
+Dá no máximo para ver o extrato no RU dos últimos sete dias. A imagem 1 mostra que não há o RU na aba de funcionalidades:
 
 <div align="center">
     Imagem 1: Abas de algumas funcionalidades (Não há o RU).
@@ -51,4 +51,14 @@ Esse método é uma abordagem de avaliação de usabilidade que se concentra na 
 Com isso, o "Goals" (objetivos) referem-se aos resultados desejados pelos usuários, "Operators" (operadores) são ações mentais e físicas realizadas para alcançar esses objetivos, 
 "Methods" (métodos) são as sequências de operadores necessárias para concluir uma tarefa e "Selection Rules" (regras de seleção) determinam como os usuários escolhem entre métodos alternativos. 
 Ao aplicar o método GOMS, é possível identificar pontos de otimização e simplificação nas tarefas de gerenciamento da conta no RU.
+
+## A Funcionalidade de Gerenciamento da conta no Restaurante Universitário
+A aba de gerenciamento da conta no RU no sistema do SIGAA será concebida com o objetivo de agilizar os processos de consulta do saldo e do cárdapio, além deixar mais prático o ato de recarga.
+
+Essa aba terá quatro funcionalidades principais, que incluem:
+
+- Consultar o saldo atual.
+- Fazer recarga.
+- Consultar o cardápio da semana.
+- Preencher a pesquisa de satisfação do DRU.
 
