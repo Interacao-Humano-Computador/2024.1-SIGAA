@@ -79,7 +79,7 @@ Trabalha como professor da área de software e tem aptidão com tecnologias.
 
 ### Quais são os seus principais objetivos como professor?
 
-- Ter eficiência no ensino e na aprendizagem dos estudantes.
+Ter eficiência no ensino e na aprendizagem dos estudantes.
 
 ### Há quanto tempo o senhor utiliza o SIGAA?
 
