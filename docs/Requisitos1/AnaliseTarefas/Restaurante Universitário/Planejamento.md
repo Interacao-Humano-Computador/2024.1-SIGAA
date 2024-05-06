@@ -108,4 +108,4 @@ Projeto Lichess. Disponívem em: <https://interacao-humano-computador.github.io/
 ## Histórico de Versão
 | Versão | Alteração                         | Responsável     | Revisor | Data       |
 | ------ | --------------------------------- | --------------- | ------- | ---------- |
-| 1.0    | Criação e realização do documento | Breno Alexandre | -       | 06/05/2024 |
+| 1.0    | Criação e realização do documento | Breno Alexandre | Larissa Stéfane  | 06/05/2024 |
