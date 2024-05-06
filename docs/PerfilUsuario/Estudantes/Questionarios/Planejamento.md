@@ -4,6 +4,7 @@
 
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
+* [Como o questionário será divulgado](#Como-o-questionário-será-divulgado)
 * [Perguntas Realizadas](#Perguntas-Realizadas)
 * [Recursos Necessários](#Recursos-Necessários)
 * [Aspectos Éticos](#Aspectos-Éticos)
@@ -22,7 +23,7 @@ Após a fase de preparação, o questionário será criado e disponibilizado na 
 
 Após um período determinado de coleta de dados, as respostas serão compiladas e analisadas para gerar um relatório do perfil do usuário do estudante em relação ao SIGAA. Essa análise permitirá identificar padrões, tendências e áreas de melhoria na experiência dos estudantes com a plataforma.
 
-## Como o questionário será divulgado:
+## Como o questionário será divulgado
 
 O questionário será divulgado em:
 
