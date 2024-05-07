@@ -119,7 +119,7 @@
         - [Análise Estágio Hierárquica](Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica.md)
        
       * Histórico
-        - [Planejamento](Requisitos1/AnaliseTarefas/Histórico/planejamento.md)
+        - [Planejamento](Requisitos1/AnaliseTarefas/Histórico/Planejamento.md)
         - [Análise Histórico](Requisitos1/AnaliseTarefas/Histórico/AnaliseHistorico.md)
 
       * Matrícula
