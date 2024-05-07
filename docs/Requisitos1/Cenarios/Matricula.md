@@ -60,4 +60,4 @@ relevantes relacionados à interação humano-computador (IHC) e à usabilidade 
 
 | Versão | Alteração                     | Responsável    | Revisor         | Data       |
 |--------|-------------------------------|----------------|---------------- |------------|
-| 1.0    | Criação do documento          | Iago Passaglia | - | 05/05/2024 |
+| 1.0    | Criação do documento          | Pedro Izarias | - | 06/05/2024 |
