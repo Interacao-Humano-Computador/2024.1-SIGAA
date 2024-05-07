@@ -100,7 +100,7 @@
         - [Cenário Histórico](Requisitos1/Cenarios/Histórico.md)
 
       * Matrícula
-      
+        - [Cenário Matrícula](Requisitos1/Cenarios/Matricula.md)
       * Monitoria
         - [Planejamento](Requisitos1/Cenarios/Monitoria/Planejamento.md)
         - [Cenário pedido monitoria](Requisitos1/Cenarios/Monitoria/PedidoMonitoria.md)
@@ -124,7 +124,8 @@
         - [Análise Histórico](Requisitos1/AnaliseTarefas/Histórico/AnaliseHistorico.md)
 
       * Matrícula
-        - [Análise Realização de Matrícula](Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS.md)
+        - [Análise Realização de Matrícula GOMS](Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS.md)
+        - [Análise Realização de Matrícula Hierárquica](Requisitos1/AnaliseTarefas/Matrícula/FazerMatriculaHierarquica.md)
      
       * Monitoria
         - [Planejamento da Análise](Requisitos1/AnaliseTarefas/Monitoria/Planejamento.md)
