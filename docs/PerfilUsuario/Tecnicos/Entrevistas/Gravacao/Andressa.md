@@ -37,8 +37,9 @@ Fonte: [Bruno Araújo](https://github.com/brunocva)
 
 ## Termo de Consentimento
 
-O termo de consentimento foi previamente fornecido para Andressa Novais Rodrigues e lido pela mesma. 
-A entrevistada concordou com os termos, assinando a documentação.
+O termo de consentimento foi previamente fornecido para Andressa Novais Rodrigues e lido pela mesma.  A entrevistada concordou com os termos, assinando a documentação.
+
+Mesmo assim, após a reunião, ela assinou o termo de consentimento, que posse ser visualizado em [Consentimento Andressa](PerfilUsuario/Tecnicos/TermodeConsentimento/TermoAndressa.md)
 
 ## Gravação
 
