@@ -86,7 +86,8 @@
               - [Andressa Novais Rodrigues](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Andressa.md)
         - [Perfil Usuário: Servidores-Técnicos](PerfilUsuario/Tecnicos/PerfilServidor.md)
     * Personas
-       - [Personas)](docs/Requisitos1/Cenarios/Personas)      
+       - [Personas)](Requisitos1/Cenarios/Personas)      
+
 * Análise de Requisitos
     * Cenários
       * Bolsas
