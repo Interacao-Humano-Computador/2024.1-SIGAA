@@ -34,8 +34,7 @@ A aba "Ensino" no SIGAA oferece aos estudantes a capacidade de acessar e gerenci
 |---------------------|----------------------------|
 | **0. Acessar Trancamento de matrícula** | **Input:** Seleção da opção "Trancamento de matrícula na aba Ensino".<br>**Feedback:** Serão exibidas as opções de Trancar e Exibir andamento do trancamento.<br>**Plano:** Garantir que as opções e processos sejam claros e compreensíveis. |
 | **1. Selecionar a opção trancar 1>2** | **Input:** Seleção da opção "Trancar".<br>**Feedback:** A página listando as matérias aparece.<br>**Plano:** Tornar simples a escolha de matérias para trancar. |
-| **2. Realizar o trancamento** | **Input:** Selecionar matérias para trancar e clicar em "Solicitar trancamento".<br>**Feedback:** A resposta sobre o sucesso do trancamento aparece.<br>**Plano:** Oferecer uma apresentação das informações de forma simples e de fácil 
-acesso. |
+| **2. Realizar o trancamento** | **Input:** Selecionar matérias para trancar e clicar em "Solicitar trancamento".<br>**Feedback:** A resposta sobre o sucesso do trancamento aparece.<br>**Plano:** Oferecer uma apresentação das informações de forma simples e de fácil acesso. |
 
 ## Conclusão
 Conforme evidenciado, a análise hierárquica das funcionalidades de pré-cadastro e gerenciamento de estágios destacou uma estrutura intricada de tarefas e interações no processo. Ao decompor cada etapa em objetivos, sequências de passos, métodos e diretrizes, conseguimos compreender minuciosamente as ações dos usuários e identificar áreas de importância.
