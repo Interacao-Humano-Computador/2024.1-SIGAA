@@ -1,14 +1,26 @@
 # Reunião 06
 
+O vídeo 1 indica a reunião 6
+
+<center> 
+vídeo 1: IHC - Reunião 6
+  
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/AfgHw4b-SG8" title="IHC - Reunião 6 - 23/04/2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Fonte**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
+
 ## Ata da reunião do dia 23/04
 
 ## Data, Horário, Duração e Local
 
 - **Data:** 23/04/2024
 - **Horário de início previsto:** 08:00
-- **Horário de início:** 
-- **Duração:** 
+- **Horário de início: 9:25
+- **Duração:** 20 minutos
 - **Local:** Teams
+- Link da [reunião 6](https://youtu.be/AfgHw4b-SG8)
 
 
 ## Participantes
@@ -53,14 +65,14 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 | Identificador (Dn) | Decisão |
 | - | - |
-| D1 | -   | 
-| D2 | -  |
-| D3 | -   | 
-| D4 | -  |
-| D5 | -   | 
-| D6 | -  |
+| D1 | Sim, Bruno enviou um email  | 
+| D2 | Já está aberto para respostas  |
+| D3 |  Já foram feitas as gravações  | 
+| D4 | Estão se planejando |
+| D5 | Está na parte do planejamento   | 
+| D6 | Está na parte do planejamento  |
 | D7 | -   | 
-| D8 | -   | 
+| D8 | Alguns sim, outros não.   | 
 
 
 ## Decisões:
@@ -86,3 +98,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação  Ata da Reunião           | Larissa Stéfane | Breno Alexandre       | 23/04/2024 |
+| 1.1    | Adição do vídeo          | Larissa Stéfane | Breno Alexandre       | 06/05/2024 |
