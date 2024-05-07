@@ -12,5 +12,5 @@ A imagem 1 mostra o termo de consentimento assinado:
 
 | Versão | Alteração                         | Responsável     | Revisor         | Data       |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação e realização do documento | Bruno Araújo | - | 06/04/2024 |
+| 1.0    | Criação e realização do documento | Bruno Araújo | Larissa Stéfane | 06/04/2024 |
 
