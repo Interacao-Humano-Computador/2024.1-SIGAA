@@ -45,13 +45,13 @@ A metodologia envolverá:
 ## Cronograma
 | Atividade | Data de início | Data de fim |
 | - | - | - |
-| Elicitação de requisitos | 06/05/2024 | 10/05/2024 |
-| Definição de objetivos para Declaração de Bolsista | 11/05/2024 | 12/05/2024 |
-| Definição de objetivos para Solicitação de Bolsas | 13/05/2024 | 14/05/2024 |
-| Diagramas HTA para Declaração de Bolsista | 15/05/2024 | 17/05/2024 |
-| Diagramas HTA para Solicitação de Bolsas | 18/05/2024 | 20/05/2024 |
-| Análise GOMS para Declaração de Bolsista | 21/05/2024 | 23/05/2024 |
-| Análise GOMS para Solicitação de Bolsas | 24/05/2024 | 26/05/2024 |
+| Elicitação de requisitos | 20/04/2024 | 22/04/2024 |
+| Definição de objetivos para Declaração de Bolsista | 29/04/2024 | 29/04/2024 |
+| Definição de objetivos para Solicitação de Bolsas | 29/04/2024 | 29/04/2024 |
+| Diagramas HTA para Declaração de Bolsista | 01/05/2024 | 01/05/2024 |
+| Diagramas HTA para Solicitação de Bolsas | 01/05/2024 | 01/05/2024 |
+| Análise GOMS para Declaração de Bolsista | 03/05/2024 | 03/05/2024 |
+| Análise GOMS para Solicitação de Bolsas | 03/05/2024 | 03/05/2024 |
 
 ## Conclusão
 Este planejamento proporciona uma base sólida para desenvolver e melhorar as funcionalidades de bolsas no SIGAA, garantindo uma experiência mais eficiente e satisfatória para os usuários.
