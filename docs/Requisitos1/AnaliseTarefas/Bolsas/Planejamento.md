@@ -43,6 +43,8 @@ A metodologia envolverá:
 3. **Análise GOMS:** Complementando a HTA, o método GOMS será utilizado para detalhar as operações mentais e físicas necessárias para realizar cada tarefa.
 
 ## Cronograma
+
+**Tabela 1**: Cronograma
 | Atividade | Data de início | Data de fim |
 | - | - | - |
 | Elicitação de requisitos | 20/04/2024 | 22/04/2024 |
