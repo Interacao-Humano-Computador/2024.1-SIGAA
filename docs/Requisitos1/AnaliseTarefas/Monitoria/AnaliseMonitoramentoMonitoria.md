@@ -40,7 +40,7 @@ Como há um conjunto de tarefas a serem realizadas, há baixo há a análise con
 <details>
   <summary size="20"><b> Análise Contextual </b></summary> 
   
-    0. Visualização de Monitoria (1/2)
+ 0. Visualização de Monitoria (1/2)
       
       1. Verificar Monitoria Atual (1/2)
          
