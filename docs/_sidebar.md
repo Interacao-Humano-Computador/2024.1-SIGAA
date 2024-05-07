@@ -92,7 +92,7 @@
       * Bolsas
         - [Cenário Solictação de Bolsas](Requisitos1/Cenarios/Bolsas/SolicitaçãodeBolsas.md)
         - [Cenário Declaração de Bolsista](Requisitos1/Cenarios/Bolsas/DeclaraçãodeBolsista.md)
-        - [Persona](Requisitos1/Cenarios/Personas/PersonasBolsas.md
+        - [Personas](Requisitos1/Cenarios/Personas/PersonasBolsas.md)
 
       * Estágio
         - [Cenário Estágio](Requisitos1/Cenarios/estagio.md)
