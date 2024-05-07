@@ -90,11 +90,14 @@
 * Análise de Requisitos
     * Cenários
       * Bolsas
+        - [Cenário Solictação de Bolsas](Requisitos1/Cenarios/Bolsas/SolicitaçãodeBolsas.md)
+        - [Cenário Declaração de Bolsista](Requisitos1/Cenarios/Bolsas/DeclaraçãodeBolsista.md)
 
       * Estágio
         - [Cenário Estágio](Requisitos1/Cenarios/estagio.md)
 
       * Histórico
+        - [Cenário Histórico](Requisitos1/Cenarios/Histórico.md)
 
       * Matrícula
       
@@ -116,6 +119,8 @@
         - [Análise Estágio Hierárquica](Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica.md)
        
       * Histórico
+        - [Planejamento](Requisitos1/AnaliseTarefas/Histórico/planejamento.md)
+        - [Análise Histórico](Requisitos1/AnaliseTarefas/Histórico/AnaliseHistorico.md)
 
       * Matrícula
         - [Análise Realização de Matrícula](Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS.md)
