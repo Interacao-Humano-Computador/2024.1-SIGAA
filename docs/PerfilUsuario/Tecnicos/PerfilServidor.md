@@ -33,8 +33,8 @@ Como foi falado no tópico anterior, a análise do perfil dos servidores técnic
 
 ### Dados Demográficos
 - **Sexo:** Predominantemente masculino (60%).
-- **Faixa Etária:** Maioria a partir de de 26 anos (60%).
-- **Estado Civil:** Principalmente casado (60%).
+- **Faixa Etária:** Maioria a partir de de 26 anos (65%).
+- **Estado Civil:** Principalmente casado (68%).
 - **Tempo de Casa:** Cerca de 56% têm até 10 anos de tempo de serviço.
 - **Nível Escolar:** Predominantemente ensino médio completo (45%) e graduação(28%).
 
