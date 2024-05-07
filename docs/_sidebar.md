@@ -86,13 +86,13 @@
               - [Andressa Novais Rodrigues](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Andressa.md)
         - [Perfil Usuário: Servidores-Técnicos](PerfilUsuario/Tecnicos/PerfilServidor.md)
     * Personas
-       - [Personas)](Requisitos1/Cenarios/Bolsas/SolicitaçãodeBolsas.md)      
-
+     
 * Análise de Requisitos
     * Cenários
       * Bolsas
         - [Cenário Solictação de Bolsas](Requisitos1/Cenarios/Bolsas/SolicitaçãodeBolsas.md)
         - [Cenário Declaração de Bolsista](Requisitos1/Cenarios/Bolsas/DeclaraçãodeBolsista.md)
+        - [Persona](Requisitos1/Cenarios/Personas/PersonasBolsas.md
 
       * Estágio
         - [Cenário Estágio](Requisitos1/Cenarios/estagio.md)
