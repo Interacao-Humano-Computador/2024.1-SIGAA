@@ -17,27 +17,28 @@ A aba "Ensino" no SIGAA oferece aos estudantes a capacidade de acessar e gerenci
 
 # Análise Hierárquica de Tarefas (HTA) para a opção de Realizar Matrícula no SIGAA
 
-## Tabela 1: Pré-cadastro de estágio
+## Tabela 1:  Realização de matrícula
 **Introdução:** Esta seção abrange todas as operações relacionadas a realização de matrícula, permitindo aos discentes, realizar matrícula em matérias durante o período previsto.
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
-| **0. Acessar Pré-cadastro de estágio** | **Input:** Seleção da opção "Pré-cadastro de estágio" no menu Estágio.<br>**Feedback:** Exibição da lista com as instituições disponíveis.<br>**Plano:** Garantir visibilidade e entendimento das opções disponíveis. |
-| **1. Selecionar convênio de estágio 1>2** | **Input:** Seleção da opção "Selecionar convênio de estágio" conforme a instituição responsável pelo estágio do aluno.<br>**Feedback:** Formulário de pré-cadastro é apresentado.<br>**Plano:** Assegurar que o formulário seja intuitivo e completo. |
-| **2. Efetuar o pré-cadastro 2>3** | **Input:** Preenchimento das informações necessárias no formulário e seleção da opção "Continuar".<br>**Feedback:** Revisão do formulário preenchido.<br>**Plano:** Confirmar se o formulário foi preenchido corretamente. |
-| **3. Confirmação do pré-cadastro** | **Input:** Seleção da opção "Confirmar".<br>**Feedback:** Envio da solicitação.<br>**Plano:** Simplificar o processo de solicitação. |
+| **0. Acessar Matrícula On-line** | **Input:** Seleção da opção "Matrícula On-line" no menu Ensino.<br>**Feedback:** Exibição da lista com as opções de matrícula disponíveis.<br>**Plano:** Assegurar que as opções disponíveis sejam claramente visíveis e compreensíveis. |
+| **1. Selecionar a opção Realizar matrícula 1>2** | **Input:** Seleção da opção "Selecionar matrícula" cdentro da parte de Matrícula On-line.<br>**Feedback:** A página de escolha de matérias é mostrada.<br>**Plano:** Garantir que os campos de filtro sejam simples de usar e abrangentes em suas opções. |
+| **2. Preencher e filtrar as matérias 2>3** | **Input:** Preenchimento das informações necessárias no formulário e seleção da opção "Confirmar".<br>**Feedback:** Mensagem de sucesso para a matéria adicionada.<br>**Plano:** Confirmar se o formulário foi preenchido corretamente. |
+| **3. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
 
-## Tabela 2: HTA para Gerenciamento de estágios
-**Introdução:** Esta tabela descreve o processo pelo qual os bolsistas assinam e visualizam declarações relativas ao não acúmulo de bolsas, uma exigência administrativa importante.
+## Tabela 2: Trancamento de matrícula
+**Introdução:** Esta tabela descreve o processo pelo qual discentes passam para realizar o trancamento de uma ou várias disciplinas.
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
-| **0. Acessar Gerenciamento** | **Input:** Seleção da opção "Gerenciar Estágios".<br>**Feedback:** Estágios cadastrados para o aluno serão mostrados.<br>**Plano:** Assegurar clareza nas opções e processos. |
-| **1. Executar ações 1>2** | **Input:** Seleção da opção "Visualizar menus".<br>**Feedback:** Opções de ações aparecem.<br>**Plano:** Facilitar o processo de consulta. |
-| **2. Visualizar informações do estágio** | **Input:** Clicar em "Visualizar estágio".<br>**Feedback:** Informações sobre o estágio aparecem.<br>**Plano:** Proporcionar uma visualização fácil e acessível das informações. |
+| **0. Acessar Trancamento de matrícula** | **Input:** Seleção da opção "Trancamento de matrícula na aba Ensino".<br>**Feedback:** Serão exibidas as opções de Trancar e Exibir andamento do trancamento.<br>**Plano:** Garantir que as opções e processos sejam claros e compreensíveis. |
+| **1. Selecionar a opção trancar 1>2** | **Input:** Seleção da opção "Trancar".<br>**Feedback:** A página listando as matérias aparece.<br>**Plano:** Tornar simples a escolha de matérias para trancar. |
+| **2. Realizar o trancamento** | **Input:** Selecionar matérias para trancar e clicar em "Solicitar trancamento".<br>**Feedback:** A resposta sobre o sucesso do trancamento aparece.<br>**Plano:** Oferecer uma apresentação das informações de forma simples e de fácil 
+acesso. |
 
 ## Conclusão
-Como é possível observar, a análise hierárquica para a funcionalidade de pré-cadastro e gerenciamento de estágios revelaram uma estrutura complexa de tarefas e interações dentro do processo. Assim, ao desmembrar cada etapa em objetivos, passo a passo, métodos e regras, foi possível compreender detalhadamente as ações dos usuários e identificar áreas de relevância.
+Conforme evidenciado, a análise hierárquica das funcionalidades de pré-cadastro e gerenciamento de estágios destacou uma estrutura intricada de tarefas e interações no processo. Ao decompor cada etapa em objetivos, sequências de passos, métodos e diretrizes, conseguimos compreender minuciosamente as ações dos usuários e identificar áreas de importância.
 
 ## Bibliografia
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
