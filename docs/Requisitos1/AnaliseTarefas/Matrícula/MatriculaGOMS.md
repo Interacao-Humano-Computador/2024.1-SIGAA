@@ -24,6 +24,7 @@ O objetivo de se utilizar o método GOMS é fornecer uma estrutura sistemática 
 ### Realizar matrícula
 
 Nesta tarefa, o objetivo do usuário é efetuar a matrícula em uma matéria
+
     GOAL 0: Fazer login na página para vizualizar o painel principal
     GOAL 1: Acessar aba de ensino
         OP 1.1: Guiar o mouse para a aba "Ensino"
@@ -47,7 +48,8 @@ Nesta tarefa, o objetivo do usuário é efetuar a matrícula em uma matéria
         OP 4.6: Pressionar o botão esquerdo do mouse
 
 ### Realizar trancamento
-  Nesta tarefa, o objetivo do usuário é trancar uma matrícula em uma matéria
+  Nesta tarefa, o objetivo do usuário é trancar a matrícula em uma matéria
+  
     GOAL 0: Fazer login na página para vizualizar o painel principal
     GOAL 1: Acessar aba de ensino
         OP 1.1: Guiar o mouse para a aba "Ensino"
@@ -65,9 +67,7 @@ Nesta tarefa, o objetivo do usuário é efetuar a matrícula em uma matéria
 
 ## Conclusão
 
-A aplicação do método GOMS ao sistema SIGAA, especificamente nas tarefas de trancamento e realização da matrícula, proporcionou uma análise detalhada das ações necessárias para a realização dessas atividades. Através deste método, foi possível identificar cada etapa envolvida, desde o login no sistema até a execução final das tarefas específicas, destacando os operadores e métodos utilizados pelo usuário.
-
-A análise realizada oferece uma visão clara dos processos cognitivos e das interações físicas que os usuários precisam executar, permitindo identificar potenciais áreas de melhoria no design da interface. Por exemplo, a redução do número de cliques necessários e a simplificação dos processos de navegação podem diminuir a carga cognitiva e melhorar a eficiência do usuário na realização de suas tarefas.
+A aplicação do método GOMS ao sistema SIGAA, especialmente nas tarefas de trancamento e realização da matrícula, resultou em uma análise minuciosa das ações requeridas para completar essas atividades. Por meio deste método, foi possível descrever cada passo envolvido, desde o login até a conclusão das tarefas específicas, destacando os operadores e métodos utilizados pelos usuários. Esta análise proporcionou uma compreensão clara dos processos cognitivos e das interações físicas necessárias, permitindo a identificação de áreas potenciais de aprimoramento no design da interface. Por exemplo, a simplificação dos processos de navegação e a redução do número de cliques podem aliviar a carga cognitiva e otimizar a eficiência do usuário durante a realização de suas tarefas.
 
 ## Bibliografia
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 04 de maio de 2024.
