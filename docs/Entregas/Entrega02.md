@@ -3,7 +3,7 @@ A segunda entrega realizada em 06 de maio de 2024 da disciplina de Interação H
 
 ## Vídeo da Apresentação
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-PliE8hswM8?si=sPdNHDTEe9ynyPmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórico de Versões
 
