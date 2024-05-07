@@ -11,7 +11,17 @@
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
-Com base nas informações recolhidas e na necessidade observada no SIGAA para as funcionalidades relacionadas às bolsas de estudo, este documento visa planejar a análise das tarefas envolvidas tanto na declaração quanto na solicitação de bolsas. A partir da necessidade de um sistema mais eficiente e intuitivo para os estudantes, será adotada uma abordagem de Análise Hierárquica de Tarefas (HTA) combinada com o método GOMS.
+Com base nas informações recolhidas e na necessidade observada no SIGAA para as funcionalidades relacionadas às bolsas de estudo, este documento visa planejar a análise das tarefas envolvidas tanto na declaração quanto na solicitação de bolsas.
+A partir da necessidade de um sistema mais eficiente e intuitivo para os estudantes, será adotada uma abordagem de Análise Hierárquica de Tarefas (HTA) combinada com o método GOMS.
+
+
+A imagem 1 mostra o as opções do usuário no menu de Bolsas, Declaração de Bolsita.
+![sigaa 1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/0fd1538c-350a-4391-a14c-9b510f1aa1ad)
+
+
+A imagem 2 mostra as opções do usuário no menu, Bolsas, Solicitação de Bolsas.
+![sigaa 2](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/dae80793-8080-48a0-9c6c-3e6d7b48a439)
+
 
 ## Funcionalidades de Bolsas
 A aba de bolsas no SIGAA incluirá duas funcionalidades principais:
