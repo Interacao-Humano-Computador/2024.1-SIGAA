@@ -44,7 +44,7 @@ As dúvidas e os pontos gerados podem ser encontrados na tabela 1, onde cada tem
 
 | Identificador (Dn) | Tema                                                                                                              |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| D1                 |                                                                      |
+| D1                 |      Organizar o cronograma planejado                                                                |
 | D2                 |                                                                                 |
 | D3                 |                               |
 | D4                 |                              |
@@ -64,7 +64,7 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 | Identificador (Dn) | Decisão |
 | - | - |
-| D1 | - | 
+| D1 | Breno vai organizar o cronograma | 
 | D2 | -  |
 | D3 |  -  | 
 | D4 | - |
@@ -84,7 +84,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 | Identificador (Issue n) | Issue                                                                             | Integrante(s) responsável(eis) | Data de entrega |
 | ----------------------- | --------------------------------------------------------------------------------- | ------------------------------ | --------------- |
-| Issue 1                 |                                                     |             |      |
+| Issue 1                 |   Realizar as características da plataforma para o projeto                                                  |             |      |
 | Issue 2                 |                           |              |     |
 | Issue 3                 |                                              |             |       |
 | Issue 4                 |                                                                 |                |     |
