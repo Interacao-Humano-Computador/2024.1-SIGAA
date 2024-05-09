@@ -11,7 +11,7 @@
 
 
 ## Introdução 
-Como foi falado no documento de planejamento das análises de monitoria, a ferramenta de emitir histórico oferecerá aos alunos a possibilidade de ter um documento oficial sobre o histórico acadÊmico. Com base nisso, este documento pretende realizar uma análise detalhada das tarefas envolvidas na funcionalidade de emitir histórico por meio dos métodos de análise hierárquica de tarefas e GOMS (Goals, Operators, Methods, Selection Rules).
+Como foi falado no documento de planejamento das análises de histórico, a ferramenta de emitir histórico oferecerá aos alunos a possibilidade de ter um documento oficial sobre o histórico acadêmico. Com base nisso, este documento pretende realizar uma análise detalhada das tarefas envolvidas na funcionalidade de emitir histórico por meio dos métodos de análise hierárquica de tarefas e GOMS (Goals, Operators, Methods, Selection Rules).
 
 ## Objetivos
 Essa funcionalidade tem como objetivo principal fornecer aos estudantes a ferramenta de emitir histórico para que eles tenham acesso fácil e rápido ao histórico acadêmico. Sendo esse um documento importante para os estudantes.
@@ -92,11 +92,12 @@ Ao analisar a função de Emitir Histórico usando uma abordagem hierárquica e 
 
 ## Bibliografia
 
-1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). **Interação Humano-Computador e Experiência do Usuário**. Acesso em 30 de abril de 2024.
-2. Carlos Mar, Msc. **Modelo GOMS – Análise de Tarefas**. Maio de 2014. Disponível em <https://carlosmardotcomdotbr.wordpress.com/wp-content/uploads/2014/04/modelotarefasgoms.pdf>. Acesso em 01 de maio de 2024.
+Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). **Interação Humano-Computador e Experiência do Usuário**.
+
+Carlos Mar, Msc. **Modelo GOMS – Análise de Tarefas**. Maio de 2014. Disponível em: <https://carlosmardotcomdotbr.wordpress.com/wp-content/uploads/2014/04/modelotarefasgoms.pdf>. Acessado em 01 de maio de 2024.
 
 ## Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação e realização da análise hierárquica| Luana Medeiros | - | 06/05/2024 |
+| Versão | Alteração                                   | Responsável    | Revisor         | Data       |
+| ------ | ------------------------------------------- | -------------- | --------------- | ---------- |
+| 1.0    | Criação e realização da análise hierárquica | Luana Medeiros | Breno Alexandre | 06/05/2024 |
