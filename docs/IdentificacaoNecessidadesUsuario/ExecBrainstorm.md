@@ -12,20 +12,6 @@
 
 ## Introdução
 
-
-# Desenvolvimento do Estudo de Campo
-
-## Sumário 
-* [Introdução](#Introdução)
-* [Desenvolvimento](#Desenvolvimento)
-* [Resultados](#Resultados)
-* [Análise dos resultados](#Análise-dos-resultados)
-* [Conclusão](#Conclusão)
-* [Bibliografia](#Bibliografia)
-* [Histórico de versões](#Histórico-de-versões)
-
-## Introdução
-
 O Estudo de campo é uma técnica fundamental para entender as necessidades do usuário e seus requisitos, pois testa na prática como é o uso do sistema, suas dificuldades e detalhes. O estudo pode ser feito de várias maneiras, sendo uma delas a observação pura, sem a interferência do pesquisador, maneira essa escolhida para a análise seguinte. 
 
 ## Desenvolvimento
@@ -92,6 +78,7 @@ Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-.
 
 ## Histórico de versões
 
-| Versão | Alteração                     | Responsável    | Revisor         | Data       |
-|--------|-------------------------------|----------------|---------------- |------------|
-| 1.0    | Criação e desenvolvimento do documento    | Iago Passaglia | Bruno Arajo | 04/05/2024 |
+| Versão | Alteração                                                 | Responsável      | Revisor          | Data       |
+| ------ | --------------------------------------------------------- | ---------------- | ---------------- | ---------- |
+| 1.0    | Criação e desenvolvimento do documento                    | Iago Passaglia   | Bruno Araújo     | 04/05/2024 |
+| 1.1    | Correção de nome do revisor e remoção de texto incompleto | Breno Alexandre  | -                | 09/05/2024 |
