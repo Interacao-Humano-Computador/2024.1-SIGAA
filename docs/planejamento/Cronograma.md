@@ -20,7 +20,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 | Implementar Git Page               | 26/03/2024 | 28/03/2024 | Pedro              | Breno            | 29/03/2024 - 29/03/2024 |
 | Selecionar ferramentas do projeto  | 29/03/2024 | 31/03/2024 | Larissa e Luana    | Bruno            | 01/04/2024 - 01/04/2024 |
 | Selecionar metodologias do projeto | 29/03/2024 | 31/03/2024 | Bruno e Iago       | Pedro            | 01/04/2024 - 01/04/2024 |
-| Processo de Design                 | 01/04/2024 | 04/04/2024 | Bruno e Pedro          | Iago             | 05/04/2024 - 05/04/2024 |
+| Processo de Design                 | 01/04/2024 | 04/04/2024 | Bruno e Pedro      | Iago             | 05/04/2024 - 05/04/2024 |
 | Gravar apresentação                | 06/04/2024 | 06/04/2024 | Todos              | Todos            | 06/04/2024 - 07/04/2024 |
 | Correção pós apresentação          | 10/04/2024 | 10/04/2024 | Todos              | Todos            | 11/04/2024 - 11/04/2024 |
 
@@ -69,18 +69,20 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 
 <p align="center"> Tabela 3. Perfil dos Usuários </p>
 
+| *Atividade*                                                                          | *Início*   | *Fim*      | *Responsáveis*                             | *Revisores*                                | *Periodo de Revisão*    |
+| ------------------------------------------------------------------------------------ | ---------- | ---------- | ------------------------------------------ | ------------------------------------------ | ----------------------- |
+| Atualizar o Cronograma                                                               | 21/04/2024 | 03/05/2024 | Bruno Araújo                               | Pedro Izarias                              | 03/05/2024 - 03/05/2024 |
+| Atualizar o Gitpage                                                                  | 21/04/2024 | 21/04/2024 | Pedro Izarias                              | Luana Medeiros                             | 22/04/2024 - 22/04/2024 |
+| Aspectos Éticos de Pesquisas com Pessoas                                             | 21/04/2024 | 21/04/2024 | Larissa Stéfane                            | Iago Passaglia                             | 22/04/2024 - 22/04/2024 |
+| Decidir e executar técnicas para coletar dados e levantar os requisitos dos usuários | 21/04/2024 | 28/04/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 29/04/2024 - 29/04/2024 |
+| Perfil do usuário                                                                    | 29/04/2024 | 29/04/2024 | Bruno e Iago                               | Larissa Stéfane                            | 30/04/2024 - 30/04/2024 |
+| Personas                                                                             | 29/04/2024 | 29/04/2024 | Pedro e Larissa                            | Bruno Araújo                               | 30/04/2024 - 30/04/2024 |
+| Análise de tarefas                                                                   | 30/04/2024 | 03/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 04/05/2024 - 04/05/2024 |
+| Criação de cenários                                                                  | 30/04/2024 | 03/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 04/05/2024 - 04/05/2024 |
+| Gravar apresentação                                                                  | 04/05/2024 | 04/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno Alexandre                            | 06/05/2024 - 06/05/2024 |
+| Correção pós apresentação                                                            | 07/05/2024 | 08/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 08/05/2024 - 08/05/2024 |
 
-| Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
-| ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-| Perfil do usuário                  | Início: 09/04 <br> Fim: 12/04 |       -        | Início: 13/04 <br> Fim: 13/04 |      -     |
-| Personas                 | Início: 09/04 <br> Fim: 12/04 |      -         | Início: 13/04 <br> Fim: 13/04 |     -      |
-| Aspectos Éticos de Pesquisas com Pessoas               | Início: 09/04 <br> Fim: 12/04 |      -         | Início: 13/04 <br> Fim: 13/04 |     -      |
-| Realizar Documento            | Início: 12/04 <br> Fim: 14/04 |      -         | Início: 15/04 <br> Fim: 16/04 |     -      |
-| Análise de tarefas            | Início: 12/04 <br> Fim: 14/04 |      -         | Início: 15/04 <br> Fim: 16/04 |     -      |
-| Gravar apresentação                | Início: 20/04 <br> Fim: 20/04 | Todos              | Início: 20/04 <br> Fim: 21/04 | Todos            |
-| Correção pós apresentação          | Início: 23/04 <br> Fim: 24/04 | Todos              | Início: 25/04 <br> Fim: 25/04 | Todos            |
-
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0) e [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
 
@@ -88,8 +90,16 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 
 <p align="center"> Tabela 4. Perfil dos Usuários </p>
 
-| Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
-| ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
+| *Atividade*                                                                          | *Início*   | *Fim*      | *Responsáveis*                             | *Revisores*                                | *Periodo de Revisão*    |
+| ------------------------------------------------------------------------------------ | ---------- | ---------- | ------------------------------------------ | ------------------------------------------ | ----------------------- |
+| Entrevista com a estudante Ana Clara                                                 | 03/05/2024 | 05/05/2024 | Breno Alexandre                            | -                                          | -                       |
+| Entrevista com o servidor Francisco Cesar (Chiquinho)                                | 03/05/2024 | 05/05/2024 | Breno Alexandre                            | -                                          | -                       |
+| Termo assinado pela estudante Ana Clara                                              | 05/05/2024 | 05/05/2024 | Breno Alexandre                            | Larissa Stéfane                            | 05/05/2024 - 05/05/2024 |
+| Resultado Classifica Cartões                                                         | 05/05/2024 | 05/05/2024 | Luana Medeiros                             | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
+| Planejamento da HTA do RU                                                            | 06/05/2024 | 06/05/2024 | Breno Alexandre                            | Larissa Stéfane                            | 06/05/2024 - 06/05/2024 |
+| Planejamento Análise Hierárquica de Tarefas para a aba de Histórico                  | 06/05/2024 | 06/05/2024 | Luana Medeiros                             | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
+| Análise de Tarefas: Histórico                                                        | 06/05/2024 | 06/05/2024 | Luana Medeiros                             | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
+| Cenários Histórico                                                                   | 06/05/2024 | 06/05/2024 | Luana Medeiros                             | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -296,12 +306,13 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 ## Histórico de versão
 
-| Versão | Alteração                                                                                                   | Responsável           | Revisor         | Data      |
-| ------ | ----------------------------------------------------------------------------------------------------------- | --------------------- | --------------- | --------- |
-| 1.0    | Criação do documento                                                                                        | Breno Alexandre       | Larissa Stéfane | 28/03/2024|
-| 1.1    | Atualização do documento                                                                                    | Luana Medeiros        | Larissa Stéfane | 04/04/2024|
-| 1.2    | Atualização do cronograma executado para entrega 1                                                          | Larissa Stéfane       | Breno Alexandre | 04/04/2024|
-| 1.3    | Refatoração do cronograma e adição de atividade executada para entrega 1                                    | Breno Alexandre       | Luana Medeiros  | 06/04/2024|
-| 1.4    | Alteração da data da atividade "Correção pós-apresentação" e atualização do cronograma executado da etapa 1 | Breno Alexandre       | Larissa Stéfane | 07/04/2024|
-| 1.5    | Padronização das legendas das tabelas | Luana Medeiros     | Iago Passaglia | 11/04/2024|
-| 1.6    | Correção das legendas das figuras para norma ABNT | Iago Passaglia | - | 11/04/2024 |
+| Versão | Alteração                                                                                                   | Responsável           | Revisor         | Data       |
+| ------ | ----------------------------------------------------------------------------------------------------------- | --------------------- | --------------- | ---------- |
+| 1.0    | Criação do documento                                                                                        | Breno Alexandre       | Larissa Stéfane | 28/03/2024 |
+| 1.1    | Atualização do documento                                                                                    | Luana Medeiros        | Larissa Stéfane | 04/04/2024 |
+| 1.2    | Atualização do cronograma executado para entrega 1                                                          | Larissa Stéfane       | Breno Alexandre | 04/04/2024 |
+| 1.3    | Refatoração do cronograma e adição de atividade executada para entrega 1                                    | Breno Alexandre       | Luana Medeiros  | 06/04/2024 |
+| 1.4    | Alteração da data da atividade "Correção pós-apresentação" e atualização do cronograma executado da etapa 1 | Breno Alexandre       | Larissa Stéfane | 07/04/2024 |
+| 1.5    | Padronização das legendas das tabelas                                                                       | Luana Medeiros        | Iago Passaglia  | 11/04/2024 |
+| 1.6    | Correção das legendas das figuras para norma ABNT                                                           | Iago Passaglia        | Breno Alexandre | 11/04/2024 |
+| 1.7    | Preechimento do planejado para a entrega 2 e 3, e do executado para a entrega 2                             | Breno Alexandre       | -               | 09/05/2024 |
