@@ -79,7 +79,7 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 | Personas                                                                             | 29/04/2024 | 29/04/2024 | Pedro e Larissa                            | Bruno Araújo                               | 30/04/2024 - 30/04/2024 |
 | Análise de tarefas                                                                   | 30/04/2024 | 03/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 04/05/2024 - 04/05/2024 |
 | Criação de cenários                                                                  | 30/04/2024 | 03/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 04/05/2024 - 04/05/2024 |
-| Gravar apresentação                                                                  | 04/05/2024 | 04/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno Alexandre                            | 06/05/2024 - 06/05/2024 |
+| Gravar apresentação                                                                  | 04/05/2024 | 04/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno Alexandre                            | 04/05/2024 - 06/05/2024 |
 | Correção pós apresentação                                                            | 07/05/2024 | 08/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 08/05/2024 - 08/05/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0) e [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
@@ -100,8 +100,11 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 | Planejamento Análise Hierárquica de Tarefas para a aba de Histórico                  | 06/05/2024 | 06/05/2024 | Luana Medeiros                             | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
 | Análise de Tarefas: Histórico                                                        | 06/05/2024 | 06/05/2024 | Luana Medeiros                             | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
 | Cenários Histórico                                                                   | 06/05/2024 | 06/05/2024 | Luana Medeiros                             | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
+| Gravar apresentação                                                                  | 06/05/2024 | 06/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno Alexandre                            | 06/05/2024 - 06/05/2024 |
+| Correção pós apresentação                                                            | 07/05/2024 | 10/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 11/05/2024 - 11/05/2024 |
+| Atualizar o Cronograma                                                               | 09/05/2024 | 10/05/2024 | Breno Alexandre                            | -                                          | -                       |
 
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
 ## Entrega 3 - Princípios Gerais de Projeto
 
@@ -111,15 +114,16 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 
 <p align="center"> Tabela 5. Princípios Gerais de Projeto </p>
 
-| Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
-| ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-| Princípios Gerais de Projeto              | Início: 24/04 <br> Fim: 26/04 |       -        | Início: 27/04 <br> Fim: 27/04 |      -     |
-| Metas de usabilidade             | Início: 24/04 <br> Fim: 26/04 |       -        | Início: 27/04 <br> Fim: 27/04 |      -     |
-| Guia de Estilo             | Início: 24/04 <br> Fim: 26/04 |       -        | Início: 27/04 <br> Fim: 27/04 |      -     |
-| Gravar apresentação                | Início: 27/04 <br> Fim: 27/04 | Todos              | Início: 27/04 <br> Fim: 28/04 | Todos            |
-| Correção pós apresentação          | Início: 30/04 <br> Fim: 01/05 | Todos              | Início: 02/05 <br> Fim: 02/05 | Todos            |
+| *Atividade*                        | *Início*   | *Fim*      | *Responsáveis*                             | *Revisores*                                | *Periodo de Revisão*    |
+| ---------------------------------- | ---------- | ---------- | ------------------------------------------ | ------------------------------------------ | ----------------------- |
+| Atualizar o Cronograma             | 09/05/2024 | 11/05/2024 | Breno Alexandre                            | Iago e Luana                               | 11/05/2024 - 11/05/2024 |
+| Princípios Gerais de Projeto       | 11/05/2024 | 11/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Larissa Stéfane                            | 11/05/2024 - 11/05/2024 |
+| Metas de usabilidade               | 11/05/2024 | 11/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Bruno Araújo                               | 11/05/2024 - 11/05/2024 |
+| Guia de Estilo                     | 12/05/2024 | 12/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Pedro Izarias                              | 12/05/2024 - 12/05/2024 |
+| Gravar apresentação                | 12/05/2024 | 12/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno Alexandre                            | 12/05/2024 - 13/05/2024 |
+| Correção pós apresentação          | 14/05/2024 | 15/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 15/05/2024 - 15/05/2024 |
 
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte:  [Breno Alexandre](https://github.com/brenoalexandre0) e  [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 ### Executado
 
@@ -129,6 +133,8 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
+
+<font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
 ## Entrega 4 - Planejamento da Avaliação do Storyboard
 
