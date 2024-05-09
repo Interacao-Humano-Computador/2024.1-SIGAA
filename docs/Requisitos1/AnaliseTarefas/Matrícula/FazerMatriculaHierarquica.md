@@ -45,5 +45,5 @@ Conforme evidenciado, a análise hierárquica das funcionalidades de pré-cadast
 ## Histórico de Versão
 | Versão | Alteração                                   | Responsável  | Revisor         | Data       |
 | ------ | ------------------------------------------- | ------------ | --------------- | ---------- |
-| 1.0    | Criação e realização da análise hierárquica | Iago Passaglia Pereira | | 05/05/2024 |
+| 1.0    | Criação e realização da análise hierárquica | Pedro Izarias | - | 05/05/2024 |
 
