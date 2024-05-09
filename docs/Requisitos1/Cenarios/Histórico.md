@@ -41,14 +41,14 @@ Os cenários demonstram como Ana, uma estudante universitária, utiliza as funci
 
 ## Bibliografia
 
-1. ROSSON, M.B., CARROL, J.M. Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann, 2002.
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-2. COOPER, Alan. The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition). Sams Publishing, 1999.
+COOPER, Alan. The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition). Sams Publishing, 1999.
 
-3. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+ROSSON, M.B., CARROL, J.M. Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann, 2002.
 
 ## Histórico de versões
 
 | Versão | Alteração                     | Responsável    | Revisor         | Data       |
-|--------|-------------------------------|----------------|---------------- |------------|
-| 1.0    | Criação do documento          | Luana Medeiros |       -         | 06/05/2024 |
+| ------ | ----------------------------- | -------------- | --------------- | ---------- |
+| 1.0    | Criação do documento          | Luana Medeiros | Breno Alexandre | 06/05/2024 |
