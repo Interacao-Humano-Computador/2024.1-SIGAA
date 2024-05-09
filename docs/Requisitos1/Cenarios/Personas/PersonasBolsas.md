@@ -52,7 +52,7 @@ As duas personas representam dois estudantes da Universidade de Brasília, em ce
 | **Expectativas**      | Clareza nas opções de bolsa disponíveis, um formulário de solicitação com pré-carregamento de dados pessoais e um processo transparente de aplicação e acompanhamento. |
 
 ### Tabela 3: Persona - João Augusto
-![persona 1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/personaJoao.png)
+![persona 1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/personaJoao.png)
 
 | Aspecto               | Descrição |
 |-----------------------|-----------|
