@@ -61,19 +61,16 @@ Diante desses insights, recomenda-se uma revisão cuidadosa da estrutura de nave
 
 Além disso, é fundamental realizar testes adicionais de usabilidade para validar e iterar sobre a nova estrutura proposta, garantindo que atenda às necessidades dos usuários de forma abrangente. Ao priorizar a clareza, consistência e relevância da informação apresentada, o site SIGAA poderá oferecer uma experiência mais satisfatória para seus usuários, fortalecendo assim sua utilidade e eficácia como uma ferramenta de suporte acadêmico e administrativo.
 
-
-## Referências bibliográficas
-
-1. Nielsen, Jakob. Card sorting: How many users to test. Alertbox. Julho 2004.
-
 ## Bibliografia
 
 Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
 
+Nielsen, Jakob. Card sorting: How many users to test. Alertbox. Julho 2004.
+
 ## Histórico de versões
 
 | Versão | Alteração                     | Responsável    | Revisor         | Data       |
-|--------|-------------------------------|----------------|---------------- |------------|
-| 1.0    | Criação do documento          | Luana Medeiros | -               | 05/05/2024 |
+| ------ | ----------------------------- | -------------- | --------------- | ---------- |
+| 1.0    | Criação do documento          | Luana Medeiros | Breno Alexandre | 05/05/2024 |
 
 
