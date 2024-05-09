@@ -51,6 +51,20 @@ As duas personas representam dois estudantes da Universidade de Brasília, em ce
 | **Tarefas Principais**| Navegar pelo SIGAA para encontrar bolsas adequadas, preencher e submeter o formulário de solicitação. |
 | **Expectativas**      | Clareza nas opções de bolsa disponíveis, um formulário de solicitação com pré-carregamento de dados pessoais e um processo transparente de aplicação e acompanhamento. |
 
+### Tabela 3: Persona - João Augusto
+![persona 1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/personaJoao.png)
+
+| Aspecto               | Descrição |
+|-----------------------|-----------|
+| **Idade**             | 24 anos   |
+| **Escolaridade**      | Ensino Superior Incompleto |
+| **Profissão**         | Estudante de Engenharia de Energia |
+| **Residência**        | Brasília  |
+| **Descrição**         | Lucas busca apoio financeiro através de uma bolsa de estudos para continuar seus estudos em Engenharia de Energia. Ele espera que o processo de solicitação seja organizado e justo. |
+| **Objetivos**         | Encontrar e aplicar para bolsas que correspondam ao seu perfil acadêmico e necessidade financeira. |
+| **Tarefas Principais**| Navegar pelo SIGAA para encontrar bolsas adequadas, preencher e submeter o formulário de solicitação. |
+| **Expectativas**      | Clareza nas opções de bolsa disponíveis, um formulário de solicitação com pré-carregamento de dados pessoais e um processo transparente de aplicação e acompanhamento. |
+
 ## Benefícios do Uso de Personas
 
 Com personas bem definidas, como Juliana e Lucas, o SIGAA pode desenvolver interfaces e funcionalidades que realmente atendem às necessidades dos estudantes, melhorando a experiência do usuário e aumentando a usabilidade do sistema.
