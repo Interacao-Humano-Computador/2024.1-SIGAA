@@ -49,4 +49,4 @@ O cenário narrado oferece uma visão detalhada do processo de pré-cadastro de 
 
 | Versão | Alteração                     | Responsável    | Revisor         | Data       |
 |--------|-------------------------------|----------------|---------------- |------------|
-| 1.0    | Criação do documento          | Iago Passaglia | - | 05/05/2024 |
+| 1.0    | Criação e desenvolvimento do documento   | Iago Passaglia | - | 05/05/2024 |
