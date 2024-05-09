@@ -56,14 +56,14 @@ As duas personas representam dois estudantes da Universidade de Brasília, em ce
 
 | Aspecto               | Descrição |
 |-----------------------|-----------|
-| **Idade**             | 24 anos   |
+| **Idade**             | 21 anos   |
 | **Escolaridade**      | Ensino Superior Incompleto |
-| **Profissão**         | Estudante de Engenharia de Energia |
+| **Profissão**         | Estudante de Engenharia de Software |
 | **Residência**        | Brasília  |
-| **Descrição**         | Lucas busca apoio financeiro através de uma bolsa de estudos para continuar seus estudos em Engenharia de Energia. Ele espera que o processo de solicitação seja organizado e justo. |
-| **Objetivos**         | Encontrar e aplicar para bolsas que correspondam ao seu perfil acadêmico e necessidade financeira. |
-| **Tarefas Principais**| Navegar pelo SIGAA para encontrar bolsas adequadas, preencher e submeter o formulário de solicitação. |
-| **Expectativas**      | Clareza nas opções de bolsa disponíveis, um formulário de solicitação com pré-carregamento de dados pessoais e um processo transparente de aplicação e acompanhamento. |
+| **Descrição**         | João é estudante de engenharia e estagiário e deseja fazer a matéria de Cálculo 2 para continuar seu estágio a tarde. |
+| **Objetivos**         | Conseguir matrícula na matéria de Cálculo 2 no período da manhã. |
+| **Tarefas Principais**| Navegar pelo SIGAA para procurar professores disponíveis na disciplina em questão no período desejado. |
+| **Expectativas**      | Objetividade na escolha das opções e clareza quanto ao resultado da matrícula realizada. |
 
 ## Benefícios do Uso de Personas
 
