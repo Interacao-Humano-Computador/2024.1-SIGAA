@@ -24,4 +24,4 @@ Na Figura 1, é possível observar os principais dados da persona Ana:
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do Ana | Iago Passaglia | Bruno Cunha | 06/05/2024 |
-| 1.1 | Adição da Introdução | Pedro Augusto | - | 09/05/2024 |
+| 1.1 | Adição da Introdução | Pedro Augusto | Iago Passaglia Pereira | 09/05/2024 |
