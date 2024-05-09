@@ -10,14 +10,6 @@ A escolha pela Análise Hierárquica de Tarefas foi feita pela sua capacidade de
 
 Este método facilita a identificação e a análise de problemas, permitindo otimizações que podem melhorar significativamente a experiência do usuário e a eficácia do sistema.
 
-# Análise Hierárquica de Tarefas no SIGAA - Aba Estágios
-
-## Introdução
-
-A funcionalidade da aba "Estágios" no SIGAA permite aos estudantes acessar e gerenciar vários aspectos relacionados aos estágios ofertados pela instituição, desde a inscrição até o acompanhamento referente ao processo de cadastro. Cada tarefa foi decomposta para facilitar a compreensão dos processos envolvidos e melhorar a interação do usuário com o sistema.
-
-# Análise Hierárquica de Tarefas (HTA) para o Menu "Estágios" no SIGAA
-
 ## Tabela 1: Pré-cadastro de estágio
 **Introdução:** Esta seção abrange todas as operações relacionadas ao Pré-cadastro de estágio, permitindo aos alunos solicitar a validação o estágio em que pretendem atuar.
 
@@ -41,11 +33,11 @@ A funcionalidade da aba "Estágios" no SIGAA permite aos estudantes acessar e ge
 Como é possível observar, a análise hierárquica para a funcionalidade de pré-cadastro e gerenciamento de estágios revelaram uma estrutura complexa de tarefas e interações dentro do processo. Assim, ao desmembrar cada etapa em objetivos, passo a passo, métodos e regras, foi possível compreender detalhadamente as ações dos usuários e identificar áreas de relevância.
 
 ## Bibliografia
-1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
+**BARBOSA**, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário.
 
 ## Histórico de Versão
-| Versão | Alteração                                   | Responsável  | Revisor         | Data       |
-| ------ | ------------------------------------------- | ------------ | --------------- | ---------- |
-| 1.0    | Criação e realização da análise hierárquica | Iago Passaglia Pereira | | 05/05/2024 |
+| Versão | Alteração                                   | Responsável    | Revisor         | Data       |
+| ------ | ------------------------------------------- | -------------- | --------------- | ---------- |
+| 1.0    | Criação e realização da análise hierárquica | Iago Passaglia | Breno Alexandre | 05/05/2024 |
 
 
