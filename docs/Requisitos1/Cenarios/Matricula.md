@@ -37,9 +37,9 @@ A tabela 1 mostra os elementos em relação ao cenário de efetuar a matrícula 
 | --- | --- |
 |**Por que a realização de matrícula é necessária** | Para documentar a requisição do estudante pela matrícula e  selecionar os alunos que terão acesso aquela matéria.|
 |**Como a estudante acessa a área para matrícula no SIGAA?** | Ele precisa logar no sigaa, ir na aba Ensino, acessar a opção Matrícula On-line e por fim, a opção de Realizar matrícula. |
-|**O que é necessário para realizar a matrícula?** | O estudante deve procurar a matéria que deseja e incluir na matrícula |
-|**A declaração pode ser feita de forma automática anualmente?** | Não, a estudante precisa acessar e realizar o processo manualmente cada ano. |
-|**A informação sobre a bolsa faz parte dos dados principais do estudante no sistema?** | Sim, as informações sobre bolsas são integradas ao perfil do estudante e visíveis na área de declaração. |
+|**O que é necessário para realizar a matrícula?** | O estudante deve procurar a matéria que deseja e incluir na matrícula e por fim confirmar.|
+|**A declaração pode ser feita de forma automática anualmente?** | Não, a cada semestre o estudante deve realizar a matrícula, inclusive em períodos de verão. |
+|**A informação sobre a matrícula faz parte dos dados principais do estudante no sistema?** | Sim, as informações sobre matrícula são explícitas na aba de Ensino, tanto  para atestado de matrícula quanto para realização de matrícula. |
 
 ## Narrativa
 
