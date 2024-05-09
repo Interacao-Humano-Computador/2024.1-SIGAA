@@ -216,7 +216,7 @@ Abaixo, no algoritmo 2, há a execução do método GOMS
 Como é possível observar, a análise hierárquica e a aplicação do método GOMS para a funcionalidade de pedido de monitoria revelaram uma estrutura complexa de tarefas e interações dentro do processo. Assim, ao desmembrar cada etapa em objetivos, passo a passo, métodos e regras, foi possível compreender detalhadamente as ações dos usuários e identificar áreas de relevância.
 
 ## Bibliografia
-1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
+Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. pgs. 178-176.
 
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
