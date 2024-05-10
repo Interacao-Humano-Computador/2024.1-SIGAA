@@ -26,7 +26,7 @@ Tabela 1: Cronograma
 | Data       | Atividade                         |
 | ---------- | --------------------------------- |
 | 22/04/2024 | Entrar em contato com o estudante |
-| 24/04/204  | Gravação da entrevista            |
+| 24/04/2024  | Gravação da entrevista            |
 | 03/05/2024 | Documentação da entrevista        |
 
 Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
