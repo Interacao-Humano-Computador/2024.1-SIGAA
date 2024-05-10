@@ -63,21 +63,21 @@ Abaixo há uma lista dos objetivos que foram listados em conjunto nas entrevista
 
 Abaixo há uma lista das funcionalidades utilizadas que foram mais listadas no conjunto das entrevistas:
 
-    • Realização de matrículas.
-    • Acompanhar notícias que os professores colocam no portal da turma.
-    • Verificar horário das turmas.
-    • Verificar local das aulas.
-    • Verificar nota.
-    • Verificar frequência.
-    • Verificar menção.
-    • Emitir Histórico.
-    • Realizar cadastro único.
-    • Visualizar a estrutura curricular.
-    • Alteração de dados.
-    • Realizar cadastro na DACES.
-    • Cadastro de Estágio.
-    • Consultar datas das provas.
-    • Consultar saldo do RU.
+ - Realização de matrículas.
+ - Acompanhar notícias que os professores colocam no portal da turma.
+ - Verificar horário das turmas.
+ - Verificar local das aulas.
+ - Verificar nota.
+ - Verificar frequência.
+ - Verificar menção.
+ - Emitir Histórico.
+ - Realizar cadastro único.
+ - Visualizar a estrutura curricular.
+ - Alteração de dados.
+ - Realizar cadastro na DACES.
+ - Cadastro de Estágio.
+ - Consultar datas das provas.
+ - Consultar saldo do RU.
 
 ##  Como Avalia a Usabilidade do Site
 
