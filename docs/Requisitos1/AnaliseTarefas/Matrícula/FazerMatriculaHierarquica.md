@@ -40,10 +40,10 @@ A aba "Ensino" no SIGAA oferece aos estudantes a capacidade de acessar e gerenci
 Conforme evidenciado, a análise hierárquica das funcionalidades de pré-cadastro e gerenciamento de estágios destacou uma estrutura intricada de tarefas e interações no processo. Ao decompor cada etapa em objetivos, sequências de passos, métodos e diretrizes, conseguimos compreender minuciosamente as ações dos usuários e identificar áreas de importância.
 
 ## Bibliografia
-1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
+**BARBOSA**, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
 
 ## Histórico de Versão
-| Versão | Alteração                                   | Responsável  | Revisor         | Data       |
-| ------ | ------------------------------------------- | ------------ | --------------- | ---------- |
-| 1.0    | Criação e realização da análise hierárquica | Pedro Izarias | - | 05/05/2024 |
+| Versão | Alteração                                   | Responsável   | Revisor         | Data       |
+| ------ | ------------------------------------------- | ------------- | --------------- | ---------- |
+| 1.0    | Criação e realização da análise hierárquica | Pedro Izarias | Breno Alexandre | 05/05/2024 |
 
