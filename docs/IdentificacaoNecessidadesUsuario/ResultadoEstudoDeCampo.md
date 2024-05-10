@@ -28,11 +28,11 @@ se utilize diferentes técnicas e usuários dentro do espectro definido no perfi
 
 ## Bibliografia
 
-Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
+**BARBOSA**, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
 
 ## Histórico de versões
 
 | Versão | Alteração                     | Responsável    | Revisor         | Data       |
 |--------|-------------------------------|----------------|---------------- |------------|
-| 1.0    | Criação do documento          | Pedro Augusto | -               | 06/05/2024 |
+| 1.0    | Criação do documento          | Pedro Augusto  | Breno Alexandre | 06/05/2024 |
 
