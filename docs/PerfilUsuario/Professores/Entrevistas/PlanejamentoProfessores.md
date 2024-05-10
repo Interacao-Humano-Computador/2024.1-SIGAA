@@ -114,4 +114,4 @@ Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Ba
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento| Larissa Stéfane | Breno Alexandre | 19/04/2024 |
+| 1.0 | Criação e realização do documento| Larissa Stéfane | Breno Alexandre | 18/04/2024 |
