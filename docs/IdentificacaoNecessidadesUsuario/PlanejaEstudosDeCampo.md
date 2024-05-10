@@ -34,10 +34,10 @@ Utilizando a técnica de estudo de campo em pesquisas de Interação Humano-Comp
 
 ## Bibliografia
 
-Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
+**BARBOSA**, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
 
 ## Histórico de versões
 
 | Versão | Alteração                     | Responsável    | Revisor         | Data       |
 |--------|-------------------------------|----------------|---------------- |------------|
-| 1.0    | Criação do documento          | Pedro Augusto  | Breno Alexandre  | 01/05/2024 |
+| 1.0    | Criação do documento          | Pedro Augusto  | Breno Alexandre | 01/05/2024 |
