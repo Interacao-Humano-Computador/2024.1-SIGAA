@@ -84,7 +84,7 @@ Em suma, a análise das entrevistas realizadas com os docentes revelou uma varie
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e elaboração do documento | Larissa Stéfane | Breno Alexandre  | 28/04/2024 |
-| 1.0 | Adição de mais resultados| Larissa Stéfane | Breno Alexandre  | 05/05/2024 |
+| 1.1 | Adição de mais resultados| Larissa Stéfane | Breno Alexandre  | 05/05/2024 |
 
 
 
