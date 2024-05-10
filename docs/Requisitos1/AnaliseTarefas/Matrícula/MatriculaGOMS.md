@@ -70,8 +70,9 @@ Nesta tarefa, o objetivo do usuário é efetuar a matrícula em uma matéria
 A aplicação do método GOMS ao sistema SIGAA, especialmente nas tarefas de trancamento e realização da matrícula, resultou em uma análise minuciosa das ações requeridas para completar essas atividades. Por meio deste método, foi possível descrever cada passo envolvido, desde o login até a conclusão das tarefas específicas, destacando os operadores e métodos utilizados pelos usuários. Esta análise proporcionou uma compreensão clara dos processos cognitivos e das interações físicas necessárias, permitindo a identificação de áreas potenciais de aprimoramento no design da interface. Por exemplo, a simplificação dos processos de navegação e a redução do número de cliques podem aliviar a carga cognitiva e otimizar a eficiência do usuário durante a realização de suas tarefas.
 
 ## Bibliografia
-1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 04 de maio de 2024.
-2. Vários Autores. GOMS. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/goms/#comprar-ingresso/>. Acesso em 04 de maio de 2024.
+**BARBOSA**, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário.
+
+**VÁRIOS AUTORES**. GOMS. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/goms/#comprar-ingresso/>. Acessado em 04 de maio de 2024.
 
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
