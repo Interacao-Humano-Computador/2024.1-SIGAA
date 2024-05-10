@@ -10,6 +10,8 @@ A escolha pela Análise Hierárquica de Tarefas foi feita pela sua capacidade de
 
 Este método facilita a identificação e a análise de problemas, permitindo otimizações que podem melhorar significativamente a experiência do usuário e a eficácia do sistema.
 
+# Análise Hierárquica de Tarefas (HTA) para o Menu "Estágios" no SIGAA
+
 ## Tabela 1: Pré-cadastro de estágio
 **Introdução:** Esta seção abrange todas as operações relacionadas ao Pré-cadastro de estágio, permitindo aos alunos solicitar a validação o estágio em que pretendem atuar.
 
