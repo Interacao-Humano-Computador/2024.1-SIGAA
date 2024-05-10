@@ -28,7 +28,7 @@ O experimento foi realizado sem maiores dificuldades por parte dos participantes
 
 ## Bibliografia
 
-Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
+**BARBOSA**, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
 
 ## Histórico de versões
 
