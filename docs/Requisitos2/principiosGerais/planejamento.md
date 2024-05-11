@@ -58,4 +58,10 @@ O algoritmo 1 mostra o templete de como a organização da análise dos príncip
 
 O planejamento das análises dos princípios gerais do projeto do SIGAA representa um passo fundamental nesta etapa do projeto, pois estabelece uma metodologia clara e designa análises específicas para cada princípio, visamos garantir uma análise mais abrangente e consistente no projeto. 
 
+## Histórico de Versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação do documento | Larissa Stéfane | - | 11/05/2024 |
+
 
