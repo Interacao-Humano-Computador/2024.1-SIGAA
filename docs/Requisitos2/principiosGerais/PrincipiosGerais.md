@@ -185,6 +185,8 @@ A aba de extensão no SIGAA viola a expectativa do usuário ao não priorizar as
 
 GIF 5: Localizar disciplina na matrícula
 
+![IHC_PG_MATRICULAS_GIMP](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/f2cd69f7-6626-4c56-8f75-70d9b921958b)
+
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 <br>
@@ -208,6 +210,7 @@ Esse processo contrasta fortemente com a expectativa do usuário de uma busca si
 <div align="center">
 
 GIF 6: Localizar extrato do RU
+
 
 ![IHC_PG_RU](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/4ca4b159-9804-450c-9e82-5baf452e5a7b)
 
@@ -233,6 +236,8 @@ A opção de acessar e verificar o extrato do saldo de crédito no Restaurante U
 <div align="center">
 
 GIF 7: Mudar o tamanho da fonte
+
+![IHC_PG_TAMANHOFONTE_GIMP](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/f8cc1afa-bfdc-4ca4-bbcf-f301f27f93e8)
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
