@@ -60,31 +60,31 @@ Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, h
          1.1.3 Confirmar Transação com Cartão de Crédito (1>2)
            1.1.3.1 Autorizar Pagamento
            1.1.3.2 Verificar Transação Aprovada
-       1.2 Opção de Boleto Bancário
-         1.2.1 Gerar Boleto com Valor a Ser Pago
+       1.2 Opção de Boleto Bancário (1/2)
+         1.2.1 Gerar Boleto com Valor a Ser Pago (1>2)
            1.2.1.1 Gerar Boleto com Dados do Pagador
            1.2.1.2 Emitir Boleto com Valor Adequado
-         1.2.2 Realizar Pagamento do Boleto
+         1.2.2 Realizar Pagamento do Boleto (1>2)
            1.2.2.1 Efetuar Pagamento através do Banco ou Internet Banking
            1.2.2.2 Confirmar Pagamento do Boleto
-       1.3 Opção de PIX
-         1.3.1 Inserir Valor a Ser Recarregado
+       1.3 Opção de PIX (1/2)
+         1.3.1 Inserir Valor a Ser Recarregado (1>2)
            1.3.1.1 Digitar Valor Desejado para Recarga
-         1.3.2 Gerar QR Code para Pagamento via PIX
+         1.3.2 Gerar QR Code para Pagamento via PIX (1>2)
            1.3.2.1 Gerar Código QR com Dados da Transação
            1.3.2.2 Disponibilizar Código QR para Escaneamento
-         1.3.3 Efetuar Pagamento via PIX
+         1.3.3 Efetuar Pagamento via PIX (1>2)
            1.3.3.1 Escanear QR Code com Aplicativo Bancário
            1.3.3.2 Confirmar Transação PIX
-     2. Receber Confirmação e Comprovante
+     2. Receber Confirmação e Comprovante (1>2)
        2.1 Visualizar Confirmação da Transação
          2.1.1 Receber Notificação de Sucesso
-       2.2 Receber Comprovante de Pagamento
+       2.2 Receber Comprovante de Pagamento (1>2)
          2.2.1 Gerar Comprovante em Formato Digital ou PDF
-     3. Atualizar Saldo na Conta do Usuário
+     3. Atualizar Saldo na Conta do Usuário (1>2)
        3.1 Refletir Saldo Atualizado na Conta do Usuário
          3.1.1 Verificar Disponibilidade de Recursos Recarregados
-     4. Oferecer Suporte ao Usuário
+     4. Oferecer Suporte ao Usuário (1>2)
        4.1 Disponibilizar Canal de Atendimento ao Cliente
          4.1.1 Chat ao Vivo, Suporte por Telefone, E-mail, etc.
 
@@ -168,3 +168,4 @@ Como é possível observar, a análise hierárquica e a aplicação do método G
 | Versão | Alteração                                   | Responsável     | Revisor         | Data       |
 | ------ | ------------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação e realização da análise hierárquica | Breno Alexandre | -               | 09/05/2024 |
+| 1.1    | Refatoração da análise hierárquica          | Breno Alexandre | -               | 11/05/2024 |
