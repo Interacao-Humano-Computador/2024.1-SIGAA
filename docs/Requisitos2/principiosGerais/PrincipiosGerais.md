@@ -10,6 +10,7 @@
     * [Como é aplicado no SIGAA](#Como-é-aplicado-no-SIGAA)
     * [Como será utilizado no projeto](#Como-será-utilizado-no-projeto)
 * [Equilíbrio entre controle e liberdade do usuário](#Equilibrio-entre-controle-e-liberdade-do-usuário)
+* [Conteúdo Relavante e Expressão Adequada](#Conteúdo-Relavante-e-Expressão-Adequada)
 * [Conclusão](#Conclusão)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
@@ -424,5 +425,7 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo | 10/05/2024 |
 | 1.1 | Adição da introdução | Larissa Stéfane | Bruno Araújo | 11/05/2024 |
-| 1.2 | Adição do princípio Correspondências com as expectativas dos usuários| Larissa Stéfane | - | 11/05/2024 |
-| 1. ? | Adição da conclusão (Deve ser o último) | Larissa Stéfane | - | 11/05/2024 |
+| 1.2 | Adição do princípio Correspondências com as expectativas dos usuários | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
+| 1.3 | Adição da conclusão (Deve ser o último) | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
+| 1.4 | Adição do Conteúdo Relavante e Expressão Adequada | Iago Passaglia | - | 11/05/2024 |
+
