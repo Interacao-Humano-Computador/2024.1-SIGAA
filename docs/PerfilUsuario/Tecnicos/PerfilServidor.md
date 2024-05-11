@@ -53,12 +53,12 @@ Como foi falado no tópico anterior, a análise do perfil dos servidores técnic
 ## Conclusão
 A análise do perfil dos servidores técnicos das universidades revela um grupo diversificado, principalmente em relação a experiências e níveis educacionais.
 
-## Referência Bibliografia
-**Perfil de competências dos servidores técnico-administrativos em uma jovem universidade**. Disponível em <https://www.mpsp.mp.br/portal/page/portal/documentacao_e_divulgacao/doc_biblioteca/bibli_servicos_produtos/bibli_boletim/bibli_bol_2006/IF-dir_v.06_n.03.08.pdf>. Acesso em 06 de maio de 2024.
+## Referências Bibliográficas
+1. **Perfil de servidores técnico-administrativos de um campus de uma universidade federal paulista**. Disponível em: <https://convibra.org/congresso/res/uploads/pdf/2018_38_15243.pdf>. Acesso em 06 de maio de 2024.
 
-**Perfil de servidores técnico-administrativos de um campus de uma universidade federal paulista**. Disponível em: <https://convibra.org/congresso/res/uploads/pdf/2018_38_15243.pdf>. Acesso em 06 de maio de 2024.
+2. UNIVERSIDADE DE BRASÍLIA. **Decanto gestão de pessoas**. Disponível em: <https://dgp.unb.br/perfil-tecnico#estrutura-da-carreira-dos-cargos-tecnico-administrativos-em-educacao>. Acesso em 06 de maio de 2024.
 
-UNIVERSIDADE DE BRASÍLIA. **Decanto gestão de pessoas**. Disponível em: <https://dgp.unb.br/perfil-tecnico#estrutura-da-carreira-dos-cargos-tecnico-administrativos-em-educacao>. Acesso em 06 de maio de 2024.
+3. **Perfil de competências dos servidores técnico-administrativos em uma jovem universidade**. Disponível em <https://www.mpsp.mp.br/portal/page/portal/documentacao_e_divulgacao/doc_biblioteca/bibli_servicos_produtos/bibli_boletim/bibli_bol_2006/IF-dir_v.06_n.03.08.pdf>. Acesso em 06 de maio de 2024.
 
 
 ## Histórico de Versão
