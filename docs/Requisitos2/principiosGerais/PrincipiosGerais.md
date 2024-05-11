@@ -369,7 +369,7 @@ Para visualizar as situações, basta clicar nos triângulos:
 
 GIF 10: Ausência da opção de verificar frequência no SIGAA MOBILE.
 
-
+![antecipacao1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/c2dc03c7-1df0-4d76-b5b7-3c454f14a470)
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -401,7 +401,7 @@ Assim, quando os alunos têm acesso ao SIGAA apenas pelo celular e precisam veri
 
 GIF 11: Ausência da informação de localidade nas vagas de estágio.
 
-
+![antecipacao2](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/1dd7b90b-3bc4-4488-9c6b-c2725d16c2cc)
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -456,7 +456,7 @@ A ausência de informações cruciais para enviar mensagens no SIGAA viola o pri
 
 GIF 13: Com quais informações completar?
 
-
+![antecipacao4](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/46eee1e1-66a1-4ab3-beed-e1e8f95b8c36)
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
