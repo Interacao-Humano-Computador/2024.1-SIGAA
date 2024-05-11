@@ -9,6 +9,11 @@
     * [Como é violado no SIGAA](#Como-é-violado-no-SIGAA)
     * [Como é aplicado no SIGAA](#Como-é-aplicado-no-SIGAA)
     * [Como será utilizado no projeto](#Como-será-utilizado-no-projeto)
+* [Antecipação das Necessidades do Usuário](#Antecipação-das-Necessidades-do-Usuário) 
+    * [O que é](#O-que-é)
+    * [Como é violado no SIGAA](#Como-é-violado-no-SIGAA)
+    * [Como é aplicado no SIGAA](#Como-é-aplicado-no-SIGAA)
+    * [Como será utilizado no projeto](#Como-será-utilizado-no-projeto)
 * [Equilíbrio entre controle e liberdade do usuário](#Equilibrio-entre-controle-e-liberdade-do-usuário)
 * [Conteúdo Relavante e Expressão Adequada](#Conteúdo-Relavante-e-Expressão-Adequada)
 * [Conclusão](#Conclusão)
@@ -502,7 +507,22 @@ A tarefa de alterar dados pessoais no sistema demonstra a aplicação do princí
 
 </details>
 
+## Como será utilizado no projeto?
 
+
+No projeto, o princípio de antecipação das necessidades dos usuários será aplicado de várias maneiras para garantir uma experiência de usuário mais intuitiva e eficiente. Desse modo, ao refatorar e criar funcionalidades, serão considerados diversos tópicos para antecipar as necessidades dos usuários:
+
+
+- **Análise do usuário**: Já foirealizada uma análise aprofundada do usuário-alvo, por meio do perfil dos usuários, para compreender suas necessidades, preferências e comportamentos ao utilizar o sistema.
+
+
+- **Feedback dos usuários**: serão coletados feedbacks dos usuários em relação às funcionalidades para entender suas expectativas em relação ao sistema e identificar áreas onde as necessidades dos usuários não estão sendo atendidas ou são confusas.
+
+
+- **Antecipação de ações:**: As funcionalidades serão projetadas para antecipar as ações dos usuários, oferecendo sugestões e orientações contextuais conforme necessário.
+
+
+- **Informações claras e explicativas:** Serão fornecidas informações claras e explicativas em todo o sistema para orientar os usuários e ajudá-los a entender como realizar tarefas específicas.
 
 
 
