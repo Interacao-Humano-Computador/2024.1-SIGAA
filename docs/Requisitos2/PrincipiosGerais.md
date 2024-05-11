@@ -4,7 +4,7 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
-* [Cronograma das Entrevistas](#Cronograma-das-Entrevistas)
+* [Equilíbrio entre controle e liberdade do usuário](#Equilibrio)
 * [Conclusão](#Conclusão)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
@@ -15,7 +15,7 @@
 ## Metodologia
 
 
-## Cronograma das Entrevistas
+## Equilíbrio entre controle e liberdade do usuário
 
 
 ## Conclusão
