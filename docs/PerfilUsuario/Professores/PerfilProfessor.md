@@ -55,10 +55,9 @@ A abordagem metodológica empregada para examinar o perfil dos professores consi
 Ao analisar o perfil dos professores, é possível identificar suas características, habilidades e preferências, fundamentais para compreender suas necessidades e comportamentos em relação a sistemas educacionais como o SIGAA. Esses dados demográficos, educacionais e tecnológicos são essenciais para o desenvolvimento de ferramentas e estratégias que atendam às demandas e objetivos desses profissionais de forma eficaz.
 
 ## Bibliografia
+Análise das entrevistas. Disponível em: <https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/PerfilUsuario/Professores/Entrevistas/ResultadoEntrevista.md>. Acesso em 6 de abril de 2024.
 
 Resultados do questionário. Disponível em: <https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/PerfilUsuario/Professores/Questionarios/AnaliseResultados.md> Acesso em 6 de abril de 2024.
-
-Análise das entrevistas. Disponível em: <https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/PerfilUsuario/Professores/Entrevistas/ResultadoEntrevista.md>. Acesso em 6 de abril de 2024.
 
 ## Históricos de Versões:
 
