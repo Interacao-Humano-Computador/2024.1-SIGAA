@@ -74,12 +74,11 @@ Abaixo, há algumas funcionalidades que violam o princípio, os GIF de 1 até 7 
 
 <summary size="20"><b> Funcionalidade de ajuda </b></summary>
 
-
-![IHC_PG_AJUDA-GIMP](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/141f8e01-cca0-4caf-a3f6-48a7fbcad22b)
-
 <div align="center">
 
 GIF 1: Como funciona a funcionalidade de ajuda
+
+![IHC_PG_AJUDA-GIMP](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/141f8e01-cca0-4caf-a3f6-48a7fbcad22b)
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -103,6 +102,9 @@ Desse modo, é possível observar que o pedido de ajuda pelo SIGAA é bem difere
 <div align="center">
 
 GIF 2: Encontrar o calendário acadêmico
+
+![IHC_PG_CALENDARIO_GIMP](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/e1f4dfba-ec56-4e34-b112-4f32d0909ca0)
+
 
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -153,6 +155,8 @@ Isso fica evidente ao se comparar como um estudante faria pessoalmente na secret
 
 <summary size="20"><b> Organização da aba de extensão </b></summary>
 
+
+![IHC_PG_EXTENSAO_GIMP](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/1d951cd4-206b-4c43-a220-a0cc9d623955)
 
 <div align="center">
 
