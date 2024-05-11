@@ -222,6 +222,8 @@ Abaixo, os GIF 8 e 9 apresentam algumas funcionalidades em que o princípio é a
 
 <summary size="20"><b> Verificar notas e histórico </b></summary>
 
+![IHC_PG_NOTAS](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/573b3435-72c1-4a23-9bc5-1ded862a3491)
+
 
 <div align="center">
 
