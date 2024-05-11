@@ -102,6 +102,8 @@ O outro método de acessar o calendário acadêmico também não corresponde à 
 
 GIF 3: Atendimento para necessidades específicas
 
+![IHC_PG_DACES](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/56655256-9df2-4ce3-93b3-a881e9702c3f)
+
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 <br>
