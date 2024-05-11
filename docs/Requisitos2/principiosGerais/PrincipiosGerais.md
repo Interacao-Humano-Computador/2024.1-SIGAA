@@ -333,6 +333,73 @@ Com base nisso, para aplicar o princípio de correspondência com a expectativa 
 - **Uso de ícones reconhecíveis:** Ícones serão selecionados com base em sua familiaridade e reconhecimento pelos usuários conforme o que eles estão acostumados e esperam deles.
 
 
+## Antecipação das Necessidades do Usuário
+
+
+### O que é
+
+
+De acordo com o livro “Interação Humano-Computador e Experiência do Usuário”¹, o princípio de antecipação das necessidades do usuário preconiza que as aplicações devem ser proativas em fornecer informações e ferramentas, ou seja, devem ser previstas antes mesmo que o usuário as solicite explicitamente. Com isso, em vez de esperar que os usuários busquem ou coletem informações, o sistema deve antecipar suas necessidades e apresentar as informações relevantes de forma intuitiva e oportuna.
+
+Além disso, o princípio de antecipação implica na capacidade do sistema em aprender com o usuário ao prever suas ações futuras para facilitar a interação. Consequentemente, isso inclui ajustar os valores padrões para melhor atender às necessidades do usuário em diferentes contextos. Em suma, visa oferecer uma experiência mais intuitiva e eficiente, antecipando e atendendo às necessidades do usuário de forma proativa.
+
+
+### Como é violado no SIGAA
+
+
+No SIGAA, é possível observar algumas necessidades dos usuários não são atendidas no site, seja pela sua falta de implementação ou porque algumas implementadas não realizam tudo o que é necessário. Desse modo, os GIF 10 e 11 mostram algumas dessas situações, assim como as imagens 1, 2 e 3.
+
+
+Para visualizar as situações, basta clicar nos triângulos:
+
+
+<details>
+
+
+<summary size="20"><b> Deficiência no SIGAA MOBILE: Impossibilidade de verificar presença </b></summary>
+
+
+<div align="center">
+
+
+GIF 10: Ausência da opção de verificar frequência no SIGAA MOBILE.
+
+
+
+Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+
+<br>
+
+
+</div>
+
+
+
+A impossibilidade de verificar a frequência pelo SIGAA Mobile viola o princípio de **antecipação das necessidades do usuário** ao não antecipar a necessidade dos estudantes de acessarem informações importantes sobre sua frequência.
+
+
+Assim, quando os alunos têm acesso ao SIGAA apenas pelo celular e precisam verificar a sua frequência, essa opção não apresenta as formas ou ferramentas de como ser acessada de forma explicita, o que torna a experiência do usuário desagradável.
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
