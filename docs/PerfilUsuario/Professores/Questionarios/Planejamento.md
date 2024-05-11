@@ -293,13 +293,13 @@ Será dada ênfase à evidência dos benefícios para os participantes, ao mesmo
 Em síntese, este documento representa o planejamento para a execução do questionário destinado aos professores da UnB, visando compreender suas experiências, necessidades e percepções em relação ao SIGAA.
 
 
-## Bibliografia
+## Referências Bibliográficas
 1. **TIPOS de questionários para pesquisa - Projeto de pesquisa**. Disponível em <
 https://www.youtube.com/watch?v=R58sY40fivI> Acesso em 8 abr. 2024.
 2. Profa. Lucia Filgueiras. Prof. Stefan Martins. **Interação Humano-Computador**. Disponível em <https://edisciplinas.usp.br/pluginfile.php/4531121/mod_resource/content/1/IHC%20Usuario_Personas_Pesquisas.pdf> Acesso em 11 abr. 2024.
 3. Barbosa e Silva. ** Identificação de Necessidades dos Usuários e Requisitos de IHC Capítulo 5 **. Disponível em <https://aprender3.unb.br/pluginfile.php/2843695/mod_resource/content/3/Apresentacao%20Cap05.pdf > Acesso em 14 de abr. 2024.
 
 ## Histórico de Versão
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 19/04/2024 |
+| Versão | Alteração                         | Responsável     | Revisor         | Data       |
+| ------ | --------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 19/04/2024 |
