@@ -359,3 +359,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.5    | Padronização das legendas das tabelas                                                                       | Luana Medeiros        | Iago Passaglia  | 11/04/2024 |
 | 1.6    | Correção das legendas das figuras para norma ABNT                                                           | Iago Passaglia        | Breno Alexandre | 11/04/2024 |
 | 1.7    | Preechimento do planejado para a entrega 2 e 3, e do executado para a entrega 2                             | Breno Alexandre       | -               | 09/05/2024 |
+| 1.8    | Preechimento do executado para a entrega 2                                                                  | Breno Alexandre       | -               | 10/05/2024 |
