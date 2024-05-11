@@ -65,13 +65,9 @@ A tabela 1 mostra o cronograma, em ordem alfabética por entrevistado, realizado
 
 
 ## Perguntas Realizadas
-Abaixo, no código 1, há o roteiro das perguntas que serão realizadas durantes as entrevistas, ele foi
-desenvolvido com o intuito de manter um padrão para todos os entrevistados:
+Abaixo, após o processo de treinamento, foi criado um roteiro das perguntas que serão realizadas durantes as entrevistas, ele foidesenvolvido com o intuito de manter um padrão para todos os entrevistados:
 
 **Código 1**: Roteiro das entrevistas
-
-## Perguntas Realizadas
-Abaixo, após o processo de treinamento, foi criado um roteiro das perguntas que serão realizadas durantes as entrevistas, ele foidesenvolvido com o intuito de manter um padrão para todos os entrevistados:
 
 - Nome
 - Qual o seu curso?
@@ -131,9 +127,9 @@ Durante a condução das entrevistas, os entrevistadores priorizarão a pondera�
 ## Conclusão
 Em suma, este documento de planejamento das entrevistas para o projeto sobre o SIGAA representa o compromisso para realizar uma pesquisa de qualidade. Isso ao seguir os princípios éticos fundamentais e garantir que as entrevistas sejam conduzidas de maneira responsável e respeitosa. Além disso, por meio das entrevistas, espera-se obter percepções que informarão sobre o perfil dos estudantes que utilizam o SIGAA, assim como quais são as suas expectativas e frustrações com o site.
 
-## Referência Bibliográfica
+## Referências Bibliográficas
 1. Aprenda a fazer uma entrevista de vídeo, rádio ou podcast. Comunicação na Prática 35.
-Disponível em: https://www.youtube.com/watch?v=pCDN3faGd9I. Acesso em: 18 abr. 2024
+Disponível em: https://www.youtube.com/watch?v=pCDN3faGd9I. Acesso em: 18 abr. 2024.
 2. Como fazer ENTREVISTAS? // Pesquisa qualitativa no Mestrado ou Doutorado - Pesquisa na
 Prática 204. Disponível em: https://www.youtube.com/watch?v=UeWwl5yKBfU. Acesso em: 18
 abr. 2024.
@@ -149,7 +145,7 @@ https://www.youtube.com/watch?v=9WkBYU1Vn0w. Acesso em: 18 abr. 2024.
 https://www.youtube.com/watch?v=nG2fSx4yEwU. Acesso em: 18 abr. 2024.
 8. Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Disponível em: https://www.google.com.br/books/edition/Engenharia_de_Requisitos/gA7kDAAAQBAJ?hl=pt- BR&gbpv=1&printsec=frontcover. Acesso em: 18 abr. 2024.
 9. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021).
-Interação Humano-Computador e Experiência do Usuário. Acesso em 18 de abr. 2024.
+Interação Humano-Computador e Experiência do Usuário.
 
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
