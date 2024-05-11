@@ -429,9 +429,14 @@ A ausência da informação de localidade nas vagas de estágio no SIGAA viola o
 
 Imagem 1: Sem informação de como adicionar documentos.
 
-
-
-Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<div align="center">
+    FImagem 1: Sem informação de como adicionar documentos.
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/antecipacao3.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
 
 
 <br>
@@ -489,11 +494,14 @@ Mesmo violando, em alguns pontos, o princípio de antecipação, o SIGAA também
 <div align="center">
 
 
-Imagem 5: Alterar dados pessoais.
-
-
-
-Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<div align="center">
+    Imagem 5: Alterar dados pessoais
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/antecipacao5.png">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
 
 
 <br>
