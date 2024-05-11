@@ -4,7 +4,7 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
-* [Equilíbrio entre controle e liberdade do usuário](#Equilibrio)
+* [Equilíbrio entre controle e liberdade do usuário](#Equilibrio-entre-controle-e-liberdade-do-usuário)
 * [Conclusão](#Conclusão)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
