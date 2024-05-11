@@ -352,6 +352,9 @@ O equilíbrio entre controle e liberdade do usuário refere-se a encontrar a med
 
 ## Conclusão
 
+Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compreensão abrangente das diretrizes essenciais que guiarão o desenvolvimento e aprimoramento deste sistema vital de gestão acadêmica. Além disso, aumentou a visão crítica que o grupo tem sobre o SIGAA, torando possível observar melhor os seus pontos fortes e fracos.
+
+
 ## Referências Bibliográficas
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 11 de maio de 2024.
 
@@ -362,3 +365,4 @@ O equilíbrio entre controle e liberdade do usuário refere-se a encontrar a med
 | 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo | 10/05/2024 |
 | 1.1 | Adição da introdução | Larissa Stéfane | Bruno Araújo | 11/05/2024 |
 | 1.2 | Adição do princípio Correspondências com as expectativas dos usuários| Larissa Stéfane | - | 11/05/2024 |
+| 1. ? | Adição da conclusão (Deve ser o último) | Larissa Stéfane | - | 11/05/2024 |
