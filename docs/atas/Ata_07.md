@@ -90,8 +90,8 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 14                 |   **Guia de Estilo** - Definir elementos de ação • Preenchimento de campos • Seleçã • Ativação |    Luana Lima          |   11/05/2024     |
 | Issue 15                 |   **Guia de Estilo** - Definir vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação) |     Iago  Passaglia        |   11/05/2024     |
 | Issue 16                 |   Verificar se o guia de estilo está de acordo com o site avaliado (Guia de estilo tem que estar pronto)   |       Bruno e Iago       |   12/05/2024     |
-| Issue 17                 |   Metas de usabilidade   |     Larissa e Breno        |   11/05/2024     |
-| Issue 18                 |   Cronograma da terceira entrega  |     Pedro e Luana       |   11/05/2024     |
+| Issue 17                 |   Metas de usabilidade   |     Pedro e Luana       |   11/05/2024     |
+| Issue 18                 |   Cronograma da terceira entrega  |     Breno Alexande      |   11/05/2024     |
 
 
 
