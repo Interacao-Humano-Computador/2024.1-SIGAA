@@ -56,11 +56,12 @@ Ao analisar o perfil dos professores, é possível identificar suas característ
 
 ## Bibliografia
 
-1. Resultados do questionário. Disponível em <https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/PerfilUsuario/Professores/Questionarios/AnaliseResultados.md> Acesso em 6 de abril de 2024.
-2. Análise das entrevistas. Disponível em <https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/PerfilUsuario/Professores/Entrevistas/ResultadoEntrevista.md>. Acesso em 6 de abril de 2024.
+Resultados do questionário. Disponível em: <https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/PerfilUsuario/Professores/Questionarios/AnaliseResultados.md> Acesso em 6 de abril de 2024.
+
+Análise das entrevistas. Disponível em: <https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/PerfilUsuario/Professores/Entrevistas/ResultadoEntrevista.md>. Acesso em 6 de abril de 2024.
 
 ## Históricos de Versões:
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e elaboração do documento | Larissa Stéfane | - | 06/05/2024 |
+| 1.0 | Criação e elaboração do documento | Larissa Stéfane | Breno Alexandre | 06/05/2024 |
