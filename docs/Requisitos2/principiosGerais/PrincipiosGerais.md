@@ -175,6 +175,9 @@ Esse processo contrasta fortemente com a expectativa do usuário de uma busca si
 
 GIF 6: Localizar extrato do RU
 
+![IHC_PG_RU](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/4ca4b159-9804-450c-9e82-5baf452e5a7b)
+
+
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 <br>
