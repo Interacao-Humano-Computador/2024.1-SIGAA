@@ -43,23 +43,6 @@ A simplicidade nas estruturas das tarefas é essencial para facilitar a interaç
 - Visibilidade do processo da tarefa: Usar tecnologia para tornar processos invisíveis em visíveis, melhorando o feedback e controle do usuário.- 
 - Automação de tarefas repetitivas: Automatizar tarefas ou partes delas para simplificar processos, mas com cautela para não remover o controle do usuário.
 
-### Guia de Estilo - Elementos de Interação
-
-#### Estilos de Interação
-
-A escolha do estilo de interação adequado é crucial para a eficácia do sistema. Os estilos comuns incluem linguagens de comando, interação por menus, por formulários e manipulação direta . Cada estilo tem suas vantagens, e a escolha deve refletir as tarefas que o usuário necessita realizar e a familiaridade do usuário com o tipo de interação.
-
-#### Seleção de um Estilo
-
-Para o portal SIGAA da UNB, considerando que o público-alvo inclui estudantes e professores com diferentes níveis de habilidade tecnológica, um estilo de interação combinando menus e manipulação direta pode ser ideal. Isso permite acesso rápido às funções mais usadas e interação intuitiva com o sistema.
-
-#### Aceleradores (Teclas de Atalho)
-
-Aceleradores, como teclas de atalho, são essenciais para usuários frequentes que desejam eficiência e rapidez. Teclas de atalho para funções comuns como salvar (Ctrl+S) e imprimir (Ctrl+P) devem ser implementadas para acelerar a interação sem prejudicar a experiência dos usuários novatos .
-Estas diretrizes baseiam-se nos princípios e técnicas de design de interação para criar uma experiência de usuário eficiente e agradável, mantendo um equilíbrio entre controle do usuário e liberdade dentro do sistema.
-
-## Correspondências com as expectativas dos usuários
-
 
 ### O que é expectativas?
 
