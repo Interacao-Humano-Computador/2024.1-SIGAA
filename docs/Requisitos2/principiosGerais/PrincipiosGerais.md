@@ -427,8 +427,6 @@ A ausência da informação de localidade nas vagas de estágio no SIGAA viola o
 <div align="center">
 
 
-Imagem 1: Sem informação de como adicionar documentos.
-
 <div align="center">
     FImagem 1: Sem informação de como adicionar documentos.
     <br>
@@ -597,7 +595,7 @@ Além disso, a expressão adequada é evidente na forma como o SIGAA apresenta i
 O uso de palavras menos comuns, como "discente" e "docente" (vide Figura 1), no SIGAA pode, em alguns casos, violar os princípios de conteúdo relevante e expressão adequada. Embora esses termos sejam familiares para os membros da comunidade acadêmica, como estudantes e professores, podem ser menos compreensíveis para usuários externos ou novatos na plataforma. 
 
 <div align="center">
-Figura 1: Violação
+Imagem 6: Violação
 
 ![Discentes/Docentes - Sigaa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/discentes.png?raw=true)
 
