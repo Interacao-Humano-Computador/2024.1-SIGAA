@@ -10,10 +10,10 @@
     * [Como as expectativas são aplicadas no SIGAA](#Como-as-expectativas-são-aplicadas-no-SIGAA)
     * [Como as expectativas serão utilizadas no projeto](#Como-as-expectativas-serão-utilizadas-no-projeto)
 * [Antecipação das Necessidades do Usuário](#Antecipação-das-Necessidades-do-Usuário) 
-    * [O que é](#O-que-é)
-    * [Como é violado no SIGAA](#Como-é-violado-no-SIGAA)
-    * [Como é aplicado no SIGAA](#Como-é-aplicado-no-SIGAA)
-    * [Como será utilizado no projeto](#Como-será-utilizado-no-projeto)
+    * [O que é Antecipação das Necessidades do Usuário?](#O-que-é-Antecipação-das-Necessidades-do-Usuário?)
+    * [Como a antecipação é violada no SIGAA](#Como-a-antecipação-é-violada-no-SIGAA)
+    * [Como a antecipação é aplicada no SIGAA](#Como-a-antecipação-é-aplicada-no-SIGAA)
+    * [Como a antecipação será utilizada no projeto](#Como-a-antecipação-será-utilizada-no-projeto)
 * [Equilíbrio entre controle e liberdade do usuário](#Equilibrio-entre-controle-e-liberdade-do-usuário)
 * [Conteúdo Relavante e Expressão Adequada](#Conteúdo-Relavante-e-Expressão-Adequada)
 * [Conclusão](#Conclusão)
@@ -341,7 +341,7 @@ Com base nisso, para aplicar o princípio de correspondência com a expectativa 
 ## Antecipação das Necessidades do Usuário
 
 
-### O que é
+### O que é Antecipação das Necessidades do Usuário?
 
 
 De acordo com o livro “Interação Humano-Computador e Experiência do Usuário”¹, o princípio de antecipação das necessidades do usuário preconiza que as aplicações devem ser proativas em fornecer informações e ferramentas, ou seja, devem ser previstas antes mesmo que o usuário as solicite explicitamente. Com isso, em vez de esperar que os usuários busquem ou coletem informações, o sistema deve antecipar suas necessidades e apresentar as informações relevantes de forma intuitiva e oportuna.
@@ -349,7 +349,7 @@ De acordo com o livro “Interação Humano-Computador e Experiência do Usuári
 Além disso, o princípio de antecipação implica na capacidade do sistema em aprender com o usuário ao prever suas ações futuras para facilitar a interação. Consequentemente, isso inclui ajustar os valores padrões para melhor atender às necessidades do usuário em diferentes contextos. Em suma, visa oferecer uma experiência mais intuitiva e eficiente, antecipando e atendendo às necessidades do usuário de forma proativa.
 
 
-### Como é violado no SIGAA
+### Como a antecipação é violada no SIGAA
 
 
 No SIGAA, é possível observar algumas necessidades dos usuários não são atendidas no site, seja pela sua falta de implementação ou porque algumas implementadas não realizam tudo o que é necessário. Desse modo, os GIF 10 e 11 mostram algumas dessas situações, assim como as imagens 1, 2 e 3.
@@ -474,7 +474,7 @@ A ausência de explicações claras e informações adicionais para o preenchime
 
 
 
-### Como é aplicado no SIGAA
+### Como a antecipação é aplicada no SIGAA
 
 
 Mesmo violando, em alguns pontos, o princípio de antecipação, o SIGAA também aplica esse princípio em várias outras funcionalidades, como é possível observar nas explicações abaixo. As imagens 5,6 e 7 mostram as funcionalidades implementadas no site.
@@ -507,7 +507,7 @@ A tarefa de alterar dados pessoais no sistema demonstra a aplicação do princí
 
 </details>
 
-## Como será utilizado no projeto?
+## Como a antecipação será utilizada no projeto
 
 
 No projeto, o princípio de antecipação das necessidades dos usuários será aplicado de várias maneiras para garantir uma experiência de usuário mais intuitiva e eficiente. Desse modo, ao refatorar e criar funcionalidades, serão considerados diversos tópicos para antecipar as necessidades dos usuários:
