@@ -21,8 +21,7 @@
 ## Conclusão
 
 ## Referências Bibliográficas
-1. Aprenda a fazer uma entrevista de vídeo, rádio ou podcast. Comunicação na Prática 35.
-Disponível em: https://www.youtube.com/watch?v=pCDN3faGd9I. Acesso em: 18 abr. 2024.
+1. 
 
 
 ## Histórico de Versão
