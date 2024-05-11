@@ -318,5 +318,5 @@ O equilíbrio entre controle e liberdade do usuário refere-se a encontrar a med
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Pedro Izarias | - | 10/05/2024 |
-| 1.1 | Adição da introdução | Larissa Stéfane | - | 11/05/2024 |
+| 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo | 10/05/2024 |
+| 1.1 | Adição da introdução | Larissa Stéfane | Bruno Araújo | 11/05/2024 |
