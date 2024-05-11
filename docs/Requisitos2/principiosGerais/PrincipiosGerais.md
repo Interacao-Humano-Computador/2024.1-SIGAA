@@ -67,7 +67,7 @@ O princípio de Correspondências com as Expectativas dos Usuários, conforme ex
 No contexto do SIGAA, é necessário que o site esteja alinhado com as expectativas dos usuários ao proporcionar uma navegação clara e uma utilização intuitiva. No entanto, ao analisar determinadas partes, é possível identificar que algumas funcionalidades violam esse princípio, apresentando desafios e dificuldades para os usuários.
 
 
-Abaixo, há algumas funcionalidades que violam o princípio, os GIF de 1 até 7 mostram como elas estão no site:
+Abaixo, há algumas funcionalidades que violam o princípio, os GIF de 1 até 7 mostram como elas estão no site, para visualizá-los, basta clicar nos triângulos:
 
 
 <details>
