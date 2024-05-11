@@ -24,7 +24,7 @@ Desse modo, esse documento tem o objetivo de fornecer uma visão abrangente sobr
 ## Metodologia
 
 
-O grupo analisou o sistema SIGAA com o objetivo de identificar quais princípios gerais são priorizados. A análise foi conduzida utilizando a visão do grupo. Assim foram identificados os princípios aplicáveis que poderiam ser melhor implementados ou que mais se adéquam ao contexto do sistema, levando em consideração o site em análise.
+O grupo analisou o sistema SIGAA com o objetivo de identificar quais princípios gerais são priorizados. As análises foram conduzida utilizando através de reuniões e pesquisa em materiais acadêmicos. Assim foram identificados os princípios aplicáveis que poderiam ser melhor implementados ou que mais se adéquam ao contexto do sistema, levando em consideração o site em análise.
 
 ## Princípios Aplicáveis
 
