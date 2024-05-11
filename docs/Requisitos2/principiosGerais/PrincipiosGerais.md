@@ -385,6 +385,123 @@ Assim, quando os alunos têm acesso ao SIGAA apenas pelo celular e precisam veri
 </details>
 
 
+<details>
+
+
+<summary size="20"><b> Ausência da informação de localidade nas vagas de estágio. </b></summary>
+
+
+<div align="center">
+
+
+GIF 11: Ausência da informação de localidade nas vagas de estágio.
+
+
+
+Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+
+<br>
+
+
+</div>
+
+
+A ausência da informação de localidade nas vagas de estágio no SIGAA viola o princípio de antecipação das necessidades do usuário, pois não fornece uma informação crucial quando os estudantes estão procurando por vagas, a localidade do estágio. Desse modo, ao não incluir a localização das vagas, o sistema deixa de antecipar a necessidade dos usuários de saber onde estão localizadas as oportunidades de estágio. Como resultado, os estudantes podem ter dificuldade em avaliar a conveniência das vagas em relação à sua localização geográfica, o que pode afetar suas decisões de candidatura.
+
+
+</details>
+
+
+<details>
+
+
+<summary size="20"><b> Falta de informação sobre os tipos de mensagens e como inserir documentos nelas </b></summary>
+
+
+<div align="center">
+
+
+Imagem 1: Sem informação de como adicionar documentos.
+
+
+
+Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+
+<br>
+
+
+</div>
+
+
+A ausência de informações cruciais para enviar mensagens no SIGAA viola o princípio de antecipação das necessidades dos usuários, pois não fornece uma solução eficaz para uma necessidade comum dos estudantes em comunicação com a instituição. Por exemplo, muitos estudantes podem precisar enviar documentos ou mensagens para a coordenação, como atestados médicos para justificar ausências prolongadas. No entanto, o sistema não oferece orientações claras sobre como inserir documentos nas mensagens ou sobre a privacidade das comunicações. Como resultado, os usuários podem enfrentar dificuldades para realizar essa tarefa de maneira adequada.
+
+
+</details>
+
+<details>
+
+
+<summary size="20"><b> Dificuldade em saber quais os dados corretos colocar no preenchimento de busca por bolsas </b></summary>
+
+
+<div align="center">
+
+
+GIF 13: Com quais informações completar?
+
+
+
+Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+
+<br>
+
+
+</div>
+
+
+A ausência de explicações claras e informações adicionais para o preenchimento de dados viola o princípio de antecipação das necessidades dos usuários, pois não fornece uma solução eficaz para uma tarefa comum e frequente. Por exemplo, ao preencher o formulário de busca por bolsas ou inscrição em programas de monitoria, os estudantes podem enfrentar dificuldades em determinar quais informações precisam ser fornecidas e em que formato. Por exemplo, para identificar o orientador, pode haver dúvidas sobre se deve ser inserido apenas o primeiro e último nome, o nome completo com todos os nomes do meio ou o número da matrícula. Da mesma forma, para especificar a disciplina desejada, os estudantes podem ficar indecisos sobre se devem fornecer o código da disciplina, o nome completo ou se é necessário incluir a turma. Desse modo, a falta de orientações claras e informações adicionais torna o processo mais complexo e confuso para os usuários, indo de encontro à expectativa de antecipar e prover soluções que facilitem suas interações com o sistema.
+
+
+</details>
+
+
+
+### Como é aplicado no SIGAA
+
+
+Mesmo violando, em alguns pontos, o princípio de antecipação, o SIGAA também aplica esse princípio em várias outras funcionalidades, como é possível observar nas explicações abaixo. As imagens 5,6 e 7 mostram as funcionalidades implementadas no site.
+
+
+<details>
+
+
+<summary size="20"><b> Alterar dados pessoais </b></summary>
+
+
+<div align="center">
+
+
+Imagem 5: Alterar dados pessoais.
+
+
+
+Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+
+<br>
+
+
+</div>
+
+
+A tarefa de alterar dados pessoais no sistema demonstra a aplicação do princípio de antecipação das necessidades dos usuários ao fornecer informações claras e orientações durante o processo. Isso porque, ao iniciar a alteração dos dados pessoais, o sistema apresenta de forma proativa os tipos de informações que o usuário pode modificar e antecipa as suas possíveis necessidades. Além disso, ao longo do processo, mensagens explicativas são exibidas em diversos pontos, fornecendo orientações adicionais sobre o preenchimento correto dos campos ou sobre quais dados são obrigatórios. Essas mensagens ajudam os usuários a compreenderem melhor o esperado deles em cada etapa, reduzindo a probabilidade de erros e tornando o processo mais intuitivo e eficiente.
+
+
+</details>
+
 
 
 
