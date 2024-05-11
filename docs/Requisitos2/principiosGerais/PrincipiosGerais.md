@@ -350,10 +350,70 @@ O equilíbrio entre controle e liberdade do usuário refere-se a encontrar a med
 
 ### No SIGAA
 
+
+
+
+## Conteúdo Relavante e Expressão Adequada
+
+### O que é?
+
+"Conteúdo relevante" refere-se ao material apresentado aos usuários que é significativo, útil e aplicável às suas necessidades, interesses ou objetivos. Esse conteúdo deve ser diretamente relacionado às tarefas que os usuários desejam realizar ou aos problemas que desejam resolver ao interagir com um sistema, aplicativo ou interface.
+
+Por outro lado, "expressão adequada" diz respeito à forma como esse conteúdo é comunicado aos usuários. Envolve o uso de linguagem, tom, estilo e formato que são apropriados ao contexto e ao público-alvo. Uma expressão adequada leva em consideração as características dos usuários, como sua cultura, nível de educação, preferências linguísticas e até mesmo suas emoções.
+
+Portanto, em resumo, conteúdo relevante e expressão adequada combinam-se para garantir que a informação fornecida aos usuários seja tanto útil quanto apresentada de uma forma que seja compreensível, atraente e relevante para eles.
+
+### Como é aplicado no SIGAA
+
+Apesar de alguns julgarem a interface como não-convidativa ou como ultrapassada, o SIGAA é um exemplo de como o conteúdo relevante é priorizado na experiência do usuário. Os recursos disponíveis no sistema estão diretamente relacionados às necessidades dos estudantes, professores e funcionários da instituição, como pode-se ver Gif 10. Desde funcionalidades para visualização de notas e grade curricular até a realização de matrículas e emissão de documentos acadêmicos, o SIGAA oferece uma gama abrangente de serviços que são essenciais para a comunidade acadêmica.
+
+
+<div align="center">
+GIF 10: Interface SIGAA
+
+![Interface Sigaa ](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/interfaceCertoGif.gif?raw=true)
+
+Fonte: [Iago Passaglia](https://github.com/paxxaglia)
+</div>
+
+
+Além disso, a expressão adequada é evidente na forma como o SIGAA apresenta informações de maneira clara e direta, mesmo dentro de uma interface visualmente mais datada. A linguagem utilizada é objetiva e informativa, facilitando a compreensão dos usuários, independentemente de seu nível de familiaridade com o sistema. Os menus são organizados de forma lógica e intuitiva, permitindo uma navegação eficiente, enquanto as instruções são fornecidas de maneira sucinta e compreensível.
+
+### Como é violado no SIGAA
+
+O uso de palavras menos comuns, como "discente" e "docente" (vide Figura 1), no SIGAA pode, em alguns casos, violar os princípios de conteúdo relevante e expressão adequada. Embora esses termos sejam familiares para os membros da comunidade acadêmica, como estudantes e professores, podem ser menos compreensíveis para usuários externos ou novatos na plataforma. 
+
+<div align="center">
+Figura 1: Violação
+
+![Discentes/Docentes - Sigaa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/discentes.png?raw=true)
+
+Fonte: [Iago Passaglia](https://github.com/paxxaglia)
+</div>
+
+
+A substituição desses termos por equivalentes mais simples, como "aluno" e "professor", poderia tornar a linguagem mais acessível e inclusiva para todos os usuários. Isso poderia evitar potenciais obstáculos à compreensão e melhorar a experiência do usuário, especialmente para aqueles menos familiarizados com o vocabulário acadêmico.
+
+
+### Como será usado no projeto?
+
+No projeto, a aplicação dos princípios de conteúdo relevante e expressão adequada é fundamental para garantir uma experiência positiva aos usuários. Isso será implementado das seguintes formas:
+
+**Análise do público-alvo:** Será realizada uma análise detalhada do público-alvo do projeto, identificando suas necessidades, preferências e nível de familiaridade com o SIGAA.
+
+**Adaptação da linguagem:** A linguagem utilizada no projeto será adaptada de acordo com o perfil do público-alvo. Isso incluirá evitar termos técnicos desnecessários e simplificar termos complexos sempre que possível.
+
+**Relevância do conteúdo:** Todo o conteúdo apresentado no projeto será cuidadosamente selecionado para garantir sua relevância para os usuários. Isso incluirá informações essenciais e úteis que atendam às necessidades e objetivos dos usuários.
+
 ## Conclusão
 
 Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compreensão abrangente das diretrizes essenciais que guiarão o desenvolvimento e aprimoramento deste sistema vital de gestão acadêmica. Além disso, aumentou a visão crítica que o grupo tem sobre o SIGAA, torando possível observar melhor os seus pontos fortes e fracos.
 
+
+
+
+## Bibliografia
+1. Vários Autores. GOMS. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/goms/#comprar-ingresso/. Acesso em 04 de maio de 2024.
 
 ## Referências Bibliográficas
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 11 de maio de 2024.
