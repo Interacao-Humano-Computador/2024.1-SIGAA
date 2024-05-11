@@ -31,7 +31,7 @@ Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habi
 | **2. Realizar o trancamento** | **Input:** Selecionar matérias para trancar e clicar em "Solicitar trancamento".<br>**Feedback:** A resposta sobre o sucesso do trancamento aparece.<br>**Plano:** Oferecer uma apresentação das informações de forma simples e de fácil acesso. |
 
 ## Conclusão
-Conforme evidenciado, a análise hierárquica das funcionalidades de pré-cadastro e gerenciamento de estágios destacou uma estrutura intricada de tarefas e interações no processo. Ao decompor cada etapa em objetivos, sequências de passos, métodos e diretrizes, conseguimos compreender minuciosamente as ações dos usuários e identificar áreas de importância.
+Como observado, a avaliação HTA das funções de realização de matrícula e trancamento de matrícula revelou uma complexidade na estrutura das tarefas e interações envolvidas. Ao desmembrar cada fase em metas, sequências de procedimentos, abordagens e orientações, pudemos examinar detalhadamente as atividades dos usuários e detectar pontos cruciais.
 
 ## Bibliografia
 **BARBOSA**, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
