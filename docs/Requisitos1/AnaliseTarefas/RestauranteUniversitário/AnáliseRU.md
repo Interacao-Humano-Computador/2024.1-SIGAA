@@ -1,4 +1,4 @@
-# Análise de Tarefas: Consulta de Saldo no Restaurante Universitário na visão do estudante
+# Análise de Tarefas: Aba do Restaurante Universitário na visão do estudante
 
 ## Sumário
 * [Introdução](#Introdução)
@@ -18,12 +18,17 @@
 * [Histórico de versão](#Histórico-de-versão)
   
 ## Introdução
-Por meio da análise de tarefas, este documento apresenta a análise detalhada da funcionalidade de **consulta de saldo**, que visa disponibilizar uma verificação em tempo real dos créditos que um estudante
-tem no sistema do Restaurante Universitário. Portanto, para decompor as atividades envolvidas neste processo, hierarquia analítica e GOMS (Metas, Operadores, Métodos e Métodos)
-Regras de Seleção), será procurado entender e avaliar a interação do usuário com a interface e identificar as áreas necessárias para execução de consultas através do SIGAA.
+Por meio da análise de tarefas, este documento apresenta a análise detalhada das funcionalidades:
+- **Consulta de Saldo:** visa disponibilizar uma verificação em tempo real dos créditos de um estudante no sistema do Restaurante Universitário.
+- **Recarga de Créditos:** visa disponibilizar a recarga de créditos de um estudante no sistema do Restaurante Universitário.
+- **Consulta de Cardápio:** visa disponibilizar e exibir o cardápio da semana que tem no site do Restaurante Universitário.
+- **Realização de Pesquisa de Satisfação do RU:** visa disponibilizar a realização de pesquisa de satisfação do RU.
+
+Portanto, para decompor as atividades envolvidas nestes processos, hierarquia analítica e GOMS (Goals, Operators, Methods, e Selection Rules), 
+serão usados, procurando entender e avaliar a interação do usuário com a interface e identificar as áreas necessárias para execução de consultas através do SIGAA.
 
 ## Objetivos
-O objetivo de **consulta de saldo** é oferecer aos estudantes uma maneira conveniente e eficiente de checar seus créditos no RU.
+O objetivo da **aba do Restaurante Universitário** é oferecer aos estudantes uma maneira conveniente e eficiente de gerenciar sua conta no RU.
 
 ## Análise Hierárquica de Tarefas
 A análise de tarefas é o processo de decomposição das atividades do usuário em componentes menores, chamados tarefas, dentro de um sistema ou interface.
@@ -40,8 +45,48 @@ Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, h
    
   **Algoritmo 1: Análise Contextual**
 
-    0. Realizar Consulta de Saldo (1>2)
-      1. Clicar na aba de Restaurante Universitário
+    0. Realizar Consulta de Saldo (1/2)
+      1. Clicar na aba de Restaurante Universitário (1>2)
+
+    0. Acessar Funcionalidade de Recarga de Créditos (1/2)
+     1. Escolher Opção de Recarga (1>2)
+       1.1 Opção de Cartão de Crédito ou Débito (1/2)
+         1.1.1 Inserir Valor a Ser Recarregado (1+2)
+           1.1.1.1 Digitar Valor Desejado para Recarga
+         1.1.2 Inserir Detalhes do Cartão de Crédito (1+2)
+           1.1.2.1 Número do Cartão
+           1.1.2.2 Data de Validade
+           1.1.2.3 Código de Segurança
+         1.1.3 Confirmar Transação com Cartão de Crédito (1>2)
+           1.1.3.1 Autorizar Pagamento
+           1.1.3.2 Verificar Transação Aprovada
+       1.2 Opção de Boleto Bancário
+         1.2.1 Gerar Boleto com Valor a Ser Pago
+           1.2.1.1 Gerar Boleto com Dados do Pagador
+           1.2.1.2 Emitir Boleto com Valor Adequado
+         1.2.2 Realizar Pagamento do Boleto
+           1.2.2.1 Efetuar Pagamento através do Banco ou Internet Banking
+           1.2.2.2 Confirmar Pagamento do Boleto
+       1.3 Opção de PIX
+         1.3.1 Inserir Valor a Ser Recarregado
+           1.3.1.1 Digitar Valor Desejado para Recarga
+         1.3.2 Gerar QR Code para Pagamento via PIX
+           1.3.2.1 Gerar Código QR com Dados da Transação
+           1.3.2.2 Disponibilizar Código QR para Escaneamento
+         1.3.3 Efetuar Pagamento via PIX
+           1.3.3.1 Escanear QR Code com Aplicativo Bancário
+           1.3.3.2 Confirmar Transação PIX
+     2. Receber Confirmação e Comprovante
+       2.1 Visualizar Confirmação da Transação
+         2.1.1 Receber Notificação de Sucesso
+       2.2 Receber Comprovante de Pagamento
+         2.2.1 Gerar Comprovante em Formato Digital ou PDF
+     3. Atualizar Saldo na Conta do Usuário
+       3.1 Refletir Saldo Atualizado na Conta do Usuário
+         3.1.1 Verificar Disponibilidade de Recursos Recarregados
+     4. Oferecer Suporte ao Usuário
+       4.1 Disponibilizar Canal de Atendimento ao Cliente
+         4.1.1 Chat ao Vivo, Suporte por Telefone, E-mail, etc.
 
 **Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
 
