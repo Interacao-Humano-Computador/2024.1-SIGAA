@@ -75,6 +75,8 @@ Abaixo, há algumas funcionalidades que violam o princípio, os GIF de 1 até 7 
 <summary size="20"><b> Funcionalidade de ajuda </b></summary>
 
 
+![IHC_PG_AJUDA-GIMP](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/141f8e01-cca0-4caf-a3f6-48a7fbcad22b)
+
 <div align="center">
 
 GIF 1: Como funciona a funcionalidade de ajuda
