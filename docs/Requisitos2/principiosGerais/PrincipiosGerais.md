@@ -414,7 +414,7 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 
 
 ## Bibliografia
-1. Vários Autores. GOMS. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/goms/#comprar-ingresso/. Acesso em 04 de maio de 2024.
+1. Vários Autores. Princípios Gerais. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/. Acesso em 11 de maio de 2024.
 
 ## Referências Bibliográficas
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 11 de maio de 2024.
