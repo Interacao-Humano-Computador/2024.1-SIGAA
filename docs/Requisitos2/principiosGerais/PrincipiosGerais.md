@@ -296,6 +296,8 @@ A parte de emitir notas e histórico no SIGAA está em correspondência com a ex
 
 GIF 9 : Onde fazer a matrícula online
 
+![IHC_PG_MATRICULAONLINE_GIMP](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/12b33062-cf47-4991-b295-eed78e01ce29)
+
 Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 <br>
@@ -351,7 +353,7 @@ O equilíbrio entre controle e liberdade do usuário refere-se a encontrar a med
 ## Conclusão
 
 ## Referências Bibliográficas
-1. 
+1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 11 de maio de 2024.
 
 
 ## Histórico de Versão
@@ -359,3 +361,4 @@ O equilíbrio entre controle e liberdade do usuário refere-se a encontrar a med
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo | 10/05/2024 |
 | 1.1 | Adição da introdução | Larissa Stéfane | Bruno Araújo | 11/05/2024 |
+| 1.2 | Adição do princípio Correspondências com as expectativas dos usuários| Larissa Stéfane | - | 11/05/2024 |
