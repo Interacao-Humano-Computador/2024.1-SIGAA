@@ -5,10 +5,10 @@
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
 * [Correspondências com as expectativas dos usuários](#Correspondências-com-as-expectativas-dos-usuários) 
-    * [O que é](#O-que-é)
-    * [Como é violado no SIGAA](#Como-é-violado-no-SIGAA)
-    * [Como é aplicado no SIGAA](#Como-é-aplicado-no-SIGAA)
-    * [Como será utilizado no projeto](#Como-será-utilizado-no-projeto)
+    * [O que é expectativas?](#O-que-é-expectativas?)
+    * [Como as expectativas são violadas no SIGAA](#Como-as-expectativas-são-violadas-no-SIGAA)
+    * [Como as expectativas são aplicadas no SIGAA](#Como-as-expectativas-são-aplicadas-no-SIGAA)
+    * [Como as expectativas serão utilizadas no projeto](#Como-as-expectativas-serão-utilizadas-no-projeto)
 * [Antecipação das Necessidades do Usuário](#Antecipação-das-Necessidades-do-Usuário) 
     * [O que é](#O-que-é)
     * [Como é violado no SIGAA](#Como-é-violado-no-SIGAA)
@@ -61,13 +61,13 @@ Estas diretrizes baseiam-se nos princípios e técnicas de design de interação
 ## Correspondências com as expectativas dos usuários
 
 
-### O que é
+### O que é expectativas?
 
 
 O princípio de Correspondências com as Expectativas dos Usuários, conforme explicado no livro “Interação Humano-Computador e Experiência do Usuário”¹, refere-se à importância de projetar interfaces de usuário de forma que correspondam às expectativas naturais deles. Desse modo, isso implica em criar sistemas que permitam aos usuários entenderem facilmente os relacionamentos entre suas intenções, ações possíveis e os resultados dessas ações no sistema, ou seja, que seja intuitivo. Além disso, também é necessário ser fornecido um feedback informativo para os usuários, ao indicar que uma ação foi concluída com sucesso, o que ajuda a proporcionar uma sensação de satisfação e alívio.
 
 
-### Como é violado no SIGAA
+### Como as expectativas são violadas no SIGAA
 
 
 No contexto do SIGAA, é necessário que o site esteja alinhado com as expectativas dos usuários ao proporcionar uma navegação clara e uma utilização intuitiva. No entanto, ao analisar determinadas partes, é possível identificar que algumas funcionalidades violam esse princípio, apresentando desafios e dificuldades para os usuários.
@@ -257,7 +257,7 @@ A função de aumentar ou diminuir o tamanho da fonte não está conforme a expe
 
 </details>
 
-### Como é aplicado no SIGAA
+### Como as expectativas são aplicadas no SIGAA
 
 
 Apesar de o SIGAA, em alguns pontos, não seguir a correspondência com a expectativa do usuário, em outros pontos e funções esse princípio é aplicado.
@@ -318,7 +318,7 @@ A localização da parte de fazer matrícula online corresponde às expectativas
 
 
 
-### Como será utilizado no projeto
+### Como as expectativas serão utilizadas no projeto
 
 
 Neste projeto de Análise de Interação Humano-Computador para o SIGAA, a equipe está focada em aprimorar a experiência do usuário através da refatoração de funcionalidades existentes e da implementação de novas ferramentas. Com isso, o objetivo é garantir que o sistema seja mais intuitivo e eficiente, correspondendo às expectativas dos usuários. Isso inclui melhorar a usabilidade das funcionalidades de matrícula, estágio e bolsas, além de introduzir novas ferramentas como monitoria, aluguel de sala, progressão de grade curricular e Restaurante Universitário.
