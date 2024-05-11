@@ -109,7 +109,7 @@ Com a realização das entrevistas, busca-se reconhecer a importância de inclui
 
 ## Bibliografia
 
-Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 18 de abr. 2024.
+Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário.
 
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
