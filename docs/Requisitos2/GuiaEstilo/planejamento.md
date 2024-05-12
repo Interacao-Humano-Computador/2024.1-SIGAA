@@ -106,7 +106,6 @@ O planejamento do guia de estilo do projeto do SIGAA é um componente essencial 
 
 3. Projeto BCE. Disponível em <https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_2/analise_tarefas>
 
-
 4. Projeto Domínio Público. Disponível em <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/> Acesso em 28 de abril de 2024.
 
 5. Projeto Lichess. Disponível em <https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/> Acesso em 28 de abril de 2024.
@@ -115,6 +114,6 @@ O planejamento do guia de estilo do projeto do SIGAA é um componente essencial 
 ## Histórico de Versão
 
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação do documento | Larissa Stéfane | - | 11/05/2024 |
+| Versão | Alteração            | Responsável     | Revisor         | Data       |
+| ------ | -------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento | Larissa Stéfane | Breno Alexandre | 11/05/2024 |
