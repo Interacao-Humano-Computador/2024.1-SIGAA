@@ -86,3 +86,9 @@ As formas de manter esse guia atualizado são:
 - Estabelecer um processo de revisão regular para garantir a relevância contínua do guia de estilo.
 -  Monitorar mudanças no sistema, coletar feedback dos usuários e propor atualizações para o guia.
 - Documentar todas as alterações feitas no guia para garantir transparência e rastreabilidade ao longo do tempo.
+
+## Histórico de Versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação do documento | Larissa Stéfane | - | 11/05/2024 |
