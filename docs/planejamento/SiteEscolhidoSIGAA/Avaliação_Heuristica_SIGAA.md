@@ -12,12 +12,14 @@
 
 ## Introdução
 
- <center>
-  **Figura 1**: 
+Para apresentar o SIGAA neste docuemnto, a figura 1 mostra a página inicial do site.
+
+
+  **Figura 1**: Apresentação do site
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa1.png">
 
    Fonte: Site do SIGAA 
- </center>
+
 
 Neste projeto, o SIGAA da UnB foi escolhido como o site base para o estudo de Interação Humano-Computador (IHC). Isso porque, devido à sua importância na comunidade acadêmica, faz-se necessário que propostas de melhoria sejam dadas. 
 Com base nisso, decidiu-se realizar uma avaliação de heurísticas com o objetivo de compreender melhor as questões de usabilidade e de design que impactam a experiência do usuário. 
@@ -38,7 +40,8 @@ Usabilidade pode ser entendida como “a medida em que um sistema, produto ou se
 os critério de usabilidade: 
 Segundo o artigo “Avaliação Heurística de Sítios na Web”¹, foram estabelecidos os critérios de usabilidade que serão utilizados como base para a avaliação das heurísticas. Esses critérios estão representados na tabela 1:
 
-Tabela 1.
+Tabela 1: Critérios de usabilidade
+
 | Critérios de usabilidade | Formas de aferição |
 | ------------------------------- | -------------------------- | 
 | Facilidade de uso | Mensurar a velocidade e a quantidade de erros durante a execução de determinada tarefa, que caso ocorram, devem ser facilmente recuperados; (PREECE, 1994) (NIELSEN, 1993) (ISO 9241-11, 1998) |
@@ -193,5 +196,6 @@ A avaliação revelou diferentes níveis de severidade em relação aos problema
 | - | - | - | - | - |
 | 1.0 | Criaçao e desenvolvimento do documento | Larissa Stéfane | Luana Medeiros | 05/04/2024 |
 | 1.1 | Adição de mais informações | Larissa Stéfane | Luana Medeiros | 07/04/2024 |
-| 1.2 | Adição de citação da legenda de Figuras no texto | Luana Medeiros | - | 11/04/2024 |
-| 1.3 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
+| 1.2 | Adição de citação da legenda de Figuras no texto | Luana Medeiros | Larissa Stéfane | 11/04/2024 |
+| 1.3 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Larissa Stéfane | 11/04/2024 |
+| 1.4 | Adição de mais informações | Larissa Stéfane | - | 11/05/2024 |
