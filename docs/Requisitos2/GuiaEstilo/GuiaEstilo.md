@@ -139,4 +139,4 @@ VÁRIOS AUTORES. Guia de Estilo. Repositório do BCB da disciplina de Interaçã
 | 1.1    | Adição dos tópicos da introdução do guia | Larissa Stéfane | Breno Alexandre | 11/05/2024 |
 | 1.2    | Adição dos Elementos de Interface        | Breno Alexandre | Bruno Araújo    | 11/05/2024 |
 | 1.3    | Adição do Vocabulário e Padrões          | Iago Passaglia  |      Larissa Stéfane       | 12/05/2024 |
-| 1.4    | Adição de resultados de análise          | Pedro Izarias  | - | 12/05/2024 |
+| 1.4    | Adição de resultados de análise          | Pedro Izarias  | Bruno Araújo | 12/05/2024 |
