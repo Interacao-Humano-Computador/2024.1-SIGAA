@@ -156,10 +156,8 @@ Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do no
 | Pré-Cadastro de estágio | Iago Passaglia |
 | Gerenciar Estágio | Iago Passaglia |
 | Necessidade educacionais específicas | Larissa Stéfane |
-| Avaliar monitor | Larissa Stéfane |
-| Monitoramento de monitoria | Larissa Stéfane |
-| Pedido de monitoria | Larissa Stéfane |
-| Mensagem privada monitor | Larissa Stéfane |
+| Aba de monitoria | Larissa Stéfane |
+| Aluguel de sala | Larissa Stéfane |
 | Avaliação Institucional | Luana Lima|
 | Consulta de resultado da Avaliação Institucional | Luana Lima|
 | Realização de matrícula | Pedro Augusto |
@@ -197,3 +195,6 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 | 1.8    | Altera funcionalidade que será estudada por Breno Alexandre     | Breno Alexandre | Larissa Stéfane | 03/05/2024 |
 | 1.9    | Padronização e adição de citação da legenda de Figuras no texto | Luana Medeiros | Iago Passaglia | 11/04/2024 |
 | 1.10    | Correção das legendas das figuras para norma ABNT | Iago Passaglia | Larissa Stéfane | 11/04/2024 |
+| 1.11 | Correção do documento em relação às imagens e figuras | Larissa Stéfane | - | 12/05/2024 |
+| 1.12 | Alteração das funcionalidades que serão estudadas por Larissa Stéfane | Larissa Stéfane | - | 12/05/2024 |
+
