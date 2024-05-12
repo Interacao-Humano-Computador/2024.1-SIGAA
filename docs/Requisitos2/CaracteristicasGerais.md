@@ -283,6 +283,12 @@ Portanto, por meio da análise das suas características, é possível observar 
 4. Manual dos servidores. Disponível em <https://manuais.ufs.br/pagina/20055-sigaa-manuais-direcionados-para-servidor-tecnico-administrativo>. Acesso em 12 de maio de 2024
 
 
+## Histórico de Versão
+
+
+| Versão | Alteração            | Responsável     | Revisor         | Data       |
+| ------ | -------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação  e elaboração do documento | Larissa Stéfane | - | 12/05/2024 |
 
 
 
