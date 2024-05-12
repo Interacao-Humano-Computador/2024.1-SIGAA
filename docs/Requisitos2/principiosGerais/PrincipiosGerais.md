@@ -15,6 +15,8 @@
     * [Como a antecipação é aplicada no SIGAA](#Como-a-antecipação-é-aplicada-no-SIGAA)
     * [Como a antecipação será utilizada no projeto](#Como-a-antecipação-será-utilizada-no-projeto)
 * [Equilíbrio entre controle e liberdade do usuário](#Equilibrio-entre-controle-e-liberdade-do-usuário)
+* [Promoção da Eficiencia do Usuário](#Promoção-da-Eficiencia-do-Usuário)
+* [Consistência e Padronização](#Consistência-e-Padronização)
 * [Conteúdo Relavante e Expressão Adequada](#Conteúdo-Relavante-e-Expressão-Adequada)
 * [Conclusão](#Conclusão)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
@@ -582,6 +584,7 @@ Alguns recursos que promovem a eficiência a rapidez na navegação por parte do
 </div>
 
 </details>
+
 Um outro recurso que melhora a eficiência da utilização pelo usuário é a presença de uma seção de "últimas atualizações" das disciplinas do usuário, que permite que o mesmo tenha acesso a todas as novas postagens de todas as matérias sem que precise acessar a página individual de cada uma, visto que levaria muito tempo. A seguir na Imagem 8:
 
 <details>
@@ -602,6 +605,7 @@ Um outro recurso que melhora a eficiência da utilização pelo usuário é a pr
 <br>
 
 </div>
+
 </details>
 
 Apesar de haver alguns recursos que promovem a melhoria da eficiência do usuário, o sistema SIGAA carece de outros elemento que são comuns em sistemas universitários e até mesmo em geral, como a barra de pesquisa, que permite que o usuário busque por informações e serviços sem a necessidade de procurar rótulos ou em último caso, percorrer inteiramente o site.
