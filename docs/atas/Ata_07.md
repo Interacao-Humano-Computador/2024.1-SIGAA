@@ -4,7 +4,8 @@ O vídeo 1 indica a reunião 7
 
 <center> 
 vídeo 1: IHC - Reunião 7
-  
+
+  <iframe width="700" height="400" src="https://www.youtube.com/embed/_NuUMpB6b3M" title="IHC - Reunião 7 - 07/05/2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Fonte**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -17,9 +18,9 @@ vídeo 1: IHC - Reunião 7
 - **Data:** 07/05/2024
 - **Horário de início previsto:** 19:30
 - **Horário de início: 20:10
-- **Duração:** 
+- **Duração:** 22:32
 - **Local:** Teams
-- Link da [reunião 7](...)
+- Link da [reunião 7](https://youtu.be/_NuUMpB6b3M)
 
 
 ## Participantes
@@ -100,3 +101,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação  Ata da Reunião           | Larissa Stéfane | Breno Alexandre       | 07/05/2024 |
+| 1.1    | Adição da gravação da reunião          | Larissa Stéfane | -      | 12/05/2024 |
