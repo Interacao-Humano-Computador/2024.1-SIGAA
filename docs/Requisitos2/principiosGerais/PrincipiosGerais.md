@@ -558,7 +558,7 @@ Quanto aos campos de texto e credenciais, observou-se uma falta de padronizaçã
 
 A promoção da eficiência do usuário é um conceito fundamental em Interação Humano-Computador (IHC), que se concentra em projetar sistemas e interfaces de forma a permitir que os usuários realizem suas tarefas de maneira eficaz e eficiente. Isso envolve a criação de designs que minimizem a carga cognitiva do usuário, facilitando a localização de informações, a execução de ações e a conclusão de tarefas com rapidez e precisão.
 
-## No SIGAA
+### No SIGAA
 
 Alguns recursos que promovem a eficiência a rapidez na navegação por parte do usuário estão presentes no sistema, como a presença de um sistema de diretórios clara, que permite o usuário se situar dentro das páginas do SIGAA, além de poder voltar em qualquer "diretório" anterior dentro da própria sem precisar utilizar várias vezes a opção voltar do navegador. A seguir podemos ver a presença desse recurso na Imagem 7:
 
@@ -582,6 +582,29 @@ Alguns recursos que promovem a eficiência a rapidez na navegação por parte do
 </div>
 
 </details>
+Um outro recurso que melhora a eficiência da utilização pelo usuário é a presença de uma seção de "últimas atualizações" das disciplinas do usuário, que permite que o mesmo tenha acesso a todas as novas postagens de todas as matérias sem que precise acessar a página individual de cada uma, visto que levaria muito tempo. A seguir na Imagem 8:
+
+<details>
+
+<summary size="20"><b> Seção de "últimas atualizações </b></summary>
+
+<div align="center">
+
+<div align="center">
+    Imagem 8: Seção de "últimas atualizações"
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/UltimasAtualizacoes.png">
+    <br>
+     Fonte: Pedro Augusto
+    <br>
+</div>
+
+<br>
+
+</div>
+</details>
+
+Apesar de haver alguns recursos que promovem a melhoria da eficiência do usuário, o sistema SIGAA carece de outros elemento que são comuns em sistemas universitários e até mesmo em geral, como a barra de pesquisa, que permite que o usuário busque por informações e serviços sem a necessidade de procurar rótulos ou em último caso, percorrer inteiramente o site.
 
 ## Conteúdo Relavante e Expressão Adequada
 
@@ -614,7 +637,7 @@ Além disso, a expressão adequada é evidente na forma como o SIGAA apresenta i
 O uso de palavras menos comuns, como "discente" e "docente" (vide Figura 1), no SIGAA pode, em alguns casos, violar os princípios de conteúdo relevante e expressão adequada. Embora esses termos sejam familiares para os membros da comunidade acadêmica, como estudantes e professores, podem ser menos compreensíveis para usuários externos ou novatos na plataforma. 
 
 <div align="center">
-Imagem 7: Violação
+Imagem 9: Violação
 
 ![Discentes/Docentes - Sigaa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/discentes.png?raw=true)
 
@@ -666,3 +689,5 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 | 1.4    | Adição do princípio Antecipação das Necessidades do Usuário           | Larissa Stéfane | -              | 11/05/2024 |
 | 1.5    | Adição da conclusão (Deve ser o último)                               | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
 | 1.6    | Adição do projeto para erros                                          | Breno Alexandre | -              | 11/05/2024 |
+| 1.7    | Adição da equilíbrio entre controle e liberdade do usuário            | Pedro Izarias | -              | 11/05/2024 |
+| 1.8    | Adição da consistência e padronização e promoção da eficiência do usuário no projeto | Pedro Izarias | -| 12/05/2024 |
