@@ -137,4 +137,13 @@
       * Restaurante Universitário
         - [Planejamento](Requisitos1/AnaliseTarefas/RestauranteUniversitário/Planejamento.md)
         - [Análise Consulta de Saldo](Requisitos1/AnaliseTarefas/RestauranteUniversitário/AnáliseConsultaSaldo.md)
-    - [Guia de Estilo](Requisitos2/GuiaEstilo/GuiaEstilo.md)
+     
+    * [Características do SIGAA](Requisitos2/CaracteristicasGerais.md)
+
+    * Princípios Gerais
+        - [Planejamento](Requisitos2/principiosGerais/planejamento.md)
+        - [Princípios Gerais](Requisitos2/principiosGerais/PrincipiosGerais.md)
+    
+    * Guia de Estilo
+        - [Planejamento](Requisitos2/GuiaEstilo/planejamento.md)
+        - [Guia de Estilo](Requisitos2/GuiaEstilo/GuiaEstilo.md)
