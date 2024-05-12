@@ -549,6 +549,8 @@ Analisando as cores e os ícones de todo o sistema, podemos constatar que existe
 
 </div>
 
+</details>
+
 ## Conteúdo Relavante e Expressão Adequada
 
 ### O que é?
