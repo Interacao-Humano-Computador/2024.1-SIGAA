@@ -79,6 +79,7 @@ Alguns desses estudos realizados foram [Análise do Sistema Integrado de Gestão
 Na pesquisa do IFSC⁴, a usabilidade do sistema também foi um critério analisado, uma vez que é um dos aspectos mais importantes na avaliação de um sistema. Dessa maneira, o ideal é que esse sistema seja bastante intuitivo e de fácil aprendizagem de maneira que o usuário consiga utilizar o sistema de maneira eficiente, sem grandes dificuldades. No entanto, de acordo a pesquisa em que o site podia ser avaliado entre de 1 a 10, a usabilidade não recebeu notas boas, com nenhuma escolha para 9 e 10 e com foco entre 5 e 7, como é possível observar na Figura 3. 
 
   **Figura 3:** OPinião sobre a usabilidade
+  
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/usabilidadeSigaa.png">
   
   Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
@@ -88,7 +89,9 @@ Na questão da facilidade de uso, na pesquisa do IFSC⁴, os docentes relataram 
 
 
  **Figura 4**: Opinião sobre a facilidade do uso.
+ 
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/UsabilidadeDocenteSigaa.png">
+  
  Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
 
 
@@ -97,7 +100,9 @@ Na questão da aparência, novamente de acordo com a pesquisa IFSC⁴, o SIGAA t
 
 
  **Figura 5**: Opinião sobre o design.
+ 
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/designSigaa.png">
+  
 Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y)  
 
 
@@ -106,9 +111,10 @@ Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/12345
 Ainda sobre o design, na Figura 6 é possível ver a avalição dos docentes:
 
  **Figura 6**: Comparação com outros sites.
+ 
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/designDocenteSIGAA.png">
 
-   Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
+Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
 
  
 
@@ -117,6 +123,7 @@ Na pesquisa no Instituto Federal Catarinense ⁵, foi realizada uma pesquisa com
 
 
  **Figura 7**: Notas dadas pelos usuários de acordo com os tópicos.
+ 
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/tabelaavalia%C3%A7%C3%A3oSIGAA.png">
 
  Fonte: [Pesquisa da IFSC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/812/Artigo_vers%c3%a3o_corrigida_set_2018.pdf?sequence=1&isAllowed=y )
