@@ -18,8 +18,9 @@ Com o avanço da tecnologia na área educacional, sistemas de gestão acadêmica
 
 ## O que é o SIGAA?
 
+A imagem 1 mostra a página inicial do SIGAA.
 
-  **Figura 1**: Site Sigaa
+  **Imagem 1**: Site Sigaa
   
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa1.png">
  
@@ -34,11 +35,13 @@ Na Figura 1 é possível ver a página inicial do SIGAA da Unb.
 
 ## Objetivos e Funcionalidades
 
- <center>
+ 
   **Figura 2**: Site Sigaa
+  
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa2.png">
+   
    Fonte: Site do SIGAA  
- </center>
+
 
 O SIGAA é uma ferramenta multifuncional que abrange diversas atividades acadêmicas, proporcionando um controle abrangente desde o registro dos alunos em turmas até o lançamento de notas e o monitoramento da frequência. Além disso, serve como uma plataforma de comunicação eficiente, com ferramentas que facilitam a interação entre alunos, professores e demais participantes do processo educacional. Na Figura 2 é possível ver algumas funcionalidades do SIGAA da Unb.
 
@@ -76,12 +79,13 @@ Na pesquisa do IFSC⁴, a usabilidade do sistema também foi um critério analis
 
   **Figura 3**.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/usabilidadeSigaa.png">
-   Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
+  
+  Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
 
 
 Na questão da facilidade de uso, na pesquisa do IFSC⁴, os docentes relataram o seguinte, como é mostrado na figura 4.
 
-<center>
+
  **Figura 4**.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/UsabilidadeDocenteSigaa.png">
  Fonte: [Pesquisa da FICS]
