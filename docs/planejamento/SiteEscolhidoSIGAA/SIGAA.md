@@ -18,9 +18,9 @@ Com o avanço da tecnologia na área educacional, sistemas de gestão acadêmica
 
 ## O que é o SIGAA?
 
-A imagem 1 mostra a página inicial do SIGAA.
+A figura 1 mostra a página inicial do SIGAA.
 
-  **Imagem 1**: Site Sigaa
+  **Figura 1**: Site Sigaa
   
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa1.png">
  
@@ -35,9 +35,9 @@ Na Figura 1 é possível ver a página inicial do SIGAA da Unb.
 
 ## Objetivos e Funcionalidades
 
-O SIGAA oferece um conjunto de funcionalidades em diversos campos. Desse modo, a imagem 2 retrata a tela que mostra alguns campos, como o portal dos docentes e o calendário acadêmico.
+O SIGAA oferece um conjunto de funcionalidades em diversos campos. Desse modo, a  Figura 2 retrata a tela que mostra alguns campos, como o portal dos docentes e o calendário acadêmico.
  
-  **Imagem 2**: Site Sigaa no portal público
+  **Figura 2**: Site Sigaa no portal público
   
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa2.png">
    
@@ -76,36 +76,36 @@ Desde o seu lançamento, em 2009, o SIGAA tem sido objeto de diversas pesquisas 
 Alguns desses estudos realizados foram [Análise do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) na perspectiva do corpo docente e discente do curso Técnico Integrado em Edificações – IFSC Câmpus São Carlos](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) e [SATISFAÇÃO DO USUÁRIO DO SISTEMA INTEGRADO DE GESTÃO DAS ATIVIDADES ACADÊMICAS: UM ESTUDO NO INSTITUTO FEDERAL CATARINENSE](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/812/Artigo_vers%c3%a3o_corrigida_set_2018.pdf?sequence=1&isAllowed=y) 
 
 ### Sobre a opinião do usuário:
-Na pesquisa do IFSC⁴, a usabilidade do sistema também foi um critério analisado, uma vez que é um dos aspectos mais importantes na avaliação de um sistema. Dessa maneira, o ideal é que esse sistema seja bastante intuitivo e de fácil aprendizagem de maneira que o usuário consiga utilizar o sistema de maneira eficiente, sem grandes dificuldades. No entanto, de acordo a pesquisa em que o site podia ser avaliado entre de 1 a 10, a usabilidade não recebeu notas boas, com nenhuma escolha para 9 e 10 e com foco entre 5 e 7, como é possível observar na Figura 1. 
+Na pesquisa do IFSC⁴, a usabilidade do sistema também foi um critério analisado, uma vez que é um dos aspectos mais importantes na avaliação de um sistema. Dessa maneira, o ideal é que esse sistema seja bastante intuitivo e de fácil aprendizagem de maneira que o usuário consiga utilizar o sistema de maneira eficiente, sem grandes dificuldades. No entanto, de acordo a pesquisa em que o site podia ser avaliado entre de 1 a 10, a usabilidade não recebeu notas boas, com nenhuma escolha para 9 e 10 e com foco entre 5 e 7, como é possível observar na Figura 3. 
 
-  **Figura 1:** OPinião sobre a usabilidade
+  **Figura 3:** OPinião sobre a usabilidade
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/usabilidadeSigaa.png">
   
   Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
 
 
-Na questão da facilidade de uso, na pesquisa do IFSC⁴, os docentes relataram que encontram dificuldades no uso do site, como é mostrado na figura 2.
+Na questão da facilidade de uso, na pesquisa do IFSC⁴, os docentes relataram que encontram dificuldades no uso do site, como é mostrado na figura 4.
 
 
- **Figura 2**: Opinião sobre a facilidade do uso.
+ **Figura 4**: Opinião sobre a facilidade do uso.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/UsabilidadeDocenteSigaa.png">
  Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
 
 
 
-Na questão da aparência, novamente de acordo com a pesquisa IFSC⁴, o SIGAA também não dispertou o agrado com grande parte das avaliações sendo classificadas entre 2 e 6, como é possível observar na Figura 3 .
+Na questão da aparência, novamente de acordo com a pesquisa IFSC⁴, o SIGAA também não dispertou o agrado com grande parte das avaliações sendo classificadas entre 2 e 6, como é possível observar na Figura 5 .
 
 
- **Figura 3**: Opinião sobre o design.
+ **Figura 5**: Opinião sobre o design.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/designSigaa.png">
 Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y)  
 
 
  
 
-Ainda sobre o design, na Figura 4 é possível ver a avalição dos docentes:
+Ainda sobre o design, na Figura 6 é possível ver a avalição dos docentes:
 
- **Figura 4**: Comparação com outros sites.
+ **Figura 6**: Comparação com outros sites.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/designDocenteSIGAA.png">
 
    Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
@@ -113,10 +113,10 @@ Ainda sobre o design, na Figura 4 é possível ver a avalição dos docentes:
  
 
 
-Na pesquisa no Instituto Federal Catarinense ⁵, foi realizada uma pesquisa com professores e alunos para eles darem uma nota entre 1 e 5 sobre alguns pontos do SIGAA. Como é mostrado na figura 5:
+Na pesquisa no Instituto Federal Catarinense ⁵, foi realizada uma pesquisa com professores e alunos para eles darem uma nota entre 1 e 5 sobre alguns pontos do SIGAA. Como é mostrado na figura 7:
 
 
- **Figura 5**: Notas dadas pelos usuários de acordo com os tópicos.
+ **Figura 7**: Notas dadas pelos usuários de acordo com os tópicos.
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/tabelaavalia%C3%A7%C3%A3oSIGAA.png">
 
  Fonte: [Pesquisa da IFSC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/812/Artigo_vers%c3%a3o_corrigida_set_2018.pdf?sequence=1&isAllowed=y )
@@ -138,12 +138,11 @@ A escolha do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) como
 
 ## Funcionalidades que serão estudadas
 Na Figura 8 é possível ver algumas funcionalidades do SIGAA da Unb.
-<center>
+
  **Figura 8**:
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa3.png">
 Fonte: Site do SIGAA 
     
- </center>
 
 Algumas das funcionalidades do SIGAA serão foco durante o desenvolvimento do nosso projeto. Elas podem ser vistas junto com o responsável pela área na tabela 1.
 
