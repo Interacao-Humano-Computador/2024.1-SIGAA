@@ -546,6 +546,9 @@ O equilíbrio entre controle e liberdade do usuário refere-se a encontrar a med
 
 A partir da análise da página inicial vista no GIF 1 e do sistema como um todo, podemos constatar que o SIGAA é um sistema bastante permissivo e sem qualquer instrução ou orientação para que o usuário se guie. Nesse cenário, os usuários têm liberdade para explorar e interagir com o SIGAA de acordo com suas próprias preferências e necessidades, sem restrições significativas impostas pelo sistema. No entanto, essa abordagem pode resultar em uma experiência de usuário que pode ser percebida como desorientadora ou confusa para alguns usuários, especialmente aqueles que podem precisar de mais orientação ou suporte para completar tarefas específicas. Enquanto a permissividade do sistema oferece aos usuários uma sensação de autonomia e controle, pode ser importante considerar a inclusão de recursos ou orientações adicionais para ajudar os usuários a navegar e utilizar o SIGAA de forma mais eficiente e eficaz. Vale ressaltar que não há um tutorial prévio para utilizar o sistema também no primeiro login do usuário.
 
+## Consistência e Padronização
+
+
 
 ## Conteúdo Relavante e Expressão Adequada
 
