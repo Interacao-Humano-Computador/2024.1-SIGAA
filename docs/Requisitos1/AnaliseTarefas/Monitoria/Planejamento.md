@@ -50,7 +50,7 @@ Essa aba terá três funcionalidades principais, que incluem:
 
 ## Inspirações
 
-Para realizar a análise de tarefas da aba de monitoria, alguns projetos anteriores da disciplina e os materiais disponibilizados pelo professor serão utilizados como base e inspiração.
+Para realizar a análise de tarefas da aba de monitoria, alguns projetos anteriores da disciplina e livros serão utilizados como base e inspiração.
 
 Os projetos utilizados como inspiração serão:
 
@@ -59,7 +59,7 @@ Os projetos utilizados como inspiração serão:
 - [Projeto Domínio Público](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/) (4)
 - [Projeto Lichess](https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/) (5)
 
-Os materiais disponibilizados pelo professor são:
+Livro:
 - Capítulo 6, Organização do espaço problema, do livro “Interação Humano-Computador”, de Barbosa e Silva. Edição de 2010. (2)
 
 ## Metodologia
