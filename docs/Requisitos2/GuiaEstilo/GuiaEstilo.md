@@ -98,7 +98,7 @@ Figura 1 - Elementos da Interface.
 
 ## Bibliografia
 
-**FIGMA**. Disponível em: <https://www.figma.com>. Acesso em: 11 mai. 2024.
+**FIGMA**. Disponível em: <https://www.figma.com>. 2016. Acesso em: 11 mai. 2024.
 
 ## Histórico de Versão
 
