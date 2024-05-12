@@ -105,4 +105,5 @@ Figura 1 - Elementos da Interface.
 | Versão | Alteração                         | Responsável     | Revisor         | Data       |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento              | Larissa Stéfane | Breno Alexandre | 11/05/2024 |
-| 1.1    | Adição dos Elementos de Interface | Breno Alexandre | Bruno Araújo             | 11/05/2024 |
+| 1.1    | Adição dos tópicos da introdução do guia | Larissa Stéfane | - | 11/05/2024 |
+| 1.2    | Adição dos Elementos de Interface | Breno Alexandre | Bruno Araújo   | 11/05/2024 |
