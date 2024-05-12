@@ -87,6 +87,11 @@ As formas de manter esse guia atualizado são:
 -  Monitorar mudanças no sistema, coletar feedback dos usuários e propor atualizações para o guia.
 - Documentar todas as alterações feitas no guia para garantir transparência e rastreabilidade ao longo do tempo.
 
+## Resultados de análise
+
+De acordo com as repostas obtidas nos [questionários](docs/PerfilUsuario/Professores/Questionarios/AnaliseResultados.md) 
+
+
 ## Vocabulário e padrões
 
 ### Terminologia:
