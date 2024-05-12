@@ -89,15 +89,15 @@ As formas de manter esse guia atualizado são:
 
 ## Vocabulário e padrões
 
-###Terminologia:
+### Terminologia:
 
 Gerenciar a consistência terminológica é uma responsabilidade crucial do designer, pois influencia diretamente na experiência do usuário. Ao avaliar a terminologia utilizada, é importante considerar tanto a uniformidade quanto a diversidade, visando uma interação coesa e acessível. Durante o desenvolvimento do projeto, é fundamental equilibrar o uso de linguagem técnica e termos familiares aos usuários, visando aprimorar a intuitividade do sistema.
 
-###Tipos de tela:
+### Tipos de tela:
 
 As diferentes telas projetadas devem aderir aos padrões delineados no guia de estilo, levando em conta o conteúdo específico de cada página. O guia de estilo oferece orientações para três tipos de tela: a inicial, a informativa e as demais. É essencial seguir os padrões estabelecidos para os elementos de interface, interação e ação conforme indicado no Figma.
 
-###Sequências de diálogos
+### Sequências de diálogos
 
 Ao planejar as sequências de diálogos, é necessário integrar feedbacks e confirmações após a execução de uma operação. Garantir que o usuário receba retorno adequado sobre o status das ações realizadas é prioritário. Este feedback pode ser fornecido de diversas maneiras, como mensagens de conclusão bem-sucedida ou alertas em caso de erros, os quais devem ser claramente indicados na interface.
 
@@ -124,4 +124,4 @@ VÁRIOS AUTORES. Guia de Estilo. Repositório do BCB da disciplina de Interaçã
 | 1.0    | Criação do documento                     | Larissa Stéfane | Breno Alexandre | 11/05/2024 |
 | 1.1    | Adição dos tópicos da introdução do guia | Larissa Stéfane | Breno Alexandre | 11/05/2024 |
 | 1.2    | Adição dos Elementos de Interface        | Breno Alexandre | Bruno Araújo    | 11/05/2024 |
-| 1.3    | Adição do Vocabulário e Padrões          | Iago Passaglia  |        -        | 12/05/2024 |
+| 1.3    | Adição do Vocabulário e Padrões          | Iago Passaglia  |      Larissa Stéfane       | 12/05/2024 |
