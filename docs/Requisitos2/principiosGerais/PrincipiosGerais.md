@@ -528,7 +528,7 @@ A consistência e padronização são elementos essenciais para o design eficaz 
 
 ### No SIGAA
 
-Analisando as cores e os ícones de todo o sistema, podemos constatar que existem um padrão claro e que está aplicado a todas as partes do site. 
+Analisando as cores e os ícones de todo o sistema, podemos constatar que existe um padrão claro e que está aplicado a todas as partes do site. A seguir, podemos constatar pela página principal exibida na Imagem 6, que os ícones são bem representativos e que as mesmas cores estão presentes em todas as páginas.
 
 <details>
 
@@ -537,7 +537,7 @@ Analisando as cores e os ícones de todo o sistema, podemos constatar que existe
 <div align="center">
 
 <div align="center">
-    Imagem 6: Alterar dados pessoais
+    Imagem 6: Página principal SIGAA
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/PaginaInicial1.png">
     <br>
@@ -550,6 +550,9 @@ Analisando as cores e os ícones de todo o sistema, podemos constatar que existe
 </div>
 
 </details>
+
+Outro ponto importante a destacar é que não apenas os ícones e as cores são padronizados, mas também os elementos do site, como os rótulos iniciais de "Ensino", "Pesquisa", "Extensão" e outros. Todos esses rótulos abrem suas respectivas opções em um menu suspenso "select", proporcionando uma consistência visual e funcional em todo o sistema. 
+Quanto aos campos de texto e credenciais, observou-se uma falta de padronização na confirmação da matrícula, onde em alguns casos são solicitados a data de nascimento e senha do usuário, enquanto em outros momentos são requeridos o CPF e a senha. Infelizmente, não foi possível incluir uma imagem para ilustrar essa inconsistência, uma vez que a página de matrícula online está disponível apenas durante o período designado no calendário acadêmico.
 
 ## Conteúdo Relavante e Expressão Adequada
 
