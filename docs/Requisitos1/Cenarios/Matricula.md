@@ -31,7 +31,6 @@ A tabela 1 mostra os elementos em relação ao cenário de efetuar a matrícula 
 **Fonte:** [Pedro Izarias](https://github.com/Izarias)
 
 ### Tabela de Questionamento Sistemático
-
 **Tabela 2**: Questionamento sistemático
 | Questão | Conteúdo das respostas |
 | --- | --- |
