@@ -137,3 +137,4 @@
       * Restaurante Universitário
         - [Planejamento](Requisitos1/AnaliseTarefas/RestauranteUniversitário/Planejamento.md)
         - [Análise Consulta de Saldo](Requisitos1/AnaliseTarefas/RestauranteUniversitário/AnáliseConsultaSaldo.md)
+    - [Guia de Estilo](Requisitos2/GuiaEstilo/GuiaEstilo.md)
