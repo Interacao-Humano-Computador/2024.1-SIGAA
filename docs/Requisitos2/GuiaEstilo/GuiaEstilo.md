@@ -87,6 +87,20 @@ As formas de manter esse guia atualizado são:
 -  Monitorar mudanças no sistema, coletar feedback dos usuários e propor atualizações para o guia.
 - Documentar todas as alterações feitas no guia para garantir transparência e rastreabilidade ao longo do tempo.
 
+## Vocabulário e padrões
+
+###Terminologia:
+
+Gerenciar a consistência terminológica é uma responsabilidade crucial do designer, pois influencia diretamente na experiência do usuário. Ao avaliar a terminologia utilizada, é importante considerar tanto a uniformidade quanto a diversidade, visando uma interação coesa e acessível. Durante o desenvolvimento do projeto, é fundamental equilibrar o uso de linguagem técnica e termos familiares aos usuários, visando aprimorar a intuitividade do sistema.
+
+###Tipos de tela:
+
+As diferentes telas projetadas devem aderir aos padrões delineados no guia de estilo, levando em conta o conteúdo específico de cada página. O guia de estilo oferece orientações para três tipos de tela: a inicial, a informativa e as demais. É essencial seguir os padrões estabelecidos para os elementos de interface, interação e ação conforme indicado no Figma.
+
+###Sequências de diálogos
+
+Ao planejar as sequências de diálogos, é necessário integrar feedbacks e confirmações após a execução de uma operação. Garantir que o usuário receba retorno adequado sobre o status das ações realizadas é prioritário. Este feedback pode ser fornecido de diversas maneiras, como mensagens de conclusão bem-sucedida ou alertas em caso de erros, os quais devem ser claramente indicados na interface.
+
 ## Elementos de Interface
 
 Os elementos sobre disposição espacial e grid, janelas, tipografia, símbolos não tipográficos, cores e animações são apresentados na figura 1.
@@ -98,6 +112,9 @@ Figura 1 - Elementos da Interface.
 
 ## Bibliografia
 
+VÁRIOS AUTORES. Guia de Estilo. Repositório do BCB da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo. Acesso em 12 de maio de 2024.
+
+
 **FIGMA**. Disponível em: <https://www.figma.com>. 2016. Acesso em: 11 mai. 2024.
 
 ## Histórico de Versão
@@ -107,3 +124,4 @@ Figura 1 - Elementos da Interface.
 | 1.0    | Criação do documento                     | Larissa Stéfane | Breno Alexandre | 11/05/2024 |
 | 1.1    | Adição dos tópicos da introdução do guia | Larissa Stéfane | Breno Alexandre | 11/05/2024 |
 | 1.2    | Adição dos Elementos de Interface        | Breno Alexandre | Bruno Araújo    | 11/05/2024 |
+| 1.3    | Adição do Vocabulário e Padrões          | Iago Passaglia  |        -        | 12/05/2024 |
