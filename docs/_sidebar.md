@@ -12,6 +12,7 @@
   - [Ata 4](atas/Ata_04.md)
   - [Ata 5](atas/Ata_05.md)
   - [Ata 6](atas/Ata_06.md)
+  - [Ata 7](atas/Ata_07.md)
 
 * Apresentações
   - [Apresentação 01](Entregas/Entrega01.md)
