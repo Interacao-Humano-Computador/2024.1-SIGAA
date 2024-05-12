@@ -514,30 +514,6 @@ No projeto, o princípio de antecipação das necessidades dos usuários será a
 - **Informações claras e explicativas:** Serão fornecidas informações claras e explicativas em todo o sistema para orientar os usuários e ajudá-los a entender como realizar tarefas específicas.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Equilíbrio entre controle e liberdade do usuário
 
 O equilíbrio entre controle e liberdade do usuário refere-se a encontrar a medida certa de orientação fornecida ao usuário por um sistema ou interface, sem restringir excessivamente sua capacidade de agir de acordo com suas próprias preferências e necessidades. Isso implica em projetar interfaces que ofereçam suporte suficiente para ajudar os usuários a completar tarefas de forma eficiente e eficaz, ao mesmo tempo em que permitem flexibilidade e autonomia para que possam explorar e interagir com o sistema de maneiras que façam sentido para eles. Encontrar esse equilíbrio é crucial para garantir uma experiência de usuário positiva, onde os usuários se sintam capacitados e no controle, sem se sentirem sobrecarregados ou limitados pelas restrições do sistema.
@@ -548,7 +524,20 @@ A partir da análise da página inicial vista no GIF 1 e do sistema como um todo
 
 ## Consistência e Padronização
 
+A consistência e padronização são elementos essenciais para o design eficaz de sistemas e interfaces. A consistência refere-se à aplicação uniforme de convenções de design, comportamentos e padrões em todo o sistema, garantindo que os elementos visuais e funcionais se comportem de maneira previsível e coerente. Por outro lado, a padronização envolve a adoção de diretrizes e normas de design reconhecidas e amplamente aceitas, promovendo uma experiência de usuário consistente e intuitiva.
 
+### No SIGAA
+
+Analisando as cores e os ícones de todo o sistema, podemos constatar que existem um padrão claro e que está aplicado a todas as partes do site. 
+
+<div align="center">
+    Imagem 6: Alterar dados pessoais
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/PaginaInicial1.png">
+    <br>
+     Fonte: Pedro Augusto
+    <br>
+</div>
 
 ## Conteúdo Relavante e Expressão Adequada
 
@@ -581,7 +570,7 @@ Além disso, a expressão adequada é evidente na forma como o SIGAA apresenta i
 O uso de palavras menos comuns, como "discente" e "docente" (vide Figura 1), no SIGAA pode, em alguns casos, violar os princípios de conteúdo relevante e expressão adequada. Embora esses termos sejam familiares para os membros da comunidade acadêmica, como estudantes e professores, podem ser menos compreensíveis para usuários externos ou novatos na plataforma. 
 
 <div align="center">
-Imagem 6: Violação
+Imagem 7: Violação
 
 ![Discentes/Docentes - Sigaa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/discentes.png?raw=true)
 
