@@ -57,7 +57,7 @@ Abaixo, há algumas das funcionalidades que o SIGAA oferece para os seus usuári
 
 - Cadastrar Notas;
 
--Gerenciar Plano;
+- Gerenciar Plano;
 
 - Grade Horária;
 
