@@ -5,31 +5,18 @@
 
 
 * [Introdução](#Introdução)
-
 * [Metodologia](#Metodologia)
-
 * [Funcionalidades](#Funcionalidades)
-
 * [Características Principais da Plataforma](#Características-Principais-da-Plataforma)
-
-* [Como o SIGAA Funciona?](#Como-o-SIGAA-Funciona?)
-
-* [As Tecnologias Utilizadas](#As-Tecnologias-Utilizadas)
-
-* [Controle do Usuário e Liberdade](#Controle-do-Usuário-e-Liberdade)
-
-* [Portabilidade](#Portabilidade)
-
-* [Estilização](#Estilização)
-
+  * [Como o SIGAA Funciona?](#Como-o-SIGAA-Funciona?)
+  * [As Tecnologias Utilizadas](#As-Tecnologias-Utilizadas)
+  * [Controle do Usuário e Liberdade](#Controle-do-Usuário-e-Liberdade)
+  * [Portabilidade](#Portabilidade)
+  * [Estilização](#Estilização)
 * [Pontos Positivos e Negativos](#Pontos-Positivos-e-Negativos)
-
 * [Pontos Positivos](#Pontos-Positivos)
-
 * [Pontos Negativos](#Pontos-Negativos)
-
 * [Opiniões dos Usuários](#Opiniões-dos-Usuários)
-
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 
 
