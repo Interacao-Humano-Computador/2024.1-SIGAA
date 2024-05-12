@@ -87,8 +87,21 @@ As formas de manter esse guia atualizado são:
 -  Monitorar mudanças no sistema, coletar feedback dos usuários e propor atualizações para o guia.
 - Documentar todas as alterações feitas no guia para garantir transparência e rastreabilidade ao longo do tempo.
 
+## Elementos de Interface
+
+Os elementos sobre disposição espacial e grid, janelas, tipografia, símbolos não tipográficos, cores e animações são apresentados na figura 1.
+
+Figura 1 - Elementos da Interface.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F3V51JoJoglQBIBh8VR67vQ%2FIHC%252FSIGAA---Elementos-da-Interface%3Fnode-id%3D0%253A1%26t%3DtceCGlbnz1DNj2wo-1" allowfullscreen></iframe>
+
+**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0).
+
+## Bibliografia
+
+**FIGMA**. Disponível em: <https://www.figma.com>. Acesso em: 11 mai. 2024.
+
 ## Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação do documento | Larissa Stéfane | - | 11/05/2024 |
+| Versão | Alteração            | Responsável     | Revisor         | Data       |
+| ------ | -------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento | Larissa Stéfane | Breno Alexandre | 11/05/2024 |
