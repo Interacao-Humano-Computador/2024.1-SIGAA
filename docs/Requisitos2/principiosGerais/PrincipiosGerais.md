@@ -530,6 +530,12 @@ A consistência e padronização são elementos essenciais para o design eficaz 
 
 Analisando as cores e os ícones de todo o sistema, podemos constatar que existem um padrão claro e que está aplicado a todas as partes do site. 
 
+<details>
+
+<summary size="20"><b> Página principal do Sistema </b></summary>
+
+<div align="center">
+
 <div align="center">
     Imagem 6: Alterar dados pessoais
     <br>
@@ -537,6 +543,10 @@ Analisando as cores e os ícones de todo o sistema, podemos constatar que existe
     <br>
      Fonte: Pedro Augusto
     <br>
+</div>
+
+<br>
+
 </div>
 
 ## Conteúdo Relavante e Expressão Adequada
