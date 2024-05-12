@@ -554,6 +554,35 @@ Analisando as cores e os ícones de todo o sistema, podemos constatar que existe
 Outro ponto importante a destacar é que não apenas os ícones e as cores são padronizados, mas também os elementos do site, como os rótulos iniciais de "Ensino", "Pesquisa", "Extensão" e outros. Todos esses rótulos abrem suas respectivas opções em um menu suspenso "select", proporcionando uma consistência visual e funcional em todo o sistema. 
 Quanto aos campos de texto e credenciais, observou-se uma falta de padronização na confirmação da matrícula, onde em alguns casos são solicitados a data de nascimento e senha do usuário, enquanto em outros momentos são requeridos o CPF e a senha. Infelizmente, não foi possível incluir uma imagem para ilustrar essa inconsistência, uma vez que a página de matrícula online está disponível apenas durante o período designado no calendário acadêmico.
 
+## Promoção da Eficiencia do Usuário
+
+A promoção da eficiência do usuário é um conceito fundamental em Interação Humano-Computador (IHC), que se concentra em projetar sistemas e interfaces de forma a permitir que os usuários realizem suas tarefas de maneira eficaz e eficiente. Isso envolve a criação de designs que minimizem a carga cognitiva do usuário, facilitando a localização de informações, a execução de ações e a conclusão de tarefas com rapidez e precisão.
+
+## No SIGAA
+
+Alguns recursos que promovem a eficiência a rapidez na navegação por parte do usuário estão presentes no sistema, como a presença de um sistema de diretórios clara, que permite o usuário se situar dentro das páginas do SIGAA, além de poder voltar em qualquer "diretório" anterior dentro da própria sem precisar utilizar várias vezes a opção voltar do navegador. A seguir podemos ver a presença desse recurso na Imagem 7:
+
+<details>
+
+<summary size="20"><b> Sistema de diretórios no SIGAA </b></summary>
+
+<div align="center">
+
+<div align="center">
+    Imagem 7: Sistema de diretórios no SIGAA
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/DiretoriosSIGAA.png">
+    <br>
+     Fonte: Pedro Augusto
+    <br>
+</div>
+
+<br>
+
+</div>
+
+</details>
+
 ## Conteúdo Relavante e Expressão Adequada
 
 ### O que é?
