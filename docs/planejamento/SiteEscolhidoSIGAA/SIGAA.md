@@ -140,7 +140,9 @@ A escolha do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) como
 Na Figura 8 é possível ver algumas funcionalidades do SIGAA da Unb.
 
  **Figura 8**:
+ 
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa3.png">
+
 Fonte: Site do SIGAA 
     
 
