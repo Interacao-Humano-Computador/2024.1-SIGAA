@@ -669,6 +669,9 @@ Como tanto os usuários quanto os sistemas são propensos a erros, o sistema dev
 ### Violação
 O site SIGAA possui métodos padrão de detecção de erros que, dependendo do tipo, podem até explicar o erro. Porém, na maior parte das vezes, o sistema não evita que os usuários cometam erros, principalmente porque os usuários do sistema têm muita liberdade nele, mas também porque o site tem um nível de poluição informacional muito alto, que pode ser visto no [Gif 14](#Como-é-aplicado-no-SIGAA), que representa a página inicial do site.
 
+### Como será usado no projeto
+Para reduzir a ocorrência de erros dos usuários, no projeto serão estudadas simplificações na interface, mensagens de erros claras e testes de usabilidade.
+
 ## Conclusão
 
 Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compreensão abrangente das diretrizes essenciais que guiarão o desenvolvimento e aprimoramento deste sistema vital de gestão acadêmica. Além disso, aumentou a visão crítica que o grupo tem sobre o SIGAA, torando possível observar melhor os seus pontos fortes e fracos.
@@ -684,14 +687,15 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 
 
 ## Histórico de Versão
-| Versão | Alteração                                                             | Responsável     | Revisor        | Data       |
-| ------ | --------------------------------------------------------------------- | --------------- | -------------- | ---------- |
-| 1.0    | Criação do documento                                                  | Pedro Izarias   | Bruno Araújo   | 10/05/2024 |
-| 1.1    | Adição da introdução                                                  | Larissa Stéfane | Bruno Araújo   | 11/05/2024 |
-| 1.2    | Adição do princípio Correspondências com as expectativas dos usuários | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
-| 1.3    | Adição do Conteúdo Relavante e Expressão Adequada                     | Iago Passaglia  | Bruno Araújo  11/05/2024 |
-| 1.4    | Adição do princípio Antecipação das Necessidades do Usuário           | Larissa Stéfane | Bruno Araújo  | 11/05/2024 |
-| 1.5    | Adição da conclusão (Deve ser o último)                               | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
-| 1.6    | Adição do projeto para erros                                          | Breno Alexandre | Bruno Araújo | 11/05/2024 |
-| 1.7    | Adição da equilíbrio entre controle e liberdade do usuário            | Pedro Izarias | Bruno Araújo | 11/05/2024 |
-| 1.8    | Adição da consistência e padronização e promoção da eficiência do usuário no projeto | Pedro Izarias | Bruno Araújo | 12/05/2024 |
+| Versão | Alteração                                                                            | Responsável     | Revisor        | Data       |
+| ------ | ------------------------------------------------------------------------------------ | --------------- | -------------- | ---------- |
+| 1.0    | Criação do documento                                                                 | Pedro Izarias   | Bruno Araújo   | 10/05/2024 |
+| 1.1    | Adição da introdução                                                                 | Larissa Stéfane | Bruno Araújo   | 11/05/2024 |
+| 1.2    | Adição do princípio Correspondências com as expectativas dos usuários                | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
+| 1.3    | Adição do Conteúdo Relavante e Expressão Adequada                                    | Iago Passaglia  | Bruno Araújo   | 11/05/2024 |
+| 1.4    | Adição do princípio Antecipação das Necessidades do Usuário                          | Larissa Stéfane | Bruno Araújo   | 11/05/2024 |
+| 1.5    | Adição da conclusão (Deve ser o último)                                              | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
+| 1.6    | Adição do projeto para erros                                                         | Breno Alexandre | Bruno Araújo   | 11/05/2024 |
+| 1.7    | Adição da equilíbrio entre controle e liberdade do usuário                           | Pedro Izarias   | Bruno Araújo   | 11/05/2024 |
+| 1.8    | Adição da consistência e padronização e promoção da eficiência do usuário no projeto | Pedro Izarias   | Bruno Araújo   | 12/05/2024 |
+| 1.9    | Adição no projeto para erros                                                         | Breno Alexandre | -              | 12/05/2024 |
