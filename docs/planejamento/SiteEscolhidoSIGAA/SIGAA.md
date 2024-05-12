@@ -18,11 +18,13 @@ Com o avanço da tecnologia na área educacional, sistemas de gestão acadêmica
 
 ## O que é o SIGAA?
 
- <center> 
+
   **Figura 1**: Site Sigaa
+  
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa1.png">
+ 
   Fonte: Site do SIGAA 
- </center>
+
 
 
 O **Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA)** foi desenvolvido pela Universidade Federal do Rio Grande do Norte (UFRN) em 2006 como uma forma de unificar e de gerenciar as atividades acadêmicas da instituição de maneira integrada e mais eficiente que o sistema utilizado anteriormente. Desse modo, ele é um sistema onde todos os envolvidos no processo educacional podem participar, uma vez que permite aos professores liberarem e coletarem informações sobre as suas disciplinas de forma mais dinâmica, enquanto é um ambiente para estudos e acompanhamento dos alunos. 
