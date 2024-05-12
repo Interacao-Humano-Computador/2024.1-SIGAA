@@ -3,6 +3,7 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
+* [Inspirações](#Inspirações)
 * [Princípios e Integrantes](#Princípios-e-Integrantes)
 * [Template](#Template)
 * [Conclusão](#Conclusão)
@@ -19,6 +20,21 @@ A metodologia adotada para a análise e a aplicação dos princípios gerais no 
 Após a familiarização com os princípios, será realizada uma análise minuciosa do site do SIGAA, identificando os pontos que violam ou não atendem adequadamente aos princípios estabelecidos, bem como aqueles que estão em conformidade. Essa análise será documentada de forma detalhada, destacando exemplos específicos e evidências que sustentem as conclusões.
 
 Em seguida, serão propostas medidas e estratégias específicas que serão implementadas no projeto para garantir que cada princípio analisado seja plenamente cumprido e aplicado nas funcionalidades trabalhadas. Sendo assim, isso pode incluir ajustes na interface do usuário, refinamentos nos fluxos de trabalho, aprimoramento da comunicação e orientação para os usuários, entre outras ações destinadas a promover uma experiência de uso mais alinhada com os princípios estabelecidos.
+
+## Inspirações
+
+Para realizar a análise dos princípios gerais, alguns projetos anteriores da disciplina e livros serão utilizados como base e inspiração.
+
+Os projetos utilizados como inspiração serão:
+
+- [Projeto do Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas) (1)
+- [Projeto BCE](https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_2/analise_tarefas) (3)
+- [Projeto Domínio Público](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/) (4)
+- [Projeto Lichess](https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/) (5)
+
+Livro:
+- Capítulo 6, Organização do espaço problema, do livro “Interação Humano-Computador”, de Barbosa e Silva. Edição de 2010. (2)
+
 
 ##  Princípios e Integrantes
 
@@ -57,6 +73,18 @@ O algoritmo 1 mostra o templete de como a organização da análise dos príncip
 ## Conclusão
 
 O planejamento das análises dos princípios gerais do projeto do SIGAA representa um passo fundamental nesta etapa do projeto, pois estabelece uma metodologia clara e designa análises específicas para cada princípio, visamos garantir uma análise mais abrangente e consistente no projeto. 
+
+## Referência Bibliográfica
+
+1. Projeto do Banco Central do Brasil. Disponível em <https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas> Acesso em 28 de abril de 2024.
+   
+2. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 28 de abril de 2024.
+   
+3. Projeto BCE. Disponível em <https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_2/analise_tarefas>
+
+4. Projeto Domínio Público. Disponível em <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/> Acesso em 28 de abril de 2024.
+   
+5. Projeto Lichess. Disponívem em <https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/> Acesso em 28 de abril de 2024.
 
 ## Histórico de Versão
 
