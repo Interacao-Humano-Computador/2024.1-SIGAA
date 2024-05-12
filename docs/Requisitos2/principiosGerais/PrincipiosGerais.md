@@ -689,9 +689,9 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 | 1.0    | Criação do documento                                                  | Pedro Izarias   | Bruno Araújo   | 10/05/2024 |
 | 1.1    | Adição da introdução                                                  | Larissa Stéfane | Bruno Araújo   | 11/05/2024 |
 | 1.2    | Adição do princípio Correspondências com as expectativas dos usuários | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
-| 1.3    | Adição do Conteúdo Relavante e Expressão Adequada                     | Iago Passaglia  | -              | 11/05/2024 |
-| 1.4    | Adição do princípio Antecipação das Necessidades do Usuário           | Larissa Stéfane | -              | 11/05/2024 |
+| 1.3    | Adição do Conteúdo Relavante e Expressão Adequada                     | Iago Passaglia  | Bruno Araújo  11/05/2024 |
+| 1.4    | Adição do princípio Antecipação das Necessidades do Usuário           | Larissa Stéfane | Bruno Araújo  | 11/05/2024 |
 | 1.5    | Adição da conclusão (Deve ser o último)                               | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
-| 1.6    | Adição do projeto para erros                                          | Breno Alexandre | -              | 11/05/2024 |
-| 1.7    | Adição da equilíbrio entre controle e liberdade do usuário            | Pedro Izarias | -              | 11/05/2024 |
-| 1.8    | Adição da consistência e padronização e promoção da eficiência do usuário no projeto | Pedro Izarias | -| 12/05/2024 |
+| 1.6    | Adição do projeto para erros                                          | Breno Alexandre | Bruno Araújo | 11/05/2024 |
+| 1.7    | Adição da equilíbrio entre controle e liberdade do usuário            | Pedro Izarias | Bruno Araújo | 11/05/2024 |
+| 1.8    | Adição da consistência e padronização e promoção da eficiência do usuário no projeto | Pedro Izarias | Bruno Araújo | 12/05/2024 |
