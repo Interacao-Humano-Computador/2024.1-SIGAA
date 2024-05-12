@@ -161,7 +161,7 @@ Alguns dos limites impostos são:
 
 
 
-- **Aceso controlado**: Requer que os usuários tenham credenciais de acesso válidas para entrar na plataforma.
+- **Acesso controlado**: Requer que os usuários tenham credenciais de acesso válidas para entrar na plataforma.
 
 - **Permissões de usuários**: Dentro do SIGAA, diferentes usuários têm diferentes níveis de permissão, dependendo do seu papel na instituição. Por exemplo, um docente pode ter permissão para lançar notas em disciplinas específicas, enquanto um discente pode ter acesso apenas às suas próprias informações acadêmicas.
 
