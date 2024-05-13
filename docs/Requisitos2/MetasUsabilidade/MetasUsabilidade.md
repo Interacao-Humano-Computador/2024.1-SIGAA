@@ -43,7 +43,7 @@ Envolve a facilidade com que os usuários podem aprender a usar o sistema. Um si
 A falta de tutoriais no primeiro login do usuário e ferramentas que facilitem o usuário encontrar as opções dentro do site como um barra de pesquisa, torna o aprendizado do SIGAA um pouco lento. Outro fator agravante é a grande quantidade de informações escritas na página inicial, que pode causar sobrecarga cognitiva no usuário novato.
 
 <center>
-  <font size="2"><p style="text-align: center">Figura 1: Página principal SIGAA</p></font>
+  <font size="2"><p style="text-align: center">Imagem 1: Página principal SIGAA</p></font>
 <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/PaginaInicial1.png?raw=true" style="width:auto"/>
 <center>
   
@@ -55,12 +55,14 @@ Diz respeito à facilidade com que os usuários podem lembrar como usar o sistem
 A falta de recursos de ajuda e guias para usuário, torna mais difícil o aprendizado e consequentemente a memorização das funcionalidades do sistema. Outro fato que prejudica a memorização pelo usuário do SIGAA é também a complexidade da página inicial, que possui um excesso de conteúdo, tornando difícil para os usuários identificarem rapidamente as informações relevantes e navegarem eficientemente pelo sistema. Isso pode resultar em uma experiência confusa e frustrante, levando a uma memorização inadequada das funcionalidades e recursos disponíveis no SIGAA.
 
 ## Conclusão
+Assim, com base na análise das metas de usabilidade no SIGAA, identificamos duas metas com problemas a serem resolvidos: aprendizado e memorização. Consequentemente, essas metas serão tratadas com prioridade nas próximas etapas.
 
 ## Bibliografia
 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-2. 
+2. Diana Fournier. As 6 metas de Usabilidade . Disponível em https://medium.com/difournier-uxr/as-6-metas-de-usabilidade-9491442fd56a. Acesso em 12 de maio de 2024.
+   
 ## Histórico de Versão
 | Versão | Alteração                                                                            | Responsável     | Revisor        | Data       |
 | ------ | ------------------------------------------------------------------------------------ | --------------- | -------------- | ---------- |
 | 1.0    | Criação do documento                                                                 | Luana Medeiros  | Pedro Izarias|12/05/2024|
-| 1.1    | Mudanças no documento                                                               | Pedro Izarias  | - |12/05/2024|
+| 1.1    | Adições e mudanças no documento                                                       | Pedro Izarias  | - |12/05/2024|
