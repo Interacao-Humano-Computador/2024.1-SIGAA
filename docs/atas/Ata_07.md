@@ -101,4 +101,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação  Ata da Reunião           | Larissa Stéfane | Breno Alexandre       | 07/05/2024 |
-| 1.1    | Adição da gravação da reunião          | Larissa Stéfane | -      | 12/05/2024 |
+| 1.1    | Adição da gravação da reunião     | Larissa Stéfane | Breno Alexandre       | 12/05/2024 |
