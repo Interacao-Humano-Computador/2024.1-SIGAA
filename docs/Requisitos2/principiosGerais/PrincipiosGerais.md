@@ -9,6 +9,11 @@
     * [Como as expectativas são violadas no SIGAA](#Como-as-expectativas-são-violadas-no-SIGAA)
     * [Como as expectativas são aplicadas no SIGAA](#Como-as-expectativas-são-aplicadas-no-SIGAA)
     * [Como as expectativas serão utilizadas no projeto](#Como-as-expectativas-serão-utilizadas-no-projeto)
+* [Simplicidade nas Estruturas da Tarefa](#Simplicidade-nas-estruturas-da-tarefa)
+    * [O que é expectativas?](#O-que-é-expectativas?)
+    * [Como as expectativas são violadas no SIGAA](#Como-as-expectativas-são-violadas-no-SIGAA)
+    * [Como as expectativas são aplicadas no SIGAA](#Como-as-expectativas-são-aplicadas-no-SIGAA)
+    * [Como as expectativas serão utilizadas no projeto](#Como-as-expectativas-serão-utilizadas-no-projeto)
 * [Antecipação das Necessidades do Usuário](#Antecipação-das-Necessidades-do-Usuário) 
     * [O que é Antecipação das Necessidades do Usuário?](#O-que-é-Antecipação-das-Necessidades-do-Usuário?)
     * [Como a antecipação é violada no SIGAA](#Como-a-antecipação-é-violada-no-SIGAA)
@@ -315,12 +320,16 @@ Com base nisso, para aplicar o princípio de correspondência com a expectativa 
 
 ## Simplicidade nas Estruturas das Tarefas
 
-A simplicidade nas estruturas das tarefas se concentra em minimizar a complexidade das interações do usuário com o sistema. O objetivo é tornar as tarefas tão intuitivas quanto possível, reduzindo a sobrecarga e permitindo que os usuários se concentrem no que é mais importante, facilitando assim a execução e compreensão das tarefas.
+### O que é Simplicidade nas Estruturas das Tarefas?
+
+A simplicidade nas estruturas das tarefas se concentra em minimizar a complexidade das interações do usuário com o sistema, tornando as tarefas tão intuitivas quanto possível. Este princípio visa reduzir a sobrecarga cognitiva dos usuários, permitindo-lhes focar nos elementos essenciais, facilitando assim a compreensão e a execução das tarefas. Segundo Barbosa e Silva (2021)², simplificar não significa apenas diminuir o número de passos para realizar uma tarefa, mas também organizar a interface de modo que as informações sejam fáceis de acessar e entender, promovendo uma experiência de usuário mais direta e eficiente.
+
 
 O GIF 14 mostra a navegação no SIGAA.
 
 ![gif sigaa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/416c052b-1e5c-415b-9510-75d81a08c715)
 
+Estas mudanças são projetadas para tornar o SIGAA mais acessível e menos desafiador para os usuários, garantindo uma experiência mais eficiente e agradável.
 
 <details>
 
@@ -355,12 +364,14 @@ Fonte: [Bruno Araújo](https://github.com/brunocva)
 
 #### Como esse princípio será utilizado no projeto
 
-No projeto de reformulação do SIGAA, vamos fortalecer a aplicação do princípio de simplicidade:
+No projeto SIGAA, com base nas informações aqui elencadas, para aplicar o princípio de correspondência com a 
+expectativa do usuário, vamos fortalecer a aplicação do princípio de simplicidade, as funcionalidades do projeto serão baseadas em:
+
 - **Reduzindo o número de passos necessários** para realizar algumas funções comuns, como inscrição em bolsas de estudo/acadêmica ou submissão de documentos.
 - **Melhorando a navegação** através de uma interface mais limpa e intuitiva, onde opções menos utilizadas são agrupadas em menus secundários ou são acessíveis através de funcionalidades de busca aprimoradas.
 - **Implementando designs responsivos** que se adaptam às necessidades do usuário, destacando as funcionalidades mais relevantes com base no contexto de uso.
 
-Estas mudanças são projetadas para tornar o SIGAA mais acessível e menos desafiador para os usuários, garantindo uma experiência mais eficiente e agradável.
+Estas mudanças são projetadas para tornar o SIGAA mais intuitiva para os usuários, garantindo uma experiência mais eficiente e agradável.
 
 ## Antecipação das Necessidades do Usuário
 
@@ -741,6 +752,8 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 
 ## Referências Bibliográficas
 1. **BARBOSA**, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Acesso em 11 de maio de 2024.
+
+2. **BARBOSA**, S. D. J.; SILVA, B. S. Interação Humano-Computador e Experiência do Usuário. Autografia, 2021, p. 238-239.
 
 ## Bibliografia
 **NORMAN**, Don. The Psychology Of Everyday Things. Basic Books, New York, illustrated edition, 1988.
