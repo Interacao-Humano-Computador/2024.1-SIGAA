@@ -46,6 +46,11 @@ A simplicidade nas estruturas das tarefas é essencial para facilitar a interaç
 - Automação de tarefas repetitivas: Automatizar tarefas ou partes delas para simplificar processos, mas com cautela para não remover o controle do usuário.
 
 
+
+
+## Correspondências com as expectativas dos usuários
+
+
 ### O que é expectativas?
 
 
@@ -699,3 +704,5 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 | 1.7    | Adição da equilíbrio entre controle e liberdade do usuário                           | Pedro Izarias   | Bruno Araújo   | 11/05/2024 |
 | 1.8    | Adição da consistência e padronização e promoção da eficiência do usuário no projeto | Pedro Izarias   | Bruno Araújo   | 12/05/2024 |
 | 1.9    | Adição no projeto para erros                                                         | Breno Alexandre | -              | 12/05/2024 |
+| 1.10   | Correção de inconsistência                                                        | Larissa Stéfane | -              | 12/05/2024 |
+
