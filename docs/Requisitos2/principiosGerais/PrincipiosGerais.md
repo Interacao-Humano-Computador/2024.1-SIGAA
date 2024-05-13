@@ -552,7 +552,7 @@ Mesmo violando, em alguns pontos, o princípio de antecipação, o SIGAA também
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/antecipacao5.png">
     <br>
-     Fonte: Larissa Stéfane
+     Fonte: Orientação aos discentes
     <br>
 </div>
 
@@ -780,6 +780,7 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 
 **VÁRIOS AUTORES**. Princípios Gerais. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/. Acesso em 11 de maio de 2024.
 
+**Orientação aos discentes**. Disponível em <https://ichca.ufal.br/pt-br/pos-graduacao/ciencia-da-informacao/documentos/todos-os-arquivos/ORIENTAESPARADISCENTESComoacessarpelaprimeiravezoSIGAA.pdf>. Aceso em 11 de maio de 2024
 
 ## Histórico de Versão
 | Versão | Alteração                                                                            | Responsável     | Revisor        | Data       |
