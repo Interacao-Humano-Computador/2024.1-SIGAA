@@ -148,3 +148,5 @@
     * Guia de Estilo
         - [Planejamento](Requisitos2/GuiaEstilo/planejamento.md)
         - [Guia de Estilo](Requisitos2/GuiaEstilo/GuiaEstilo.md)
+  
+    * [Metas de Usabilidade](Requisitos2/MetasUsabilidade/MetasUsabilidade.md)
