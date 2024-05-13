@@ -133,7 +133,6 @@ Aceleradores são usados para permitir que os usuários experientes realizem tar
 
 - **Ctrl+S**: Salvar alterações no formulário atual.
 - **Ctrl+P**: Imprimir o documento visualizado.
-- **Alt+N**: Abrir uma nova solicitação ou registro.
 
 Os aceleradores são escolhidos para serem intuitivos e estão documentados no manual do usuário para fácil referência.
  
