@@ -82,6 +82,8 @@ Na pesquisa do IFSC⁴, a usabilidade do sistema também foi um critério analis
   
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/usabilidadeSigaa.png">
   
+ 
+  
   Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
 
 
@@ -92,6 +94,8 @@ Na questão da facilidade de uso, na pesquisa do IFSC⁴, os docentes relataram 
  
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/UsabilidadeDocenteSigaa.png">
   
+
+ 
  Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
 
 
@@ -103,6 +107,8 @@ Na questão da aparência, novamente de acordo com a pesquisa IFSC⁴, o SIGAA t
  
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/designSigaa.png">
   
+
+
 Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y)  
 
 
@@ -113,6 +119,8 @@ Ainda sobre o design, na Figura 6 é possível ver a avalição dos docentes:
  **Figura 6**: Comparação com outros sites.
  
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/designDocenteSIGAA.png">
+
+
 
 Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
 
@@ -126,6 +134,8 @@ Na pesquisa no Instituto Federal Catarinense ⁵, foi realizada uma pesquisa com
  
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/tabelaavalia%C3%A7%C3%A3oSIGAA.png">
 
+
+ 
  Fonte: [Pesquisa da IFSC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/812/Artigo_vers%c3%a3o_corrigida_set_2018.pdf?sequence=1&isAllowed=y )
 
  
