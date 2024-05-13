@@ -62,7 +62,7 @@ Assim, com base na análise das metas de usabilidade no SIGAA, identificamos dua
 2. Diana Fournier. As 6 metas de Usabilidade . Disponível em https://medium.com/difournier-uxr/as-6-metas-de-usabilidade-9491442fd56a. Acesso em 12 de maio de 2024.
    
 ## Histórico de Versão
-| Versão | Alteração                                                                            | Responsável     | Revisor        | Data       |
-| ------ | ------------------------------------------------------------------------------------ | --------------- | -------------- | ---------- |
-| 1.0    | Criação do documento                                                                 | Luana Medeiros  | Pedro Izarias|12/05/2024|
-| 1.1    | Adições e mudanças no documento                                                       | Pedro Izarias  | - |12/05/2024|
+| Versão | Alteração                                                                            | Responsável     | Revisor         | Data       |
+| ------ | ------------------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento                                                                 | Luana Medeiros  | Pedro Izarias   | 12/05/2024 |
+| 1.1    | Adições e mudanças no documento                                                      | Pedro Izarias   | Breno Alexandre | 12/05/2024 |
