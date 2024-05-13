@@ -110,6 +110,32 @@ Figura 1 - Elementos da Interface.
 
 **Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0).
 
+## Elementos de Interação
+Esta seção aborda os diferentes estilos de interação, como selecionar o estilo mais adequado para diferentes contextos dentro do SIGAA e a utilização de aceleradores para aumentar a eficiência da interação do usuário.
+
+### Estilos de Interação
+Os estilos de interação definem como os usuários interagem com o sistema. Os estilos principais utilizados no SIGAA incluem:
+
+- **Comandos de Texto**: para operações avançadas ou administração do sistema.
+- **Menus e Formulários**: para navegação geral e entrada de dados.
+- **Manipulação Direta**: em certas funcionalidades como calendário acadêmico e configurações de perfil.
+- **Interface Natural de Usuário (NUI)**: ainda em fase de conceito para futuras implementações como controle por gestos em dispositivos móveis.
+
+### Seleção de um Estilo
+A seleção de um estilo de interação depende do contexto de uso, das tarefas específicas do usuário e da complexidade das operações. No SIGAA, a seleção é orientada por:
+
+- **Facilidade de Uso**: Preferência por menus e formulários para facilitar a usabilidade por uma ampla gama de usuários.
+- **Eficiência**: Implementação de comandos de texto para usuários avançados que precisam realizar tarefas administrativas complexas de forma eficiente.
+
+### Aceleradores (Teclas de Atalho)
+Aceleradores são usados para permitir que os usuários experientes realizem tarefas com rapidez. Exemplos de aceleradores no SIGAA incluem:
+
+- **Ctrl+S**: Salvar alterações no formulário atual.
+- **Ctrl+P**: Imprimir o documento visualizado.
+- **Alt+N**: Abrir uma nova solicitação ou registro.
+
+Os aceleradores são escolhidos para serem intuitivos e estão documentados no manual do usuário para fácil referência.
+ 
  ## Elementos de Ação
 Dentro de um guia de estilo de projeto, os elementos de ação, como preenchimento de campos, seleção e ativação, são cruciais para a interação do usuário. O guia estabelece diretrizes para garantir uma experiência intuitiva, incluindo orientações sobre o design de formulários, apresentação de opções de seleção e identificação precisa de botões. Isso contribui para uma interface coesa e eficaz, promovendo a usabilidade e a satisfação do usuário.
         
