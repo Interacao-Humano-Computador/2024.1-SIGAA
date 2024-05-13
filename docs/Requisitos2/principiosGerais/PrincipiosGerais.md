@@ -34,68 +34,7 @@ Desse modo, esse documento tem o objetivo de fornecer uma visão abrangente sobr
 
 O grupo analisou o sistema SIGAA com o objetivo de identificar quais princípios gerais são priorizados. As análises foram conduzida utilizando através de reuniões e pesquisa em materiais acadêmicos. Assim foram identificados os princípios aplicáveis que poderiam ser melhor implementados ou que mais se adéquam ao contexto do sistema, levando em consideração o site em análise.
 
-## Simplicidade nas Estruturas das Tarefas
-
-A simplicidade nas estruturas das tarefas se concentra em minimizar a complexidade das interações do usuário com o sistema. O objetivo é tornar as tarefas tão intuitivas quanto possível, reduzindo a sobrecarga e permitindo que os usuários se concentrem no que é mais importante, facilitando assim a execução e compreensão das tarefas.
-
-#### Como o princípio é violado no SIGAA
-
-   No SIGAA, o princípio de simplicidade muitas vezes é violado devido à complexidade das interfaces e a quantidade de opções disponíveis. Como ilustrado nas imagens do sistema, os usuários se deparam com múltiplos menus e submenus que podem ser confusos e intimidadores, especialmente para novos usuários que ainda não estão familiarizados com a estrutura do sistema.
-
-#### Como o princípio é aplicado no SIGAA
-
-Apesar de alguns excesso nas opções, o SIGAA tenta aplicar o princípio de simplicidade em algumas áreas. Por exemplo, funções relacionadas a gestão acadêmica são agrupadas de forma lógica sob abas específicas como Ensino, Pesquisa e Extensão, facilitando a navegação para os usuários que buscam funcionalidades específicas.
-
-#### Como esse princípio será utilizado no projeto
-
-No projeto de reformulação do SIGAA, vamos fortalecer a aplicação do princípio de simplicidade:
-- **Reduzindo o número de passos necessários** para realizar algumas funções comuns, como inscrição em bolsas de estudo/acadêmica ou submissão de documentos.
-- **Melhorando a navegação** através de uma interface mais limpa e intuitiva, onde opções menos utilizadas são agrupadas em menus secundários ou são acessíveis através de funcionalidades de busca aprimoradas.
-- **Implementando designs responsivos** que se adaptam às necessidades do usuário, destacando as funcionalidades mais relevantes com base no contexto de uso.
-
-Estas mudanças são projetadas para tornar o SIGAA mais acessível e menos desafiador para os usuários, garantindo uma experiência mais eficiente e agradável.
-## Simplicidade nas Estruturas das Tarefas
-
-A simplicidade nas estruturas das tarefas se concentra em minimizar a complexidade das interações do usuário com o sistema. O objetivo é tornar as tarefas tão intuitivas quanto possível, reduzindo a sobrecarga e permitindo que os usuários se concentrem no que é mais importante, facilitando assim a execução e compreensão das tarefas.
-
-O GIF __ mostra a navegação no SIGAA.
-
-![gif sigaa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/054eea5e-daf7-454f-a6ff-68fc22416e97)
-
-#### Como o princípio é violado no SIGAA
-
-   No SIGAA, o princípio de simplicidade muitas vezes é violado devido à complexidade das interfaces e a quantidade de opções disponíveis. Como ilustrado nas imagens do sistema, os usuários se deparam com múltiplos menus e submenus que podem ser confusos e intimidadores, especialmente para novos usuários que ainda não estão familiarizados com a estrutura do sistema.
-
-![6](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/520d3243-706c-4ad6-a772-15314f2d775f)
-
-
-![kietjj8j](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/e25f8ff1-e675-4fbd-82c9-bb83b059abc6)
-
-   
-
-#### Como o princípio é aplicado no SIGAA
-
-Apesar de alguns excesso nas opções, o SIGAA tenta aplicar o princípio de simplicidade em algumas áreas. Por exemplo, funções relacionadas a gestão acadêmica são agrupadas de forma lógica sob abas específicas como Ensino, Pesquisa e Extensão, facilitando a navegação para os usuários que buscam funcionalidades específicas.
-
-As imagens __ mostram a facilidade de conseguir a carteirinha estudantil digital.
-
-imagem __
-
-![1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/a7da873a-fc4d-44a3-9189-94d08185a4c7)
-
-imagem __
-
-![2](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/73f4f62c-0e82-469d-8f6b-a4f4cdebbb39)
-
-
-#### Como esse princípio será utilizado no projeto
-
-No projeto de reformulação do SIGAA, vamos fortalecer a aplicação do princípio de simplicidade:
-- **Reduzindo o número de passos necessários** para realizar algumas funções comuns, como inscrição em bolsas de estudo/acadêmica ou submissão de documentos.
-- **Melhorando a navegação** através de uma interface mais limpa e intuitiva, onde opções menos utilizadas são agrupadas em menus secundários ou são acessíveis através de funcionalidades de busca aprimoradas.
-- **Implementando designs responsivos** que se adaptam às necessidades do usuário, destacando as funcionalidades mais relevantes com base no contexto de uso.
-
-Estas mudanças são projetadas para tornar o SIGAA mais acessível e intuito para os usuários, garantindo uma experiência mais eficiente e agradável.
+## Princípios Aplicáveis
 
 ## Correspondências com as expectativas dos usuários
 
@@ -374,6 +313,54 @@ Com base nisso, para aplicar o princípio de correspondência com a expectativa 
 
 - **Uso de ícones reconhecíveis:** Ícones serão selecionados com base em sua familiaridade e reconhecimento pelos usuários conforme o que eles estão acostumados e esperam deles.
 
+## Simplicidade nas Estruturas das Tarefas
+
+A simplicidade nas estruturas das tarefas se concentra em minimizar a complexidade das interações do usuário com o sistema. O objetivo é tornar as tarefas tão intuitivas quanto possível, reduzindo a sobrecarga e permitindo que os usuários se concentrem no que é mais importante, facilitando assim a execução e compreensão das tarefas.
+
+O GIF 14 mostra a navegação no SIGAA.
+
+![gif sigaa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/416c052b-1e5c-415b-9510-75d81a08c715)
+
+
+<details>
+
+<summary size="20"><b>  Como o princípio é violado no SIGAA </b></summary>
+
+<div align="center">
+
+   No SIGAA, o princípio de simplicidade muitas vezes é violado devido à complexidade das interfaces e a quantidade de opções disponíveis. Como ilustrado nas imagens do sistema, os usuários se deparam com múltiplos menus e submenus que podem ser confusos e intimidadores, especialmente para novos usuários que ainda não estão familiarizados com a estrutura do sistema.
+
+Figura 01: Botões iguais que cumprem a mesma função.
+
+![6](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/520d3243-706c-4ad6-a772-15314f2d775f)
+
+Fonte: [Bruno Araújo](https://github.com/brunocva)
+
+Imagem 02: Ao utilizar o SIGAA com um smartphone, no modo WEB, algumas opções ficam 
+
+![3](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/9cd10ea3-c0b1-4c33-9c1b-b27183b30410)
+
+Fonte: [Bruno Araújo](https://github.com/brunocva)
+
+</div> 
+</details>
+
+<details>
+
+<summary size="20"><b>  Como o princípio é aplicado no SIGAA </b></summary>
+
+
+</div> 
+</details>
+
+#### Como esse princípio será utilizado no projeto
+
+No projeto de reformulação do SIGAA, vamos fortalecer a aplicação do princípio de simplicidade:
+- **Reduzindo o número de passos necessários** para realizar algumas funções comuns, como inscrição em bolsas de estudo/acadêmica ou submissão de documentos.
+- **Melhorando a navegação** através de uma interface mais limpa e intuitiva, onde opções menos utilizadas são agrupadas em menus secundários ou são acessíveis através de funcionalidades de busca aprimoradas.
+- **Implementando designs responsivos** que se adaptam às necessidades do usuário, destacando as funcionalidades mais relevantes com base no contexto de uso.
+
+Estas mudanças são projetadas para tornar o SIGAA mais acessível e menos desafiador para os usuários, garantindo uma experiência mais eficiente e agradável.
 
 ## Antecipação das Necessidades do Usuário
 
