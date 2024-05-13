@@ -45,9 +45,10 @@ A falta de tutoriais no primeiro login do usuário e ferramentas que facilitem o
 <center>
   <font size="2"><p style="text-align: center">Figura 1: Página principal SIGAA</p></font>
 <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/PaginaInicial1.png?raw=true" style="width:auto"/>
- Fonte: [Pedro Izarias](https://github.com/Izarias)
 <center>
- Fonte: [Pedro Izarias](https://github.com/Izarias)
+  
+Fonte: [Pedro Izarias](https://github.com/Izarias)
+  
 ### 6. Memorização
 Diz respeito à facilidade com que os usuários podem lembrar como usar o sistema após um período de ausência. Um sistema com boa memorização permite que os usuários retenham o conhecimento de sua utilização ao longo do tempo.
 #### 6.1 Memorização do SIGAA
