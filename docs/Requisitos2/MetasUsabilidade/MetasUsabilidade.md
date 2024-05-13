@@ -5,7 +5,7 @@
 * [Metodologia](#Metodologia)
 * [Metas de Usabilidade](#Metas-de-Usabilidade)
 * [Conclusão](#Conclusão)
-* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
