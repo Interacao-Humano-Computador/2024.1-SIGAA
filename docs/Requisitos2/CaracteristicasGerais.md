@@ -249,9 +249,9 @@ Portanto, por meio da análise das suas características, é possível observar 
 
 ## Bibliografia
 
-1. Eduardo Rafael Mallmann. **Análise do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA)** . Disponível em <https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y>. Acesso em 12 de maio de 2024.
+Eduardo Rafael Mallmann. **Análise do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA)** . Disponível em <https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y>. Acesso em 12 de maio de 2024.
 
-2. **SIGAA**. Disponível em <https://autenticacao.unb.br/sso-server/login?service=https%3A%2F%2Fsig.unb.br%2Fsigaa%2Flogin%2Fcas> Acesso em 12 de maio de 2024.
+**SIGAA**. Disponível em <https://autenticacao.unb.br/sso-server/login?service=https%3A%2F%2Fsig.unb.br%2Fsigaa%2Flogin%2Fcas> Acesso em 12 de maio de 2024.
 
 
 
@@ -259,11 +259,7 @@ Portanto, por meio da análise das suas características, é possível observar 
 
 1. Barbosa e Silva. 2010. **Processos de Design de IHC – Capítulo 4**
 
-
-
 2. Manual discentes. Disponível em <https://sigaa-manual-discente.readthedocs.io/pt/latest/>. Acesso em 12 de maio de 2024.
-
-
 
 3. Manual docentes. Disponível em <https://portalsig.unb.br/images//Manuais/manual_docente_abaensino.pdf>. Acesso em 12 de maio de 2024
 
@@ -273,9 +269,9 @@ Portanto, por meio da análise das suas características, é possível observar 
 ## Histórico de Versão
 
 
-| Versão | Alteração            | Responsável     | Revisor         | Data       |
-| ------ | -------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação  e elaboração do documento | Larissa Stéfane | - | 12/05/2024 |
+| Versão | Alteração                          | Responsável     | Revisor         | Data       |
+| ------ | ---------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação  e elaboração do documento | Larissa Stéfane | Breno Alexandre | 12/05/2024 |
 
 
 
