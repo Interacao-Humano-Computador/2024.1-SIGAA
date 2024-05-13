@@ -336,10 +336,29 @@ Estas mudanças são projetadas para tornar o SIGAA mais acessível e menos desa
 No SIGAA, o princípio de simplicidade muitas vezes é violado devido à complexidade das interfaces e a quantidade de opções disponíveis. Os usuários se deparam com múltiplos menus e submenus que podem ser confusos e intimidadores, especialmente para novos usuários que ainda não estão familiarizados com a estrutura do sistema.
 </details>
 
+Nas figuras 1 e 2, é possível visualizar que as tarefas poderiam ser feitas de forma mais simples.
+
+Figura 1: Imagens com o menu quebrado.
+
+![6](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/4c00ba39-60d5-410a-b8bb-b1444b1be588)
+
+Figura 2: Opções repetidas no menu.
+
+![3](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/4bf05864-92bf-4122-bc78-6d12be3d8f88)
+
 <details>
 <summary id="Como-a-simplicidade-é-aplicada-no-SIGAA"><b>Como a simplicidade é aplicada no SIGAA</b></summary>
 Apesar de alguns excessos nas opções, o SIGAA tenta aplicar o princípio de simplicidade em algumas áreas. Funções relacionadas à gestão acadêmica são agrupadas de forma lógica sob abas específicas como Ensino, Pesquisa e Extensão, facilitando a navegação para os usuários que buscam funcionalidades específicas.
 </details>
+
+Nas figuras a seguir, visualizamos como o processo de emissão da carteira estudantil é simples, facilitando a vida do discente, pois hoje a UNB não emite mais o documento físico, apenas digita.
+
+Figura 3: Menu de seleção de emissão de carteira estudantil.
+![1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/5bae3b23-2333-423d-9da7-22771a904d2d)
+
+Figura 4: Exemplo de carteira estudantil, que é emitida em documento ao clicar no link.
+
+![2](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/cec55b1c-8c9d-4327-a56d-6280cfe59c8a)
 
 ### Como a simplicidade será utilizada no projeto {#Como-a-simplicidade-será-utilizada-no-projeto}
 No projeto SIGAA, para aplicar o princípio de simplicidade, as funcionalidades do projeto serão baseadas em:
@@ -387,8 +406,9 @@ Fonte: [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 </div>
 
 
-
 A impossibilidade de verificar a frequência pelo SIGAA Mobile viola o princípio de **antecipação das necessidades do usuário** ao não antecipar a necessidade dos estudantes de acessarem informações importantes sobre sua frequência.
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Attach files by dragging & dropping, selecting or pasting them.
 
 
 Assim, quando os alunos têm acesso ao SIGAA apenas pelo celular e precisam verificar a sua frequência, essa opção não apresenta as formas ou ferramentas de como ser acessada de forma explicita, o que torna a experiência do usuário desagradável.
