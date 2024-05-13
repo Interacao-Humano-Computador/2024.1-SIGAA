@@ -90,6 +90,6 @@ O planejamento das análises dos princípios gerais do projeto do SIGAA represen
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Larissa Stéfane | - | 11/05/2024 |
+| 1.0 | Criação do documento | Larissa Stéfane | Bruno Araújo | 11/05/2024 |
 
 
