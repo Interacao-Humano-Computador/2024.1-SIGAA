@@ -111,7 +111,8 @@ Figura 1 - Elementos da Interface.
 **Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0).
 
 ## Elementos de Interação
-Esta seção aborda os diferentes estilos de interação, como selecionar o estilo mais adequado para diferentes contextos dentro do SIGAA e a utilização de aceleradores para aumentar a eficiência da interação do usuário.
+
+Nesta seção abordemos os diferentes estilos de interação, como selecionar o estilo mais adequado para diferentes contextos dentro do SIGAA e a utilização de aceleradores para aumentar a eficiência da interação do usuário.
 
 ### Estilos de Interação
 Os estilos de interação definem como os usuários interagem com o sistema. Os estilos principais utilizados no SIGAA incluem:
