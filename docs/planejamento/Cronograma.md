@@ -169,13 +169,15 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 
 <p align="center"> Tabela 6. Princípios Gerais de Projeto </p>
 
-| *Atividade*                        | *Início*   | *Fim*      | *Responsáveis*                             | *Revisores*                                | *Periodo de Revisão*    |
-| ---------------------------------- | ---------- | ---------- | ------------------------------------------ | ------------------------------------------ | ----------------------- |
-| Atualizar o Cronograma             | 09/05/2024 | 13/05/2024 | Breno Alexandre                            | -                                          | 13/05/2024 - 13/05/2024 |
-| Princípios Gerais de Projeto       | 10/05/2024 | 13/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 13/05/2024 - 13/05/2024 |
-| Guia de Estilo                     | 11/05/2024 | 13/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 13/05/2024 - 13/05/2024 |
-| Características gerais do SIGAA    | 12/05/2024 | 12/05/2024 | Larissa Stéfane                            | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
-| Metas de usabilidade               | 12/05/2024 | 13/05/2024 | Luana e Pedro                              | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
+| *Atividade*                                   | *Início*   | *Fim*      | *Responsáveis*                             | *Revisores*                                | *Periodo de Revisão*    |
+| --------------------------------------------- | ---------- | ---------- | ------------------------------------------ | ------------------------------------------ | ----------------------- |
+| Atualizar o Cronograma                        | 09/05/2024 | 13/05/2024 | Breno Alexandre                            | -                                          | 13/05/2024 - 13/05/2024 |
+| Princípios Gerais de Projeto                  | 10/05/2024 | 13/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 13/05/2024 - 13/05/2024 |
+| Planejamento dos Princípios Gerais de Projeto | 11/05/2024 | 11/05/2024 | Larissa Stéfane                            | Bruno Araújo                               | 12/05/2024 - 12/05/2024 |
+| Guia de Estilo                                | 11/05/2024 | 13/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 13/05/2024 - 13/05/2024 |
+| Planejamento do Guia de Estilo                | 11/05/2024 | 11/05/2024 | Larissa Stéfane                            | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
+| Características gerais do SIGAA               | 12/05/2024 | 12/05/2024 | Larissa Stéfane                            | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
+| Metas de usabilidade                          | 12/05/2024 | 13/05/2024 | Luana e Pedro                              | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
