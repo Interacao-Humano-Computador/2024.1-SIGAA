@@ -14,6 +14,7 @@
     * [Como a antecipação é violada no SIGAA](#Como-a-antecipação-é-violada-no-SIGAA)
     * [Como a antecipação é aplicada no SIGAA](#Como-a-antecipação-é-aplicada-no-SIGAA)
     * [Como a antecipação será utilizada no projeto](#Como-a-antecipação-será-utilizada-no-projeto)
+* [Visibilidade e reconhecimento](#Visibilidade-e-reconhecimento)
 * [Equilíbrio entre controle e liberdade do usuário](#Equilibrio-entre-controle-e-liberdade-do-usuário)
 * [Promoção da Eficiencia do Usuário](#Promoção-da-Eficiencia-do-Usuário)
 * [Consistência e Padronização](#Consistência-e-Padronização)
@@ -520,6 +521,29 @@ No projeto, o princípio de antecipação das necessidades dos usuários será a
 
 - **Informações claras e explicativas:** Serão fornecidas informações claras e explicativas em todo o sistema para orientar os usuários e ajudá-los a entender como realizar tarefas específicas.
 
+## Visibilidade e reconhecimento
+Antes de realizar qualquer ação, é importante que o usuário tenha uma compreensão prévia das opções disponíveis e das instruções para executá-las. Além disso, a interface deve fornecer informações de forma lógica e oportuna, de acordo com as necessidades do usuário.
+
+### Aplicação
+O site do SIGAA na página inicial após o login apresenta ícones que não seguem um padrão mas podem ser intuitivos e acompanham um título ou legenda identificando e reforçando qual é sua função, facilitando a navegação para os usuários. Isso é evidente na Figura 1, onde os ícones são consistentes com as tarefas que representam. A legenda identificando qual a função do ícone é evidente na Figura 2, na aba de Mural de Vagas de estágio.
+
+<center>
+  <font size="2"><p style="text-align: center">Figura 1: Aba SIGAA </p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/abasSIGAA.png">
+ </center>
+
+ <center>
+  <font size="2"><p style="text-align: center">Figura 2: Icone Legendado </p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/IconeLegendado.jpeg">
+ </center>
+
+### Violação
+No site SIGAA, após entrar em uma Turma Virtual de uma matéria os ícones de voltar para a página inicial, imprimir página e visualizar aulas paginadas não são intuitivos, são de tamanho disproporcional a página e não possuem nenhum título ou instrução que identifique qual seja a função. Isso é evidente na Figura 3, onde  é possível ver destacado os ícones que violam o princípio da Visibilidade e Reconhecimento. 
+
+ <center>
+  <font size="2"><p style="text-align: center">Figura 3: Icones de Violação </p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/TurmaVirtual.jpeg">
+ </center>
 
 ## Equilíbrio entre controle e liberdade do usuário
 
@@ -704,5 +728,5 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 | 1.7    | Adição da equilíbrio entre controle e liberdade do usuário                           | Pedro Izarias   | Bruno Araújo   | 11/05/2024 |
 | 1.8    | Adição da consistência e padronização e promoção da eficiência do usuário no projeto | Pedro Izarias   | Bruno Araújo   | 12/05/2024 |
 | 1.9    | Adição no projeto para erros                                                         | Breno Alexandre | -              | 12/05/2024 |
-| 1.10   | Correção de inconsistência                                                        | Larissa Stéfane | -              | 12/05/2024 |
-
+| 2.0    | Correção de inconsistência                                                           | Larissa Stéfane | -              | 12/05/2024 |
+| 2.1    | Adição de Visibilidade e Reconhecimento no projeto                                   | Luana Medeiros  | -              | 12/05/2024 |
