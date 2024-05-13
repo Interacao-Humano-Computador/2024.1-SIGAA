@@ -101,6 +101,47 @@ De acordo com as repostas obtidas nos [questionários](https://interacao-humano-
 
 Com base nas informações obtidas, o guia de estilo deve incluir diretrizes abrangentes que abordem todas as questões levantadas e assegurem a padronização de todos os elementos do site que possam influenciar a usabilidade e a experiência do usuário do SIGAA.
 
+## Elementos de Interface
+
+Os elementos sobre disposição espacial e grid, janelas, tipografia, símbolos não tipográficos, cores e animações são apresentados na figura 1.
+
+Figura 1 - Elementos da Interface.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F3V51JoJoglQBIBh8VR67vQ%2FIHC%252FSIGAA---Elementos-da-Interface%3Fnode-id%3D0%253A1%26t%3DtceCGlbnz1DNj2wo-1" allowfullscreen></iframe>
+
+**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0).
+
+ ## Elementos de Ação
+Dentro de um guia de estilo de projeto, os elementos de ação, como preenchimento de campos, seleção e ativação, são cruciais para a interação do usuário. O guia estabelece diretrizes para garantir uma experiência intuitiva, incluindo orientações sobre o design de formulários, apresentação de opções de seleção e identificação precisa de botões. Isso contribui para uma interface coesa e eficaz, promovendo a usabilidade e a satisfação do usuário.
+        
+ ### Preenchimento de campos
+O preenchimento de campos refere-se à interação do usuário ao inserir informações em formulários ou caixas de texto. As diretrizes devem cobrir aspectos como o tamanho adequado dos campos, o formato dos dados esperados e orientações claras sobre o que é esperado do usuário ao preencher cada campo. Isso é evidente na Figura 2, na aba de pré cadastro de estágio onde o usuário tem uma consulta na qual ele pode preencher informações para filtrar sua busca.
+
+<center>
+  <font size="2"><p style="text-align: center">Figura 2: Preenchimento de Campos </p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/PreenchimentoDeCampos.jpeg">
+ </center>
+
+ ### Seleção
+A seleção envolve interações onde os usuários escolhem entre várias opções, como em select boxes, checkboxes e radio buttons. Os elementos que um usuário pode selecionar estão presentes na Figura 3. É importante garantir que as opções sejam apresentadas de forma clara e que seja fácil para o usuário fazer uma escolha. 
+
+<center>
+  <font size="2"><p style="text-align: center">Figura 3: Exemplo de Seleção </p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/Seleção.jpeg">
+ </center>
+
+ ### Ativação
+A ativação de elementos interativos é essencial para proporcionar uma experiência eficaz ao usuário dentro de uma interface. Isso envolve garantir que os elementos, como botões, links e ícones, sejam claramente identificáveis e forneçam feedback adequado quando acionados. Por exemplo, um botão de confirmação deve ter seu propósito claramente indicado, como "confirmar", para corresponder à ação que será executada. Ícones também desempenham um papel crucial na ativação, representando visualmente a função que será ativada ao ser selecionada, como a mudança de contraste entre os modos claro e escuro, esse exemplo fica evidente nas Figura 4 e Figura 5. Além disso, a ativação de um menu suspenso deve desencadear o aparecimento de um dropdown com as opções disponíveis para navegação, proporcionando ao usuário escolhas claras e acessíveis. Em resumo, a ativação de elementos interativos visa garantir que a interface seja intuitiva e responsiva às ações do usuário, promovendo uma experiência positiva e eficiente. 
+
+<center>
+  <font size="2"><p style="text-align: center">Figura 4: Contraste Claro </p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/ContrasteClaro.jpeg">
+ </center>
+ 
+<center>
+  <font size="2"><p style="text-align: center">Figura 5: Contraste Escuro </p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/ContrasteEscuro.jpeg">
+ </center>
+
 ## Vocabulário e padrões
 
 ### Terminologia:
@@ -115,14 +156,6 @@ As diferentes telas projetadas devem aderir aos padrões delineados no guia de e
 
 Ao planejar as sequências de diálogos, é necessário integrar feedbacks e confirmações após a execução de uma operação. Garantir que o usuário receba retorno adequado sobre o status das ações realizadas é prioritário. Este feedback pode ser fornecido de diversas maneiras, como mensagens de conclusão bem-sucedida ou alertas em caso de erros, os quais devem ser claramente indicados na interface.
 
-## Elementos de Interface
-
-Os elementos sobre disposição espacial e grid, janelas, tipografia, símbolos não tipográficos, cores e animações são apresentados na figura 1.
-
-Figura 1 - Elementos da Interface.
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F3V51JoJoglQBIBh8VR67vQ%2FIHC%252FSIGAA---Elementos-da-Interface%3Fnode-id%3D0%253A1%26t%3DtceCGlbnz1DNj2wo-1" allowfullscreen></iframe>
-
-**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0).
 
 ## Bibliografia
 
@@ -138,5 +171,6 @@ VÁRIOS AUTORES. Guia de Estilo. Repositório do BCB da disciplina de Interaçã
 | 1.0    | Criação do documento                     | Larissa Stéfane | Breno Alexandre | 11/05/2024 |
 | 1.1    | Adição dos tópicos da introdução do guia | Larissa Stéfane | Breno Alexandre | 11/05/2024 |
 | 1.2    | Adição dos Elementos de Interface        | Breno Alexandre | Bruno Araújo    | 11/05/2024 |
-| 1.3    | Adição do Vocabulário e Padrões          | Iago Passaglia  |      Larissa Stéfane       | 12/05/2024 |
-| 1.4    | Adição de resultados de análise          | Pedro Izarias  | Bruno Araújo | 12/05/2024 |
+| 1.3    | Adição do Vocabulário e Padrões          | Iago Passaglia  | Larissa Stéfane | 12/05/2024 |
+| 1.4    | Adição de resultados de análise          | Pedro Izarias   | Bruno Araújo    | 12/05/2024 |
+| 1.5    | Adição de Elementos de Ação              | Luana Medeiros  | -               | 12/05/2024 |
