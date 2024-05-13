@@ -19,7 +19,7 @@ A seguir serão enumeradas as metas e como o sistema SIGAA utiliza cada uma dela
 
 ### 1. Eficácia
 Refere-se à capacidade do sistema de permitir que os usuários alcancem seus objetivos de forma precisa e completa. Um sistema eficaz garante que os usuários possam realizar tarefas com sucesso.
-### 1.1 Eficácia do SIGAA
+#### 1.1 Eficácia do SIGAA
 O sistema geralmente é eficaz para a gestão acadêmica. Sua eficácia pode variar entre usuários e instituições, dependendo da experiência individual e da configuração do sistema. O site SIGAA oferece uma variedade de funcionalidades para auxiliar no gerenciamento de atividades como matrículas, frequência, notas e comunicação entre alunos, professores e funcionários, entre outras. No entanto, a eficácia do SIGAA pode variar dependendo da configuração específica do sistema em cada instituição, da infraestrutura tecnológica disponível e da experiência dos usuários. Geralmente o SIGAA alcança seus objetivos com sucesso.
 
 ### 2. Eficiência
