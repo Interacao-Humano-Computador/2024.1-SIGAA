@@ -61,4 +61,5 @@ A falta de recursos de ajuda e guias para usuário, torna mais difícil o aprend
 ## Histórico de Versão
 | Versão | Alteração                                                                            | Responsável     | Revisor        | Data       |
 | ------ | ------------------------------------------------------------------------------------ | --------------- | -------------- | ---------- |
-| 1.0    | Criação do documento                                                                 | Luana Medeiros  | Pedro Izarias|12/05/2024 |
+| 1.0    | Criação do documento                                                                 | Luana Medeiros  | Pedro Izarias|12/05/2024|
+| 1.1    | Mudanças no documento                                                               | Pedro Izarias  | - |12/05/2024|
