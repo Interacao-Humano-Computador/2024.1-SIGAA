@@ -9,7 +9,7 @@
     * [Como as expectativas são violadas no SIGAA](#Como-as-expectativas-são-violadas-no-SIGAA)
     * [Como as expectativas são aplicadas no SIGAA](#Como-as-expectativas-são-aplicadas-no-SIGAA)
     * [Como as expectativas serão utilizadas no projeto](#Como-as-expectativas-serão-utilizadas-no-projeto)
-* [Simplicidade nas Estruturas da Tarefa](#Simplicidade-nas-estruturas-da-tarefa)
+* [Simplicidade nas Estruturas da Tarefa](#Simplicidade-nas-estruturas-das-tarefas)
     * [O que é expectativas?](#O-que-é-expectativas?)
     * [Como as expectativas são violadas no SIGAA](#Como-as-expectativas-são-violadas-no-SIGAA)
     * [Como as expectativas são aplicadas no SIGAA](#Como-as-expectativas-são-aplicadas-no-SIGAA)
@@ -318,9 +318,10 @@ Com base nisso, para aplicar o princípio de correspondência com a expectativa 
 
 - **Uso de ícones reconhecíveis:** Ícones serão selecionados com base em sua familiaridade e reconhecimento pelos usuários conforme o que eles estão acostumados e esperam deles.
 
+
 ## Simplicidade nas Estruturas das Tarefas
 
-### O que é Simplicidade nas Estruturas das Tarefas?
+### O que é expectativas?
 
 A simplicidade nas estruturas das tarefas se concentra em minimizar a complexidade das interações do usuário com o sistema, tornando as tarefas tão intuitivas quanto possível. Este princípio visa reduzir a sobrecarga cognitiva dos usuários, permitindo-lhes focar nos elementos essenciais, facilitando assim a compreensão e a execução das tarefas. Segundo Barbosa e Silva (2021)², simplificar não significa apenas diminuir o número de passos para realizar uma tarefa, mas também organizar a interface de modo que as informações sejam fáceis de acessar e entender, promovendo uma experiência de usuário mais direta e eficiente.
 
@@ -335,9 +336,10 @@ Estas mudanças são projetadas para tornar o SIGAA mais acessível e menos desa
 
 <summary size="20"><b>  Como o princípio é violado no SIGAA </b></summary>
 
-<div align="center">
+### Como o princípio é violado no SIGAA
 
    No SIGAA, o princípio de simplicidade muitas vezes é violado devido à complexidade das interfaces e a quantidade de opções disponíveis. Como ilustrado nas imagens do sistema, os usuários se deparam com múltiplos menus e submenus que podem ser confusos e intimidadores, especialmente para novos usuários que ainda não estão familiarizados com a estrutura do sistema.
+<div align="center">
 
 Figura 01: Botões iguais que cumprem a mesma função.
 
@@ -357,6 +359,24 @@ Fonte: [Bruno Araújo](https://github.com/brunocva)
 <details>
 
 <summary size="20"><b>  Como o princípio é aplicado no SIGAA </b></summary>
+
+
+
+
+#### Como o princípio é aplicadono SIGAA
+
+Apesar de alguns excesso nas opções, o SIGAA tenta aplicar o princípio de simplicidade em algumas áreas. Por exemplo, funções relacionadas a gestão acadêmica são agrupadas de forma lógica sob abas específicas como Ensino, Pesquisa e Extensão, facilitando a navegação para os usuários que buscam funcionalidades específicas.
+
+As imagens 03 e 04 mostram a facilidade de conseguir a carteirinha estudantil digital.
+
+imagem 03: Baixar PDF da carteirinha estudantil.
+
+![1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/06a8c300-6139-4330-80a9-f1ea87f65d97)
+
+
+imagem 04: Exemplo Carteirinha estudantil.
+
+![2](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/e0528859-ef11-4a0c-a193-34c1206dc202)
 
 
 </div> 
