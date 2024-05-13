@@ -751,4 +751,4 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 | 2.1    | Adição de Visibilidade e Reconhecimento no projeto                                   | Luana Medeiros  | Bruno Araújo    | 12/05/2024 |
 | 2.2    | Adição do princípio da simplicidade                                                  | Bruno Araújo    | Larissa Stéfane | 12/05/2024 |
 | 2.3    | Correção de um ponto na antecipação das necessidades dos usuários                    | Larissa Stéfane | Breno Alexandre | 13/05/2024 |
-| 2.4    | Correção no sumário e no nome dos Gifs                                               | Breno Alexandre | -               | 13/05/2024 |
+| 2.4    | Correção no sumário e no nome dos Gifs                                               | Breno Alexandre | Bruno Araújo              | 13/05/2024 |
