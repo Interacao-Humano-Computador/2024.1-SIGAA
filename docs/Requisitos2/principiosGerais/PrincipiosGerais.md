@@ -324,7 +324,6 @@ Com base nisso, para aplicar o princípio de correspondência com a expectativa 
 ### O que é Simplicidade nas Estruturas das Tarefas?
 A simplicidade nas estruturas das tarefas se concentra em minimizar a complexidade das interações do usuário com o sistema, tornando as tarefas tão intuitivas quanto possível. Este princípio visa reduzir a sobrecarga cognitiva dos usuários, permitindo-lhes focar nos elementos essenciais, facilitando assim a compreensão e a execução das tarefas.
 
-
 O GIF 14 mostra a navegação no SIGAA.
 
 ![gif sigaa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/416c052b-1e5c-415b-9510-75d81a08c715)
@@ -335,9 +334,9 @@ Estas mudanças são projetadas para tornar o SIGAA mais acessível e menos desa
 
 <summary size="20"><b>  Como o princípio é violado no SIGAA </b></summary>
 
-### Como a simplicidade é violada no SIGAA
+### Como a simplicidade é aplicada no SIGAA
+Apesar de alguns excessos nas opções, o SIGAA tenta aplicar o princípio de simplicidade em algumas áreas. Funções relacionadas à gestão acadêmica são agrupadas de forma lógica sob abas específicas como Ensino, Pesquisa e Extensão, facilitando a navegação para os usuários que buscam funcionalidades específicas.
 
-No SIGAA, o princípio de simplicidade muitas vezes é violado devido à complexidade das interfaces e a quantidade de opções disponíveis. Os usuários se deparam com múltiplos menus e submenus que podem ser confusos e intimidadores, especialmente para novos usuários que ainda não estão familiarizados com a estrutura do sistema.
 
 <div align="center">
 
@@ -379,6 +378,7 @@ imagem 04: Exemplo Carteirinha estudantil.
 </details>
 
 ### Como a simplicidade será utilizada no projeto
+
 No projeto SIGAA, para aplicar o princípio de simplicidade, as funcionalidades do projeto serão baseadas em:
 - **Reduzindo o número de passos necessários** para realizar algumas funções comuns, como inscrição em bolsas de estudo/acadêmica ou submissão de documentos.
 - **Melhorando a navegação** através de uma interface mais limpa e intuitiva, onde opções menos utilizadas são agrupadas em menus secundários ou são acessíveis através de funcionalidades de busca aprimoradas.
