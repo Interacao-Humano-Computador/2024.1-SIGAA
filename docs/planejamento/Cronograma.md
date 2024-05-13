@@ -178,6 +178,7 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 | Planejamento do Guia de Estilo                | 11/05/2024 | 11/05/2024 | Larissa Stéfane                            | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
 | Características gerais do SIGAA               | 12/05/2024 | 12/05/2024 | Larissa Stéfane                            | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
 | Metas de usabilidade                          | 12/05/2024 | 13/05/2024 | Luana e Pedro                              | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
+| Gravar apresentação                           | 13/05/2024 | 13/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
