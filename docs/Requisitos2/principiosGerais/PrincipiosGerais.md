@@ -731,6 +731,7 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 | 1.6    | Adição do projeto para erros                                                         | Breno Alexandre | Bruno Araújo   | 11/05/2024 |
 | 1.7    | Adição da equilíbrio entre controle e liberdade do usuário                           | Pedro Izarias   | Bruno Araújo   | 11/05/2024 |
 | 1.8    | Adição da consistência e padronização e promoção da eficiência do usuário no projeto | Pedro Izarias   | Bruno Araújo   | 12/05/2024 |
-| 1.9    | Adição no projeto para erros                                                         | Breno Alexandre | -              | 12/05/2024 |
-| 2.0    | Correção de inconsistência                                                           | Larissa Stéfane | -              | 12/05/2024 |
-| 2.1    | Adição de Visibilidade e Reconhecimento no projeto                                   | Luana Medeiros  | -              | 12/05/2024 |
+| 1.9    | Adição no projeto para erros                                                         | Breno Alexandre | Bruno Araújo              | 12/05/2024 |
+| 2.0    | Correção de inconsistência                                                           | Larissa Stéfane | Bruno Araújo              | 12/05/2024 |
+| 2.1    | Adição de Visibilidade e Reconhecimento no projeto                                   | Luana Medeiros  | Bruno Araújo              | 12/05/2024 |
+| 2.2    | Adição do princípio da simplicidade                                   | Bruno Araújo  | -              | 12/05/2024 |
