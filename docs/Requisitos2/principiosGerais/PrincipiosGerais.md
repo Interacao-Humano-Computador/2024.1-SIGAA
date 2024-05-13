@@ -24,6 +24,7 @@
 * [Promoção da Eficiencia do Usuário](#Promoção-da-Eficiencia-do-Usuário)
 * [Consistência e Padronização](#Consistência-e-Padronização)
 * [Conteúdo Relavante e Expressão Adequada](#Conteúdo-Relavante-e-Expressão-Adequada)
+* [Projeto para erros do SIGAA](#Projeto-para-erros)
 * [Conclusão](#Conclusão)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
@@ -324,7 +325,7 @@ Com base nisso, para aplicar o princípio de correspondência com a expectativa 
 ### O que é Simplicidade nas Estruturas das Tarefas? {#O-que-é-Simplicidade-nas-Estruturas-das-Tarefas}
 A simplicidade nas estruturas das tarefas se concentra em minimizar a complexidade das interações do usuário com o sistema, tornando as tarefas tão intuitivas quanto possível. Este princípio visa reduzir a sobrecarga cognitiva dos usuários, permitindo-lhes focar nos elementos essenciais, facilitando assim a compreensão e a execução das tarefas.
 
-O GIF 14 mostra a navegação no SIGAA.
+O GIF 10 mostra a navegação no SIGAA.
 
 ![gif sigaa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/416c052b-1e5c-415b-9510-75d81a08c715)
 
@@ -358,7 +359,7 @@ Além disso, o princípio de antecipação implica na capacidade do sistema em a
 ### Como a antecipação é violada no SIGAA
 
 
-No SIGAA, é possível observar algumas necessidades dos usuários não são atendidas no site, seja pela sua falta de implementação ou porque algumas implementadas não realizam tudo o que é necessário. Desse modo, os GIF 10 e 11 mostram algumas dessas situações, assim como as imagens 1, 2 e 3.
+No SIGAA, é possível observar algumas necessidades dos usuários não são atendidas no site, seja pela sua falta de implementação ou porque algumas implementadas não realizam tudo o que é necessário. Desse modo, os GIF 11 e 12 mostram algumas dessas situações, assim como as imagens 1, 2 e 3.
 
 
 Para visualizar as situações, basta clicar nos triângulos:
@@ -373,7 +374,7 @@ Para visualizar as situações, basta clicar nos triângulos:
 <div align="center">
 
 
-GIF 10: Ausência da opção de verificar frequência no SIGAA MOBILE.
+GIF 11: Ausência da opção de verificar frequência no SIGAA MOBILE.
 
 ![antecipacao1](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/c2dc03c7-1df0-4d76-b5b7-3c454f14a470)
 
@@ -405,7 +406,7 @@ Assim, quando os alunos têm acesso ao SIGAA apenas pelo celular e precisam veri
 <div align="center">
 
 
-GIF 11: Ausência da informação de localidade nas vagas de estágio.
+GIF 12: Ausência da informação de localidade nas vagas de estágio.
 
 ![antecipacao2](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/141163236/1dd7b90b-3bc4-4488-9c6b-c2725d16c2cc)
 
@@ -734,19 +735,20 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 **Orientação aos discentes**. Disponível em <https://ichca.ufal.br/pt-br/pos-graduacao/ciencia-da-informacao/documentos/todos-os-arquivos/ORIENTAESPARADISCENTESComoacessarpelaprimeiravezoSIGAA.pdf>. Aceso em 11 de maio de 2024
 
 ## Histórico de Versão
-| Versão | Alteração                                                                            | Responsável     | Revisor        | Data       |
-| ------ | ------------------------------------------------------------------------------------ | --------------- | -------------- | ---------- |
-| 1.0    | Criação do documento                                                                 | Pedro Izarias   | Bruno Araújo   | 10/05/2024 |
-| 1.1    | Adição da introdução                                                                 | Larissa Stéfane | Bruno Araújo   | 11/05/2024 |
-| 1.2    | Adição do princípio Correspondências com as expectativas dos usuários                | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
-| 1.3    | Adição do Conteúdo Relavante e Expressão Adequada                                    | Iago Passaglia  | Bruno Araújo   | 11/05/2024 |
-| 1.4    | Adição do princípio Antecipação das Necessidades do Usuário                          | Larissa Stéfane | Bruno Araújo   | 11/05/2024 |
-| 1.5    | Adição da conclusão (Deve ser o último)                                              | Larissa Stéfane | Iago Passaglia | 11/05/2024 |
-| 1.6    | Adição do projeto para erros                                                         | Breno Alexandre | Bruno Araújo   | 11/05/2024 |
-| 1.7    | Adição da equilíbrio entre controle e liberdade do usuário                           | Pedro Izarias   | Bruno Araújo   | 11/05/2024 |
-| 1.8    | Adição da consistência e padronização e promoção da eficiência do usuário no projeto | Pedro Izarias   | Bruno Araújo   | 12/05/2024 |
-| 1.9    | Adição no projeto para erros                                                         | Breno Alexandre | Bruno Araújo              | 12/05/2024 |
-| 2.0    | Correção de inconsistência                                                           | Larissa Stéfane | Bruno Araújo              | 12/05/2024 |
-| 2.1    | Adição de Visibilidade e Reconhecimento no projeto                                   | Luana Medeiros  | Bruno Araújo              | 12/05/2024 |
-| 2.2    | Adição do princípio da simplicidade                                   | Bruno Araújo  | Larissa Stéfane              | 12/05/2024 |
-| 2.3    | Correção de um ponto na antecipação das necessidades dos usuários                                   | Larissa Stéfane | -              | 12/05/2024 |
+| Versão | Alteração                                                                            | Responsável     | Revisor         | Data       |
+| ------ | ------------------------------------------------------------------------------------ | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento                                                                 | Pedro Izarias   | Bruno Araújo    | 10/05/2024 |
+| 1.1    | Adição da introdução                                                                 | Larissa Stéfane | Bruno Araújo    | 11/05/2024 |
+| 1.2    | Adição do princípio Correspondências com as expectativas dos usuários                | Larissa Stéfane | Iago Passaglia  | 11/05/2024 |
+| 1.3    | Adição do Conteúdo Relavante e Expressão Adequada                                    | Iago Passaglia  | Bruno Araújo    | 11/05/2024 |
+| 1.4    | Adição do princípio Antecipação das Necessidades do Usuário                          | Larissa Stéfane | Bruno Araújo    | 11/05/2024 |
+| 1.5    | Adição da conclusão (Deve ser o último)                                              | Larissa Stéfane | Iago Passaglia  | 11/05/2024 |
+| 1.6    | Adição do projeto para erros                                                         | Breno Alexandre | Bruno Araújo    | 11/05/2024 |
+| 1.7    | Adição da equilíbrio entre controle e liberdade do usuário                           | Pedro Izarias   | Bruno Araújo    | 11/05/2024 |
+| 1.8    | Adição da consistência e padronização e promoção da eficiência do usuário no projeto | Pedro Izarias   | Bruno Araújo    | 12/05/2024 |
+| 1.9    | Adição no projeto para erros                                                         | Breno Alexandre | Bruno Araújo    | 12/05/2024 |
+| 2.0    | Correção de inconsistência                                                           | Larissa Stéfane | Bruno Araújo    | 12/05/2024 |
+| 2.1    | Adição de Visibilidade e Reconhecimento no projeto                                   | Luana Medeiros  | Bruno Araújo    | 12/05/2024 |
+| 2.2    | Adição do princípio da simplicidade                                                  | Bruno Araújo    | Larissa Stéfane | 12/05/2024 |
+| 2.3    | Correção de um ponto na antecipação das necessidades dos usuários                    | Larissa Stéfane | Breno Alexandre | 13/05/2024 |
+| 2.4    | Correção no sumário e no nome dos Gifs                                               | Breno Alexandre | -               | 13/05/2024 |
