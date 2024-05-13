@@ -32,28 +32,32 @@ Desse modo, esse documento tem o objetivo de fornecer uma visão abrangente sobr
 
 ## Metodologia
 
-
 O grupo analisou o sistema SIGAA com o objetivo de identificar quais princípios gerais são priorizados. As análises foram conduzida utilizando através de reuniões e pesquisa em materiais acadêmicos. Assim foram identificados os princípios aplicáveis que poderiam ser melhor implementados ou que mais se adéquam ao contexto do sistema, levando em consideração o site em análise.
 
-## Princípios Aplicáveis
+## Simplicidade nas Estruturas das Tarefas
 
+A simplicidade nas estruturas das tarefas se concentra em minimizar a complexidade das interações do usuário com o sistema. O objetivo é tornar as tarefas tão intuitivas quanto possível, reduzindo a sobrecarga e permitindo que os usuários se concentrem no que é mais importante, facilitando assim a execução e compreensão das tarefas.
 
-### Simplicidade nas Estruturas das Tarefas
+#### Como o princípio é violado no SIGAA
 
-A simplicidade nas estruturas das tarefas é essencial para facilitar a interação do usuário com o sistema. Conforme Norman (1988) destaca, é recomendável simplificar a estrutura das tarefas para reduzir o planejamento e a resolução de problemas que elas exigem . Isso pode ser alcançado através de:
+   No SIGAA, o princípio de simplicidade muitas vezes é violado devido à complexidade das interfaces e a quantidade de opções disponíveis. Como ilustrado nas imagens do sistema, os usuários se deparam com múltiplos menus e submenus que podem ser confusos e intimidadores, especialmente para novos usuários que ainda não estão familiarizados com a estrutura do sistema.
 
-- Manutenção da tarefa com apoio tecnológico: Prover formas de apoio que auxiliem o usuário a aprender e realizar tarefas eficazmente.
-- Visibilidade do processo da tarefa: Usar tecnologia para tornar processos invisíveis em visíveis, melhorando o feedback e controle do usuário.- 
-- Automação de tarefas repetitivas: Automatizar tarefas ou partes delas para simplificar processos, mas com cautela para não remover o controle do usuário.
+#### Como o princípio é aplicado no SIGAA
 
+Apesar de alguns excesso nas opções, o SIGAA tenta aplicar o princípio de simplicidade em algumas áreas. Por exemplo, funções relacionadas a gestão acadêmica são agrupadas de forma lógica sob abas específicas como Ensino, Pesquisa e Extensão, facilitando a navegação para os usuários que buscam funcionalidades específicas.
 
+#### Como esse princípio será utilizado no projeto
 
+No projeto de reformulação do SIGAA, vamos fortalecer a aplicação do princípio de simplicidade:
+- **Reduzindo o número de passos necessários** para realizar algumas funções comuns, como inscrição em bolsas de estudo/acadêmica ou submissão de documentos.
+- **Melhorando a navegação** através de uma interface mais limpa e intuitiva, onde opções menos utilizadas são agrupadas em menus secundários ou são acessíveis através de funcionalidades de busca aprimoradas.
+- **Implementando designs responsivos** que se adaptam às necessidades do usuário, destacando as funcionalidades mais relevantes com base no contexto de uso.
+
+Estas mudanças são projetadas para tornar o SIGAA mais acessível e menos desafiador para os usuários, garantindo uma experiência mais eficiente e agradável.
 
 ## Correspondências com as expectativas dos usuários
 
-
 ### O que é expectativas?
-
 
 O princípio de Correspondências com as Expectativas dos Usuários, conforme explicado no livro “Interação Humano-Computador e Experiência do Usuário”¹, refere-se à importância de projetar interfaces de usuário de forma que correspondam às expectativas naturais deles. Desse modo, isso implica em criar sistemas que permitam aos usuários entenderem facilmente os relacionamentos entre suas intenções, ações possíveis e os resultados dessas ações no sistema, ou seja, que seja intuitivo. Além disso, também é necessário ser fornecido um feedback informativo para os usuários, ao indicar que uma ação foi concluída com sucesso, o que ajuda a proporcionar uma sensação de satisfação e alívio.
 
