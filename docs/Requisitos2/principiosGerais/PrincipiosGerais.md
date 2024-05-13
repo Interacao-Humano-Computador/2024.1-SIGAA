@@ -535,7 +535,7 @@ A ausência de explicações claras e informações adicionais para o preenchime
 ### Como a antecipação é aplicada no SIGAA
 
 
-Mesmo violando, em alguns pontos, o princípio de antecipação, o SIGAA também aplica esse princípio em várias outras funcionalidades, como é possível observar nas explicações abaixo. As imagens 5,6 e 7 mostram as funcionalidades implementadas no site.
+Mesmo violando, em alguns pontos, o princípio de antecipação, o SIGAA também aplica esse princípio em várias outras funcionalidades, como é possível observar nas explicações abaixo. A imagen 5 mostra as funcionalidades implementadas no site.
 
 
 <details>
@@ -796,4 +796,5 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 | 1.9    | Adição no projeto para erros                                                         | Breno Alexandre | Bruno Araújo              | 12/05/2024 |
 | 2.0    | Correção de inconsistência                                                           | Larissa Stéfane | Bruno Araújo              | 12/05/2024 |
 | 2.1    | Adição de Visibilidade e Reconhecimento no projeto                                   | Luana Medeiros  | Bruno Araújo              | 12/05/2024 |
-| 2.2    | Adição do princípio da simplicidade                                   | Bruno Araújo  | -              | 12/05/2024 |
+| 2.2    | Adição do princípio da simplicidade                                   | Bruno Araújo  | Larissa Stéfane              | 12/05/2024 |
+| 2.3    | Correção de um ponto na antecipação das necessidades dos usuários                                   | Larissa Stéfane | -              | 12/05/2024 |
