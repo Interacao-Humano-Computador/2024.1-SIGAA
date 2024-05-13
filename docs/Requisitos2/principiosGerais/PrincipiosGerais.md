@@ -322,7 +322,7 @@ Com base nisso, para aplicar o princípio de correspondência com a expectativa 
 
 ## Simplicidade nas Estruturas das Tarefas
 
-### O que é Simplicidade nas Estruturas das Tarefas? {#O-que-é-Simplicidade-nas-Estruturas-das-Tarefas}
+### O que é Simplicidade nas Estruturas das Tarefas? 
 A simplicidade nas estruturas das tarefas se concentra em minimizar a complexidade das interações do usuário com o sistema, tornando as tarefas tão intuitivas quanto possível. Este princípio visa reduzir a sobrecarga cognitiva dos usuários, permitindo-lhes focar nos elementos essenciais, facilitando assim a compreensão e a execução das tarefas.
 
 O GIF 10 mostra a navegação no SIGAA.
