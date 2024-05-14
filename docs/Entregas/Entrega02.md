@@ -23,7 +23,7 @@ Neste documento está contido o vídeo de apresentação da segunda entrega da m
 | 4 - Referências bibliográficas e/ou bibliografia em todos os artefatos;                            | Sim     |
 | 5 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                 | Sim     |
 | 6 - Um texto fazendo uma introdução dos artefatos?                                                 | Sim     |
-| 7 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Sim |
+| 7 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Não |
 | 8 - A(s) ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim |
 | 9 - A gravação da reunião do grupo.                                                                | Sim     |
 | 10 - O perfil do usuário?                                                                          | Sim     |
