@@ -21,8 +21,7 @@ A git page possui?                     | Sim/Não/Incompleto
 4 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | SIM
 5 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | SIM
 6 - Um texto fazendo uma introdução dos artefatos? | SIM
-7 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da
-construção/realização do artefato/atividade. | SIM
+7 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | SIM
 8 - A(s) ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | SIM
 9 - A gravação da reunião do grupo. | SIM
 10 - As características da plataforma para o projeto | SIM
