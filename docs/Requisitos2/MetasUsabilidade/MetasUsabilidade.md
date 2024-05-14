@@ -43,11 +43,11 @@ Envolve a facilidade com que os usuários podem aprender a usar o sistema. Um si
 A falta de tutoriais no primeiro login do usuário e ferramentas que facilitem o usuário encontrar as opções dentro do site como um barra de pesquisa, torna o aprendizado do SIGAA um pouco lento. Outro fator agravante é a grande quantidade de informações escritas na página inicial, que pode causar sobrecarga cognitiva no usuário novato.
 
 <center>
-  <font size="2"><p style="text-align: center">Imagem 1: Página principal SIGAA</p></font>
+<font size="2"><p style="text-align: center">Imagem 1: Página principal SIGAA</p></font>
 <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/PaginaInicial1.png?raw=true" style="width:auto"/>
+<font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
 </center>
   
-Fonte: [Pedro Izarias](https://github.com/Izarias)<br>
   
 ### 6. Memorização
 Diz respeito à facilidade com que os usuários podem lembrar como usar o sistema após um período de ausência. Um sistema com boa memorização permite que os usuários retenham o conhecimento de sua utilização ao longo do tempo.
