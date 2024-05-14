@@ -34,15 +34,15 @@ A git page possui?  | Sim/Não/Incompleto
 17 - O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | SIM
 
 <center>
-  
-***Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+<strong> Fonte: </strong> <a href="https://github.com/SkywalkerSupreme"> Larissa Stéfane </a>
 
 </center>
 
 ## Histórico de versão
 
-| Versão | Alteração                  | Responsável      | Revisor         | Data       |
-| ------ | -------------------------- | ---------------- | --------------- | -          |
-| 1.0    | Criaçao do documento       | Larissa Stéfane  | Breno Alexandre | 08/04/2024 |
-| 1.1 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Bruno Araújo | 11/04/2024 |
+| Versão | Alteração                                                   | Responsável      | Revisor         | Data       |
+| ------ | ----------------------------------------------------------- | ---------------- | --------------- | ---------- |
+| 1.0    | Criaçao do documento                                        | Larissa Stéfane  | Breno Alexandre | 08/04/2024 |
+| 1.1    | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia   | Bruno Araújo    | 11/04/2024 |
+| 1.2    | Correção da fonte                                           | Breno Alexandre  | -               | 13/05/2024 |
