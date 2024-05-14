@@ -35,7 +35,7 @@ A git page possui?                     | Sim/Não/Incompleto
 
 <center>
   
-Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
+<strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0)"> Breno Alexandre </a>
 
 
 </center>
@@ -44,4 +44,4 @@ Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
 | Versão | Alteração                  | Responsável      | Revisor         | Data       |
 | ------ | -------------------------- | ---------------- | --------------- | ---------- |
-| 1.0    | Criação do documento       | Breno Alexandre  | Bruno Araújo               | 13/05/2024 |
+| 1.0    | Criação do documento       | Breno Alexandre  | Bruno Araújo    | 13/05/2024 |
