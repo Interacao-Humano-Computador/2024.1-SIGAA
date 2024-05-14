@@ -42,15 +42,14 @@ Neste documento está contido o vídeo de apresentação da segunda entrega da m
 
 <center>
   
-**Fonte**  [Bruno Araujo](https://github.com/brunocva)
-
+<strong> Fonte: </strong> <a href="https://github.com/brunocva"> Bruno Araújo </a>
 
 </center>
 
 ## Histórico de versão
 
-| Versão | Alteração                  | Responsável      | Revisor         | Data       |
-| ------ | -------------------------- | ---------------- | --------------- | ---------- |
-| 1.0    | Criação do documento       | Iago Passaglia  | Bruno Araújo    | 06/05/2024 |
-| 1.1    | Correção do link (tinha sido banido pelo video ser muito longo)       | Iago Passaglia  | Bruno Araújo    | 11/05/2024 |
-| 1.2    | Correção da tabela e link do vídeo | Bruno Araújo  | -    | 13/05/2024 |
+| Versão | Alteração                          | Responsável      | Revisor         | Data       |
+| ------ | ---------------------------------- | ---------------- | --------------- | ---------- |
+| 1.0    | Criação do documento               | Iago Passaglia   | Bruno Araújo    | 06/05/2024 |
+| 1.1    | Correção do link                   | Iago Passaglia   | Bruno Araújo    | 11/05/2024 |
+| 1.2    | Correção da tabela e link do vídeo | Bruno Araújo     | Breno Alexandre | 13/05/2024 |
