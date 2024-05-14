@@ -691,7 +691,7 @@ Apesar de alguns julgarem a interface como não-convidativa ou como ultrapassada
 
 
 <div align="center">
-GIF 14: Interface SIGAA
+GIF 10: Interface SIGAA
 
 ![Interface Sigaa ](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/interfaceCertoGif.gif?raw=true)
 
@@ -732,7 +732,17 @@ No projeto, a aplicação dos princípios de conteúdo relevante e expressão ad
 Como tanto os usuários quanto os sistemas são propensos a erros, o sistema deve estar preparado para possíveis erros. Portanto, a configuração deve notificar o usuário sobre a ocorrência de um erro e fornecer instruções sobre como superar possíveis perdas ou ações indesejadas. Além disso, ações irreversíveis exigem confirmação constante do usuário.
 
 ### Violação
-O site SIGAA possui métodos padrão de detecção de erros que, dependendo do tipo, podem até explicar o erro. Porém, na maior parte das vezes, o sistema não evita que os usuários cometam erros, principalmente porque os usuários do sistema têm muita liberdade nele, mas também porque o site tem um nível de poluição informacional muito alto, que pode ser visto no [Gif 14](#Como-é-aplicado-no-SIGAA), que representa a página inicial do site.
+O site SIGAA possui métodos padrão de detecção de erros que, dependendo do tipo, podem até explicar o erro. Um exemplo na imagem 10. Porém, na maior parte das vezes, o sistema não evita que os usuários cometam erros, principalmente porque os usuários do sistema têm muita liberdade nele, mas também porque o site tem um nível de poluição informacional muito alto, que pode ser visto no [Gif 10](#Como-é-aplicado-no-SIGAA), que representa a página inicial do site.
+
+Um outro exemplo de erro, citado na [entrevista com o servidor Francisco(Chiquinho)](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md), é que para um discente conseguir matricular na monitoria, ele tem que ter um mínimo de créditos. Só que há um erro no SIGAA que permite o discente se matricular em monitoria mesmo não tendo o mínimo de créditos, cabendo aos servidores técnicos a verificar e consertar isso.
+
+<div align="center">
+Imagem 10: Violação
+
+![Discentes/Docentes - Sigaa](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/SIGAAErroMatricula.jpeg)
+
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
+</div>
 
 ### Como será usado no projeto
 Para reduzir a ocorrência de erros dos usuários, no projeto serão estudadas simplificações na interface, mensagens de erros claras e testes de usabilidade.
@@ -771,4 +781,5 @@ Em conclusão, a análise dos princípios gerais no SIGAA resultou em uma compre
 | 2.1    | Adição de Visibilidade e Reconhecimento no projeto                                   | Luana Medeiros  | Bruno Araújo    | 12/05/2024 |
 | 2.2    | Adição do princípio da simplicidade                                                  | Bruno Araújo    | Larissa Stéfane | 12/05/2024 |
 | 2.3    | Correção de um ponto na antecipação das necessidades dos usuários                    | Larissa Stéfane | Breno Alexandre | 13/05/2024 |
-| 2.4    | Correção no sumário e no nome dos Gifs                                               | Breno Alexandre | Bruno Araújo              | 13/05/2024 |
+| 2.4    | Correção no sumário e no nome dos Gifs                                               | Breno Alexandre | Bruno Araújo    | 13/05/2024 |
+| 2.5    | Correção no nome dos Gifs e complementação no projeto para erros                     | Breno Alexandre | -               | 13/05/2024 |
