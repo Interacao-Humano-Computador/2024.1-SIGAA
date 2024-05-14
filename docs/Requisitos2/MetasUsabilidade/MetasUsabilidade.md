@@ -45,7 +45,7 @@ A falta de tutoriais no primeiro login do usuário e ferramentas que facilitem o
 <center>
   <font size="2"><p style="text-align: center">Imagem 1: Página principal SIGAA</p></font>
 <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/PaginaInicial1.png?raw=true" style="width:auto"/>
-<center>
+</center>
   
 Fonte: [Pedro Izarias](https://github.com/Izarias)
   
