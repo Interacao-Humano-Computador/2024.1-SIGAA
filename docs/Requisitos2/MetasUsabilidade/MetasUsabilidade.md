@@ -51,6 +51,7 @@ Fonte: [Pedro Izarias](https://github.com/Izarias)
   
 ### 6. Memorização
 Diz respeito à facilidade com que os usuários podem lembrar como usar o sistema após um período de ausência. Um sistema com boa memorização permite que os usuários retenham o conhecimento de sua utilização ao longo do tempo.
+
 #### 6.1 Memorização do SIGAA
 A falta de recursos de ajuda e guias para usuário, torna mais difícil o aprendizado e consequentemente a memorização das funcionalidades do sistema. Outro fato que prejudica a memorização pelo usuário do SIGAA é também a complexidade da página inicial, que possui um excesso de conteúdo, tornando difícil para os usuários identificarem rapidamente as informações relevantes e navegarem eficientemente pelo sistema. Isso pode resultar em uma experiência confusa e frustrante, levando a uma memorização inadequada das funcionalidades e recursos disponíveis no SIGAA.
 
