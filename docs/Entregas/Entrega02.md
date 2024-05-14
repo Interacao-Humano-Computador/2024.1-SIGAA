@@ -44,7 +44,7 @@ construção/realização do artefato/atividade. | SIM
 ## Histórico de versão
 
 | Versão | Alteração                  | Responsável      | Revisor         | Data       |
-| 1.0    | 06/05/2024 | Apresentação 2 | [Iago Passaglia](https://github.com/paxxaglia)  | [Bruno Araujo](https://github.com/brunocva) |
-| 1.1    | 11/05/2024 | Correção do link (tinha sido banido pelo video ser muito longo)| [Iago Passaglia](https://github.com/paxxaglia)  | [Bruno Araujo](https://github.com/brunocva) |
-| 1.2    | 13/05/2024 | Documentação de tabela e atualização do link do vídeo| | [Bruno Araujo](https://github.com/brunocva) | - |
-
+| ------ | -------------------------- | ---------------- | --------------- | ---------- |
+| 1.0    | Criação do documento       | Iago Passaglia  | Bruno Araújo    | 06/05/2024 |
+| 1.1    | Correção do link (tinha sido banido pelo video ser muito longo)       | Iago Passaglia  | Bruno Araújo    | 11/05/2024 |
+| 1.2    | Correção da tabela e link do vídeo | Bruno Araújo  | -    | 13/05/2024 |
