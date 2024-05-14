@@ -734,7 +734,7 @@ Como tanto os usuários quanto os sistemas são propensos a erros, o sistema dev
 ### Violação
 O site SIGAA possui métodos padrão de detecção de erros que, dependendo do tipo, podem até explicar o erro. Um exemplo na imagem 10. Porém, na maior parte das vezes, o sistema não evita que os usuários cometam erros, principalmente porque os usuários do sistema têm muita liberdade nele, mas também porque o site tem um nível de poluição informacional muito alto, que pode ser visto no [Gif 10](#Como-é-aplicado-no-SIGAA), que representa a página inicial do site.
 
-Um outro exemplo de erro, citado na [entrevista com o servidor Francisco(Chiquinho)](docs/PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md), é que para um discente conseguir matricular na monitoria, ele tem que ter um mínimo de créditos. Só que há um erro no SIGAA que permite o discente se matricular em monitoria mesmo não tendo o mínimo de créditos, cabendo aos servidores técnicos a verificar e consertar isso.
+Um outro exemplo de erro, citado na [entrevista com o servidor Francisco(Chiquinho)](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md), é que para um discente conseguir matricular na monitoria, ele tem que ter um mínimo de créditos. Só que há um erro no SIGAA que permite o discente se matricular em monitoria mesmo não tendo o mínimo de créditos, cabendo aos servidores técnicos a verificar e consertar isso.
 
 <div align="center">
 Imagem 10: Violação
