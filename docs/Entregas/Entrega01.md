@@ -45,4 +45,4 @@ A git page possui?  | Sim/Não/Incompleto
 | ------ | ----------------------------------------------------------- | ---------------- | --------------- | ---------- |
 | 1.0    | Criaçao do documento                                        | Larissa Stéfane  | Breno Alexandre | 08/04/2024 |
 | 1.1    | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia   | Bruno Araújo    | 11/04/2024 |
-| 1.2    | Correção da fonte                                           | Breno Alexandre  | -               | 13/05/2024 |
+| 1.2    | Correção da fonte                                           | Breno Alexandre  | Larissa Stéfane              | 13/05/2024 |
