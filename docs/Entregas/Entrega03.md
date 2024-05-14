@@ -1,7 +1,7 @@
 # Apresentação 03
 
 ## Introdução
-Neste documento está contido o vídeo de apresentação da primeira entrega da matéria de Interação Humano Computador e o checklist do que está em conforme com a entrega.
+Neste documento está contido o vídeo de apresentação da terceira entrega da matéria de Interação Humano Computador e o checklist do que está em conforme com a entrega.
 
 ## Vídeo da apresentação
 
