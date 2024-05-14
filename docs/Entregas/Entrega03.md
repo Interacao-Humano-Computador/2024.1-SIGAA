@@ -45,4 +45,4 @@ construção/realização do artefato/atividade. | SIM
 
 | Versão | Alteração                  | Responsável      | Revisor         | Data       |
 | ------ | -------------------------- | ---------------- | --------------- | ---------- |
-| 1.0    | Criação do documento       | Breno Alexandre  | -               | 13/05/2024 |
+| 1.0    | Criação do documento       | Breno Alexandre  | Bruno Araújo               | 13/05/2024 |
