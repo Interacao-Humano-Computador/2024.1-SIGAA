@@ -16,6 +16,8 @@
 
 * Apresentações
   - [Apresentação 01](Entregas/Entrega01.md)
+  - [Apresentação 02](Entregas/Entrega02.md)
+  - [Apresentação 03](Entregas/Entrega03.md)
     
 * Planejamento 
   - [Cronograma](planejamento/Cronograma.md)
