@@ -105,9 +105,9 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 19                | <b>Relato dos Resultados do Storyboard</b> - Entrevistas sobre os storyboards                                      | Breno, Bruno, Iago, Larissa, Luana e Pedro | 20/05/2024      |
 | Issue 20                | <b>Relato dos Resultados do Storyboard</b> - Problemas encontrados para reprojeto                                  | Bruno Araújo                               | 20/05/2024      |
 | Issue 21                | Cronograma da etapa 4                                                                                              | Breno Alexandre                            | 21/05/2024      |
-| Issue 21                | Gravação da apresentação da etapa 4                                                                                | Breno, Bruno, Iago, Larissa, Luana e Pedro | 21/05/2024      |
-| Issue 22                | Editar vídeo da apresentação da etapa 4                                                                            | Breno Alexandre                            | 22/05/2024      |
-| Issue 23                | Criação do documento de apresentação e avaliação da etapa 4                                                        | Luana Medeiros                             | 22/05/2024      |
+| Issue 22                | Gravação da apresentação da etapa 4                                                                                | Breno, Bruno, Iago, Larissa, Luana e Pedro | 21/05/2024      |
+| Issue 23                | Editar vídeo da apresentação da etapa 4                                                                            | Breno Alexandre                            | 22/05/2024      |
+| Issue 24                | Criação do documento de apresentação e avaliação da etapa 4                                                        | Luana Medeiros                             | 22/05/2024      |
 
 <center> 
 
