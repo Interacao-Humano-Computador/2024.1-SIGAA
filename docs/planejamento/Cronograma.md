@@ -12,17 +12,17 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 
 <p align="center"> Tabela 1. Planejamento do Projeto </p>
 
-| *Atividade*                        | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
-| ---------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
-| Selecionar site                    | 26/03/2024 | 28/03/2024 | Todos              | Larissa          | 29/03/2024 - 29/03/2024 |
-| Documentar Equipe                  | 26/03/2024 | 28/03/2024 | Larissa            | Luana            | 29/03/2024 - 29/03/2024 |
-| Realização do cronograma           | 26/03/2024 | 28/03/2024 | Breno              | Larissa          | 29/03/2024 - 29/03/2024 |
-| Implementar Git Page               | 26/03/2024 | 28/03/2024 | Pedro              | Breno            | 29/03/2024 - 29/03/2024 |
-| Selecionar ferramentas do projeto  | 29/03/2024 | 31/03/2024 | Larissa e Luana    | Bruno            | 01/04/2024 - 01/04/2024 |
-| Selecionar metodologias do projeto | 29/03/2024 | 31/03/2024 | Bruno e Iago       | Pedro            | 01/04/2024 - 01/04/2024 |
-| Processo de Design                 | 01/04/2024 | 04/04/2024 | Bruno e Pedro      | Iago             | 05/04/2024 - 05/04/2024 |
-| Gravar apresentação                | 06/04/2024 | 06/04/2024 | Todos              | Todos            | 06/04/2024 - 07/04/2024 |
-| Correção pós apresentação          | 10/04/2024 | 10/04/2024 | Todos              | Todos            | 11/04/2024 - 11/04/2024 |
+| *Atividade*                        | *Início*   | *Fim*      | *Responsáveis*                             | *Revisores*                                | *Periodo de Revisão*    |
+| ---------------------------------- | ---------- | ---------- | ------------------------------------------ | ------------------------------------------ | ----------------------- |
+| Selecionar site                    | 26/03/2024 | 28/03/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Larissa Stéfane                            | 29/03/2024 - 29/03/2024 |
+| Documentar Equipe                  | 26/03/2024 | 28/03/2024 | Larissa Stéfane                            | Luana Medeiros                             | 29/03/2024 - 29/03/2024 |
+| Realização do cronograma           | 26/03/2024 | 28/03/2024 | Breno Alexandre                            | Larissa Stéfane                            | 29/03/2024 - 29/03/2024 |
+| Implementar Git Page               | 26/03/2024 | 28/03/2024 | Pedro Izarias                              | Breno Alexandre                            | 29/03/2024 - 29/03/2024 |
+| Selecionar ferramentas do projeto  | 29/03/2024 | 31/03/2024 | Larissa e Luana                            | Bruno Araújo                               | 01/04/2024 - 01/04/2024 |
+| Selecionar metodologias do projeto | 29/03/2024 | 31/03/2024 | Bruno e Iago                               | Pedro Izarias                              | 01/04/2024 - 01/04/2024 |
+| Processo de Design                 | 01/04/2024 | 04/04/2024 | Bruno e Pedro                              | Iago Passaglia                             | 05/04/2024 - 05/04/2024 |
+| Gravar apresentação                | 06/04/2024 | 06/04/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 06/04/2024 - 07/04/2024 |
+| Correção pós apresentação          | 10/04/2024 | 10/04/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 11/04/2024 - 11/04/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
@@ -32,32 +32,32 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 <p align="center"> Tabela 2. Planejamento do Projeto </p>
 
-| *Atividade*                                                                                                                      | *Início*   | *Fim*      | *Responsáveis*     | *Revisores*      | *Periodo de Revisão*    |
-| -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------ | ---------------- | ----------------------- |
-| Documentar a base da Ata 01                                                                                                      | 25/03/2024 | 26/03/2024 | Larissa Stéfane    | Luana Medeiros   | 26/03/2024 - 26/03/2024 |
-| Reunião 01                                                                                                                       | 26/03/2024 | 26/03/2024 | Todos              | Larissa Stéfane  | 26/03/2024 - 26/03/2024 |
-| Documentar a base da Ata 02                                                                                                      | 28/03/2024 | 28/03/2024 | Larissa Stéfane    | Luana Medeiros   | 28/03/2024 - 28/03/2024 |
-| Reunião 02                                                                                                                       | 28/03/2024 | 28/03/2024 | Todos              | Larissa Stéfane  | 28/03/2024 - 28/03/2024 |
-| Criação do documento de ferramentas                                                                                              | 28/03/2024 | 28/03/2024 | Larissa Stéfane    | Luana Medeiros   | 28/03/2024 - 01/04/2024 |
-| Documentação de um site para ser avaliado como uma das opções. Documentar o site da Secretaria da Pessoa com Deficiência do GDF. | 30/04/2024 | 30/04/2024 | Larissa Stéfane    | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
-| Documentar a base da Ata 03                                                                                                      | 02/04/2024 | 02/04/2024 | Luana Medeiros     | Breno Alexandre  | 02/04/2024 - 02/04/2024 |
-| Reunião 03                                                                                                                       | 02/04/2024 | 02/04/2024 | Todos              | Larissa Stéfane  | 02/04/2024 - 02/04/2024 |
-| Selecionar site                                                                                                                  | 02/04/2024 | 02/04/2024 | Todos              | Larissa Stéfane  | 05/04/2024 - 05/04/2024 |
-| Documentar a base da Ata 04                                                                                                      | 04/04/2024 | 04/04/2024 | Bruno Araújo       | Larissa Stéfane  | 04/04/2024 - 04/04/2024 |
-| Reunião 04                                                                                                                       | 04/04/2024 | 04/04/2024 | Todos              | Larissa Stéfane  | 04/04/2024 - 04/04/2024 |
-| Criação do documento que apresenta a metodologia de analise dos sites para a ecolha.                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Luana Medeiros   | 05/04/2024 - 06/04/2024 |
-| Realização da avaliação por heurísticas do SIGAA e definição das suas funcionalidades.                                           | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Luana Medeiros   | 05/04/2024 - 06/04/2024 |
-| Apresentação do site SIGAA e exposição de dados coletados em pesquisas anteriores sobre o site.                                  | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Breno Alexandre  | 05/04/2024 - 07/04/2024 |
-| Criação de documento apresentando a Equipe.                                                                                      | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
-| Criação de documento mostrando a dinâmica da equipe.                                                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
-| Documentação de um site para ser avaliado como uma das opções. Documentar o site da CBMDF (Corpo de Bombeiros Militar do DF).    | 05/04/2024 | 05/04/2024 | Bruno Araújo       | Luana Medeiros   | 05/04/2024 - 05/04/2024 |
-| Documentar a base da documentação de um site para ser avaliado como uma das opções.                                              | 05/04/2024 | 05/04/2024 | Larissa Stéfane    | Luana Medeiros   | 05/04/2024 - 07/04/2024 |
-| Documentação de um site para ser avaliado como uma das opções. Documentar o site do SIGAA - UnB.                                 | 06/04/2024 | 06/04/2024 | Iago Passaglia     | Luana Medeiros   | 06/04/2024 - 06/04/2024 |
-| Documentação de um site para ser avaliado como uma das opções. Documentar o site do INEP enem.                                   | 06/04/2024 | 06/04/2024 | Breno Alexandre    | Luana Medeiros   | 06/04/2024 - 06/04/2024 |
-| Documentação de um site para ser avaliado como uma das opções. Documentar o site da Distribuição Linux Debian.                   | 06/04/2024 | 06/04/2024 | Pedro Augusto      | Luana Medeiros   | 06/04/2024 - 06/04/2024 |
-| Documentação de um site para ser avaliado como uma das opções. Documentar o site de Alistamento Militar.                         | 06/04/2024 | 06/04/2024 | Luana Medeiros     | Breno Alexandre  | 06/04/2024 - 06/04/2024 |
-| Documentação do Heatmap                                                                                                          | 06/04/2024 | 06/04/2024 | Pedro Augusto      | Iago Passaglia   | 06/04/2024 - 06/04/2024 |
-| Documentação do planejamento de Processo de Design, com o método escolhido sendo o Ciclo de Mayhew.                              | 06/04/2024 | 06/04/2024 | Bruno Araújo       | Iago Passaglia   | 06/04/2024 - 07/04/2024 |
+| *Atividade*                                                                                                                      | *Início*   | *Fim*      | *Responsáveis*                             | *Revisores*      | *Periodo de Revisão*    |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------------------------ | ---------------- | ----------------------- |
+| Documentar a base da Ata 01                                                                                                      | 25/03/2024 | 26/03/2024 | Larissa Stéfane                            | Luana Medeiros   | 26/03/2024 - 26/03/2024 |
+| Reunião 01                                                                                                                       | 26/03/2024 | 26/03/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Larissa Stéfane  | 26/03/2024 - 26/03/2024 |
+| Documentar a base da Ata 02                                                                                                      | 28/03/2024 | 28/03/2024 | Larissa Stéfane                            | Luana Medeiros   | 28/03/2024 - 28/03/2024 |
+| Reunião 02                                                                                                                       | 28/03/2024 | 28/03/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Larissa Stéfane  | 28/03/2024 - 28/03/2024 |
+| Criação do documento de ferramentas                                                                                              | 28/03/2024 | 28/03/2024 | Larissa Stéfane                            | Luana Medeiros   | 28/03/2024 - 01/04/2024 |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site da Secretaria da Pessoa com Deficiência do GDF. | 30/04/2024 | 30/04/2024 | Larissa Stéfane                            | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
+| Documentar a base da Ata 03                                                                                                      | 02/04/2024 | 02/04/2024 | Luana Medeiros                             | Breno Alexandre  | 02/04/2024 - 02/04/2024 |
+| Reunião 03                                                                                                                       | 02/04/2024 | 02/04/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Larissa Stéfane  | 02/04/2024 - 02/04/2024 |
+| Selecionar site                                                                                                                  | 02/04/2024 | 02/04/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Larissa Stéfane  | 05/04/2024 - 05/04/2024 |
+| Documentar a base da Ata 04                                                                                                      | 04/04/2024 | 04/04/2024 | Bruno Araújo                               | Larissa Stéfane  | 04/04/2024 - 04/04/2024 |
+| Reunião 04                                                                                                                       | 04/04/2024 | 04/04/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Larissa Stéfane  | 04/04/2024 - 04/04/2024 |
+| Criação do documento que apresenta a metodologia de analise dos sites para a ecolha.                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane                            | Luana Medeiros   | 05/04/2024 - 06/04/2024 |
+| Realização da avaliação por heurísticas do SIGAA e definição das suas funcionalidades.                                           | 05/04/2024 | 05/04/2024 | Larissa Stéfane                            | Luana Medeiros   | 05/04/2024 - 06/04/2024 |
+| Apresentação do site SIGAA e exposição de dados coletados em pesquisas anteriores sobre o site.                                  | 05/04/2024 | 05/04/2024 | Larissa Stéfane                            | Breno Alexandre  | 05/04/2024 - 07/04/2024 |
+| Criação de documento apresentando a Equipe.                                                                                      | 05/04/2024 | 05/04/2024 | Larissa Stéfane                            | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
+| Criação de documento mostrando a dinâmica da equipe.                                                                             | 05/04/2024 | 05/04/2024 | Larissa Stéfane                            | Pedro Augusto    | 05/04/2024 - 06/04/2024 |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site da CBMDF (Corpo de Bombeiros Militar do DF).    | 05/04/2024 | 05/04/2024 | Bruno Araújo                               | Luana Medeiros   | 05/04/2024 - 05/04/2024 |
+| Documentar a base da documentação de um site para ser avaliado como uma das opções.                                              | 05/04/2024 | 05/04/2024 | Larissa Stéfane                            | Luana Medeiros   | 05/04/2024 - 07/04/2024 |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site do SIGAA - UnB.                                 | 06/04/2024 | 06/04/2024 | Iago Passaglia                             | Luana Medeiros   | 06/04/2024 - 06/04/2024 |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site do INEP enem.                                   | 06/04/2024 | 06/04/2024 | Breno Alexandre                            | Luana Medeiros   | 06/04/2024 - 06/04/2024 |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site da Distribuição Linux Debian.                   | 06/04/2024 | 06/04/2024 | Pedro Augusto                              | Luana Medeiros   | 06/04/2024 - 06/04/2024 |
+| Documentação de um site para ser avaliado como uma das opções. Documentar o site de Alistamento Militar.                         | 06/04/2024 | 06/04/2024 | Luana Medeiros                             | Breno Alexandre  | 06/04/2024 - 06/04/2024 |
+| Documentação do Heatmap                                                                                                          | 06/04/2024 | 06/04/2024 | Pedro Augusto                              | Iago Passaglia   | 06/04/2024 - 06/04/2024 |
+| Documentação do planejamento de Processo de Design, com o método escolhido sendo o Ciclo de Mayhew.                              | 06/04/2024 | 06/04/2024 | Bruno Araújo                               | Iago Passaglia   | 06/04/2024 - 07/04/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0), [Lárissa Stéfane](https://github.com/SkywalkerSupreme) e [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -370,3 +370,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.7    | Preechimento do planejado para a entrega 2 e 3, e do executado para a entrega 2                             | Breno Alexandre       | -               | 09/05/2024 |
 | 1.8    | Preechimento do executado para a entrega 2                                                                  | Breno Alexandre       | -               | 10/05/2024 |
 | 1.9    | Preechimento do executado para a entrega 3                                                                  | Breno Alexandre       | -               | 13/05/2024 |
+| 2.0    | Correção da padronização dos nomes da entrega 1                                                             | Breno Alexandre       | -               | 16/05/2024 |
