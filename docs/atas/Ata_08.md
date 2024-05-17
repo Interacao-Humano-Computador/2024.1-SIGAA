@@ -3,13 +3,13 @@
 O vídeo 1 indica a reunião 8
 
 <center> 
-<p align="center"> Vídeo 1: RS - Reunião 8. </p>
+<p align="center"> Vídeo 1: IHC - Reunião 8. </p>
 
-<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/_KziKRFzCDA?si=ZVn4jY6s_7vYq0u7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/8TMa5IFezt8?si=eh8DWMaFa6Zd4Cr7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <strong> Fonte: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
-Caso não consiga ver o vídeo, acesse [aqui](https://www.youtube.com/watch?v=_KziKRFzCDA).
+Caso não consiga ver o vídeo, acesse [aqui](https://www.youtube.com/watch?v=8TMa5IFezt8).
 </center>
 
 ## Ata da reunião do dia 16/05/2024
