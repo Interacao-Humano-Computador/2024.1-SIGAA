@@ -92,22 +92,16 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Issue 6                 | <b>Planejamento da Avaliação da Análise de Tarefas</b> - Framework DECIDE                                          | Luana Medeiros                             | 18/05/2024      |
 | Issue 7                 | <b>Planejamento da Avaliação da Análise de Tarefas</b> - Planejamento do Teste Piloto e Resultado do Teste Piloto  | Larissa e Pedro                            | 18/05/2024      |
 | Issue 8                 | Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas                                           | Larissa Stéfane                            | 18/05/2024      |
-| Issue 9                 | <b>Relato dos Resultados da Análise de Tarefas</b> - Sumário, Introdução, Objetivo e Metodologia                   | Bruno Araújo                               | 18/05/2024      |
-| Issue 10                | <b>Relato dos Resultados da Análise de Tarefas</b> - Entrevistas sobre as tarefas                                  | Breno, Bruno, Iago, Larissa, Luana e Pedro | 19/05/2024      |
-| Issue 11                | <b>Relato dos Resultados da Análise de Tarefas</b> - Problemas encontrados para reprojeto                          | Breno Alexandre                            | 19/05/2024      |
-| Issue 12                | <b>Storyboards</b> - Sumário, Introdução, Metodologia                                                              | Pedro Izarias                              | 19/05/2024      |
-| Issue 13                | <b>Storyboards</b> - Desenvolvimento                                                                               | Breno, Bruno, Iago, Larissa, Luana e Pedro | 19/05/2024      |
-| Issue 14                | <b>Planejamento da Avaliação do Storyboard</b> - Sumário, Introdução e Metodologia                                 | Luana Medeiros                             | 20/05/2024      |
-| Issue 15                | <b>Planejamento da Avaliação do Storyboard</b> - Framework DECIDE                                                  | Bruno Araújo                               | 20/05/2024      |
-| Issue 16                | <b>Planejamento da Avaliação do Storyboard</b> - Planejamento do Teste Piloto e Resultado do Teste Piloto          | Iago e Luana                               | 20/05/2024      |
-| Issue 17                | Planejamento do Relato dos Resultados do Storyboard                                                                | Breno Alexandre                            | 20/05/2024      |
-| Issue 18                | <b>Relato dos Resultados do Storyboard</b> Sumário, Introdução, Objetivo e Metodologia                             | Iago Passaglia                             | 20/05/2024      |
-| Issue 19                | <b>Relato dos Resultados do Storyboard</b> - Entrevistas sobre os storyboards                                      | Breno, Bruno, Iago, Larissa, Luana e Pedro | 20/05/2024      |
-| Issue 20                | <b>Relato dos Resultados do Storyboard</b> - Problemas encontrados para reprojeto                                  | Bruno Araújo                               | 20/05/2024      |
-| Issue 21                | Cronograma da etapa 4                                                                                              | Breno Alexandre                            | 21/05/2024      |
-| Issue 22                | Gravação da apresentação da etapa 4                                                                                | Breno, Bruno, Iago, Larissa, Luana e Pedro | 21/05/2024      |
-| Issue 23                | Editar vídeo da apresentação da etapa 4                                                                            | Breno Alexandre                            | 22/05/2024      |
-| Issue 24                | Criação do documento de apresentação e avaliação da etapa 4                                                        | Luana Medeiros                             | 22/05/2024      |
+| Issue 9                 | <b>Storyboards</b> - Sumário, Introdução, Metodologia                                                              | Pedro Izarias                              | 19/05/2024      |
+| Issue 10                | <b>Storyboards</b> - Desenvolvimento                                                                               | Breno, Bruno, Iago, Larissa, Luana e Pedro | 19/05/2024      |
+| Issue 11                | <b>Planejamento da Avaliação do Storyboard</b> - Sumário, Introdução e Metodologia                                 | Luana Medeiros                             | 20/05/2024      |
+| Issue 12                | <b>Planejamento da Avaliação do Storyboard</b> - Framework DECIDE                                                  | Bruno Araújo                               | 20/05/2024      |
+| Issue 13                | <b>Planejamento da Avaliação do Storyboard</b> - Planejamento do Teste Piloto e Resultado do Teste Piloto          | Iago e Luana                               | 20/05/2024      |
+| Issue 14                | Planejamento do Relato dos Resultados do Storyboard                                                                | Breno Alexandre                            | 20/05/2024      |
+| Issue 15                | Cronograma da etapa 4                                                                                              | Breno Alexandre                            | 21/05/2024      |
+| Issue 16                | Gravação da apresentação da etapa 4                                                                                | Breno, Bruno, Iago, Larissa, Luana e Pedro | 21/05/2024      |
+| Issue 17                | Editar vídeo da apresentação da etapa 4                                                                            | Breno Alexandre                            | 22/05/2024      |
+| Issue 18                | Criação do documento de apresentação e avaliação da etapa 4                                                        | Luana Medeiros                             | 22/05/2024      |
 
 <center> 
 
@@ -121,3 +115,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação  Ata da Reunião           | Breno Alexandre | -                     | 17/05/2024 |
+| 1.1    | Correção das issues pra entrega 4 | Breno Alexandre | -                     | 20/05/2024 |
