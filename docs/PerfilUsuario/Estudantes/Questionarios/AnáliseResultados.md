@@ -33,7 +33,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 **Observação:** Nem todas as respostas eram obrigatórias, então, apesar de 118 pessoas terem respondido, algumas perguntas possuem uma quantidade menor de respostas.
 
 <details>
-  <summary size="20"><b> Pergunta 1: Qual é a sua faixa etária? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 1: Qual é a sua faixa etária? </b></summary> 
 
 <div align="center">
     Figura 1: Porcentagem da resposta.
@@ -56,7 +56,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
 <details>
-  <summary size="20"><b> Pergunta 2: Qual é o seu gênero? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 2: Qual é o seu gênero? </b></summary> 
 <div align="center">
     Figura 3: Porcentagem da resposta.
     <br>
@@ -79,7 +79,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 3: Qual é o seu status acadêmico atual? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 3: Qual é o seu status acadêmico atual? </b></summary> 
 
 <div align="center">
     Figura 5: Porcentagem da resposta.
@@ -103,7 +103,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
    <details>
-  <summary size="20"><b> Pergunta 4:Quais são as suas principais metas acadêmicas? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 4:Quais são as suas principais metas acadêmicas? </b></summary> 
 
 <div align="center">
     Figura 7: Porcentagem da resposta.
@@ -126,7 +126,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 5: Qual é a sua etnia? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 5: Qual é a sua etnia? </b></summary> 
 
 <div align="center">
     Figura 9: Porcentagem da resposta.
@@ -151,7 +151,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 6: Qual o seu status socioeconômico? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 6: Qual o seu status socioeconômico? </b></summary> 
 
 <div align="center">
     Figura 11: Porcentagem da resposta.
@@ -174,7 +174,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 7: Há quanto tempo você utiliza o SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 7: Há quanto tempo você utiliza o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 13: Porcentagem da resposta.
@@ -198,7 +198,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 8: Como você classifica a sua habilidade de leitura? </b></summary> 
+  <summary size="20"><b>  Resposta da Pergunta 8: Como você classifica a sua habilidade de leitura? </b></summary> 
 
 <div align="center">
     Figura 15: Porcentagem da resposta.
@@ -223,7 +223,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 9: Qual a sua preferência de aprendizado? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 9: Qual a sua preferência de aprendizado? </b></summary> 
 
 
 <div align="center">
@@ -248,7 +248,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 10: Qual o seu nível de alfabetismo computacional? (Suas habilidades com informática) </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 10: Qual o seu nível de alfabetismo computacional? (Suas habilidades com informática) </b></summary> 
 
 
 <div align="center">
@@ -274,7 +274,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
 
   <details>
-  <summary size="20"><b> Pergunta 11: Como você classifica a sua experiência com jargões acadêmicos e técnicos? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 11: Como você classifica a sua experiência com jargões acadêmicos e técnicos? </b></summary> 
 
 <div align="center">
     Figura 21: Porcentagem da resposta.
@@ -298,7 +298,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 12: Você julga necessário ter o auxílio de algum manual para acessar as funcionalidades do SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 12: Você julga necessário ter o auxílio de algum manual para acessar as funcionalidades do SIGAA? </b></summary> 
 
 <div align="center">
     Figura 23: Porcentagem da resposta.
@@ -323,7 +323,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 13: Você cursou outros cursos em outras instituições além da UnB? Se sim, escreva no espaço: </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 13: Você cursou outros cursos em outras instituições além da UnB? Se sim, escreva no espaço: </b></summary> 
 
 <div align="center">
     Figura 25: Porcentagem da resposta.
@@ -370,7 +370,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 14: Além do SIGAA, você tem ou teve familiaridade com outros sistemas acadêmicos? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 14: Além do SIGAA, você tem ou teve familiaridade com outros sistemas acadêmicos? </b></summary> 
 
 
 <div align="center">
@@ -395,7 +395,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 15: Em relação à disposição para explorar novas tecnologias, você está: </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 15: Em relação à disposição para explorar novas tecnologias, você está: </b></summary> 
 
 <div align="center">
     Figura 29: Porcentagem da resposta.
@@ -420,7 +420,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 16: Com que frequência você acessa o SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 16: Com que frequência você acessa o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 31: Porcentagem da resposta.
@@ -446,7 +446,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
  
   
   <details>
-  <summary size="20"><b> Pergunta 17: Qual dispositivo você mais utiliza para acessar o SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 17: Qual dispositivo você mais utiliza para acessar o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 33: Porcentagem da resposta.
@@ -471,7 +471,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 18: Qual é o principal motivo para acessar o SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 18: Qual é o principal motivo para acessar o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 35: Porcentagem da resposta.
@@ -495,7 +495,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 19: Como você avalia a usabilidade do SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 19: Como você avalia a usabilidade do SIGAA? </b></summary> 
 
 <div align="center">
     Figura 37: Porcentagem da resposta.
@@ -519,7 +519,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
 
   <details>
-  <summary size="20"><b> Pergunta 20: Com que frequência você utiliza as funcionalidades de comunicação do SIGAA (mensagens, fóruns, etc.)? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 20: Com que frequência você utiliza as funcionalidades de comunicação do SIGAA (mensagens, fóruns, etc.)? </b></summary> 
 
   <div align="center">
     Figura 39: Porcentagem da resposta.
@@ -542,7 +542,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 21: Qual é o seu nível de satisfação geral com o SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 21: Qual é o seu nível de satisfação geral com o SIGAA? </b></summary> 
 
   <div align="center">
     Figura 41: Porcentagem da resposta.
@@ -564,7 +564,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 </details>
 
   <details>
-  <summary size="20"><b> Pergunta 22: Você utiliza outras plataformas ou sistemas semelhantes ao SIGAA?</b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 22: Você utiliza outras plataformas ou sistemas semelhantes ao SIGAA?</b></summary> 
 
  <div align="center">
     Figura 43: Porcentagem da resposta.
@@ -587,7 +587,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 23: Você considera que o SIGAA facilita o acesso a informações acadêmicas e administrativas? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 23: Você considera que o SIGAA facilita o acesso a informações acadêmicas e administrativas? </b></summary> 
 
 <div align="center">
     Figura 45: Porcentagem da resposta.
@@ -611,7 +611,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 24: Como você classificaria a qualidade das informações disponibilizadas no SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 24: Como você classificaria a qualidade das informações disponibilizadas no SIGAA? </b></summary> 
 
 <div align="center">
     Figura 47: Porcentagem da resposta.
@@ -635,7 +635,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 25: Qual é o principal benefício que você enxerga no uso do SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 25: Qual é o principal benefício que você enxerga no uso do SIGAA? </b></summary> 
 
 <div align="center">
     Figura 49: Porcentagem da resposta.
@@ -659,7 +659,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 26: Em sua opinião, a organização das informações no SIGAA é: </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 26: Em sua opinião, a organização das informações no SIGAA é: </b></summary> 
 
 <div align="center">
     Figura 51: Porcentagem da resposta.
@@ -683,7 +683,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 27: Você acha que as informações apresentadas no SIGAA são suficientemente detalhadas e abrangentes? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 27: Você acha que as informações apresentadas no SIGAA são suficientemente detalhadas e abrangentes? </b></summary> 
 
 <div align="center">
     Figura 53: Porcentagem da resposta.
@@ -709,7 +709,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
   
   <details>
-  <summary size="20"><b> Pergunta 28: O design visual do SIGAA é: </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 28: O design visual do SIGAA é: </b></summary> 
 
 <div align="center">
     Figura 55: Porcentagem da resposta.
@@ -735,7 +735,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
   
   <details>
-  <summary size="20"><b> Pergunta 29: Como você avalia a acessibilidade do SIGAA para usuários com necessidades especiais (por exemplo, usuários com deficiência visual)? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 29: Como você avalia a acessibilidade do SIGAA para usuários com necessidades especiais (por exemplo, usuários com deficiência visual)? </b></summary> 
 
 <div align="center">
     Figura 57: Porcentagem da resposta.
@@ -760,7 +760,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
   
   <details>
-  <summary size="20"><b> Pergunta 30: Quão fácil é encontrar as funcionalidades específicas que você precisa no SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 30: Quão fácil é encontrar as funcionalidades específicas que você precisa no SIGAA? </b></summary> 
     
 <div align="center">
     Figura 59: Porcentagem da resposta.
@@ -783,7 +783,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 </details>
 
   <details>
-  <summary size="20"><b> Pergunta 31: Em quais linguas você consegue se comunicar? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 31: Em quais linguas você consegue se comunicar? </b></summary> 
 
 **Observação:** Como as respostas não eram obrigatórias, têm se a opção do "português" com o intúito de saber quantos responderam essa pergunta, por exemplo 112 responderam, desses, 85 falam ingês fluentemente.
 
