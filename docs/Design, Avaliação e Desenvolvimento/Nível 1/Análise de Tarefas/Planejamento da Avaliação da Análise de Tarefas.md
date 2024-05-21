@@ -1,0 +1,45 @@
+# Planejamento da Avaliação da Análise de Tarefas
+
+## Introdução
+
+A avaliação da análise de tarefas é uma etapa importante no desenvolvimento do projeto pois nos ajuda a validar se as análises feitas anteriormente estão de acordo com o que de fato ocorre dentro do sistema e, portanto, a corrigir eventuais erros cometidos durante a elaboração das análises.
+Sendo assim, o artefato a seguir determina um planejamento para que a avaliação ocorra de forma mais fluida e condizente com o framework DECIDE, que será aplicado durante as entrevistas com os usuários do SIGAA.
+
+## Metodologia
+
+Conforme mencionado anteriormente, utilizaremos o framework DECIDE para executar a avaliação, onde cada letra informa o que deve ser feito em cada uma das etapas. A tabela 1 apresenta o significado de cada letra.
+
+<center>
+
+**Tabela 1** - Letras da palavra DECIDE com os seus significados.
+
+| Letra |                          Definição                           |
+| :---: | :----------------------------------------------------------: |
+|   D   |            Determinar os objetivos da avaliação.             |
+|   E   |   Explorar perguntas a serem respondidas com a avaliação.    |
+|   C   |     Escolher os métodos de avaliação a serem utilizados.     |
+|   I   | Identificar e administrar as questões práticas da avaliação. |
+|   D   |          Decidir como lidar com as questões éticas.          |
+|   E   |          Avaliar, interpretar e apresentar os dados          |
+
+**Fonte** - BARBOSA e SILVA (2011).
+
+</center>
+
+<!-- INSERIR TÓPICOS RESTANTES -->
+
+## C - Escolher os Métodos de Avaliação
+
+Para a realização da avaliação, serão apresentadas as análises de tarefas de cada uma das funcionalidades para os usuários durante as entrevista que serão realizadas, assim, o usuário fará considerações sobre as análises,
+se ele está de acordo ou não, se há algo a ser alterado e etc.
+
+A escolha se dá pelo fato de ser um método que permite a identificação de problemas ocultos, a melhoria da experiência do usuário, permite também uma iteração rápida nas análises de tarefas, refinando-as com base no feedback recebido em tempo real, entre outros.
+
+<!-- INSERIR TÓPICOS RESTANTES -->
+
+## Histórico de Versão
+
+| Versão | Alteração                         | Responsável     | Revisor               | Data       |
+| ------ | --------------------------------- | --------------- | --------------------- | ---------- |
+| 1.0    | Criação do documento, introdução e <br> definição dos métodos de avaliação      | Iago Passaglia | ---------------------- | 21/05/2024 |
+
