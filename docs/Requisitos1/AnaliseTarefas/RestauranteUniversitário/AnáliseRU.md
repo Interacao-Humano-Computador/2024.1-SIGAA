@@ -88,7 +88,28 @@ Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, h
        4.1 Disponibilizar Canal de Atendimento ao Cliente
          4.1.1 Chat ao Vivo, Suporte por Telefone, E-mail, etc.
 
-**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
+    0. Realizar Consulta de Cardápio (1/2)
+      1. Opção de Consultar Cardápio (1>2)
+         1.1.1 Opção do Refeitório (1/2)
+            1.1.1.1 Escolher Campus (1>2)
+               1.1.1.1 Selecionar Cardápio (1>2)
+                  1.1.1.1.1 Baixar PDF (1/2)
+                  1.1.1.1.2 Imprimir PDF (1/2)
+                  1.1.1.1.3 Dar zoom (1/2)
+                  1.1.1.1.4 Tirar zoom (1/2)
+         1.1.2 Opção de ver o Cardápio do Restaurante Executivo (1/2)
+            1.1.2.1 Selecionar Cardápio (1>2)
+                  1.1.2.1.1 Baixar PDF (1/2)
+                  1.1.2.1.2 Imprimir PDF (1/2)
+                  1.1.2.1.3 Dar zoom (1/2)
+                  1.1.2.1.4 Tirar zoom (1/2)
+
+    0. Realizar Pesquisa de Satisfação do RU (1/2)
+       1. Opção de Pesquisa de Satisfação do RU (1>2)
+          1.1 Preencher o formulário (1>2)
+             1.1.1 Baixar uma cópia do formulário respondido como PDF
+
+<strong> Autor: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
 </details>
 
