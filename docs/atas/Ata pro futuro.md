@@ -1,11 +1,5 @@
-
-| Issue 7                 | <b>Planejamento da Avaliação da Análise de Tarefas</b> - Planejamento do Teste Piloto, Questões Práticas, Termos, Cronograma e Resultado do Teste Piloto | Bruno e Iago                               | 18/05/2024      |
-
 | Issue 8                 | <b>Entrevistas de Avaliação de Análise de Tarefas</b> - Sumário, Introdução e Metodologia                                                                | Larissa Stéfane                            | 18/05/2024      |
 | Issue 9                 | <b>Entrevistas de Avaliação de Análise de Tarefas</b> - Planejamento, Termos, Cronograma e Vídeos                                                        | Breno, Bruno, Iago, Larissa, Luana e Pedro | 18/05/2024      |
-
-| Issue 15                | <b>Planejamento da Avaliação do Storyboard</b> - Planejamento do Teste Piloto, Questões Práticas, Termos, Cronograma e Resultado do Teste Piloto         | Breno e Larissa                            | 20/05/2024      |
-
 
 | Issue 9                 | <b>Relato dos Resultados da Análise de Tarefas</b> - Sumário, Introdução, Objetivo e Metodologia                   | Bruno Araújo                               | 18/05/2024      |
 | Issue 10                | <b>Relato dos Resultados da Análise de Tarefas</b> - Entrevistas sobre as tarefas                                  | Breno, Bruno, Iago, Larissa, Luana e Pedro | 19/05/2024      |
