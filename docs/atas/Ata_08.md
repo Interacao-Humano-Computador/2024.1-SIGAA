@@ -82,26 +82,26 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 <p align="center"> Tabela 3. Issues Sprint atual </p>
 
-| Identificador (Issue n) | Issue                                                                                                              | Integrante(s) responsável(eis)             | Data de entrega |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | --------------- |
-| Issue 1                 | Realizar a Ata da reunião                                                                                          | Breno Alexandre                            | 17/05/2024      |
-| Issue 2                 | Upar vídeo da reunião                                                                                              | Pedro Izarias                              | 17/05/2024      |
-| Issue 3                 | Arrumar a tela inicial do Gitpage                                                                                  | Pedro Izarias                              | 17/05/2024      |
-| Issue 4                 | Preencher executado da entrega 2                                                                                   | Breno e Bruno                              | 17/05/2024      |
-| Issue 5                 | <b>Planejamento da Avaliação da Análise de Tarefas</b> - Sumário, Introdução e Metodologia                         | Iago Passaglia                             | 17/05/2024      |
-| Issue 6                 | <b>Planejamento da Avaliação da Análise de Tarefas</b> - Framework DECIDE                                          | Luana Medeiros                             | 18/05/2024      |
-| Issue 7                 | <b>Planejamento da Avaliação da Análise de Tarefas</b> - Planejamento do Teste Piloto e Resultado do Teste Piloto  | Breno Alexandre                            | 18/05/2024      |
-| Issue 8                 | Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas                                           | Bruno Araújo                               | 18/05/2024      |
-| Issue 9                 | <b>Storyboards</b> - Sumário, Introdução, Metodologia                                                              | Pedro Izarias                              | 19/05/2024      |
-| Issue 10                | <b>Storyboards</b> - Desenvolvimento                                                                               | Breno, Bruno, Iago, Larissa, Luana e Pedro | 19/05/2024      |
-| Issue 11                | <b>Planejamento da Avaliação do Storyboard</b> - Sumário, Introdução e Metodologia                                 | Luana Medeiros                             | 20/05/2024      |
-| Issue 12                | <b>Planejamento da Avaliação do Storyboard</b> - Framework DECIDE                                                  | Bruno Araújo                               | 20/05/2024      |
-| Issue 13                | <b>Planejamento da Avaliação do Storyboard</b> - Planejamento do Teste Piloto e Resultado do Teste Piloto          | Larissa Stéfane                            | 20/05/2024      |
-| Issue 14                | Planejamento do Relato dos Resultados do Storyboard                                                                | Larissa Stéfane                            | 20/05/2024      |
-| Issue 15                | Cronograma da etapa 4                                                                                              | Breno Alexandre                            | 21/05/2024      |
-| Issue 16                | Gravação da apresentação da etapa 4                                                                                | Breno, Bruno, Iago, Larissa, Luana e Pedro | 21/05/2024      |
-| Issue 17                | Editar vídeo da apresentação da etapa 4                                                                            | Breno Alexandre                            | 22/05/2024      |
-| Issue 18                | Criação do documento de apresentação e avaliação da etapa 4                                                        | Luana Medeiros                             | 22/05/2024      |
+| Identificador (Issue n) | Issue                                                                                                                                          | Integrante(s) responsável(eis)             | Data de entrega |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | --------------- |
+| Issue 1                 | Realizar a Ata da reunião                                                                                                                      | Breno Alexandre                            | 17/05/2024      |
+| Issue 2                 | Upar vídeo da reunião                                                                                                                          | Pedro Izarias                              | 17/05/2024      |
+| Issue 3                 | Arrumar a tela inicial do Gitpage                                                                                                              | Pedro Izarias                              | 17/05/2024      |
+| Issue 4                 | Preencher executado da entrega 2                                                                                                               | Breno e Bruno                              | 17/05/2024      |
+| Issue 5                 | <b>Planejamento da Avaliação da Análise de Tarefas</b> - Sumário, Introdução e Metodologia                                                     | Iago Passaglia                             | 17/05/2024      |
+| Issue 6                 | <b>Planejamento da Avaliação da Análise de Tarefas</b> - Framework DECIDE                                                                      | Luana Medeiros                             | 18/05/2024      |
+| Issue 7                 | <b>Planejamento da Avaliação da Análise de Tarefas</b> - Planejamento do Teste Piloto, Questões éticas, Cronograma e Resultado do Teste Piloto | Breno Alexandre                            | 18/05/2024      |
+| Issue 8                 | Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas                                                                       | Bruno Araújo                               | 18/05/2024      |
+| Issue 9                 | <b>Storyboards</b> - Sumário, Introdução, Metodologia                                                                                          | Pedro Izarias                              | 19/05/2024      |
+| Issue 10                | <b>Storyboards</b> - Desenvolvimento                                                                                                           | Breno, Bruno, Iago, Larissa, Luana e Pedro | 19/05/2024      |
+| Issue 11                | <b>Planejamento da Avaliação do Storyboard</b> - Sumário, Introdução e Metodologia                                                             | Luana Medeiros                             | 20/05/2024      |
+| Issue 12                | <b>Planejamento da Avaliação do Storyboard</b> - Framework DECIDE                                                                              | Bruno Araújo                               | 20/05/2024      |
+| Issue 13                | <b>Planejamento da Avaliação do Storyboard</b> - Planejamento do Teste Piloto, Questões éticas, Cronograma e Resultado do Teste Piloto         | Larissa Stéfane                            | 20/05/2024      |
+| Issue 14                | Planejamento do Relato dos Resultados do Storyboard                                                                                            | Larissa Stéfane                            | 20/05/2024      |
+| Issue 15                | Cronograma da etapa 4                                                                                                                          | Breno Alexandre                            | 21/05/2024      |
+| Issue 16                | Gravação da apresentação da etapa 4                                                                                                            | Breno, Bruno, Iago, Larissa, Luana e Pedro | 21/05/2024      |
+| Issue 17                | Editar vídeo da apresentação da etapa 4                                                                                                        | Breno Alexandre                            | 22/05/2024      |
+| Issue 18                | Criação do documento de apresentação e avaliação da etapa 4                                                                                    | Luana Medeiros                             | 22/05/2024      |
 
 <center> 
 
