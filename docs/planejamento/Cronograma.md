@@ -179,6 +179,7 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 | Características gerais do SIGAA               | 12/05/2024 | 12/05/2024 | Larissa Stéfane                            | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
 | Metas de usabilidade                          | 12/05/2024 | 13/05/2024 | Luana e Pedro                              | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
 | Gravar apresentação                           | 13/05/2024 | 13/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno Alexandre                            | 13/05/2024 - 13/05/2024 |
+| Correção pós apresentação                     | 20/05/2024 | 22/05/2024 | Breno, Bruno, Larissa e Pedro              | Breno, Bruno, Larissa e Pedro              | 20/05/2024 - 22/05/2024 |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
@@ -371,3 +372,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.8    | Preechimento do executado para a entrega 2                                                                  | Breno Alexandre       | -               | 10/05/2024 |
 | 1.9    | Preechimento do executado para a entrega 3                                                                  | Breno Alexandre       | -               | 13/05/2024 |
 | 2.0    | Correção da padronização dos nomes da entrega 1                                                             | Breno Alexandre       | -               | 16/05/2024 |
+| 2.1    | Adição da "Correção pós apresentação" no cronograma executado da 3                                          | Breno Alexandre       | -               | 20/05/2024 |
