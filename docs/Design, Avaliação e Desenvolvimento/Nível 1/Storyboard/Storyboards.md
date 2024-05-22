@@ -20,7 +20,7 @@ O presente documento tem o objetivo de documentar os storyboards feitos a partir
 ## Bibliografia
 
 ## Referências Bibliográficas
-<a id="REF1" href="#anchor_1">1.</a>
+<a id="REF1" href="#anchor_1">1.</a> Leonardo Campos. Entenda melhor | Storyboards: A arte do planejamento Narrativo . Disponível em https://www.planocritico.com/entenda-melhor-storyboards-a-arte-do-planejamento-narrativo/. Acesso em 21 de maio de 2024.
 ## Histórico de Versão
 
 | Versão | Alteração                                | Responsável     | Revisor         | Data       |
