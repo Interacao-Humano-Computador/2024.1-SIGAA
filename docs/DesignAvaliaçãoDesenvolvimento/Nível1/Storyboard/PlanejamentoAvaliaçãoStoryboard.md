@@ -43,14 +43,16 @@ O objetivo principal da avaliação é identificar e solucionar problemas de usa
 
 ## E - Explorar perguntas a serem respondidas
 Para garantir uma avaliação completa e detalhada, exploraremos as principais perguntas que precisam ser respondidas durante o processo de análise de tarefas. Essas perguntas serão fundamentais para entender a eficácia das tarefas, identificar áreas de melhoria e garantir que as necessidades dos usuários sejam atendidas. As perguntas a serem exploradas incluem:
- - Quais são as principais dificuldades que os usuários enfrentam ao executar as tarefas propostas?
- - As tarefas são intuitivas e fáceis de entender?
- - Quanto tempo os usuários levam para completar cada tarefa?
- - Existem etapas desnecessárias ou confusas no fluxo das tarefas?
- - Como os usuários reagem emocionalmente ao executar as tarefas?
- - Os objetivos dos usuários são alcançados de maneira eficiente?
- - Quais sugestões os usuários oferecem para melhorar as tarefas?
- - Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas?
+
+1. **O que você achou do storyboard apresentado? Houve algum elemento que se destacou positivamente ou negativamente?**
+
+2. **O storyboard foi claro e fácil de entender? Quais partes, se houver, foram confusas ou difíceis de seguir?**
+
+3. **Você acha que o storyboard reflete bem as necessidades e as expectativas dos usuários? Por quê?**
+
+4. **Você acha que a solução apresentada no storyboard é relevante e eficaz para o problema mostrado? Por quê?**
+
+5. **De que maneira você acha que a solução apresentada no storyboard poderia impactar a vida dos usuários?** 
    
 Explorar essas perguntas nos permitirá obter uma visão abrangente sobre a usabilidade e eficácia das tarefas analisadas, facilitando a identificação de problemas e a proposição de melhorias.
 
