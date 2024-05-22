@@ -61,6 +61,6 @@ PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Int
 
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0    | Adição da introdução, objetivo e metodologia | Luana Medeiros | -           | 22/05/2024 |
+| 1.0    | Adição da introdução, objetivo e metodologia | Luana Medeiros | Pedro Izarias           | 22/05/2024 |
 
 
