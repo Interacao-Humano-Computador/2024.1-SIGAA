@@ -31,7 +31,6 @@ Conforme mencionado anteriormente, utilizaremos o framework DECIDE para executar
 
 ## E - Explorar perguntas a serem respondidas
 
-E - Analisar Respostas através da Avaliação
 Para alcançar os objetivos da avaliação, foram elaboradas perguntas com foco nos seguintes tópicos: - verificar a conformidade com um padrão; - comparar ideias e alternativas de design. As perguntas selecionadas para serem respondidas durante esta avaliação foram formuladas com base no Capítulo 11 da obra de Barbosa e Silva (2011, p. 266). As perguntas são as seguintes:
 
 - Os diagramas HTA possuem as notações corretas, legendas apropriadas e estão representados em formato de tabela?
