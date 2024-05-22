@@ -1,5 +1,12 @@
 # Planejamento da Avaliação da Análise de Tarefas
 
+## Sumário
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [D - Determinar os objetivos](#D--Determinar-os-objetivos)
+
+
+
 ## Introdução
 
 A avaliação da análise de tarefas é uma etapa importante no desenvolvimento do projeto, pois nos ajuda a validar se as análises feitas anteriormente estão de acordo com o que de fato ocorre dentro do sistema e, portanto, a corrigir eventuais erros cometidos durante a elaboração das análises.
