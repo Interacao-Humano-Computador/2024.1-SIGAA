@@ -26,6 +26,7 @@ A metodologia utilizada para a confecção dos storyboards foi manual, feita em 
 ## Conclusão
 
 ## Bibliografia
+PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Interação Humano-Computador. 3ª ed. Porto Alegre: Bookman, 2013. Disponível em: https://aprender3.unb.br/pluginfile.php/2843756/mod_resource/content/2/Design%20de%20interac%CC%A7a%CC%83o%20%20-%20StoryBoard.pdf. Acesso em: 21/05/2024.
 
 ## Referências Bibliográficas
 <a id="REF1" href="#anchor_1">1.</a> Leonardo Campos. Entenda melhor | Storyboards: A arte do planejamento Narrativo . Disponível em https://www.planocritico.com/entenda-melhor-storyboards-a-arte-do-planejamento-narrativo/. Acesso em 21 de maio de 2024.
