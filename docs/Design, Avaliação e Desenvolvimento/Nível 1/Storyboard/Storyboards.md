@@ -2,6 +2,7 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
+* [Desenvolvimento](#Desenvolvimento)
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
@@ -22,6 +23,8 @@ A metodologia utilizada para a confecção dos storyboards foi manual, feita em 
 - o que as pessoas precisam fazer para completar a tarefa,
 - o que motivou a usar o sistema.
 - o resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard.
+
+## Desenvolvimento
 
 ## Conclusão
 Neste trabalho, exploramos o papel fundamental dos storyboards no processo de design de interfaces, com foco específico em sua aplicação no contexto do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA). Ao criar storyboards para o SIGAA, poderemos visualizar e comunicar efetivamente as interações dos usuários com o sistema, identificando áreas de melhoria e refinando a experiência do usuário. Embora os storyboards tenham se mostrado uma ferramenta poderosa para o design de interfaces no contexto do SIGAA, é importante reconhecer que eles são apenas uma parte de um processo mais amplo de design centrado no usuário.
