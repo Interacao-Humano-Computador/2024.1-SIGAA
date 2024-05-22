@@ -198,6 +198,7 @@ O ideal para que tudo ocorra como o planejado é que todas as entrevistas e aval
 ## D - Decidir como lidar com as questões éticas
 
 Ao lidar com questões éticas em avaliações, é essencial garantir que todos os participantes sejam tratados com respeito e que sua integridade seja preservada. Isso envolve obter consentimento informado, assegurar confidencialidade e evitar qualquer potencial dano aos participantes. Além disso, é importante que os avaliadores estejam atentos às questões práticas da avaliação, como o recrutamento adequado dos participantes e a preparação do ambiente de teste, seguindo diretrizes éticas para garantir feedbacks relevantes e uma abordagem ética e responsável.
+
 Para metodologias que envolvam terceiros, como entrevistas com usuários, é fundamental que os participantes estejam cientes dos aspectos éticos envolvidos e assinem um termo de consentimento. Também é crucial garantir o respeito aos participantes e evitar qualquer prejuízo direto ou indireto, tanto durante os experimentos quanto após a divulgação dos resultados da avaliação. Ao seguir esses princípios éticos, os avaliadores podem conduzir avaliações de forma ética, protegendo os participantes e contribuindo para a melhoria dos projetos avaliados.
 
 ## E -  Avaliar, interpretar e apresentar os dados
