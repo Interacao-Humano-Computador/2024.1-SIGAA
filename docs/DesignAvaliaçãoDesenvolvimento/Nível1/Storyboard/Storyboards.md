@@ -36,11 +36,11 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 | - | - | - | - |
 | Breno Alexandre | Aba de RU | 09/05/2024 | 15/05/2024 |
 | Breno Alexandre | Cadastro Único | 09/05/2024 | - |
-| Bruno Cunha | Solicitação de Bolsa e Declaração de Bolsistas  | 09/05/2024 | 15/05/2024 |
+| Bruno Araújo | Solicitação de Bolsa e Declaração de Bolsistas  | 09/05/2024 | 15/05/2024 |
 | Iago Passaglia| Aba de Estágio | 09/05/2024 | 15/05/2024 |
 | Larissa Stéfane | Aba de Monitoria | 09/05/2024 | 15/05/2024 |
 | Larissa Stéfane | Aluguel de Sala | 09/05/2024 | 15/05/2024 |
-| Luana Lima | Histórico | 09/05/2024 | - |
+| Luana Lima | Grade Sugerida | 09/05/2024 | - |
 | Pedro Augusto | Realizar e Trancar Matrícula | 09/05/2024 | 15/05/2024 |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
