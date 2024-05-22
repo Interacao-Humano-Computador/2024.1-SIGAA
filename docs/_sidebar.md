@@ -163,3 +163,4 @@
       - [Storyboards](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md)
       - [Planejamento da Avaliação do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md)
       - [Planejamento do Relato dos Resultados do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoRelatoResultadosStoryboard.md)
+    - [Planejamento das Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível1/planejamentoEntrevistas.md)
