@@ -51,6 +51,8 @@ a investigação e o julgamento de valor a serem realizados, garantindo que a av
 
 A Tabela 2 apresenta um conjunto de perguntas formuladas para serem utilizadas durante as entrevistas. Essas perguntas foram elaboradas com base nas sugestões encontradas no livro de Simone Barbosa e Bruno Diniz, e são fundamentais para avaliar o entendimento dos participantes sobre os fluxos de tarefas apresentados na Tabela 1.
 
+
+**Tabela 2**: Perguntas formuladas para a entrevista.
 | Ordem das Perguntas | Pergunta | Tipo de Pergunta |
 |---------------------|----------|------------------|
 | 1° | Qual seu nome completo? | Objetiva |
