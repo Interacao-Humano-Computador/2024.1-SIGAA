@@ -42,6 +42,17 @@ O objetivo principal da avaliação é identificar e solucionar problemas de usa
 
 
 ## E - Explorar perguntas a serem respondidas
+Para garantir uma avaliação completa e detalhada, exploraremos as principais perguntas que precisam ser respondidas durante o processo de análise de tarefas. Essas perguntas serão fundamentais para entender a eficácia das tarefas, identificar áreas de melhoria e garantir que as necessidades dos usuários sejam atendidas. As perguntas a serem exploradas incluem:
+ - Quais são as principais dificuldades que os usuários enfrentam ao executar as tarefas propostas?
+ - As tarefas são intuitivas e fáceis de entender?
+ - Quanto tempo os usuários levam para completar cada tarefa?
+ - Existem etapas desnecessárias ou confusas no fluxo das tarefas?
+ - Como os usuários reagem emocionalmente ao executar as tarefas?
+ - Os objetivos dos usuários são alcançados de maneira eficiente?
+ - Quais sugestões os usuários oferecem para melhorar as tarefas?
+ - Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas?
+   
+Explorar essas perguntas nos permitirá obter uma visão abrangente sobre a usabilidade e eficácia das tarefas analisadas, facilitando a identificação de problemas e a proposição de melhorias.
 
 ## C - Escolher os Métodos de Avaliação
 
@@ -92,7 +103,7 @@ As considerações práticas na avaliação de Interação Humano-Computador (IH
 
   - **Preparação:** Como foi avisado, o integrante do grupo responsável pela entrevista deve garantir que o dispositivo esteja carregado e com acesso fácil à análise de tarefas.
 
-  - **Formato original:** Como mencionado anteriormente, os storyboards foram feitos à mão e poderão ser apresentados ao entrevistado em seu formato original.
+- **Formato original:** Como mencionado anteriormente, os storyboards foram feitos à mão e poderão ser apresentados ao entrevistado em seu formato original.
 
   - **Preparação:** Os desenhos devem estar bem visível e prontos para uso.
 
@@ -124,26 +135,27 @@ As considerações práticas na avaliação de Interação Humano-Computador (IH
 
 - **Opções de locais:**
 
-- **Salas de Aula vazias:** Inicialmente, o ideal é realizar a reunião em uma sala de aula vazia. Desse modo, para verificar as salas de aula que estariam livres no horário de almoço, foram analisados os horários e salas das disciplinas de acordo com a [página pública de turma do SIGAA](https://sigaa.unb.br/sigaa/public/turmas/listar.jsf) . Abaixo, na tabela 1, há algumas salas que possuem maior probabilidade de estarem livres no horário de almoço.
+  - **Salas de Aula vazias:** Inicialmente, o ideal é realizar a reunião em uma sala de aula vazia. Desse modo, para verificar as salas de aula que estariam livres no horário de almoço, foram analisados os horários e salas das disciplinas de acordo com a [página pública de turma do SIGAA](https://sigaa.unb.br/sigaa/public/turmas/listar.jsf) . Abaixo, na tabela 1, há algumas salas que possuem maior probabilidade de estarem livres no horário de almoço.
 
 
-<details>
+  <details>
 
-<summary size="20"><b> Tabela 1: Horário das salas disponíveis </b></summary>
+  <summary size="20"><b> Tabela 1: Horário das salas disponíveis </b></summary>
 
-**Tabela 1:** Horário das salas disponíveis
+  **Tabela 1:** Horário das salas disponíveis
 
-| Horário | Dia da semana | Salas com alta probabilidade de estarem disponíveis |
-| - | - | - |
-| 12h – 14h | segunda-feira | S1, S2 e S9 |
-| 12h – 14h | terça-feira | I4, I5, I8, S1, S3 e S8 |
-| 12h – 14h | quarta-feira | I3, I4 e S1 |
-| 12h – 14h | quinta-feira | I4,I5, I8, S1, S3 e S8 |
-| 12h – 14h | sexta-feira | I3, I4 e S1 |
+  | Horário | Dia da semana | Salas com alta probabilidade de estarem disponíveis |
+  | - | - | - |
+  | 12h – 14h | segunda-feira | S1, S2 e S9 |
+  | 12h – 14h | terça-feira | I4, I5, I8, S1, S3 e S8 |
+  | 12h – 14h | quarta-feira | I3, I4 e S1 |
+  | 12h – 14h | quinta-feira | I4,I5, I8, S1, S3 e S8 |
+  | 12h – 14h | sexta-feira | I3, I4 e S1 |
 
-**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+  **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-</details>
+  </details>
+
 
   - **Mesas Redondas do Prédio UED:** Caso não haja salas disponíveis.
 
@@ -151,7 +163,7 @@ As considerações práticas na avaliação de Interação Humano-Computador (IH
 
   - **Outras opções:** Caso o integrante do grupo e o usuário achem melhor, a reunião acontecerá em outro lugar, por exemplo, na casa de alguns dos envolvidos.
 
-  - **Condições do Ambiente:**
+- **Condições do Ambiente:**
 
   - **Recursos:** O local precisa ter uma mesa e, pelo menos, duas cadeiras ou bancos.
 
@@ -205,4 +217,5 @@ PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Int
 | 1.1    | Adição de Determinar Objetivos |  Pedro Izarias |  Bruno Araújo           | 22/05/2024 |
 | 1.2    | Adição de Determinar questões éticas |  Bruno Araújo |  Iago Passaglia        | 22/05/2024 |
 | 1.3    | Adição de Escolher os Métodos de Avaliação (Letra C) |  Larissa Stéfane | Iago Passaglia  | 22/05/2024 |
-| 1.4    | Adição de Identificar questoes práticas | Iago Passaglia | ----  | 22/05/2024 |
+| 1.4    | Adição de Identificar questoes práticas | Iago Passaglia | Luana Medeiros  | 22/05/2024 |
+| 1.5    | Adição de Explorar perguntas a serem respondidas | Luana Medeiros | ----  | 22/05/2024 |
