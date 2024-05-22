@@ -157,9 +157,9 @@
 * Design, Avaliação e Desenvolvimento
   * Nível 1
     * Análise de Tarefas
-      - [Planejamento da Avaliação da Análise de Tarefas](Design,-Avaliação-e-Desenvolvimento/Nível-1/Análise-de-Tarefas/Planejamento-da-Avaliação-da-Análise-de-Tarefas.md)
-      - [Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](Design,-Avaliação-e-Desenvolvimento/Nível-1/Análise-de-Tarefas/Planejamento-do-Relato-dos-Resultados-da-Avaliação-da-Análise-de-Tarefas.md)
+      - [Planejamento da Avaliação da Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md)
+      - [Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoRelatoResultadosAvaliaçãoAnáliseTarefas.md)
     * Storyboard
-      - [Storyboards](Design,AvaliaçãoeDesenvolvimento/Nível1/Storyboard/Storyboards.md)
-      - [Planejamento da Avaliação do Storyboard](Design,-Avaliação-e-Desenvolvimento/Nível-1/Storyboard/Planejamento-da-Avaliação-do-Storyboard.md)
-      - [Planejamento do Relato dos Resultados do Storyboard](Design,-Avaliação-e-Desenvolvimento/Nível-1/Storyboard/Planejamento-do-Relato-dos-Resultados-do-Storyboard.md)
+      - [Storyboards](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md)
+      - [Planejamento da Avaliação do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md)
+      - [Planejamento do Relato dos Resultados do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoRelatoResultadosStoryboard.md)
