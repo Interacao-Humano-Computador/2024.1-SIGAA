@@ -1,4 +1,4 @@
-# Planejamento do Relato de Resultados da Avaliação dos Artefatos
+# Planejamento do Relato da análise de Tarefas
 
 ## Sumário
 - [Introdução](#introdução)
