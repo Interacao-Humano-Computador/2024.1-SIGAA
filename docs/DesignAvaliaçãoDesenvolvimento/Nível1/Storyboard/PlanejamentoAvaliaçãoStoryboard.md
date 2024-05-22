@@ -45,6 +45,18 @@ O objetivo principal da avaliação é identificar e solucionar problemas de usa
 
 ## C - Escolher os Métodos de Avaliação
 
+Na etapa de escolha dos métodos de avaliação, conforme definido pelo formato DECIDE pelo livro de “Interação Humano Computador”¹, de Barbosa e Silva no capítulo 11 e página, deve-se fazer uma seleção criteriosa considerando diversos aspectos, os quais inclui a adequação do processo para responder às perguntas específicas e alcançar os objetivos estabelecidos neste framework. Além disso, é importante levar em conta o prazo disponível e o nível de conhecimento e experiência dos integrantes do grupo para executá-lo. Assim como também é essencial considerar o contexto em que a avaliação será realizada.
+
+Desse modo, para a execução da avaliação, foram selecionados os métodos de **investigação** e **observação**, de forma adaptada. Assim, o método de **investigação** envolverá a aplicação de questionários durante a reunião, incluindo a pré-avaliação, avaliação e pós-avaliação. Esses questionários pretendem coletar informações sobre a opinião e a compreensão do usuário em relação ao storyboard, além de ajudar o participante a desenvolver ideias e questionamentos sobre o conteúdo apresentado.
+
+O método de **Observação**, que consiste em fornecer dados sobre situações em que os usuários realizam suas atividades, com ou sem apoio de sistemas interativos, será adaptado com o intuito de colher dados sobre como os usuários realizariam as suas atividades se fossem os protagonistas do Storyboard. Para isso, será pedido que o usuário compare as situações que já vivenciou com as apresentadas nos quadros.
+
+Adicionalmente, se o participante se sentir confortável, será utilizada a **técnica Think Aloud (pensar em voz alta)**. Nessa técnica, o usuário expressará as suas reflexões sobre o storyboard enquanto o lê, permitindo que o integrante do grupo anote as observações e ideias para uma análise posterior dos resultados.
+
+### Execução
+
+Durante a reunião de avaliação, os métodos serão aplicados de forma paralela, com a condução dos questionários, a observação atenta do comportamento do usuário e, se aplicável, a utilização da técnica Think Aloud. Com isso, todos os dados coletados serão registrados e posteriormente analisados.
+
 ## I - Identificar e administrar as questões práticas da avaliação.
 
 As considerações práticas na avaliação de Interação Humano-Computador (IHC) abrangem aspectos operacionais cruciais para garantir a eficácia da avaliação do storyboard. Seguindo as diretrizes do livro "Interação Humano-Computador" de Simone Barbosa e outros autores, essas questões incluem a seleção dos usuários que participarão da avaliação, a garantia da preparação e utilização adequada dos equipamentos necessários, o gerenciamento eficaz dos prazos e recursos financeiros disponíveis, e a alocação apropriada da equipe necessária para conduzir a avaliação.
