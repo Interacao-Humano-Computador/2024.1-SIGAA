@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A avaliação da análise de tarefas é uma etapa importante no desenvolvimento do projeto pois nos ajuda a validar se as análises feitas anteriormente estão de acordo com o que de fato ocorre dentro do sistema e, portanto, a corrigir eventuais erros cometidos durante a elaboração das análises.
+A avaliação da análise de tarefas é uma etapa importante no desenvolvimento do projeto, pois nos ajuda a validar se as análises feitas anteriormente estão de acordo com o que de fato ocorre dentro do sistema e, portanto, a corrigir eventuais erros cometidos durante a elaboração das análises.
 Sendo assim, o artefato a seguir determina um planejamento para que a avaliação ocorra de forma mais fluida e condizente com o framework DECIDE, que será aplicado durante as entrevistas com os usuários do SIGAA.
 
 ## Metodologia
@@ -41,5 +41,5 @@ A escolha se dá pelo fato de ser um método que permite a identificação de pr
 
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0    | Criação do documento, introdução e <br> definição dos métodos de avaliação      | Iago Passaglia | ---------------------- | 21/05/2024 |
+| 1.0    | Criação do documento, introdução e <br> definição dos métodos de avaliação      | Iago Passaglia | Larissa Stéfane | 21/05/2024 |
 
