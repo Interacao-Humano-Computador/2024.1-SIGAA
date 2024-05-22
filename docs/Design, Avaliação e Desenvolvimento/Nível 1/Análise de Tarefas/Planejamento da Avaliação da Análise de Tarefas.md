@@ -56,5 +56,5 @@ Ao decidir como lidar com as questões éticas neste projeto, buscamos garantir 
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação do documento, introdução e <br> definição dos métodos de avaliação      | Iago Passaglia | Larissa Stéfane | 21/05/2024 |
-| 1.1    | Adição de decidir como lidar com as questões éticas  | Luana Medeiros | - | 22/05/2024 |
+| 1.1    | Adição de decidir como lidar com as questões éticas  | Luana Medeiros | Larissa Stéfane | 22/05/2024 |
 
