@@ -346,7 +346,7 @@ O objetivo do teste piloto é avaliar o planejamento da avaliação dos storyboa
 
 4. Imprimir os questionários (pré, pós e avaliação).
 
-5. Imprimir o termo de consentimento.
+5. Imprimir o termo de [consentimento](ignore/termoConsentimento.md).
 
 6. Separar folha de papel e lápis para as anotações de observações.
 
