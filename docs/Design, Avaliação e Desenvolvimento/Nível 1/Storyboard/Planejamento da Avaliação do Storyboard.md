@@ -7,6 +7,7 @@
 * [Objetivo](#Objetivo)
 * [Metodologia](#Metodologia)
 * [Conclusão](#Conclusão)
+* [Bibliografia](#Bibliografia)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -24,6 +25,9 @@ O objetivo deste documento é estabelecer diretrizes claras e práticas para a e
 O método de avaliação escolhido para avaliar o storyboard é o de investigação através da técnica de entrevista. O método de investigação através de entrevistas é eficaz para avaliar storyboards, pois permite obter insights detalhados sobre as percepções e comportamentos dos usuários e da equipe de produção. Conduzidas com diretores, roteiristas, designers e, às vezes, representantes do público-alvo, as entrevistas proporcionam feedback qualitativo, exploram alternativas de design, identificam problemas e compreendem o uso de tecnologias. O processo envolve preparação, condução das entrevistas, análise dos dados e implementação de melhorias. Este método assegura uma compreensão profunda da eficácia do storyboard, permitindo ajustes precisos e melhorias na narrativa visual e no processo de produção.
 
 ## Conclusão
+
+## Bibliografia
+PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Interação Humano-Computador. 3ª ed. Porto Alegre: Bookman, 2013. Disponível em: https://aprender3.unb.br/pluginfile.php/2843756/mod_resource/content/2/Design%20de%20interac%CC%A7a%CC%83o%20%20-%20StoryBoard.pdf. Acesso em: 21/05/2024.
 
 ## Referências Bibliográficas
 <a id="REF1" href="#anchor_1">1.</a> Leonardo Campos. Entenda melhor | Storyboards: A arte do planejamento Narrativo . Disponível em https://www.planocritico.com/entenda-melhor-storyboards-a-arte-do-planejamento-narrativo/. Acesso em 21 de maio de 2024.
