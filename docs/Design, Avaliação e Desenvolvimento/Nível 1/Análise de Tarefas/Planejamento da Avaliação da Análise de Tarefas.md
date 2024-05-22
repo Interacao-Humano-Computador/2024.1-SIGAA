@@ -50,6 +50,8 @@ Ao decidir como lidar com as questões éticas neste projeto, buscamos garantir 
 
 
 ## E -  Avaliar, interpretar e apresentar os dados
+Nessa etapa, será feita uma análise minuciosa dos dados obtidos, a fim de ratificar a confiabilidade dos dados obtidos e suprimir erros que possam surgir de dados outliers (valores atípicos), a fim de obter uma generalização que represente fielmente o contingente de usuários do sistema.
+Sendo assim, deve-se registrar o feedback dos usuários durante a entrevista, suas dificuldades quanto a usabilidade do sistema, problemas de conexão, funcionalidades faltando e quaisquer sugestões de melhoria ou críticas ao sistema. Por fim, os dados já interpretados serão levados a equipe para que essas informações possam promover o desenvolvimento do projeto.
 
 ## Histórico de Versão
 
