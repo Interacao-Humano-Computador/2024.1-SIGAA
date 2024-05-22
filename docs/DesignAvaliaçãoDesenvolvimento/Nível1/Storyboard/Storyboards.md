@@ -40,7 +40,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 | Iago Passaglia| Aba de Estágio | 09/05/2024 | 15/05/2024 |
 | Larissa Stéfane | Aba de Monitoria | 09/05/2024 | 15/05/2024 |
 | Larissa Stéfane | Aluguel de Sala | 09/05/2024 | 15/05/2024 |
-| Luana Lima | Grade Sugerida | 09/05/2024 | - |
+| Luana Medeiros | Grade Sugerida | 09/05/2024 | - |
 | Pedro Augusto | Realizar e Trancar Matrícula | 09/05/2024 | 15/05/2024 |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
