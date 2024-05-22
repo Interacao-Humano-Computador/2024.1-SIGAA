@@ -36,6 +36,7 @@ A metodologia escolhida para realizar a avaliação do storyboard será o framew
 **Fonte** - BARBOSA e SILVA (2011).
 
 </center>
+
 ## D -  Determinar os objetivos
 
 ## E - Explorar perguntas a serem respondidas
