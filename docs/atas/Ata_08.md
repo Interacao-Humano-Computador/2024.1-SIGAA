@@ -123,5 +123,5 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0    | Criação  Ata da Reunião           | Breno Alexandre | -                     | 17/05/2024 |
-| 1.1    | Correção das issues pra entrega 4 | Breno Alexandre | -                     | 21/05/2024 |
+| 1.0    | Criação  Ata da Reunião           | Breno Alexandre | Bruno Araújo                     | 17/05/2024 |
+| 1.1    | Correção das issues pra entrega 4 | Breno Alexandre | Bruno Araújo| 21/05/2024 |
