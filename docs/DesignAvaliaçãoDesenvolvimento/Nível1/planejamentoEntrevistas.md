@@ -30,14 +30,14 @@ Para que todas as funcionalidades tenham o seu storyboard e a sua análise de ta
 
 ## Questões Práticas
 
-Conforme foi definido nas questões práticas do [[framework DECIDE do storyboard]() e do [framework DECIDE da análise de tarefas](), os participantes fazem parte do ambiente da FGA e a comunicação com eles ocorrerá por meio de whatzapp ou telegram. Assim, o local das entrevistas será também o ambiente da faculdade, com preferência em salas vazias ou em outras regiões do campus que atendam  aos critérios de localização.
+Conforme foi definido nas questões práticas do [[framework DECIDE do storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) e do [framework DECIDE da análise de tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md), os participantes fazem parte do ambiente da FGA e a comunicação com eles ocorrerá por meio de whatzapp ou telegram. Assim, o local das entrevistas será também o ambiente da faculdade, com preferência em salas vazias ou em outras regiões do campus que atendam  aos critérios de localização.
 
 Para a realização, o integrante do grupo, com antecedência, deverá preparar e garantir que todas as questões práticas sejam atendidas, além de procurar ter um plano reserva para que a avaliação ocorra da forma como foi planejada.
 
 
 ##  Questões Éticas
 
-No âmbito das questões éticas, antes de qualquer interação em relação à avaliação com os participantes, será solicitado que eles assinem um [Termo de Consentimento Livre e Esclarecido (TCLE)], garantindo, assim, a sua compreensão dos objetivos do estudo, seus direitos como participantes e a confidencialidade dos dados coletados. Além disso, em conformidade com os princípios éticos, nenhum participante será prejudicado direta ou indiretamente durante ou após a avaliação e terá a privacidade e a confidencialidade dos seus dados protegidas. Por isso, os vídeos serão disponibilizados em modo não listado no youtube.  O integrante que tiver conduzindo a reunião também deverá tratar o usuário sempre com respeito e com o máximo gentileza possível.
+No âmbito das questões éticas, antes de qualquer interação em relação à avaliação com os participantes, será solicitado que eles assinem um [Termo de Consentimento Livre e Esclarecido (TCLE)], garantindo, assim, a sua compreensão dos objetivos do estudo, seus direitos como participantes e a confidencialidade dos dados coletados. Além disso, conforme os princípios éticos, nenhum participante será prejudicado direta ou indiretamente durante, ou após a avaliação e terá a privacidade e a confidencialidade dos seus dados protegidas. Por isso, os vídeos serão disponibilizados em modo não listado no YouTube.  O integrante que estiver conduzindo a reunião também deverá tratar o usuário sempre com respeito e com o máximo de gentileza possível.
 
 ## Roteiro de Execução
 
@@ -55,8 +55,8 @@ Abaixo se encontrar o roteiro que o integrante do grupo deve seguir durante a en
 3. **Receber o participante:** Encontrar-se com o usuário no local na hora marcada.
 
 3. **Introduzir e explicar (5 a 10 minutos):**
-   - Apresentar-se e explicar o objetivo da entrevista.
-   - Solicitar a assinatura do Termo de Consentimento Livre e Esclarecido (TCLE).
+  - Apresentar-se e explicar o objetivo da entrevista.
+  - Solicitar a assinatura do Termo de Consentimento Livre e Esclarecido (TCLE).
   - Fornecer visão geral da sessão.
 
 (início da gravação)
@@ -66,14 +66,14 @@ Abaixo se encontrar o roteiro que o integrante do grupo deve seguir durante a en
 5. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
 
 6. **Apresentar o storyboard (até 10 minutos):**
-   - Explicar os elementos e apresentar a análise textual.
-   - Mostrar o storyboard em material impresso.
-   - Se o usuário se sentir a vontade, solicitar que ele pense em voz alta (think aloud) enquanto lê o storyboard.
-   - Anotar a primeira opinião que o usuário tem sobre o contexto do storyboard.
+  - Explicar os elementos e apresentar a análise textual.
+  - Mostrar o storyboard em material impresso.
+  - Se o usuário se sentir a vontade, solicitar que ele pense em voz alta (think aloud) enquanto lê o storyboard.
+  - Anotar a primeira opinião que o usuário tem sobre o contexto do storyboard.
 
 7. **Avaliação do storyboard (Até 10 minutos):**
-   - Realizar o questionário de avaliação.
-   -  Anotar a opinião sobre o storyboard após o questionário.
+  - Realizar o questionário de avaliação.
+  -  Anotar a opinião sobre o storyboard após o questionário.
 
 8. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
 
@@ -106,7 +106,7 @@ Abaixo, na imagem 1, há a foto de como é o roteiro impresso.
   <summary size="20"><b> Roteiro em formato de documento </b></summary> 
 
 <div align="center">
-    Imagem 1: Roteiro da avaliação do Storyboard e da análise de tarefas.
+    Imagem 1: Roteiro da avaliação do Storyboard e da análise de tarefas - parte 1
     <br>
     <img src="">
     <br>
@@ -114,6 +114,14 @@ Abaixo, na imagem 1, há a foto de como é o roteiro impresso.
     <br>
 </div>
 
+<div align="center">
+    Imagem 2: Roteiro da avaliação do Storyboard e da análise de tarefas - parte 2
+    <br>
+    <img src="">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
 
 </details>
 
@@ -134,19 +142,18 @@ Desse modo, abaixo, há o questionário de pré-avaliação
    - **Gênero:**
    - **Curso ou Área de Estudo/Trabalho:**
 
-2. **Experiência com Tecnologia**
-   - **Com que frequência você usa computadores ou dispositivos móveis?**
-     - ( ) Diariamente
-     - ( ) Semanalmente
-     - ( ) Raramente
+2. **Com que frequência você usa computadores ou dispositivos móveis?**
+   - ( ) Diariamente
+   - ( ) Semanalmente
+   - ( ) Raramente
 
 Anotação: 
 
-   3. **Qual o seu nível de familiaridade com o uso de software acadêmico em geral?**
-     - ( ) Alto
-     - ( ) Médio
-     - ( ) Baixo
-     - ( ) Nenhum
+3. **Qual o seu nível de familiaridade com o uso de software acadêmico em geral?**
+   - ( ) Alto
+   - ( ) Médio
+   - ( ) Baixo
+   - ( ) Nenhum
 
 Anotação: 
 
@@ -154,10 +161,10 @@ Anotação:
   
 
 5. **Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?**
-     - ( ) Sempre
-     - ( ) Frequentemente
-     - ( ) Ocasionalmente
-     - ( ) Nunca
+    - ( ) Sempre
+    - ( ) Frequentemente
+    - ( ) Ocasionalmente
+    - ( ) Nunca
 
 5. **Qual é o principal objetivo ao usar sistemas acadêmicos como o que vamos avaliar?**
      - Resposta: ___________________________________
@@ -165,15 +172,24 @@ Anotação:
 
 </details>
 
-Abaixo, na imagem 2, há a foto de como é o questionário pré-avaliação.
+Abaixo, as imagens 3 e 4 , há a foto de como é o questionário pré-avaliação.
 
 <details>
   <summary size="20"><b> Questionário pré-avaliação </b></summary> 
 
 <div align="center">
-    Imagem 2:  Questionário pré-avaliação.
+    Imagem 3:  Questionário pré-avaliação - parte 1
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Question%C3%A1rios/ilovepdf_pages-to-jpg%20(3)/perguntas_pre-avaliacaoStoryboardTarefas/perguntas_pre-avaliacaoStoryboardTarefas_page-0001.jpg">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+<div align="center">
+    Imagem 4:  Questionário pré-avaliação - parte 2
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Question%C3%A1rios/ilovepdf_pages-to-jpg%20(3)/perguntas_pre-avaliacaoStoryboardTarefas/perguntas_pre-avaliacaoStoryboardTarefas_page-0002.jpg">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -236,15 +252,24 @@ Nesta etapa, serão realizadas perguntas com base na temática do artefato avali
 
 </details>
 
-Abaixo, na imagem 3, há a foto de como é o questionário de avaliação com as perguntas que serão realiadas no processo.
+Abaixo, as imagens 5 4 6, há a foto de como é o questionário de avaliação com as perguntas que serão realiadas no processo.
 
 <details>
   <summary size="20"><b> Questionário Avaliação </b></summary> 
 
 <div align="center">
-    Imagem 3:  Questionário Avaliação.
+    Imagem 5:  Questionário Avaliação parte 1
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Question%C3%A1rios/ilovepdf_pages-to-jpg%20(3)/perguntas_AvaliacaoStoryboardTarefas/perguntas_AvaliacaoStoryboardTarefas_page-0001.jpg">
+    <br>
+     Fonte: Larissa Stéfane
+    <br>
+</div>
+
+<div align="center">
+    Imagem 6:  Questionário Avaliação parte 2
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Question%C3%A1rios/ilovepdf_pages-to-jpg%20(3)/perguntas_AvaliacaoStoryboardTarefas/perguntas_AvaliacaoStoryboardTarefas_page-0002.jpg">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -275,15 +300,15 @@ Desse modo, abaixo, há o questionário de pós-avaliação
 </details>
 
 
-Abaixo, na imagem 4, há a foto de como é o questionário de pós-avaliação com as perguntas que serão realiadas no processo.
+Abaixo, na imagem 7, há a foto de como é o questionário de pós-avaliação com as perguntas que serão realiadas no processo.
 
 <details>
   <summary size="20"><b> Questionário pós-avaliação </b></summary> 
 
 <div align="center">
-    Imagem 4:  Questionário pós-avaliação.
+    Imagem 7:  Questionário pós-avaliação.
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Question%C3%A1rios/ilovepdf_pages-to-jpg%20(3)/perguntas_po_avaliacaoStoryboard/perguntas_po_avaliacaoStoryboard_page-0001.jpg">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -315,7 +340,7 @@ O objetivo do teste piloto é avaliar o planejamento da avaliação dos storyboa
 
 ### Preparação do Teste Piloto
 
-1. Selecionar os dispositivos eletrônicos necessários, incluindo os que serão utilizados para gravar e para mostrar os artefantos.
+1. Selecionar os dispositivos eletrônicos necessários, incluindo os que serão utilizados para gravar e para mostrar os artefatos.
 
 2. Verificar que os dispositivos eletrônicos (tablets ou computadores) estejam carregados e com o material necessário (storyboard e análise de tarefas) disponível em formato PDF.
 
