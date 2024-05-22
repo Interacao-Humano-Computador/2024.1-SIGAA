@@ -57,7 +57,7 @@ Nessa seção do documento, o entrevistador deve detalhadamente listar os proble
 
 | Problema Encontrado | Descrição | Prioridade |
 |---------------------|-----------|------------|
-| _a preencher_       | _a preencher_ | _a preencher_ |
+| -       | - | - |
 
 ### Sugestões de Melhoria
 
@@ -65,7 +65,7 @@ Nessa seção do documento, o entrevistador deve detalhadamente listar os proble
 
 | Problema Encontrado | Sugestão de Melhoria | Prioridade |
 |---------------------|----------------------|------------|
-| _a preencher_       | _a preencher_        | _a preencher_ |
+| -     | -        | - |
 
 ### Feedback dos Usuários
 
@@ -73,7 +73,7 @@ Nessa seção do documento, o entrevistador deve detalhadamente listar os proble
 
 | Usuário | Feedback                           | Data       |
 |---------|------------------------------------|------------|
-| _a preencher_ | _a preencher_                  | _a preencher_ |
+| - | -                  | - |
 
 ### Análise e Interpretação dos Resultados
 
@@ -85,7 +85,7 @@ Ao final do documento, é necessário que o entrevistador faça um resumo dos t�
 
 | Avaliação            | Descrição do Resultado                             |
 |----------------------|-----------------------------------------------------|
-|     ---        | _a preencher_                                       |
+|     ---        | -                                       |
 
 ### Planejamento de Reprojeto
 
@@ -93,7 +93,7 @@ Por fim, considerando que a atividade visa validar o artefato com o auxílio de 
 
 | Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data       |
 |--------------------------|-------------------|----------------|------------|
-| _a preencher_            | _a preencher_     | _a preencher_  | _a preencher_ |
+| -          | -     | -  | -_ |
 
 ## Bibliografia
 
