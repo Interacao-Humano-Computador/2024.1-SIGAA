@@ -219,5 +219,5 @@ PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Int
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Adição da introdução, objetivo e metodologia | Luana Medeiros | Pedro Izarias           | 22/05/2024 |
 | 1.1    | Adição de Determinar Objetivos |  Pedro Izarias |  Bruno Araújo           | 22/05/2024 |
-| 1.2    | Adição de Determinar questões éticas |  Bruno Araújo |  ---           | 22/05/2024 |
+| 1.2    | Adição de Determinar questões éticas |  Bruno Araújo |  Iago Passaglia        | 22/05/2024 |
 
