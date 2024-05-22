@@ -49,11 +49,26 @@ Conforme mencionado anteriormente, utilizaremos o framework DECIDE para executar
 Em uma avaliação, é essencial que o avaliador elabore perguntas específicas para cada objetivo definido. Essas perguntas são fundamentais para operacionalizar
 a investigação e o julgamento de valor a serem realizados, garantindo que a avaliação seja focada e produtiva. As perguntas devem considerar o  perfil dos usuários-alvo e suas atividades, e são responsáveis por direcionar o processo de avaliação de maneira estruturada, como alguns objetivos norteados pelo livro: analisar a apropriação da tecnologia, comparar ideias e alternativas de design, veriﬁcar a conformidade com um padrão (Barbosa e Silva, 2011, p. 266).
 
-As perguntas selecionadas para serem respondidas durante esta avaliação foram formuladas com base no Capítulo 11 da obra de Barbosa e Silva (2011, p. 266). As perguntas são as seguintes:
 
-- Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?
-- O quanto eles são motivados a explorar novas funcionalidades?
-- As entrevistas possibilitam melhorias nas tarefas identificadas pelo artefato de Análise de Tarefas?
+A Tabela 2 apresenta um conjunto de perguntas formuladas para serem utilizadas durante as entrevistas. Essas perguntas foram elaboradas com base nas sugestões encontradas no livro de Simone Barbosa e Bruno Diniz, e são fundamentais para avaliar o entendimento dos participantes sobre os fluxos de tarefas apresentados na Tabela 1.
+
+Tabela 2
+| Ordem das Perguntas | Pergunta | Tipo de Pergunta | Dificuldade da Pergunta |
+|---------------------|----------|------------------|-------------------------|
+| 1° | Qual seu nome completo? | Objetiva | Fácil |
+| 2° | Qual sua idade? | Objetiva | Fácil |
+| 3° | Qual sua ocupação? | Objetiva | Fácil |
+| 4° | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnológicos? | Objetiva | Média |
+| 5° | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? | Objetiva | Média |
+| 6° | Você já utilizou algum site bancário, incluindo sites governamentais? | Objetiva | Fácil |
+| 7° | Como você consultaria valores a receber, como heranças ou reembolsos de impostos? | Discursiva | Difícil |
+| 8° | A sequência de processos na tarefa de consulta de valores a receber é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva | Média |
+| 9° | Como você faria simulações sobre taxas de juros, aplicações ou financiamentos? | Discursiva | Difícil |
+| 10° | A sequência de processos na tarefa da calculadora do cidadão é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva | Média |
+| 11° | Como você se cadastraria em um curso de finanças online? | Discursiva | Difícil |
+| 12° | A sequência de processos na tarefa de cadastro em cursos de finanças online é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva | Média |
+
+Fonte
 
 ## C Escolher os Métodos de Avaliação
 Quanto aos métodos de avaliação, é fundamental uma escolha criteriosa, considerando diversos fatores. Nesse sentido, foram selecionados métodos adaptados de investigação e observação para a execução da avaliação. O método de investigação compreenderá a aplicação de questionários durante uma reunião, abrangendo fases de pré, durante e pós-avaliação. Esses questionários têm o propósito de obter insights sobre a opinião e compreensão do usuário em relação ao storyboard, além de estimular o participante a gerar ideias e questionamentos sobre o conteúdo apresentado.
