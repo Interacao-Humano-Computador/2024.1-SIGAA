@@ -40,10 +40,6 @@ Além disso, devem-se responder as seguintes perguntas para verificar se os obje
 
 O relato deve conter uma explicação detalhada da metodologia utilizada para a coleta dos dados. Essa explicação deve demonstrar os motivos que levaram à escolha do método de brainstorming, se está de acordo com o planejamento e como a avaliação ocorreu. Deve também descrever o ambiente de avaliação, incluindo ferramentas e equipamentos utilizados. O método escolhido foi o de brainstorming com observação e entrevista aos usuários, seguindo um cronograma planejado para as entrevistas. A Tabela 1 apresenta o cronograma planejado.
 
-O protótipo de papel deve ser disponibilizado da seguinte forma:
-
-[Clique aqui para conferir o protótipo de papel](https://marvelapp.com/prototype/9i40deb).
-
 <p style="text-align: center"><iframe width="560" height="315" src="https://marvelapp.com/prototype/9i40deb"></iframe></p>
 
 <center>
