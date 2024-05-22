@@ -53,7 +53,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 1:  Aba do RU – Storyboard
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/RU/WhatsApp%20Image%202024-05-21%20at%2021.58.54.jpeg">
     <br>
      Fonte:  Breno Alexandre
     <br>
@@ -62,7 +62,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 2:  Aba do RU – Análise Textual
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/RU/Screenshot%20from%202024-05-22%2002-56-11.png">
     <br>
      Fonte:  Breno Alexandre
     <br>
@@ -76,7 +76,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 3:    Solicitação de Bolsa e Declaração de Bolsistas
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Bolsas/Screenshot%20from%202024-05-22%2002-58-25.png">
     <br>
      Fonte:  Bruno Cunha
     <br>
@@ -90,9 +90,9 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 4:  Aba de Estágio 
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Est%C3%A1gio/Screenshot%20from%202024-05-22%2002-59-31.png">
     <br>
-     Fonte:   Iago Passaglia
+     Fonte: Iago Passaglia
     <br>
 </div>
 
@@ -104,7 +104,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 5:  Aba de Monitoria – Storyboard parte 1
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/AbaMonitoria/WhatsApp%20Image%202024-05-22%20at%2002.49.56.jpeg">
     <br>
      Fonte:  Larissa Stéfane
     <br>
@@ -113,7 +113,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 6:  Aba de Monitoria – Storyboard parte 2
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/AbaMonitoria/WhatsApp%20Image%202024-05-22%20at%2002.49.57%20(1).jpeg">
     <br>
      Fonte:  Larissa Stéfane
     <br>
@@ -122,7 +122,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 7:  Aba de Monitoria – Análise Textual parte 1
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/AbaMonitoria/WhatsApp%20Image%202024-05-22%20at%2002.49.57.jpeg">
     <br>
      Fonte:  Larissa Stéfane
     <br>
@@ -131,7 +131,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 8:  Aba de Monitoria – Análise Textual parte 2
     <br>
-    <img src="">
+    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Midia/storyboard/AbaMonitoria/WhatsApp%20Image%202024-05-22%20at%2002.49.57%20(1).jpeg">
     <br>
      Fonte:  Larissa Stéfane
     <br>
@@ -145,7 +145,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 9:  Aluguel de Sala – Storyboard 
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/AluguelSala/WhatsApp%20Image%202024-05-22%20at%2002.49.03.jpeg">
     <br>
      Fonte:  Larissa Stéfane
     <br>
@@ -154,7 +154,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 10: Aluguel de Sala – Análise Textual parte 1
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/AluguelSala/WhatsApp%20Image%202024-05-22%20at%2002.49.03%20(1).jpeg">
     <br>
      Fonte:  Larissa Stéfane
     <br>
@@ -163,7 +163,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 11:  Aba de Monitoria – Análise Textual parte 2
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/AluguelSala/WhatsApp%20Image%202024-05-22%20at%2002.49.04.jpeg">
     <br>
      Fonte:  Larissa Stéfane
     <br>
@@ -177,7 +177,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 1:  Matrículas – Storyboard
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Matricula/WhatsApp%20Image%202024-05-21%20at%2018.49.51%20(1).jpeg">
     <br>
      Fonte:  Pedro Augusto
     <br>
@@ -186,7 +186,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 2:  Matrículas – Análise Textual
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Matricula/WhatsApp%20Image%202024-05-21%20at%2018.49.51.jpeg">
     <br>
      Fonte:  Pedro Augusto
     <br>
@@ -208,4 +208,5 @@ PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Int
 | ------ | ---------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento                     | Pedro Izarias   | Luana Medeiros | 21/05/2024 |
 | 1.1    | Adição de introdução, metodologia e conclusão| Pedro Izarias   | Luana Medeiros | 21/05/2024 |
+| 1.2    | Adição de do desenvolvimento | Larissa Stéfane   | - | 22/05/2024 |
 
