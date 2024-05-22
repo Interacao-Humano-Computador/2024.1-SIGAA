@@ -13,7 +13,15 @@ Em um campo onde a experiência do usuário é primordial, as técnicas de desig
 O presente documento tem o objetivo de documentar os storyboards feitos a partir das funcionalidades presentes nos cenários
 
 ## Metodologia
-A metodologia utilizada para a confecção dos storyboards foi manual, feita em folha A4 na sala de aula. Os documentos foram escaneados e adicionados no repositório junto a um conjunto de informações de cada storyboard, que são: Pessoas envolvidas, Ambiente, Tarefas, Passos envolvidos, Motivação de usar a aplicação, O que as pessoas precisam fazer para completar a tarefa, O que motivou a usar o sistema e Resultado após a tarefa no storyboard. A seguir, veremos cada uma das histórias feitas.
+A metodologia utilizada para a confecção dos storyboards foi manual, feita em folha A4 na sala de aula. Os documentos foram escaneados e adicionados no repositório junto a um conjunto de informações de cada storyboard, que são: 
+- as pessoas envolvidas,
+- ambiente,
+- tarefas,
+- os passos envolvidos,
+- qual a motivação de usar a aplicação,
+- o que as pessoas precisam fazer para completar a tarefa,
+- o que motivou a usar o sistema.
+- o resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard.
 
 ## Conclusão
 
@@ -26,4 +34,4 @@ A metodologia utilizada para a confecção dos storyboards foi manual, feita em 
 | Versão | Alteração                                | Responsável     | Revisor         | Data       |
 | ------ | ---------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento                     | Pedro Izarias   | - | 21/05/2024 |
-
+| 1.1    | Adição de introdução, metodologia e conclusão| Pedro Izarias   | - | 21/05/2024 |
