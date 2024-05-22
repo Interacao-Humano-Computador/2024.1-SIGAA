@@ -7,6 +7,7 @@
 * [Questões Éticas](#Questões-Éticas)
 * [Roteiro de Execução](#Roteiro-de-Execução)
 * [Questionário de Pré-Avaliação](#Questionário-de-Pré-Avaliação)
+* [Questionário de Avaliação](#Questionário-de-Avaliação)
 * [Questionário de Pós-Avaliação](#Questionário-de-Pós-Avaliação)
 * [Cronograma](#Cronograma)
 * [Planejamento do Teste Piloto](#Planejamento-do-Teste-Piloto)
