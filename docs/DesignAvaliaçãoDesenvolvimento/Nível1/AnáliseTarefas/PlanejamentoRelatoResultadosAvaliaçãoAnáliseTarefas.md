@@ -84,7 +84,7 @@ Por fim, considerando que a atividade visa validar o artefato com o auxílio de 
 
 | Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
 |---------------------------|-------------------|----------------|------|
-| X       | Y         | Z           |
+| X       | Y         | Z           | XX/XX/XXXX
 
 
 ## Bibliografia
