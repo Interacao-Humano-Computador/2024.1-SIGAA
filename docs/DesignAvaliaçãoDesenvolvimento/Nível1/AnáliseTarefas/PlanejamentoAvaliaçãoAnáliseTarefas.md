@@ -56,12 +56,7 @@ As perguntas selecionadas para serem respondidas durante esta avaliação foram 
 - As entrevistas possibilitam melhorias nas tarefas identificadas pelo artefato de Análise de Tarefas?
 
 ## C Escolher os Métodos de Avaliação
-
-Para a realização da avaliação, serão apresentadas as análises de tarefas de cada uma das funcionalidades para os usuários durante as entrevista que serão realizadas, assim, o usuário fará considerações sobre as análises,
-se ele está de acordo ou não, se há algo a ser alterado e etc.
-
-A escolha se dá pelo fato de ser um método que permite a identificação de problemas ocultos, a melhoria da experiência do usuário, permite também uma iteração rápida nas análises de tarefas, refinando-as com base no feedback recebido em tempo real, entre outros.
-
+Quanto aos métodos de avaliação, é fundamental uma escolha criteriosa, considerando diversos fatores. Nesse sentido, foram selecionados métodos adaptados de investigação e observação para a execução da avaliação. O método de investigação compreenderá a aplicação de questionários durante uma reunião, abrangendo fases de pré, durante e pós-avaliação. Esses questionários têm o propósito de obter insights sobre a opinião e compreensão do usuário em relação ao storyboard, além de estimular o participante a gerar ideias e questionamentos sobre o conteúdo apresentado.
 
 ## I Identificar e administrar as questões práticas da avaliação
 
