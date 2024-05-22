@@ -24,6 +24,7 @@ A metodologia utilizada para a confecção dos storyboards foi manual, feita em 
 - o resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard.
 
 ## Conclusão
+Neste trabalho, exploramos o papel fundamental dos storyboards no processo de design de interfaces, com foco específico em sua aplicação no contexto do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA). Ao criar storyboards para o SIGAA, poderemos visualizar e comunicar efetivamente as interações dos usuários com o sistema, identificando áreas de melhoria e refinando a experiência do usuário. Embora os storyboards tenham se mostrado uma ferramenta poderosa para o design de interfaces no contexto do SIGAA, é importante reconhecer que eles são apenas uma parte de um processo mais amplo de design centrado no usuário.
 
 ## Bibliografia
 PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Interação Humano-Computador. 3ª ed. Porto Alegre: Bookman, 2013. Disponível em: https://aprender3.unb.br/pluginfile.php/2843756/mod_resource/content/2/Design%20de%20interac%CC%A7a%CC%83o%20%20-%20StoryBoard.pdf. Acesso em: 21/05/2024.
