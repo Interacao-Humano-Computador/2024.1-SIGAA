@@ -77,28 +77,24 @@ As considerações práticas na avaliação de Interação Humano-Computador (IH
 
 ### Modalidade
 
-- **Presencial:** Será conduzida pessoalmente, o que possibilitará uma observação direta e uma interação mais completa com os usuários. Conforme destacado no capítulo 11 do livro "Interação Humano-Computador", essa abordagem é crucial para capturar nuances nas reações e feedbacks que podem passar despercebidos em avaliações remotas.
-
+- **Presencial:** Será realizada de forma presencial para permitir uma observação direta e uma interação mais rica com os usuários. Isso é importante, segundo o capítulo 11 do livro “Interação Humano Computador”¹, para captar nuances nas reações e feedbacks que podem não ser percebidos em avaliações remotas.
 
 ### Equipamentos Eletrônicos Necessários
 
-- **Dispositivos Eletrônicos (Opcional):** Tablets ou computadores com telas médias, ou grandes, poderão ser utilizados para apresentar as análises de tarefas, por exemplo, os diagramas. Contudo, esses dispositivos devem estar **carregados com pelo menos 80% de bateria** e ter os materiais necessários disponíveis ou **baixados em formato PDF**.
+- **Dispositivos Eletrônicos (Opcional):** Tablets ou computadores com telas médias, ou grandes, poderão ser utilizados para apresentar os storyboards.
 
 - **Equipamentos de Gravação:** Para gravar a reunião, a câmera e o gravador de áudio devem ter uma qualidade boa o suficiente para captar as interações de maneira clara e compreensível. Além disso, devem ter memória suficiente para armazenar gravações de até 35 minutos.
 
 
-### Apresentação da Análise de Tarefas
+### Apresentação do storyboard
 
-**Observação:** A análise de tarefas pode ser apresentada de duas formas: em dispositivos eletrônicos (como tablets ou computadores) ou em formato impresso.
-
-- **Formato Eletrônico:** Como foi explicado no item anterior, pode ser mostrado em tablets ou em computadores com telas grandes o suficiente para que o usuário possa navegar pela análise de forma simples e clara.
+- **Formato Eletrônico:** Apesar de os storyboards serem feitos à mão e em folha de papel, cada um dos estudantes possuí seu storyboard escaneado e poderá usar deste artifício.
 
   - **Preparação:** Como foi avisado, o integrante do grupo responsável pela entrevista deve garantir que o dispositivo esteja carregado e com acesso fácil à análise de tarefas.
 
-- **Formato Impresso:** Quando a análise puder ser facilmente impressa ou desenhada, ela deve ser impressa em alta qualidade, com folhas limpas e bem organizadas.
+  - **Formato original:** Como mencionado anteriormente, os storyboards foram feitos à mão e poderão ser apresentados ao entrevistado em seu formato original.
 
-  - **Preparação:** As impressões devem estar em bom estado e prontas para uso.
-
+  - **Preparação:** Os desenhos devem estar bem visível e prontos para uso.
 
 ### Tempo de Avaliação
 
@@ -108,7 +104,7 @@ As considerações práticas na avaliação de Interação Humano-Computador (IH
 
   - **Questionário de pré-avaliação**: 3 a 10 minutos.
 
-  - **Apresentação da análise de tarefa**: até 15 minutos.
+  - **Apresentação do storyboard**: até 15 minutos.
 
   - **Questionário de avaliação**: Até 10 minutos.
 
@@ -117,13 +113,6 @@ As considerações práticas na avaliação de Interação Humano-Computador (IH
   - **Se necessário, pausa entre as etapas:** 2 minutos cada.
 
 - **Total de Avaliação:** A avaliação completa, incluindo todas as etapas e pausas, não deve ultrapassar 30 minutos por participante, algumas etapas das fases podem demorar mais, mas o ideal da avaliação total é 30 minutos.
-
-
-### Orçamento
-
-- **Custos de impressão:** Os materiais impressos, como o roteiro e os questionários de pré e pós-avaliação, têm um custo conforme o local de impressão. Assim, não é possível definir um valor exato, mas é entre **zero a cinco reais**.
-
-- **Materiais de Escritório:** Papel e canetas ou lápis. Se for necessário comprar na papelaria, o valor seria entre 3 a 10 reais, mas como a maioria dos integrantes do grupo possui acesso a esses materiais, então não terá custo para a equipe.
 
 ### Recursos de Mão-de-Obra
 
@@ -156,13 +145,13 @@ As considerações práticas na avaliação de Interação Humano-Computador (IH
 
 </details>
 
-- **Mesas Redondas do Prédio UED:** Caso não haja salas disponíveis.
+  - **Mesas Redondas do Prédio UED:** Caso não haja salas disponíveis.
 
-- **Mesas de Estudo no Andar superior do UED:** Como alternativa para locais silenciosos e confortáveis.
+  - **Mesas de Estudo no Andar superior do UED:** Como alternativa para locais silenciosos e confortáveis.
 
-- **Outras opções:** Caso o integrante do grupo e o usuário achem melhor, a reunião acontecerá em outro lugar, por exemplo, na casa de alguns dos envolvidos.
+  - **Outras opções:** Caso o integrante do grupo e o usuário achem melhor, a reunião acontecerá em outro lugar, por exemplo, na casa de alguns dos envolvidos.
 
-- **Condições do Ambiente:**
+  - **Condições do Ambiente:**
 
   - **Recursos:** O local precisa ter uma mesa e, pelo menos, duas cadeiras ou bancos.
 
@@ -173,26 +162,7 @@ As considerações práticas na avaliação de Interação Humano-Computador (IH
 
 ### Prazos
 
-Para estabelecer um prazo específico, a tabela 2 mostra os prazos de cada etapa da avaliação.
-
-<details>
-
-<summary size="20"><b> Tabela 2: Prazos </b></summary>
-
-
-**Tabela 2:** Prazos da atividade.
-
-| Atividade | Data de início | Data de finalização |
-| - | - | - |
-| Planejamento da atividade | 17/05/2024 | 22/05/2024 |
-| Marcar a reunião com o usuário | 21/05/2024 | 26/05/2024 |
-| Reunião com o usuário | 23/05/2024 | 29/05/2024 |
-| Análise dos resultados | 23/05/2024 | 01/06/2024 |
-
-
-**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
-
-</details>
+O ideal para que tudo ocorra como o planejado é que todas as entrevistas e avaliações estejam prontas até o dia 01/06/2024.
 
 ### Lista de Materiais Necessários Antes da Avaliação
 
@@ -206,11 +176,13 @@ Para estabelecer um prazo específico, a tabela 2 mostra os prazos de cada etapa
 
 - **Folha em Branco e Canetas:** Para anotações durante a avaliação.
 
-- **Análise de Tarefas:** Disponível em dispositivo eletrônico ou impressa.
+- **Storyboards:** Disponível em dispositivo eletrônico ou em formato original.
 
 - **Dispositivo para Gravação:** Para registrar a sessão de avaliação.
   
 - **Roteiro de Acompanhamento:** Impresso para facilitar a organização da estrutura da reunião.
+
+
 ## D - Decidir como lidar com as questões éticas
 
 De acordo com o framework DECIDE, ao decidir como lidar com as questões éticas, deve-se garantir que todos os participantes sejam tratados com respeito e que sua integridade não seja comprometida durante ou após a avaliação. Isso inclui a obtenção de consentimento informado, a garantia de confidencialidade e a prevenção de qualquer dano potencial aos participantes​​lém disso, o framework DECIDE orienta que os avaliadores identifiquem e gerenciem as questões práticas da avaliação, o que envolve o recrutamento adequado dos participantes e a preparação do ambiente de teste. No contexto da avaliação de um storyboard, essas práticas garantem que os feedbacks coletados sejam relevantes e conduzidos de maneira ética e responsável, contribuindo para melhorias significativas na narrativa visual do projeto
@@ -232,4 +204,5 @@ PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Int
 | 1.0    | Adição da introdução, objetivo e metodologia | Luana Medeiros | Pedro Izarias           | 22/05/2024 |
 | 1.1    | Adição de Determinar Objetivos |  Pedro Izarias |  Bruno Araújo           | 22/05/2024 |
 | 1.2    | Adição de Determinar questões éticas |  Bruno Araújo |  Iago Passaglia        | 22/05/2024 |
-| 1.3    | Adição de Escolher os Métodos de Avaliação (Letra C) |  Larissa Stéfane |  -       | 22/05/2024 |
+| 1.3    | Adição de Escolher os Métodos de Avaliação (Letra C) |  Larissa Stéfane | Iago Passaglia  | 22/05/2024 |
+| 1.4    | Adição de Identificar questoes práticas | Iago Passaglia | ----  | 22/05/2024 |
