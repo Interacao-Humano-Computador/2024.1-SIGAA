@@ -7,7 +7,6 @@
 * [Objetivo](#Objetivo)
 * [Metodologia](#Metodologia)
 * [Conclusão](#Conclusão)
-* [Bibliografia](#Bibliografia)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
