@@ -3,7 +3,15 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
-* [D - Determinar os objetivos](#D--Determinar-os-objetivos)
+* [D Determinar os objetivos](#D-Determinar-os-objetivos)
+* [E Explorar perguntas a serem respondidas](#E-Explorar-perguntas-a-serem-respondidas)
+* [C Escolher os Métodos de Avaliação](#C-Escolher-os-Métodos-de-Avaliação)
+* [I Identificar e administrar as questões práticas da avaliação](#I-Identificar-e-administrar-as-questões-práticas-da-avaliação)
+* [D Decidir como lidar com as questões éticas](#D-Decidir-como-lidar-com-as-questões-éticas)
+* [E Avaliar, interpretar e apresentar os dados](#E-Avaliar,-interpretar-e-apresentar-os-dados)
+* [Bibliografia](#Bibliografia)
+* [Referências Biblliográficas](#Referências-Biblliográficas)
+* [Histórico de versão](#Histórico-de-versão)
 
 
 
@@ -34,9 +42,9 @@ Conforme mencionado anteriormente, utilizaremos o framework DECIDE para executar
 </center>
 
 
-## D -  Determinar os objetivos
+## D Determinar os objetivos
 
-## E - Explorar perguntas a serem respondidas
+## E Explorar perguntas a serem respondidas
 
 Em uma avaliação, é essencial que o avaliador elabore perguntas específicas para cada objetivo definido. Essas perguntas são fundamentais para operacionalizar
 a investigação e o julgamento de valor a serem realizados, garantindo que a avaliação seja focada e produtiva. As perguntas devem considerar o  perfil dos usuários-alvo e suas atividades, e são responsáveis por direcionar o processo de avaliação de maneira estruturada, como alguns objetivos norteados pelo livro: analisar a apropriação da tecnologia, comparar ideias e alternativas de design, veriﬁcar a conformidade com um padrão (Barbosa e Silva, 2011, p. 266).
@@ -47,7 +55,7 @@ As perguntas selecionadas para serem respondidas durante esta avaliação foram 
 - O quanto eles são motivados a explorar novas funcionalidades?
 - As entrevistas possibilitam melhorias nas tarefas identificadas pelo artefato de Análise de Tarefas?
 
-## C - Escolher os Métodos de Avaliação
+## C Escolher os Métodos de Avaliação
 
 Para a realização da avaliação, serão apresentadas as análises de tarefas de cada uma das funcionalidades para os usuários durante as entrevista que serão realizadas, assim, o usuário fará considerações sobre as análises,
 se ele está de acordo ou não, se há algo a ser alterado e etc.
@@ -55,7 +63,7 @@ se ele está de acordo ou não, se há algo a ser alterado e etc.
 A escolha se dá pelo fato de ser um método que permite a identificação de problemas ocultos, a melhoria da experiência do usuário, permite também uma iteração rápida nas análises de tarefas, refinando-as com base no feedback recebido em tempo real, entre outros.
 
 
-## I - Identificar e administrar as questões práticas da avaliação.
+## I Identificar e administrar as questões práticas da avaliação
 
 As questões práticas na avaliação de Interação Humano-Computador (IHC) referem-se a aspectos operacionais essenciais para a execução eficaz do processo de avaliação da análise de tarefas. Com base nisso, conforme o livro "Interação Humano-Computador"¹, de Simone Barbosa e outros autores, essas questões incluem o recrutamento dos usuários que participarão da avaliação, a preparação e o uso adequado dos equipamentos necessários, a gestão dos prazos e do orçamento disponíveis, e a alocação da mão-de-obra necessária para conduzir a avaliação. Portanto, esses pontos serão planejados e elaborados abaixo.
 
@@ -211,7 +219,7 @@ Para estabelecer um prazo específico, a tabela 2 mostra os prazos de cada etapa
 - **Roteiro de Acompanhamento:** Impresso para facilitar a organização da estrutura da reunião.
 
 
-## D - Decidir como lidar com as questões éticas
+## D Decidir como lidar com as questões éticas
 A decisão foi tomada de abordar as questões éticas de forma proativa e abrangente. Considerando as informações que serão coletadas durante a análise de tarefas e o potencial impacto das decisões tomadas sobre os usuários e outras partes interessadas, foram estabelecidos os seguintes protocolos:
 - Agir de acordo com os princípios éticos fundamentais, como integridade e respeito pelos direitos individuais e coletivos.
 - Antes de realizar qualquer análise de tarefas, realizaremos uma análise de impacto ético para avaliar como nossas ações podem afetar os usuários e outras partes interessadas.
@@ -220,9 +228,20 @@ A decisão foi tomada de abordar as questões éticas de forma proativa e abrang
 Ao decidir como lidar com as questões éticas neste projeto, buscamos garantir que nossas atividades de análise de tarefas sejam conduzidas de forma ética, responsável e respeitosa, promovendo a confiança e o respeito dos usuários e outras partes interessadas.
 
 
-## E -  Avaliar, interpretar e apresentar os dados
+## E Avaliar, interpretar e apresentar os dados
 Nessa etapa, será feita uma análise minuciosa dos dados obtidos, a fim de ratificar a confiabilidade dos dados obtidos e suprimir erros que possam surgir de dados outliers (valores atípicos), a fim de obter uma generalização que represente fielmente o contingente de usuários do sistema.
 Sendo assim, deve-se registrar o feedback dos usuários durante a entrevista, suas dificuldades quanto a usabilidade do sistema, problemas de conexão, funcionalidades faltando e quaisquer sugestões de melhoria ou críticas ao sistema. Por fim, os dados já interpretados serão levados a equipe para que essas informações possam promover o desenvolvimento do projeto.
+
+## Bibliografia
+
+1. Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Disponível em: https://www.google.com.br/books/edition/Engenharia_de_Requisitos/gA7kDAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover. Acesso em: 22 de maio de 2024.
+
+
+## Referências Bibliográficas
+
+1. Barbosa, S. D. J., & Silva, B. S. (2021). Interação Humano-Computador e Experiência do Usuário. Editora: Câmara Brasileira do Livro, SP, Brasil.
+
+
 
 ## Histórico de Versão
 
