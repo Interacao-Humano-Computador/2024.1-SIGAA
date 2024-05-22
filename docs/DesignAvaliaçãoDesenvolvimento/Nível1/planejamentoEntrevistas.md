@@ -325,10 +325,8 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 | Aba de Monitoria | Carlos Gabriel | Larissa Stéfane | 21/05/2024 | 23/05/2024 | 12:00 | Sala I4 ou Mesas do UED |
 | Aluguel de Sala | Isaque Santos | Larissa Stéfane | 21/05/2024 | 23/05/2024 | 13:00 | Sala I4 ou Mesas do UED |
 | Aba RU |  Limírio Correia Guimarães | Breno Alexandre Soares Garcia | 21/05/2024 |  28/05/2024 |  13:00 |  Alguma sala no UAC |
-| Matrículas | Debora Damasceno | Pedro Augusto | 21/05/2024 |  27/05/2024 |  15:00 | 
-Local de encontro na UnB|
-| Histórico |  Leonardo Ramiro | Luana Medeiros | 21/05/2024 |  28/05/2024 |  13:00 | 
-casa do usuário |
+| Matrículas | Debora Damasceno | Pedro Augusto | 21/05/2024 |  27/05/2024 |  15:00 | Local de encontro na UnB|
+| Histórico |  Leonardo Ramiro | Luana Medeiros | 21/05/2024 |  28/05/2024 |  13:00 | casa do usuário |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
