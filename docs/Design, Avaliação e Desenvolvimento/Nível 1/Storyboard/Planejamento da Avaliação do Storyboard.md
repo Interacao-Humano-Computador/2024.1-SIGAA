@@ -38,6 +38,8 @@ A metodologia escolhida para realizar a avaliação do storyboard será o framew
 </center>
 
 ## D -  Determinar os objetivos
+O objetivo principal da avaliação é identificar e solucionar problemas de usabilidade e compreensão nas interações representadas nos storyboards. Isso envolve garantir que os storyboards sejam claros, intuitivos e reflitam com precisão as necessidades e expectativas dos usuários finais. Especificamente, a avaliação busca ratificar que as ações representadas nos storyboards correspondem fielmente ao uso real do sistema pelos usuários, verificar se os usuários conseguem entender facilmente as sequências de ações propostas e identificar possíveis pontos de confusão ou dificuldade, obtendo feedback qualitativo sobre a clareza e a eficácia das representações visuais. Dessa maneira, poderemos fazer adições ou deleções nos storyboards para que sejam mais coerentes com o contexto.
+
 
 ## E - Explorar perguntas a serem respondidas
 
