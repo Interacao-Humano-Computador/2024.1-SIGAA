@@ -31,10 +31,13 @@ Conforme mencionado anteriormente, utilizaremos o framework DECIDE para executar
 
 ## E - Explorar perguntas a serem respondidas
 
-Para alcançar os objetivos da avaliação, foram elaboradas perguntas com foco nos seguintes tópicos: - verificar a conformidade com um padrão; - comparar ideias e alternativas de design. As perguntas selecionadas para serem respondidas durante esta avaliação foram formuladas com base no Capítulo 11 da obra de Barbosa e Silva (2011, p. 266). As perguntas são as seguintes:
+Em uma avaliação, é essencial que o avaliador elabore perguntas específicas para cada objetivo definido. Essas perguntas são fundamentais para operacionalizar
+a investigação e o julgamento de valor a serem realizados, garantindo que a avaliação seja focada e produtiva. As perguntas devem considerar o  perfil dos usuários-alvo e suas atividades, e são responsáveis por direcionar o processo de avaliação de maneira estruturada, como alguns objetivos norteados pelo livro: analisar a apropriação da tecnologia, comparar ideias e alternativas de design, veriﬁcar a conformidade com um padrão (Barbosa e Silva, 2011, p. 266).
 
-- Os diagramas HTA possuem as notações corretas, legendas apropriadas e estão representados em formato de tabela?
-- Os diagramas refletem tarefas que correspondem às funcionalidades esperadas do site?
+As perguntas selecionadas para serem respondidas durante esta avaliação foram formuladas com base no Capítulo 11 da obra de Barbosa e Silva (2011, p. 266). As perguntas são as seguintes:
+
+- Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?
+- O quanto eles são motivados a explorar novas funcionalidades?
 - As entrevistas possibilitam melhorias nas tarefas identificadas pelo artefato de Análise de Tarefas?
 
 ## C - Escolher os Métodos de Avaliação
