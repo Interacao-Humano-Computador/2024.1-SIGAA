@@ -33,7 +33,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 **Tabela 1:** Desenvolvimento do Storyboard 
 
 | Integrante | Funcionalidade | data de início | Data de entrega do Storyboard |
-| - | - |
+| - | - | - | - |
 | Breno Alexandre | Aba de RU | 09/05/2024 | 15/05/2024 |
 | Breno Alexandre | Cadastro Único | 09/05/2024 | - |
 | Bruno Cunha | Solicitação de Bolsa e Declaração de Bolsistas  | 09/05/2024 | 15/05/2024 |
@@ -113,7 +113,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 <div align="center">
     Imagem 6:  Aba de Monitoria – Storyboard parte 2
     <br>
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/AbaMonitoria/WhatsApp%20Image%202024-05-22%20at%2002.49.57%20(1).jpeg">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/AbaMonitoria/WhatsApp%20Image%202024-05-22%20at%2002.49.56%20(1).jpeg">
     <br>
      Fonte:  Larissa Stéfane
     <br>
