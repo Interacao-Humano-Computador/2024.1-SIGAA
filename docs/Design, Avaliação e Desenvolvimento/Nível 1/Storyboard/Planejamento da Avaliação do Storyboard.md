@@ -49,6 +49,8 @@ O objetivo principal da avaliação é identificar e solucionar problemas de usa
 
 ## D - Decidir como lidar com as questões éticas
 
+De acordo com o framework DECIDE, ao decidir como lidar com as questões éticas, deve-se garantir que todos os participantes sejam tratados com respeito e que sua integridade não seja comprometida durante ou após a avaliação. Isso inclui a obtenção de consentimento informado, a garantia de confidencialidade e a prevenção de qualquer dano potencial aos participantes​​lém disso, o framework DECIDE orienta que os avaliadores identifiquem e gerenciem as questões práticas da avaliação, o que envolve o recrutamento adequado dos participantes e a preparação do ambiente de teste. No contexto da avaliação de um storyboard, essas práticas garantem que os feedbacks coletados sejam relevantes e conduzidos de maneira ética e responsável, contribuindo para melhorias significativas na narrativa visual do projeto
+
 ## E -  Avaliar, interpretar e apresentar os dados
 
 ## Conclusão
@@ -64,5 +66,5 @@ PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Int
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Adição da introdução, objetivo e metodologia | Luana Medeiros | Pedro Izarias           | 22/05/2024 |
-| 1.1    | Adição de Determinar Objetivos |  Pedro Izarias |  -           | 22/05/2024 |
+| 1.1    | Adição de Determinar Objetivos |  Pedro Izarias |  Bruno Araújo           | 22/05/2024 |
 
