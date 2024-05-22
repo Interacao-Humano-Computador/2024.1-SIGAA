@@ -383,4 +383,4 @@ Foi possível observar que, no processo de planejamento das entrevistas para ava
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 22/05/2024 |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | Bruno Araújo | 22/05/2024 |
