@@ -108,7 +108,7 @@ Abaixo, na imagem 1, há a foto de como é o roteiro impresso.
 <div align="center">
     Imagem 1: Roteiro da avaliação do Storyboard e da análise de tarefas - parte 1
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/ilovepdf_pages-to-jpg%20(4)/roteiro_Avaliacao_StoryboardTarefas_page-0001.jpg">
     <br>
      Fonte: Larissa Stéfane
     <br>
@@ -117,7 +117,7 @@ Abaixo, na imagem 1, há a foto de como é o roteiro impresso.
 <div align="center">
     Imagem 2: Roteiro da avaliação do Storyboard e da análise de tarefas - parte 2
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/ilovepdf_pages-to-jpg%20(4)/roteiro_Avaliacao_StoryboardTarefas_page-0002.jpg">
     <br>
      Fonte: Larissa Stéfane
     <br>
