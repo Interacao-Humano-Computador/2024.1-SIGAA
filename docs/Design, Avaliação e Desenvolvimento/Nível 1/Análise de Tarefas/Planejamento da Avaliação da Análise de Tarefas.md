@@ -26,7 +26,10 @@ Conforme mencionado anteriormente, utilizaremos o framework DECIDE para executar
 
 </center>
 
-<!-- INSERIR TÓPICOS RESTANTES -->
+
+## D -  Determinar os objetivos
+
+## E - Explorar perguntas a serem respondidas
 
 ## C - Escolher os Métodos de Avaliação
 
@@ -35,11 +38,23 @@ se ele está de acordo ou não, se há algo a ser alterado e etc.
 
 A escolha se dá pelo fato de ser um método que permite a identificação de problemas ocultos, a melhoria da experiência do usuário, permite também uma iteração rápida nas análises de tarefas, refinando-as com base no feedback recebido em tempo real, entre outros.
 
-<!-- INSERIR TÓPICOS RESTANTES -->
+## I - Identificar e administrar as questões práticas
+
+## D - Decidir como lidar com as questões éticas
+A decisão foi tomada de abordar as questões éticas de forma proativa e abrangente. Considerando as informações que serão coletadas durante a análise de tarefas e o potencial impacto das decisões tomadas sobre os usuários e outras partes interessadas, foram estabelecidos os seguintes protocolos:
+- Agir de acordo com os princípios éticos fundamentais, como integridade e respeito pelos direitos individuais e coletivos.
+- Antes de realizar qualquer análise de tarefas, realizaremos uma análise de impacto ético para avaliar como nossas ações podem afetar os usuários e outras partes interessadas.
+- Ser transparentes sobre nossas práticas e decisões, comunicando claramente os objetivos, métodos e resultados da análise de tarefas.
+
+Ao decidir como lidar com as questões éticas neste projeto, buscamos garantir que nossas atividades de análise de tarefas sejam conduzidas de forma ética, responsável e respeitosa, promovendo a confiança e o respeito dos usuários e outras partes interessadas.
+
+
+## E -  Avaliar, interpretar e apresentar os dados
 
 ## Histórico de Versão
 
 | Versão | Alteração                         | Responsável     | Revisor               | Data       |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0    | Criação do documento, introdução e <br> definição dos métodos de avaliação      | Iago Passaglia | Larissa Stéfane | 21/05/2024 |
+| 1.1    | Adição de decidir como lidar com as questões éticas  | Luana Medeiros | - | 22/05/2024 |
 
