@@ -208,6 +208,10 @@ Para metodologias que envolvam terceiros, como entrevistas com usuários, é fun
 
 ## E -  Avaliar, interpretar e apresentar os dados
 
+Após a coleta de dados por meio das avaliações, estes serão documentados e submetidos à análise, considerando o contexto em que foram gerados. O processo de registro detalhado engloba a identificação precisa de problemas e obstáculos enfrentados pelos usuários durante a interação, abordando de forma minuciosa questões de usabilidade, funcionalidades ausentes e problemas de desempenho. As descrições dos problemas, sua classificação, sugestões de melhoria e o feedback dos usuários serão registrados com total detalhamento. Ao final das entrevistas, serão documentadas observações gerais sobre o processo de avaliação, fornecendo uma visão holística da experiência dos usuários.
+
+Após a conclusão dessa etapa, os dados coletados e as análises serão apresentados à equipe de desenvolvimento de forma clara e concisa, com o objetivo de fornecer informações relevantes e acionáveis para o aprimoramento do projeto e a criação de uma experiência de usuário ainda mais positiva.
+
 ## Conclusão
 
 ## Bibliografia
@@ -226,3 +230,4 @@ PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Int
 | 1.3    | Adição de Escolher os Métodos de Avaliação (Letra C) |  Larissa Stéfane | Iago Passaglia  | 22/05/2024 |
 | 1.4    | Adição de Identificar questoes práticas | Iago Passaglia | Luana Medeiros  | 22/05/2024 |
 | 1.5    | Adição de Explorar perguntas a serem respondidas | Luana Medeiros | Iago Passaglia | 22/05/2024 |
+| 1.6    | Adição de Avaliar, interpretar e apresentar os dados | Iago Passaglia | Pedro Izarias | 22/05/2024 |
