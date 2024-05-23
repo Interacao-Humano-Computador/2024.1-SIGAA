@@ -191,6 +191,28 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
      Fonte:  Pedro Augusto
     <br>
 </div>
+</details>
+
+<details>
+  <summary size="20"><b> Luana Medeiros: Grade Sugerida </b></summary> 
+
+<div align="center">
+    Imagem 1:  Grade Sugerida – Storyboard
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/storyluana1.jpeg">
+    <br>
+     Fonte:  Luana Medeiros
+    <br>
+</div>
+
+<div align="center">
+    Imagem 2:  Grade Sugerida – Análise Textual
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/storyluana2.jpeg">
+    <br>
+     Fonte:  Luana Medeiros
+    <br>
+</div>
 
 </details>
 
