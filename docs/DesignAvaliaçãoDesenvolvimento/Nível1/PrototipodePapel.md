@@ -85,7 +85,7 @@ Tabela 1: Cronograma.
 
 |    Data    | Horário de início e fim | Local            | Entrevistadores | Entrevistado |
 | :--------: | :---------------------: | :--------------: | :-------------: | ------------ |
-|     xx/xx/xxxx       |  HH | HH                       |   _____               |    --             | --             |
+|     xx/xx/xxxx       |  H:H| HH | _________                       |   _____               |    --             | --             |
 
 ## Coleta e Análise de Dados
 
