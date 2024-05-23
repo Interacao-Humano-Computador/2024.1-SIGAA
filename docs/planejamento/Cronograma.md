@@ -210,6 +210,29 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
+| Planejamento da Avaliação da Análise de Tarefas - Sumário, Introdução e Metodologia | 21/05/2024 | Iago Passaglia | 21/05/2024 | Larissa Stéfane |
+| Planejamento da Avaliação da Análise de Tarefas - Framework DECIDE - D - Objetivos | 22/05/2024 | Iago Passaglia | 22/05/2024 | Bruno Araújo |
+| Planejamento da Avaliação da Análise de Tarefas - Framework DECIDE - E - Explorar Perguntas Respondidas com a Avaliação | 22/05/2024 | Bruno Araújo | Iago Passaglia | 22/05/2024 |
+| Planejamento da Avaliação da Análise de Tarefas - Framework DECIDE - C - Escolher os Métodos de Avaliação | 22/05/2024 | Iago Passaglia | 22/05/2024 | Larissa Stéfane |
+| Planejamento da Avaliação da Análise de Tarefas - Framework DECIDE - I - Identificar Questões Práticas da Avaliação | 22/05/2024 | Larissa Stéfane | 22/05/2024 | Bruno Araújo |
+| Planejamento da Avaliação da Análise de Tarefas - Framework DECIDE - D - Lidando com as Questões Éticas | 22/05/2024 | Luana Medeiros | 22/05/2024 | Larissa Stéfane |
+| Planejamento da Avaliação da Análise de Tarefas - Framework DECIDE - E - Avaliar, Interpretar e Apresentar os Dados | 22/05/2024 | Pedro Izarias | 22/05/2024 | Bruno Araújo |
+| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | 22/05/2024 | Bruno Araújo | 22/05/2024 | Iago Passaglia |
+| Storyboards - Sumário, Introdução, Metodologia | 21/05/2024 | Pedro Izarias | 21/05/2024 | Luana Medeiros  |
+| Storyboards - Desenvolvimento | 22/05/2024 | Larissa Stéfane| 22/05/2024 | Iago Passaglia |
+| Planejamento da Avaliação do Storyboard - Sumário, Introdução e Metodologia | 22/05/2024 | Luana Medeiros | 22/05/2024 | Pedro Izarias |
+| Planejamento da Avaliação do Storyboard - Framework DECIDE - D - Objetivos | 22/05/2024 | Pedro Izarias | 22/05/2024 | Bruno Araújo |
+| Planejamento da Avaliação do Storyboard - Framework DECIDE - E - Explorar Perguntas Respondidas com a Avaliação | 22/05/2024 | Luana e Larissa | 22/05/2024 | Iago Passaglia |
+| Planejamento da Avaliação do Storyboard - Framework DECIDE - C - Escolher os Métodos de Avaliação | 22/05/2024 | Larissa Stéfane | 22/05/2024 | Iago Passaglia |
+| Planejamento da Avaliação do Storyboard - Framework DECIDE - I - Identificar Questões Práticas da Avaliação | 22/05/2024 | Iago Passaglia | 22/05/2024 | Luana Medeiros |
+| Planejamento da Avaliação do Storyboard - Framework DECIDE - D - Lidando com as Questões Éticas | 22/05/2024 | Bruno Araújo | 22/05/2024 | Iago Passaglia |
+| Planejamento da Avaliação do Storyboard - Framework DECIDE - E - Avaliar, Interpretar e Apresentar os Dados | 22/05/2024 | Iago Passaglia | 22/05/2024 | Luana Medeiros |
+| Planejamento de Entrevistas e Planejamento do Teste Piloto | 22/05/2024 | Larissa Stéfane | 22/05/2024 | Bruno Araújo |
+| Cronograma da etapa 4 | 22/05/2024 | Luana Medeiros | 22/05/2024 | Luana Medeiros |
+| Criação do documento de apresentação e avaliação da etapa 4 | 22/05/2024 | Luana Medeiros | 22/05/2024 | Iago Passaglia |
+| Arrumar tela inicial do GitPage | 22/05/2024 | Pedro Izarias | 22/05/2024 | Bruno Araújo |
+| Planejamento do Relato do Protótipo de Papel | 22/05/2024 | Bruno Araújo| 22/05/2024 | Larissa Stéfane |
+| Gravação da apresentação da etapa 4 | 22/05/2024 | Bruno, Luana, Pedro, Larissa e Iago| 22/05/2024 |Bruno, Luana, Pedro, Larissa e Iago |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -373,3 +396,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.9    | Preechimento do executado para a entrega 3                                                                  | Breno Alexandre       | -               | 13/05/2024 |
 | 2.0    | Correção da padronização dos nomes da entrega 1                                                             | Breno Alexandre       | -               | 16/05/2024 |
 | 2.1    | Adição da "Correção pós apresentação" no cronograma executado da 3                                          | Breno Alexandre       | -               | 20/05/2024 |
+| 2.2    | Preechimento do executado para a entrega 4                                        | Luana Medeiros      | -               | 22/05/2024 |
