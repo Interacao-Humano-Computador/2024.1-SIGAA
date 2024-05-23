@@ -231,7 +231,17 @@ Nesta etapa, serão realizadas perguntas com base na temática do artefato avali
 
 4. **As tarefas apresentadas na análise foram consistentes entre si e com o resto do sistema? Alguma tarefa pareceu destoar do fluxo geral? 
 
-5. **Você acha que as tarefas precisam ser mais fáceis de executar na prática? Quais tarefas poderiam ser simplificadas?** 
+5. **Você acha que as tarefas precisam ser mais fáceis de executar na prática? Quais tarefas poderiam ser simplificadas?**
+
+6. **Quais são as principais dificuldades que os usuários enfrentam ao executar as tarefas propostas?**
+
+7. **As tarefas são intuitivas e fáceis de entender?**
+
+8. **Existem etapas desnecessárias ou confusas no fluxo das tarefas?**
+
+9. **Os objetivos dos usuários são alcançados de maneira eficiente?**
+
+10. **Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas?**
 
 </details>
 
