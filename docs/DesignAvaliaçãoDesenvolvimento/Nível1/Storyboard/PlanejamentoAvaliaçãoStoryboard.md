@@ -222,4 +222,4 @@ PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design de Interação: Além da Int
 | 1.2    | Adição de Determinar questões éticas |  Bruno Araújo |  Iago Passaglia        | 22/05/2024 |
 | 1.3    | Adição de Escolher os Métodos de Avaliação (Letra C) |  Larissa Stéfane | Iago Passaglia  | 22/05/2024 |
 | 1.4    | Adição de Identificar questoes práticas | Iago Passaglia | Luana Medeiros  | 22/05/2024 |
-| 1.5    | Adição de Explorar perguntas a serem respondidas | Luana Medeiros | ----  | 22/05/2024 |
+| 1.5    | Adição de Explorar perguntas a serem respondidas | Luana Medeiros | Iago Passaglia | 22/05/2024 |
