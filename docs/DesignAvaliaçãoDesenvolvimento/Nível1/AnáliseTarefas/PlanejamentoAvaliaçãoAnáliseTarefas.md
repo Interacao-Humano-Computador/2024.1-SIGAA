@@ -55,6 +55,9 @@ A Tabela 2 apresenta um conjunto de perguntas formuladas para serem utilizadas d
 
 
 **Tabela 2**: Perguntas formuladas para a entrevista.
+
+
+
 | Ordem das Perguntas | Pergunta | Tipo de Pergunta |
 |---------------------|----------|------------------|
 | 1° | A análise de tarefas foi fácil de seguir? Houve alguma etapa que você achou particularmente complicada ou mal explicada? | Discursiva |
@@ -67,6 +70,8 @@ A Tabela 2 apresenta um conjunto de perguntas formuladas para serem utilizadas d
 | 8° | Existem etapas desnecessárias ou confusas no fluxo das tarefas? | Discursiva |
 | 9° | Os objetivos dos usuários são alcançados de maneira eficiente? | Discursiva |
 | 10° | Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas? | Discursiva |
+
+
 
 As perguntas foram projetadas para obter uma compreensão detalhada das experiências e percepções dos participantes sobre a execução de tarefas no contexto do SIGAA na UNB. Elas abrangem aspectos desde a facilidade de seguir as tarefas até a eficiência e relevância das mesmas.
 
