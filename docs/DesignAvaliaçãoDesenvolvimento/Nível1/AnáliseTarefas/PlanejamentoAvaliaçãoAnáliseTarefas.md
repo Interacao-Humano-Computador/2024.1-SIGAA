@@ -57,25 +57,18 @@ A Tabela 2 apresenta um conjunto de perguntas formuladas para serem utilizadas d
 **Tabela 2**: Perguntas formuladas para a entrevista.
 | Ordem das Perguntas | Pergunta | Tipo de Pergunta |
 |---------------------|----------|------------------|
-| 1° | Como você descreveria seu grau de experiência e facilidade em utilizar o SIGAA? | Objetiva |
-| 2° | Com que frequência você usa a aba de bolsas no SIGAA? |Discursiva |
-| 3° | Você já solicitou bolsa de estudo através do SIGAA? | Objetiva |
-| 4° | Já teve dificuldades em se inscrever para uma bolsa através do SIGAA? Se sim, quais foram? | Discursiva |
-| 5° | Você já precisou mudar de bolsa de estudo? Se sim, como foi o processo? | Discursiva |
-| 6° | Como você faz para encontrar oportunidades de estágio no SIGAA? | Discursiva |
-| 7° | Você já teve dificuldades em se inscrever para um estágio através do SIGAA? Se sim, quais foram? | Discursiva |
-| 8° | Com que frequência você consulta seu histórico acadêmico no SIGAA? | Discursiva |
-| 9° | A sequência de processos na tarefa de consulta ao histórico acadêmico no SIGAA é coerente com o mundo real? Se não, poderia descrever o porquê? | Discursiva |
-| 10° | Você já teve dificuldades em se matricular em disciplinas através do SIGAA? Se sim, quais foram? | Discursiva |
-| 11° | A sequência de processos na tarefa de matrícula em disciplinas no SIGAA é coerente com o mundo real? Se não, poderia descrever o porquê? | Discursiva |
-| 12° | Com que frequência você usa a aba de monitoria no SIGAA? | Objetiva |
-| 13° | Você já teve dificuldades em solicitar uma monitoria através do SIGAA? Se sim, quais foram? | Discursiva |
-| 14° | Como você acessa informações sobre os professores e disciplinas oferecidas no SIGAA? | Discursiva |
-| 15° | A sequência de processos na tarefa de consulta a informações sobre professores e disciplinas no SIGAA é coerente com o mundo real? Se não, poderia descrever o porquê? | Discursiva |
-| 16° | Com que frequência você consulta informações sobre o Restaurante Universitário no SIGAA? | Objetiva |
-| 17° | Você já teve dificuldades em acessar informações sobre o Restaurante Universitário no SIGAA? Se sim, quais foram? | Discursiva |
-| 18° | A sequência de processos na tarefa de consulta a informações sobre o Restaurante Universitário no SIGAA é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva |
-| 19° | Quais melhorias você sugeriria para o SIGAA? | Discursiva 
+| 1° | A análise de tarefas foi fácil de seguir? Houve alguma etapa que você achou particularmente complicada ou mal explicada? | Discursiva |
+| 2° | A sequência das tarefas fez sentido para você? Alguma etapa pareceu fora de ordem ou confusa? | Discursiva |
+| 3° | Você acha que as tarefas analisadas são relevantes para o contexto do sistema acadêmico? Por quê? | Discursiva |
+| 4° | As tarefas apresentadas na análise foram consistentes entre si e com o resto do sistema? Alguma tarefa pareceu destoar do fluxo geral? | Discursiva |
+| 5° | Você acha que as tarefas precisam ser mais fáceis de executar na prática? Quais tarefas poderiam ser simplificadas? | Discursiva |
+| 6° | Quais são as principais dificuldades que os usuários enfrentam ao executar as tarefas propostas? | Discursiva |
+| 7° | As tarefas são intuitivas e fáceis de entender? | Discursiva |
+| 8° | Existem etapas desnecessárias ou confusas no fluxo das tarefas? | Discursiva |
+| 9° | Os objetivos dos usuários são alcançados de maneira eficiente? | Discursiva |
+| 10° | Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas? | Discursiva |
+
+As perguntas foram projetadas para obter uma compreensão detalhada das experiências e percepções dos participantes sobre a execução de tarefas no contexto do SIGAA na UNB. Elas abrangem aspectos desde a facilidade de seguir as tarefas até a eficiência e relevância das mesmas.
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
