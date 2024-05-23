@@ -55,8 +55,6 @@ A Tabela 2 apresenta um conjunto de perguntas formuladas para serem utilizadas d
 
 
 **Tabela 2**: Perguntas formuladas para a entrevista.
-
-**Tabela 2**: Perguntas formuladas para a entrevista.
 | Ordem das Perguntas | Pergunta | Tipo de Pergunta |
 |---------------------|----------|------------------|
 | 1° | A análise de tarefas foi fácil de seguir? Houve alguma etapa que você achou particularmente complicada ou mal explicada? | Discursiva |
