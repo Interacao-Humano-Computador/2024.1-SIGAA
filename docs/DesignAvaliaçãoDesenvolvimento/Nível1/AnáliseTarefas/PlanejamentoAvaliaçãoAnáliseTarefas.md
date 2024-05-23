@@ -77,7 +77,7 @@ A Tabela 2 apresenta um conjunto de perguntas formuladas para serem utilizadas d
 <p> 
 </div>
 
-As perguntas foram projetadas para obter uma compreensão detalhada das experiências e percepções dos participantes sobre a execução de tarefas no contexto do SIGAA na UNB. Elas abrangem aspectos desde a facilidade de seguir as tarefas até a eficiência e relevância das mesmas.
+As perguntas foram projetadas para obter uma compreensão detalhada das experiências e percepções dos participantes sobre a execução de tarefas no contexto do SIGAA na UNB. 
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
