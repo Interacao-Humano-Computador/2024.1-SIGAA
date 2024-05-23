@@ -103,3 +103,8 @@ Para padronizar o cronograma, apresentamos um exemplo na Tabela 1.
 ## Referência Bibliográfica
 
 - [1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-
+
+## Histórico de Versão
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação e realização do planejamento do protótipo de papel | Bruno Araújo | Larissa Stéfane | 22/05/2024 |
