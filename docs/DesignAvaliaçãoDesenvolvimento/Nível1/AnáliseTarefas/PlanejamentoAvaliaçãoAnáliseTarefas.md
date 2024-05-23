@@ -244,6 +244,7 @@ A decisão foi tomada de abordar as questões éticas de forma proativa e abrang
 
 Ao decidir como lidar com as questões éticas neste projeto, buscamos garantir que nossas atividades de análise de tarefas sejam conduzidas de forma ética, responsável e respeitosa, promovendo a confiança e o respeito dos usuários e outras partes interessadas.
 
+link para o [termo de consentimento](ignore/termoConsentimento.md)
 
 ## E Avaliar, interpretar e apresentar os dados
 Nessa etapa, será feita uma análise minuciosa dos dados obtidos, a fim de ratificar a confiabilidade dos dados obtidos e suprimir erros que possam surgir de dados outliers (valores atípicos), a fim de obter uma generalização que represente fielmente o contingente de usuários do sistema.
