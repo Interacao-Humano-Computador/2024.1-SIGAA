@@ -229,7 +229,7 @@ Nesta etapa, serão realizadas perguntas com base na temática do artefato avali
 
 3. **Você acha que as tarefas analisadas são relevantes para o contexto do sistema acadêmico? Por quê?**
 
-4. **As tarefas apresentadas na análise foram consistentes entre si e com o resto do sistema? Alguma tarefa pareceu destoar do fluxo geral? 
+4. **As tarefas apresentadas na análise foram consistentes entre si e com o resto do sistema? Alguma tarefa pareceu destoar do fluxo geral?**
 
 5. **Você acha que as tarefas precisam ser mais fáceis de executar na prática? Quais tarefas poderiam ser simplificadas?**
 
@@ -242,6 +242,7 @@ Nesta etapa, serão realizadas perguntas com base na temática do artefato avali
 9. **Os objetivos dos usuários são alcançados de maneira eficiente?**
 
 10. **Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas?**
+
 
 </details>
 
@@ -375,6 +376,10 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 ## Execução do Teste Piloto
+
+Abaixo, no vídeo 1, está a execução do teste piloto para a realização da avaliação com os usuários.
+
+Vídeo 1 no link: [Teste Piloto]().
 
 
 ## Conclusão
