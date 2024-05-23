@@ -330,10 +330,12 @@ Abaixo, na imagem 7, há a foto de como é o questionário de pós-avaliação c
 
 Para realizar as entrevistas, há um cronograma planejado com a data em que entrou em contato com o usuário e data marcada para a entrevista. Essas informações podem ser observadas na tabela 1.
 
+**Tabela 1:** Cronograma das reuniões
+
 | Funcionalidade | Entrevistado | Entrevistador | Data que entrou em contato | Data da entrevista | Horário da entrevista| Local da entrevista |
 | - | - | - | - | - | - | - |
-| Aba de Monitoria | Carlos Gabriel | Larissa Stéfane | 21/05/2024 | 23/05/2024 | 12:00 | Sala I4 ou Mesas do UED |
-| Aluguel de Sala | Isaque Santos | Larissa Stéfane | 21/05/2024 | 23/05/2024 | 13:00 | Sala I4 ou Mesas do UED |
+| Aba de Monitoria | Carlos Gabriel | Larissa Stéfane | 21/05/2024 | 24/05/2024 | 12:00 | Sala I4 ou Mesas do UED |
+| Aluguel de Sala | Isaque Santos | Larissa Stéfane | 21/05/2024 | 24/05/2024 | 13:00 | Sala I4 ou Mesas do UED |
 | Aba RU |  Limírio Correia Guimarães | Breno Alexandre Soares Garcia | 21/05/2024 |  28/05/2024 |  13:00 |  Alguma sala no UAC |
 | Matrículas | Debora Damasceno | Pedro Augusto | 21/05/2024 |  27/05/2024 |  15:00 | Local de encontro na UnB|
 | Grade Sugerida |  Leonardo Ramiro | Luana Medeiros | 21/05/2024 |  28/05/2024 |  13:00 | casa do usuário |
@@ -369,7 +371,7 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 **Tabela 2:** Planejamento do teste piloto
 
 | Integrante | Horário | Data|  Local |
-| - | - | - |
+| - | - | - | - | 
 | Larissa Stéfane | 18:00 | 22/05/2024 | Casa da integrante |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
