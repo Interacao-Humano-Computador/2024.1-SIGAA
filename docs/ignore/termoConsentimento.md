@@ -1,6 +1,6 @@
 **Observação:** Caso deseje voltar para o planejamento das entrevistas, clique aqui [Planejamento Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível1/planejamentoEntrevistas.md)
 
-**Observação:** Caso deseje voltar para o planejamento da avaliação da análise de tarefas, clique aqui [Planejamento da Avaliação da Análise de Tarefas](docs/DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md)
+**Observação:** Caso deseje voltar para o planejamento da avaliação da análise de tarefas, clique aqui [Planejamento da Avaliação da Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md)
 
 **Observação:** Caso deseje voltar para o planejamento da avaliação do Storyboard, clique aqui [Planejamento da Avaliação do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md)
 
