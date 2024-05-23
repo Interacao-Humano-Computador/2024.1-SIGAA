@@ -203,6 +203,7 @@ Ao lidar com questões éticas em avaliações, é essencial garantir que todos 
 
 Para metodologias que envolvam terceiros, como entrevistas com usuários, é fundamental que os participantes estejam cientes dos aspectos éticos envolvidos e assinem um termo de consentimento. Também é crucial garantir o respeito aos participantes e evitar qualquer prejuízo direto ou indireto, tanto durante os experimentos quanto após a divulgação dos resultados da avaliação. Ao seguir esses princípios éticos, os avaliadores podem conduzir avaliações de forma ética, protegendo os participantes e contribuindo para a melhoria dos projetos avaliados.
 
+Caso deseje verificar o termo de consentimento, clique em [Termo Consentimento](ignore/termoConsentimento.md)
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
