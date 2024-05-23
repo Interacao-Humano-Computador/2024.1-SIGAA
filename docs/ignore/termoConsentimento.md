@@ -1,5 +1,7 @@
 **Observação:** Caso deseje voltar para o planejamento das entrevistas, clique aqui [Planejamento Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível1/planejamentoEntrevistas.md)
 
+**Observação:** Caso deseje voltar para o planejamento da avaliação do Storyboard, clique aqui [Planejamento da Avaliação do Storyboard](docs/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md)
+
 # TERMO DE CONSENTIMENTO PARA TRATAMENTO DE DADOS
 
 ## Avaliação da Análise de Tarefas e do Storyboard
