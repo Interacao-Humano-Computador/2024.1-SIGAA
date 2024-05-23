@@ -81,9 +81,11 @@ Realize um teste piloto para garantir que o ambiente e os protótipos estejam co
 ### Cronograma
 Para padronizar o cronograma, apresentamos um exemplo na Tabela 1.
 
+Tabela 1: Cronograma.
+
 |    Data    | Horário de início e fim | Local            | Entrevistadores | Entrevistado |
 | :--------: | :---------------------: | :--------------: | :-------------: | ------------ |
-|            |                         |                  |                 |              |
+|     xx/xx/xxxx       |  HH | HH                       |   _____               |    --             | --             |
 
 ## Coleta e Análise de Dados
 
@@ -102,7 +104,7 @@ Para padronizar o cronograma, apresentamos um exemplo na Tabela 1.
 
 ## Referência Bibliográfica
 
-- [1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-
+1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-
 
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
