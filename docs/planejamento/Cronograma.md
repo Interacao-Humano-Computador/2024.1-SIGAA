@@ -228,6 +228,7 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 | Planejamento da Avaliação do Storyboard - Framework DECIDE - D - Lidando com as Questões Éticas | 22/05/2024 | Bruno Araújo | 22/05/2024 | Iago Passaglia |
 | Planejamento da Avaliação do Storyboard - Framework DECIDE - E - Avaliar, Interpretar e Apresentar os Dados | 22/05/2024 | Iago Passaglia | 22/05/2024 | Luana Medeiros |
 | Planejamento de Entrevistas e Planejamento do Teste Piloto | 22/05/2024 | Larissa Stéfane | 22/05/2024 | Bruno Araújo |
+| Termo de Consentimento para tratamento de dados | 22/05/2024 | Bruno Araújo | 22/05/2024 | Larissa Stéfane |
 | Cronograma da etapa 4 | 22/05/2024 | Luana Medeiros | 22/05/2024 | Luana Medeiros |
 | Criação do documento de apresentação e avaliação da etapa 4 | 22/05/2024 | Luana Medeiros | 22/05/2024 | Iago Passaglia |
 | Arrumar tela inicial do GitPage | 22/05/2024 | Pedro Izarias | 22/05/2024 | Bruno Araújo |
