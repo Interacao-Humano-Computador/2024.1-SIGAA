@@ -368,9 +368,9 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 
 **Tabela 2:** Planejamento do teste piloto
 
-| Integrante | Horário | Local |
+| Integrante | Horário | Data|  Local |
 | - | - | - |
-| Larissa Stéfane | 18:00 | Casa da integrante |
+| Larissa Stéfane | 18:00 | 22/05/2024 | Casa da integrante |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
