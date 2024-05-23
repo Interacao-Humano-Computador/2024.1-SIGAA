@@ -48,15 +48,16 @@ A avaliação da análise de tarefas levará em conta elementos de qualidade com
 
 ## E Explorar perguntas a serem respondidas
 
-Em uma avaliação, é essencial que o avaliador elabore perguntas específicas para cada objetivo definido. Essas perguntas são fundamentais para operacionalizar
+<div allign="justify">
+ 
+&emsp;&emsp; Em uma avaliação, é essencial que o avaliador elabore perguntas específicas para cada objetivo definido. Essas perguntas são fundamentais para operacionalizar
 a investigação e o julgamento de valor a serem realizados, garantindo que a avaliação seja focada e produtiva. As perguntas devem considerar o  perfil dos usuários-alvo e suas atividades, e são responsáveis por direcionar o processo de avaliação de maneira estruturada, como alguns objetivos norteados pelo livro de Barbosa e Silva, 2011.
 
 A Tabela 2 apresenta um conjunto de perguntas formuladas para serem utilizadas durante as entrevistas. Essas perguntas foram elaboradas com base nas sugestões encontradas no livro de Simone Barbosa e Bruno Diniz, e são fundamentais para avaliar o entendimento dos participantes sobre os fluxos de tarefas apresentados na Tabela 1.
 
+ </div>
 
 **Tabela 2**: Perguntas formuladas para a entrevista.
-
-
 
 | Ordem das Perguntas | Pergunta | Tipo de Pergunta |
 |---------------------|----------|------------------|
@@ -72,6 +73,9 @@ A Tabela 2 apresenta um conjunto de perguntas formuladas para serem utilizadas d
 | 10° | Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas? | Discursiva |
 
 
+<div align="center">
+<p> 
+</div>
 
 As perguntas foram projetadas para obter uma compreensão detalhada das experiências e percepções dos participantes sobre a execução de tarefas no contexto do SIGAA na UNB. Elas abrangem aspectos desde a facilidade de seguir as tarefas até a eficiência e relevância das mesmas.
 
