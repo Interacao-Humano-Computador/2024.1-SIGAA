@@ -124,7 +124,7 @@ Abaixo, na imagem 1, há a foto de como é o roteiro impresso.
 
 </details>
 
-Para realizar a avaliação, será necessário ter o consentimento do usuário para realizar a avaliação. Desse modo, é possível acessar o termo de consentimento em:
+Para realizar a avaliação, será necessário ter o consentimento do usuário para realizar a avaliação. Desse modo, é possível acessar o termo de consentimento pelo o link ou visualizá-lo nas imagens 3 e 4 em:
 
 Link: [Termo Consentimento](ignore/termoConsentimento.md)
 
