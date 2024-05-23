@@ -124,6 +124,33 @@ Abaixo, na imagem 1, há a foto de como é o roteiro impresso.
 
 </details>
 
+Para realizar a avaliação, será necessário ter o consentimento do usuário para realizar a avaliação. Desse modo, é possível acessar o termo de consentimento em:
+
+Link: [Termo Consentimento](ignore/termoConsentimento.md)
+
+<details>
+  <summary size="20"><b> Imagens do termo de Consentimento </b></summary> 
+
+  <div align="center">
+    Imagem 3:  Termo de consentimento página 1
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/ilovepdf_pages-to-jpg%20(5)/TERMO%20DE%20CONSENTIMENTO%20PARA%20TRATAMENTO%20DE%20DADOS_page-0001.jpg">
+    <br>
+     Fonte:  Bruno Araújo
+    <br>
+</div>
+
+<div align="center">
+    Imagem 4: Termo de consentimento página 2
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/ilovepdf_pages-to-jpg%20(5)/TERMO%20DE%20CONSENTIMENTO%20PARA%20TRATAMENTO%20DE%20DADOS_page-0002.jpg">
+    <br>
+     Fonte:  Bruno Araújo
+    <br>
+</div>
+
+</details>
+
 
 ## Questionário de Pré-Avaliação
 
@@ -171,13 +198,13 @@ Anotação:
 
 </details>
 
-Abaixo, as imagens 3 e 4 , há a foto de como é o questionário pré-avaliação.
+Abaixo, as imagens 5 e 6 , há a foto de como é o questionário pré-avaliação.
 
 <details>
   <summary size="20"><b> Questionário pré-avaliação </b></summary> 
 
 <div align="center">
-    Imagem 3:  Questionário pré-avaliação - parte 1
+    Imagem 5:  Questionário pré-avaliação - parte 1
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Question%C3%A1rios/ilovepdf_pages-to-jpg%20(3)/perguntas_pre-avaliacaoStoryboardTarefas/perguntas_pre-avaliacaoStoryboardTarefas_page-0001.jpg">
     <br>
@@ -186,7 +213,7 @@ Abaixo, as imagens 3 e 4 , há a foto de como é o questionário pré-avaliaçã
 </div>
 
 <div align="center">
-    Imagem 4:  Questionário pré-avaliação - parte 2
+    Imagem 6:  Questionário pré-avaliação - parte 2
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Question%C3%A1rios/ilovepdf_pages-to-jpg%20(3)/perguntas_pre-avaliacaoStoryboardTarefas/perguntas_pre-avaliacaoStoryboardTarefas_page-0002.jpg">
     <br>
@@ -196,12 +223,13 @@ Abaixo, as imagens 3 e 4 , há a foto de como é o questionário pré-avaliaçã
 
 </details>
 
+
 ## Questionário de Avaliação
 
 Nesta etapa, serão realizadas perguntas com base na temática do artefato avaliado. Desse modo, há perguntas para a etapa do StoryBoard e da Análise de Tarefas. Isso será feito após a apresentação com o intuito de garantir que o participante tenha compreendido cada detalhe, além disso elas servirão como um auxílio para o usuário ir eleborando ideias para responder a perguntas defininas no framework DECIDE.
 
 <details>
-  <summary size="20"><b>  Questionário Avaliação StoryBoard</b></summary> 
+  <summary size="20"><b>  Questionário Avaliação StoryBoard </b></summary> 
 
 #### Perguntas sobre o Storyboard.
 
@@ -262,13 +290,13 @@ Nesta etapa, serão realizadas perguntas com base na temática do artefato avali
 
 </details>
 
-Abaixo, as imagens 5 4 6, há a foto de como é o questionário de avaliação com as perguntas que serão realiadas no processo.
+Abaixo, as imagens 7 e 8, há a foto de como é o questionário de avaliação com as perguntas que serão realiadas no processo.
 
 <details>
   <summary size="20"><b> Questionário Avaliação </b></summary> 
 
 <div align="center">
-    Imagem 5:  Questionário Avaliação parte 1
+    Imagem 7:  Questionário Avaliação parte 1
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Question%C3%A1rios/ilovepdf_pages-to-jpg%20(3)/perguntas_AvaliacaoStoryboardTarefas/perguntas_AvaliacaoStoryboardTarefas_page-0001.jpg">
     <br>
@@ -277,7 +305,7 @@ Abaixo, as imagens 5 4 6, há a foto de como é o questionário de avaliação c
 </div>
 
 <div align="center">
-    Imagem 6:  Questionário Avaliação parte 2
+    Imagem 8:  Questionário Avaliação parte 2
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Question%C3%A1rios/ilovepdf_pages-to-jpg%20(3)/perguntas_AvaliacaoStoryboardTarefas/perguntas_AvaliacaoStoryboardTarefas_page-0002.jpg">
     <br>
@@ -310,13 +338,13 @@ Desse modo, abaixo, há o questionário de pós-avaliação
 </details>
 
 
-Abaixo, na imagem 7, há a foto de como é o questionário de pós-avaliação com as perguntas que serão realiadas no processo.
+Abaixo, na imagem 9, há a foto de como é o questionário de pós-avaliação com as perguntas que serão realiadas no processo.
 
 <details>
   <summary size="20"><b> Questionário pós-avaliação </b></summary> 
 
 <div align="center">
-    Imagem 7:  Questionário pós-avaliação.
+    Imagem 9:  Questionário pós-avaliação.
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/Question%C3%A1rios/ilovepdf_pages-to-jpg%20(3)/perguntas_po_avaliacaoStoryboard/perguntas_po_avaliacaoStoryboard_page-0001.jpg">
     <br>
