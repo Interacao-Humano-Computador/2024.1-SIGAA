@@ -103,4 +103,4 @@ Por fim, considerando que a atividade visa validar o artefato com o auxílio de 
 
 | Versão | Data       | Descrição                               | Autor(es)    | Revisor(es) |
 |--------|------------|-----------------------------------------|--------------|-------------|
-| `1.0`  | 22/05/2024 | Criação da documentação                 | Bruno Araújo | Larissa   |
+| `1.0`  | 22/05/2024 | Criação da documentação                 | Bruno Araújo | Larissa  Stéfane |
