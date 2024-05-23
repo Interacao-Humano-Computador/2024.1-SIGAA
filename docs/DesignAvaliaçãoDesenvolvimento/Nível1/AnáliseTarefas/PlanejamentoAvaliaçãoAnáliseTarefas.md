@@ -44,6 +44,8 @@ Conforme mencionado anteriormente, utilizaremos o framework DECIDE para executar
 
 ## D Determinar os objetivos
 
+A avaliação da análise de tarefas levará em conta elementos de qualidade como facilidade de uso, experiência do usuário, acessibilidade e capacidade de comunicação e tem como objetivo confirmar com o usuário do sistema se os artefatos desenvolvidos estão em conformidade com o padrão e com a realidade, além de identificar possíveis erros que possam ter passado despercebido aos olhos dos autores. Sendo assim, é de suma importância que a avaliação ocorra como o planejado neste documento.
+
 ## E Explorar perguntas a serem respondidas
 
 Em uma avaliação, é essencial que o avaliador elabore perguntas específicas para cada objetivo definido. Essas perguntas são fundamentais para operacionalizar
