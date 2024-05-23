@@ -11,7 +11,6 @@
 * [Questionário de Pós-Avaliação](#Questionário-de-Pós-Avaliação)
 * [Cronograma](#Cronograma)
 * [Planejamento do Teste Piloto](#Planejamento-do-Teste-Piloto)
-* [Execução do Teste Piloto](#Execução-do-Teste-Piloto)
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Referências Biblliográficas](#Referências-Biblliográficas)
@@ -375,11 +374,6 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-## Execução do Teste Piloto
-
-Abaixo, no vídeo 1, está a execução do teste piloto para a realização da avaliação com os usuários.
-
-Vídeo 1 no link: [Teste Piloto]().
 
 
 ## Conclusão
