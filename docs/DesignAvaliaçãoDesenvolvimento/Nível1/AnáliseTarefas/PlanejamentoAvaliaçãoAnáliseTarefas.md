@@ -55,18 +55,25 @@ A Tabela 2 apresenta um conjunto de perguntas formuladas para serem utilizadas d
 **Tabela 2**: Perguntas formuladas para a entrevista.
 | Ordem das Perguntas | Pergunta | Tipo de Pergunta |
 |---------------------|----------|------------------|
-| 1° | Qual seu nome completo? | Objetiva |
-| 2° | Qual sua idade? | Objetiva |
-| 3° | Qual sua ocupação? | Objetiva |
-| 4° | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnológicos? | Objetiva |
-| 5° | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? | Objetiva |
-| 6° | Você já utilizou algum site bancário, incluindo sites governamentais? | Objetiva |
-| 7° | Como você consultaria valores a receber, como heranças ou reembolsos de impostos? | Discursiva |
-| 8° | A sequência de processos na tarefa de consulta de valores a receber é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva |
-| 9° | Como você faria simulações sobre taxas de juros, aplicações ou financiamentos? | Discursiva |
-| 10° | A sequência de processos na tarefa da calculadora do cidadão é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva |
-| 11° | Como você se cadastraria em um curso de finanças online? | Discursiva |
-| 12° | A sequência de processos na tarefa de cadastro em cursos de finanças online é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva |
+| 1° | Como você descreveria seu grau de experiência e facilidade em utilizar o SIGAA? | Objetiva |
+| 2° | Com que frequência você usa a aba de bolsas no SIGAA? | Objetiva |
+| 3° | Você já solicitou bolsa de estudo através do SIGAA? | Objetiva |
+| 4° | Já teve dificuldades em se inscrever para uma bolsa através do SIGAA? Se sim, quais foram? | Discursiva |
+| 5° | Você já precisou mudar de bolsa de estudo? Se sim, como foi o processo? | Discursiva |
+| 6° | Como você faz para encontrar oportunidades de estágio no SIGAA? | Objetiva |
+| 7° | Você já teve dificuldades em se inscrever para um estágio através do SIGAA? Se sim, quais foram? | Discursiva |
+| 8° | Com que frequência você consulta seu histórico acadêmico no SIGAA? | Objetiva |
+| 9° | A sequência de processos na tarefa de consulta ao histórico acadêmico no SIGAA é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva |
+| 10° | Você já teve dificuldades em se matricular em disciplinas através do SIGAA? Se sim, quais foram? | Discursiva |
+| 11° | A sequência de processos na tarefa de matrícula em disciplinas no SIGAA é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva |
+| 12° | Com que frequência você usa a aba de monitoria no SIGAA? | Objetiva |
+| 13° | Você já teve dificuldades em solicitar uma monitoria através do SIGAA? Se sim, quais foram? | Discursiva |
+| 14° | Como você acessa informações sobre os professores e disciplinas oferecidas no SIGAA? | Objetiva |
+| 15° | A sequência de processos na tarefa de consulta a informações sobre professores e disciplinas no SIGAA é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva |
+| 16° | Com que frequência você consulta informações sobre o Restaurante Universitário no SIGAA? | Objetiva |
+| 17° | Você já teve dificuldades em acessar informações sobre o Restaurante Universitário no SIGAA? Se sim, quais foram? | Discursiva |
+| 18° | A sequência de processos na tarefa de consulta a informações sobre o Restaurante Universitário no SIGAA é coerente com o mundo real? Se não, poderia descrever o porquê? | Objetiva |
+| 19° | Quais melhorias você sugeriria para o SIGAA? | Discursiva 
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
