@@ -64,4 +64,4 @@ ASSINATURA DO TITULAR
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do termo de consentimento | Bruno Araújo e Larissa Stéfane | - | 22/05/2024 |
+| 1.0 | Criação do termo de consentimento | Bruno Araújo  | Larissa Stéfane | 22/05/2024 |
