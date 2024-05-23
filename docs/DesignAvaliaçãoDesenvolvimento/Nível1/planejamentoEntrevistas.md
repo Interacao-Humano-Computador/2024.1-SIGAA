@@ -53,45 +53,45 @@ Abaixo se encontrar o roteiro que o integrante do grupo deve seguir durante a en
 
 3. **Receber o participante:** Encontrar-se com o usuário no local na hora marcada.
 
-3. **Introduzir e explicar (5 a 10 minutos):**
+4. **Introduzir e explicar (5 a 10 minutos):**
   - Apresentar-se e explicar o objetivo da entrevista.
   - Solicitar a assinatura do Termo de Consentimento Livre e Esclarecido (TCLE).
   - Fornecer visão geral da sessão.
 
 (início da gravação)
 
-4. **Aplicar questionário pré-avaliação (3 a 10 minutos):** Coletar informações sobre o perfil do usuário e suas experiências anteriores.
+5. **Aplicar questionário pré-avaliação (3 a 10 minutos):** Coletar informações sobre o perfil do usuário e suas experiências anteriores.
 
-5. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
+6. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
 
-6. **Apresentar o storyboard (até 10 minutos):**
+7. **Apresentar o storyboard (até 10 minutos):**
   - Explicar os elementos e apresentar a análise textual.
   - Mostrar o storyboard em material impresso.
   - Se o usuário se sentir a vontade, solicitar que ele pense em voz alta (think aloud) enquanto lê o storyboard.
   - Anotar a primeira opinião que o usuário tem sobre o contexto do storyboard.
 
-7. **Avaliação do storyboard (Até 10 minutos):**
+8. **Avaliação do storyboard (Até 10 minutos):**
   - Realizar o questionário de avaliação.
   -  Anotar a opinião sobre o storyboard após o questionário.
 
-8. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
+9. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
 
-9. **Apresentar a análise de tarefas (até 10 minutos)**
+10. **Apresentar a análise de tarefas (até 10 minutos)**
 - Mostrar a análise de tarefas usando dispositivos eletrônicos ou material impresso.
 - Explicar cada etapa da análise de tarefas.
 - Anotar a primeira opinião que o usuário tem sobre a análise de tarefas.
 
-10. **Avaliação da análise de tarefas (até 10 minutos):**
+11. **Avaliação da análise de tarefas (até 10 minutos):**
    - Realizar o questionário de avaliação.
    -  Anotar a opinião sobre a análise de tarefas após o questionário.
 
-11. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
+12. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
 
-12. **Realizar perguntas direcionadas aos objetivos (Até 10 minutos)**: Realizar as perguntas de acordo com o objetivo de IHC.
+13. **Realizar perguntas direcionadas aos objetivos (Até 10 minutos)**: Realizar as perguntas de acordo com o objetivo de IHC.
 
-13. **Aplicar questionário pós-avaliação (3 a 10 minutos):** Coletar feedback do usuário com a funcionalidade em geral.
+14. **Aplicar questionário pós-avaliação (3 a 10 minutos):** Coletar feedback do usuário com a funcionalidade em geral.
 
-14. **Agradecer e encerrar:**
+15. **Agradecer e encerrar:**
    -  Agradecer ao participante pelo tempo e contribuições.
    - Reforçar sobre a confidencialidade das respostas.
 
