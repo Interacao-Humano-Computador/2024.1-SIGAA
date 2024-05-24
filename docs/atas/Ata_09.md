@@ -79,11 +79,12 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 <p align="center"> Tabela 3. Issues Sprint atual </p>
 
-| Identificador (Issue n) | Issue                               | Integrante(s) responsável(eis)             | Data de entrega |
-| ----------------------- | ----------------------------------- | ------------------------------------------ | --------------- |
-| Issue 1                 | Realizar a Ata da reunião           | Breno Alexandre                            | 23/05/2024      |
-| Issue 2                 | Upar vídeo da reunião               | Breno Alexandre                            | 23/05/2024      |
-| Issue 3                 | Protótipo de papel com usuários     | Breno, Bruno, Iago, Larissa, Luana e Pedro | 29/05/2024      |
+| Identificador (Issue n) | Issue                                     | Integrante(s) responsável(eis)             | Data de entrega |
+| ----------------------- | ----------------------------------------- | ------------------------------------------ | --------------- |
+| Issue 1                 | Realizar a Ata da reunião                 | Breno Alexandre                            | 23/05/2024      |
+| Issue 2                 | Upar vídeo da reunião                     | Breno Alexandre                            | 23/05/2024      |
+| Issue 3                 | Preencher cronograma planejado da etapa 4 | Larissa Stéfane                            | 23/05/2024      |
+| Issue 4                 | Protótipo de papel com usuários           | Breno, Bruno, Iago, Larissa, Luana e Pedro | 29/05/2024      |
 
 <center> 
 
