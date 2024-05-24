@@ -1,6 +1,6 @@
 # Reunião 09
 
-O vídeo 1 indica a reunião 9
+O vídeo 1 indica a reunião 9.
 
 <center> 
 <p align="center"> Vídeo 1: IHC - Reunião 9. </p>
@@ -22,7 +22,7 @@ Caso não consiga ver o vídeo, acesse [aqui](https://www.youtube.com/watch?v=J7
 - **Horário de início: 22:00
 - **Duração:** 13:16
 - **Local:** Teams
-- Link da [reunião 8](https://www.youtube.com/watch?v=J71XCL8qQpE)
+- Link da [reunião 9](https://www.youtube.com/watch?v=J71XCL8qQpE)
 
 
 ## Participantes
