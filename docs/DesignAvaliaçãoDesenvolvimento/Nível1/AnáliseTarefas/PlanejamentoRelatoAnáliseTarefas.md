@@ -49,7 +49,7 @@ O método adotado consiste na observação e entrevista dos usuários, seguindo 
 
 ### Seleção dos Participantes
 
-Após o preenchimento do cronograma, será necessário uma justificativa da seleção do entrevistado, se ele se encaixa no perfil de usuário definido no projeto. É necessário que os entrevistados possam ter uma semelhança com nosso elenco de personas, pois são o público-alvo que se deseja atingir e desta forma captar quais são os desejos dos usuários do Bilheteria Digital. No caso, os participantes escolhidos e explicitados na tabela acima estão de acordo com o perfil de usuário e apresentam entre 20 e 35 anos. No entanto, esse detalhe deve ser reforçado no relato dos resultados.
+Após o preenchimento do cronograma, será necessário uma justificativa da seleção do entrevistado, se ele se encaixa no perfil de usuário definido no projeto. É necessário que os entrevistados possam ter semelhança com o elenco de personas, pois são o público-alvo que se deseja atingir e desta forma captar quais se adequam ao projeto. No caso, os participantes a serem escolhidos e explicitados na tabela devem corresponder ao perfil de usuário, composto por usuários do SIGAA-UnB.
 
 ### Problemas e Dificuldades Encontradas
 
@@ -103,4 +103,5 @@ Por fim, considerando que a atividade visa validar o artefato com o auxílio de 
 
 | Versão | Data       | Descrição                               | Autor(es)    | Revisor(es) |
 |--------|------------|-----------------------------------------|--------------|-------------|
-| `1.0`  | 22/05/2024 | Criação do Relato Análise de Tarefas           | Bruno Araújo | Larissa  Stéfane |
+| 1.0  | 22/05/2024 | Criação do Relato Análise de Tarefas           | Bruno Araújo | Larissa  Stéfane |
+ 1.1  | 28/05/2024 | Correção ortográfica  | Bruno Araújo   | -- |
