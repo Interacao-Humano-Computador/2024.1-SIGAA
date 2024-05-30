@@ -75,6 +75,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | Issue 11 |  Corrigir metas de usabilidade, indicar o motivo da escolha e como será aplicado | Pedro e Luana | 31/05/2024 |
 | Issue 12 |  Corrigir guia de estilo: Tirar do figma e trazer as informações para dentro do projeto | Breno | 31/05/2024 |
 | Issue 13 |  Especificar no guia de estilo quais elementos nos principios gerais serão implementados | Iago e Bruno | 31/05/2024 |
+| Issue 12 |  Refazer planejamento do relato do storyboard | Breno | 31/05/2024 |
 
 ## Histórico de Versão
 
