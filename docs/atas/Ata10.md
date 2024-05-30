@@ -4,10 +4,10 @@
 
 ## Data, Horário, Duração e Local
 
-- **Data:** 28/05/2024
-- **Horário de início previsto:** 21:00.
-- **Horário de início:** 
-- **Duração:** 
+- **Data:** 30/05/2024
+- **Horário de início previsto:** 11:45.
+- **Horário de início:** 12:06
+- **Duração:** 26 minutos
 - **Local:** Teams 
 - **Link da reunião:** 
 
@@ -43,10 +43,10 @@ De acordo com o tema discutido, é definido o que foi decidido. Esses pontos pod
 
 | Identificador (Dn) | Decisão |
 | - | - |
-| D1 |  | 
-| D2 |  |
-| D3 |  |
-| D4 |  |
+| D1 | A organização está complicada, vamos ter que focar nas tarefas principais primeiro e depois nas secundárias. | 
+| D2 | Vai ser realizado uma revisão geral do grupo. |
+| D3 | Tem que decidir como será a organização para isso, devido ao tempo, não sabemos como manejar. |
+| D4 | Vai ter uma reunião no sábado para verificar o andamento de cada um e outra no domingo para a gravação. |
 
 
 ## Decisões:
@@ -82,3 +82,5 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | Versão | Alteração                                                                  | Responsável                    | Revisor        | Data |
 | ------ | -------------------------------------------------------------------------- | ------------------------------ | -------------- | ----- |
 | 1.0    | Criação da base da Ata da Reunião                                          | Larissa Stéfane  | - | 28/05/2024 |
+| 1.1    | Preencher a ata de reunião                                         | Larissa Stéfane  | - | 30/05/2024 |
+
