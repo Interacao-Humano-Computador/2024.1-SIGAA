@@ -30,7 +30,7 @@ Os presentes na reunião foram:
 
 - Breno Alexandre Soares Garcia
 - Bruno Cunha Vasconcelos de Araújo
-- Iago Passaglia Perereia
+- Iago Passaglia Pereira
 - Luana de Lima Medeiros
 - Pedro Augusto Dourado Izarias
 
