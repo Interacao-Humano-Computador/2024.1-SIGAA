@@ -1,5 +1,18 @@
 # Reunião 10
 
+O vídeo 1 indica a reunião 10.
+
+<center> 
+<p align="center"> Vídeo 1: IHC - Reunião 10. </p>
+
+<iframe width="700" height="800" src="https://www.youtube-nocookie.com/embed/C6ZmS7_TWRs?si=JQxB9t01iN25GFf-" title="IHC - Reunião 10" frameborder="0" allow="accelerometer; 
+  autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+
+Caso não consiga ver o vídeo, acesse [aqui](https://www.youtube.com/watch?v=C6ZmS7_TWRs).
+</center>
+
 ## Ata da reunião do dia 28/05
 
 ## Data, Horário, Duração e Local
@@ -9,12 +22,17 @@
 - **Horário de início:** 12:06
 - **Duração:** 26 minutos
 - **Local:** Teams 
-- **Link da reunião:** 
+- **Link da reunião:** - [Reunião 10](https://www.youtube.com/watch?v=C6ZmS7_TWRs).
 
 ## Participantes
 
 Os presentes na reunião foram:
 
+- Breno Alexandre Soares Garcia
+- Bruno Cunha Vasconcelos de Araújo
+- Iago Passaglia Pereira
+- Larissa Stéfane Barboza Santos
+- Pedro Augusto Dourado Izarias
 
 
 ## Pontos de Discussão Importantes
@@ -79,8 +97,8 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 
 ## Histórico de Versão
 
-| Versão | Alteração                                                                  | Responsável                    | Revisor        | Data |
-| ------ | -------------------------------------------------------------------------- | ------------------------------ | -------------- | ----- |
-| 1.0    | Criação da base da Ata da Reunião                                          | Larissa Stéfane  | - | 28/05/2024 |
-| 1.1    | Preencher a ata de reunião                                         | Larissa Stéfane  | - | 30/05/2024 |
+| Versão | Alteração                                                                  | Responsável     | Revisor         | Data       |
+| ------ | -------------------------------------------------------------------------- | ------- ------- | --------------- | ---------- |
+| 1.0    | Criação da base da Ata da Reunião                                          | Larissa Stéfane | Breno Alexandre | 28/05/2024 |
+| 1.1    | Preencher a ata de reunião                                                 | Larissa Stéfane | Breno Alexandre | 30/05/2024 |
 
