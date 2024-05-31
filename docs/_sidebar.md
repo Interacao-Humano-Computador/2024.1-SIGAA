@@ -6,7 +6,7 @@
   - [Heatmap](Equipe/Heatmap.md)
     
 * Reuniões
-  - [Ata 1](atas/Ata01.md)
+  - [Ata 1](atas/Ata_01.md)
   - [Ata 2](atas/Ata_02.md)
   - [Ata 3](atas/Ata_03.md)
   - [Ata 4](atas/Ata_04.md)
@@ -15,7 +15,7 @@
   - [Ata 7](atas/Ata_07.md)
   - [Ata 8](atas/Ata_08.md)
   - [Ata 9](atas/Ata_09.md)
-  - [Ata 10](atas/Ata10.md)
+  - [Ata 10](atas/Ata_10.md)
 
 * Apresentações
   - [Apresentação 01](Entregas/Entrega01.md)
