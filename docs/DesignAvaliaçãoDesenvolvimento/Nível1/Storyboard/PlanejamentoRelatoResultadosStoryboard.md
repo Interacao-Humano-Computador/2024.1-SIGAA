@@ -19,7 +19,7 @@
 Este documento organiza a coleta de dados na avaliação do storyboard, conforme o [Planejamento da Avaliação do Storyboard](PlanejamentoAvaliaçãoStoryboard.md). Seu objetivo é estruturar os dados para identificar melhorias no sistema SIGAA e sugerir redesigns pelo grupo. O foco deste artefato é no planejamento, não nos resultados. Portanto, os resultados do planejamento serão detalhados no relatório final.
 
 ## Metodologia
-Com base nos tópicos abordados além da avaliação de intersujeito descrita por Barbosa e Silva (2021, p.279)[¹](#Referências-Bibliográficas/1) e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
+Com base nos tópicos abordados além da avaliação de intersujeito descrita por Barbosa e Silva (2021, p.279)[¹](#Referências-Bibliográficas) e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
 
 - Objetivo e escopo da avaliação
 - Método de avaliação
