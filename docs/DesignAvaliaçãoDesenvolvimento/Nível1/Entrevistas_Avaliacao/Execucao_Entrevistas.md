@@ -171,8 +171,8 @@ Em selecionar o horário, para deixar mais organizado, o usuário seleciona entr
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Larissa Stéfane | - | 30/05/2024 |
-| 1.1 | Adicionar entrevista do aluguel de sala | Larissa Stéfane | - | 30/05/2024 |
+| 1.0 | Criação do documento | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
+| 1.1 | Adicionar entrevista do aluguel de sala | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
 
 
 
