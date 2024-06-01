@@ -30,6 +30,24 @@ Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habi
 | **1. Selecionar a opção trancar 1>2** | **Input:** Seleção da opção "Trancar".<br>**Feedback:** A página listando as matérias aparece.<br>**Plano:** Tornar simples a escolha de matérias para trancar. |
 | **2. Realizar o trancamento** | **Input:** Selecionar matérias para trancar e clicar em "Solicitar trancamento".<br>**Feedback:** A resposta sobre o sucesso do trancamento aparece.<br>**Plano:** Oferecer uma apresentação das informações de forma simples e de fácil acesso. |
 
+### Diagrama de Atividades
+
+Para facilitar a visualização de tarefas, a figura 1 mostra o diagrama:
+
+ <div align="center">
+    Figura 1: Diagrama HTA da ação de realizar matrícula
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/HTArealizarmatricula.png">
+    <br>
+     Fonte: Pedro Izarias
+    <br>
+</div>
+
+
+Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA Realizar matrícula](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/HTArealizarmatricula.png)
+
+
+
 ## Conclusão
 Como observado, a avaliação HTA das funções de realização de matrícula e trancamento de matrícula revelou uma complexidade na estrutura das tarefas e interações envolvidas. Ao desmembrar cada fase em metas, sequências de procedimentos, abordagens e orientações, pudemos examinar detalhadamente as atividades dos usuários e detectar pontos cruciais.
 
