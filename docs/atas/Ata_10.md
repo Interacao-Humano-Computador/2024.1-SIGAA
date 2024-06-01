@@ -79,7 +79,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | - | - | - | - |
 | Tópico  | Resultados das avaliações | ---------- | ----- |
 | Issue 1 |  Realizar a entrevista para a avaliação do storyboard e da análise de tarefas. | Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
-| Issue 2 | Preencher os resultados do storyboard (Vai ter uma sesão para cada funcionalidade)  |  Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
+| Issue 2 | Preencher os resultados do storyboard (Vai ter uma sessão para cada funcionalidade)  |  Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
 | Issue 3 | Elaborar uma nova versão do storyboard corrigida com a sugestões do usuário (se houver) |  Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
 | Issue 4 | Preencher os resultados da análise de tarefas (Vai ter uma sessão para cada funcionalidade) |  Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
 | Issue 5 | Elaborar uma nova versão da análise de tarefas corrigida com a sugestões do usuário. (se houver) | Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
