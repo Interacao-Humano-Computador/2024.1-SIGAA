@@ -18,6 +18,12 @@ Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habi
 | **1. Selecionar a opção Realizar matrícula 1>2** | **Input:** Seleção da opção "Selecionar matrícula" cdentro da parte de Matrícula On-line.<br>**Feedback:** A página de escolha de matérias é mostrada.<br>**Plano:** Garantir que os campos de filtro sejam simples de usar e abrangentes em suas opções. |
 | **2. Preencher e filtrar as matérias 2>3** | **Input:** Preenchimento das informações necessárias no formulário e seleção da opção "Confirmar".<br>**Feedback:** Mensagem de sucesso para a matéria adicionada.<br>**Plano:** Confirmar se o formulário foi preenchido corretamente. |
 | **3. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
+| **3. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
+| **3. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
+| **3. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
+| **3. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
+| **3. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
+| **3. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
 
 ## Tabela 2: Trancamento de matrícula
 **Introdução:** Esta tabela descreve o processo pelo qual discentes passam para realizar o trancamento de uma ou várias disciplinas.
