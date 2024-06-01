@@ -9,8 +9,6 @@ A Análise Hierárquica de Tarefas (HTA) é uma técnica metodológica amplament
 
 Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habilidade em organizar de forma clara e sistemática as interações complexas entre os usuários e o sistema do SIGAA, especificamente em relação à aba de Ensino e a parte de matrícula. Essa metodologia facilita a identificação e análise de problemas, possibilitando otimizações que têm o potencial de aprimorar substancialmente a experiência do usuário e a eficiência do sistema.
 
-# Análise Hierárquica de Tarefas (HTA) para a opção de Realizar Matrícula no SIGAA
-
 ## Tabela 1:  Realização de matrícula
 **Introdução:** Esta seção abrange todas as operações relacionadas a realização de matrícula, permitindo aos discentes, realizar matrícula em matérias durante o período previsto.
 
