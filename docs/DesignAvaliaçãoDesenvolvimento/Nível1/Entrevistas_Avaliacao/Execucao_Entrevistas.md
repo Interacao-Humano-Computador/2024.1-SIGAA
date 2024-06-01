@@ -27,6 +27,10 @@ Com base nisso, a avaliação do storyboard e da análise de tarefas para o alug
 <iframe width="700" height="600" src="https://www.youtube.com/embed/Ju3S8haCitM" title="AValiação do Storyboard e Análise de tarefas - Funcionalidade: Aluguel de sala." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watch?v=Ju3S8haCitM)
+
+Termo de consentimento do participante João Pedro em [Termo João Pedro](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/termos/joaoPedro.md)
 ### Perguntas Respondidas Durante a Entrevista
 
 <details>
