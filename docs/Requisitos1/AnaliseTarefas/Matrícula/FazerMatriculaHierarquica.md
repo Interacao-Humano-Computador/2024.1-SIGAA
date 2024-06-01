@@ -44,6 +44,17 @@ Para facilitar a visualização de tarefas, a figura 1 mostra o diagrama:
 
 Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA Realizar matrícula](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/HTArealizarmatricula.png)
 
+ <div align="center">
+    Figura 2: Diagrama HTA da ação de trancamento de matrícula
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/HTAtrancamento.png">
+    <br>
+     Fonte: Pedro Izarias
+    <br>
+</div>
+
+
+Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA Realizar matrícula](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/HTArealizarmatricula.png)
 
 
 ## Conclusão
