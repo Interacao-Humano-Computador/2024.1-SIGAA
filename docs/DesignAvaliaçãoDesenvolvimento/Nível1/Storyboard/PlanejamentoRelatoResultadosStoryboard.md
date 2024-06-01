@@ -3,7 +3,15 @@
 ## Sumário
 - [Introdução](#Introdução)
 - [Metodologia](#Metodologia)
-- 
+  - [Objetivo e Escopo da Avaliação](#Objetivo-e-Escopo-da-Avaliação)
+  - [Método de Avaliação](#Método-e-Avaliação)
+  - [Seleção dos Participantes](#Seleção-dos-Participantes)
+  - [Problemas e Dificuldades Encontrados](#Problemas-e-Dificuldades-Encontrados)
+  - [Sugestões de Melhoria](#Sugestões-de-Melhoria)
+  - [Feedback dos Usuários](#Feedback-dos-Usuários)
+  - [Análise e Interpretação dos Resultados](#Análise-e-Interpretação-dos-Resultados)
+  - [Sumários dos Principais Resultados](#Sumário-dos-Principais-Resultados)
+  - [Planejamento de Reprojeto](#Planejamento-de-Reprojeto)
 - [Referências Bibliográficas](#Referências-Bibliográficas)
 - [Histórico de Versão](#Histórico-de-Versão)
 
@@ -13,20 +21,20 @@ Este documento organiza a coleta de dados na avaliação do storyboard, conforme
 ## Metodologia
 Com base nos tópicos abordados além da avaliação de intersujeito descrita por Barbosa e Silva (2021, p.279)[¹](#Referências-Bibliográficas/1) e adaptando-os para o documento a ser desenvolvido pela equipe, esses vão incluir:
 
-* Objetivo e escopo da avaliação
-* Método de avaliação
-* Seleção dos participantes
-* Problemas e dificuldades encontradas
-* Sugestões de melhoria
-* Feedback dos usuários
-* Análise e interpretação dos usuários
-* Sumários dos principais resultados
-* Planejamento de reprojeto
+- Objetivo e escopo da avaliação
+- Método de avaliação
+- Seleção dos participantes
+- Problemas e dificuldades encontradas
+- Sugestões de melhoria
+- Feedback dos usuários
+- Análise e interpretação dos usuários
+- Sumários dos principais resultados
+- Planejamento de reprojeto
 
-### Objetivo e escopo da avaliação
+### Objetivo e Escopo da Avaliação
 Nesta etapa, o redator do documento deve explicar a razão pela qual a avaliação está sendo realizada e descrever o objetivo que o grupo pretende alcançar com a análise de storyboards. Isso envolve justificar a importância da avaliação, esclarecer as expectativas e metas estabelecidas e fornecer uma visão geral do propósito e do contexto da avaliação.
 
-### Método de avaliação
+### Método de Avaliação
 O método utilizado envolve a observação e entrevista dos usuários, seguindo um modelo pré-definido. O entrevistador deve seguir o cronograma das entrevistas de maneira uniforme, garantindo a consistência e clareza dos relatórios. Cada entrevista deve incluir uma tabela com informações pertinentes à análise. Abaixo está um cronograma projetado, sujeito a ajustes conforme necessário:
 
 | Entrevistadores(s) | Entrevistado(s)    | Horário de Início | Horário de Fim | Data     | Local |
@@ -37,7 +45,7 @@ O método utilizado envolve a observação e entrevista dos usuários, seguindo 
 ### Seleção dos Participantes
 Após a definição do cronograma, será necessária uma justificativa para a seleção dos entrevistados, demonstrando que eles se encaixam no perfil de usuário definido no projeto. É fundamental que os entrevistados se assemelhem ao perfil de personas, pois são o público-alvo desejado. Os participantes escolhidos e listados na tabela devem corresponder ao perfil de usuários do SIGAA-UnB.
 
-### Problemas e Dificuldades Encontradas
+### Problemas e Dificuldades Encontrados
 Nesta seção, o entrevistador deve listar detalhadamente os problemas e dificuldades específicos encontrados pelos usuários durante as entrevistas. Isso inclui registrar de maneira clara e objetiva cada obstáculo, erro, falha ou desafio enfrentado pelo usuário ao interagir com o sistema ou produto avaliado.
 
 | Problema Encontrado | Descrição | Prioridade |
