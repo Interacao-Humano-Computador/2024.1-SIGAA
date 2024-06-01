@@ -54,7 +54,7 @@ Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em
 </div>
 
 
-Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA Realizar matrícula](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/HTArealizarmatricula.png)
+Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA Trancamento de matrícula](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/HTAtrancamento.png)
 
 
 ## Conclusão
