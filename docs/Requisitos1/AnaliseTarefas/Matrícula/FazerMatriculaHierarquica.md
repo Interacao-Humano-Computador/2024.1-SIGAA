@@ -67,4 +67,4 @@ Como observado, a avaliação HTA das funções de realização de matrícula e 
 | Versão | Alteração                                   | Responsável   | Revisor         | Data       |
 | ------ | ------------------------------------------- | ------------- | --------------- | ---------- |
 | 1.0    | Criação e realização da análise hierárquica | Pedro Izarias | Breno Alexandre | 05/05/2024 |
-
+| 1.1    | Adição dos diagramas | Pedro Izarias | - | 01/06/2024 |
