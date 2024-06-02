@@ -7,6 +7,10 @@
 * [Conclusão](#Conclusão)
 * [Histórico de Versão](#Histórico-de-Versão)
 
+## Introdução
+
+Este documento apresenta as gravações e as transcrições das respostas fornecidas pelos participantes durante as entrevistas de avaliação do storyboard e da análise de tarefas para as funcionalidades trabalhadas neste projeto do SIGAA. Dessa forma, os objetivos dessas entrevistas foram coletar as opiniões e identificar possíveis áreas de melhoria a partir da perspectiva dos usuários finais. 
+
 ## Entrevistas por Funcionalidade
 
 <details>
