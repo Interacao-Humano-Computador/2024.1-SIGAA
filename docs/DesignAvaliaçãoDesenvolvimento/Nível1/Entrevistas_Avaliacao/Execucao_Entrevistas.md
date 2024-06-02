@@ -169,7 +169,9 @@ Em selecionar o horário, para deixar mais organizado, o usuário seleciona entr
 
  </details>
 
+## Conclusão
 
+As entrevistas de avaliação do storyboard e da análise de tarefas forneceram uma visão mais focada na experiência do usuário e na eficiência das propostas apresentadas. Com isso, elas revelaram tanto pontos fortes quanto áreas que necessitam de melhorias e, com base nos feedbacks recebidos, será possível implementar ajustes e aperfeiçoamentos que garantirão um sistema mais intuitivo, funcional.
 
 
 ## Histórico de Versão
@@ -177,6 +179,7 @@ Em selecionar o horário, para deixar mais organizado, o usuário seleciona entr
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
 | 1.1 | Adicionar entrevista do aluguel de sala | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
+| 1.2 | Adicionar introdução e conclusão | Larissa Stéfane | - | 01/06/2024 |
 
 
 
