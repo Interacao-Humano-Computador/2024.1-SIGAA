@@ -309,8 +309,7 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
 - A parte de selecionar o convnio fora do formulário é a menos intuitiva e a parte mais instuitiva é poder efetuar o processo de forma online.
-
-- 
+  
 **3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
 - Acredita que sim.
    
