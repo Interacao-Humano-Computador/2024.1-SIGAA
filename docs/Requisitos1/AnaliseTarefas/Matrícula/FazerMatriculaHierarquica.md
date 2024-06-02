@@ -28,12 +28,11 @@ Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habi
 | **3. Inserir CPF e senha 1+2** | **Input:** Preenchimento de CPF e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
 | **3.1. Selecionar a opção de Confirmar matrícula** | **Input:** Seleção da opção de Confirmar matrícula.<br>**Feedback:** O comprovante de matrícula aparecerá na tela.<br>**Plano:** Assegurar a escolha do usuário. |
 </details>
+## Tabela 2: Trancamento de matrícula
+**Introdução:** Esta tabela descreve o processo pelo qual discentes passam para realizar o trancamento de uma ou várias disciplinas.
 
 <details>
  <summary size="20"><b> Tabela de Trancamento de matrícula </b></summary> 
-
-## Tabela 2: Trancamento de matrícula
-**Introdução:** Esta tabela descreve o processo pelo qual discentes passam para realizar o trancamento de uma ou várias disciplinas.
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
@@ -44,8 +43,10 @@ Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habi
 
 ### Diagrama de Atividades
 
-Para facilitar a visualização de tarefas, a figura 1 mostra o diagrama:
+Para facilitar a visualização de tarefas, as figuras a seguir, mostram os diagramas:
 
+<details>
+ <summary size="20"><b> Diagrama de Realizar Matrícula </b></summary> 
  <div align="center">
     Figura 1: Diagrama HTA da ação de realizar matrícula
     <br>
@@ -53,11 +54,14 @@ Para facilitar a visualização de tarefas, a figura 1 mostra o diagrama:
     <br>
      Fonte: Pedro Izarias
     <br>
+  
+ Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA Realizar matrícula](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/HTArealizarmatricula.png)
+
 </div>
+</details>
 
-
-Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA Realizar matrícula](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/HTArealizarmatricula.png)
-
+<details>
+ <summary size="20"><b> Diagrama de Trancamento de Matrícula </b></summary> 
  <div align="center">
     Figura 2: Diagrama HTA da ação de trancamento de matrícula
     <br>
@@ -65,10 +69,9 @@ Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em
     <br>
      Fonte: Pedro Izarias
     <br>
-</div>
-
-
+  
 Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA Trancamento de matrícula](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/HTAtrancamento.png)
+</div>
 
 
 ## Conclusão
