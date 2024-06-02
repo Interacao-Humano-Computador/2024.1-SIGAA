@@ -367,6 +367,7 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 | Aba RU |  Limírio Correia Guimarães | Breno Alexandre Soares Garcia | 21/05/2024 |  28/05/2024 |  13:00 |  Alguma sala no UAC |
 | Matrículas | Debora Damasceno | Pedro Augusto | 21/05/2024 |  27/05/2024 |  15:00 | Local de encontro na UnB|
 | Grade Sugerida |  Leonardo Ramiro | Luana Medeiros | 21/05/2024 |  28/05/2024 |  13:00 | casa do usuário |
+| Solicitação de bolsa |  Matheus Orrico | Bruno Araújo | 21/05/2024 |  29/05/2024 |  13:00 | casa do usuário |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
