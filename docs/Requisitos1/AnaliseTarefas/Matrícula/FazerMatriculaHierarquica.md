@@ -28,6 +28,7 @@ Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habi
 | **3. Inserir CPF e senha 1+2** | **Input:** Preenchimento de CPF e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
 | **3.1. Selecionar a opção de Confirmar matrícula** | **Input:** Seleção da opção de Confirmar matrícula.<br>**Feedback:** O comprovante de matrícula aparecerá na tela.<br>**Plano:** Assegurar a escolha do usuário. |
 </details>
+
 ## Tabela 2: Trancamento de matrícula
 **Introdução:** Esta tabela descreve o processo pelo qual discentes passam para realizar o trancamento de uma ou várias disciplinas.
 
