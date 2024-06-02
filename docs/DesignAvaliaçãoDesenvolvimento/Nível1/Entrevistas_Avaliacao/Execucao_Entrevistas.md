@@ -329,7 +329,7 @@ As entrevistas de avaliação do storyboard e da análise de tarefas forneceram 
 | 1.0 | Criação do documento | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
 | 1.1 | Adicionar entrevista do aluguel de sala | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
 | 1.2 | Adicionar introdução e conclusão | Larissa Stéfane | Iago Passaglia | 01/06/2024 |
-| 1.3 | Correção de erros ortográgicos e adição <br> da entrevista de estágio| Iago Passaglia  | - | 01/06/2024 |
+| 1.3 | Correção de erros ortográgicos e adição <br> da entrevista de estágio| Iago Passaglia  | Bruno Araújo | 01/06/2024 |
 
 
 
