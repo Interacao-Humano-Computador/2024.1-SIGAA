@@ -98,7 +98,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 ## Histórico de Versão
 
 | Versão | Alteração                                                                  | Responsável     | Revisor         | Data       |
-| ------ | -------------------------------------------------------------------------- | ------- ------- | --------------- | ---------- |
+| ------ | -------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação da base da Ata da Reunião                                          | Larissa Stéfane | Breno Alexandre | 28/05/2024 |
 | 1.1    | Preencher a ata de reunião                                                 | Larissa Stéfane | Breno Alexandre | 30/05/2024 |
 
