@@ -20,7 +20,7 @@ Este documento apresenta as gravações e as transcrições das respostas fornec
   
 Uma das funcionalidades criadas é o aluguel de sala que tem o objetivo de facilitar o processo de aluguel para os estudantes.
 
-Para visualizar o storyboard dessa funcionalidade clique em [Sotryboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md)
+Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md)
 
 Para visualizar a análise de tarefas dessa funcionalidade clique em [Análise de Tarefas]()
 
@@ -179,7 +179,7 @@ Em selecionar o horário, para deixar mais organizado, o usuário seleciona entr
   
 ### Funcionalidade: Pré-cadastro de estágio
 
-Para visualizar o storyboard dessa funcionalidade clique em [Sotryboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md)
+Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md)
 
 Para visualizar a análise de tarefas dessa funcionalidade clique em [Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards)
 
