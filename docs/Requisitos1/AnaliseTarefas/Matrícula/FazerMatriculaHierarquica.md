@@ -37,9 +37,15 @@ Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habi
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
-| **0. Acessar Trancamento de matrícula** | **Input:** Seleção da opção "Trancamento de matrícula na aba Ensino".<br>**Feedback:** Serão exibidas as opções de Trancar e Exibir andamento do trancamento.<br>**Plano:** Garantir que as opções e processos sejam claros e compreensíveis. |
-| **1. Selecionar a opção trancar 1>2** | **Input:** Seleção da opção "Trancar".<br>**Feedback:** A página listando as matérias aparece.<br>**Plano:** Tornar simples a escolha de matérias para trancar. |
-| **2. Realizar o trancamento** | **Input:** Selecionar matérias para trancar e clicar em "Solicitar trancamento".<br>**Feedback:** A resposta sobre o sucesso do trancamento aparece.<br>**Plano:** Oferecer uma apresentação das informações de forma simples e de fácil acesso. |
+| **0. Trancamento de matrícula 1>2** | **Input:** O usuário precisa realizar o trancamento de matrícula em matérias da universidade.<br>**Feedback:** O sistema deve possibilitar que o usuário faça o trancamento com facilidade.<br>**Plano:** Assegurar que as opções disponíveis sejam claramente visíveis e compreensíveis. |
+| **1 Selecionar a aba Ensino 1>2** | **Input:** Seleção da opção "Ensino" no menu .<br>**Feedback:** Uma aba com todas as opções de ensino aparece na tela.<br>**Plano:** Garantir que a aba Ensino tenha as opções corretas. |
+| **1.1. Escolher a opção Trancamento de Matrícula 1>2** | **Input:** Escolher a opção Trancamento de matrícula na aba Ensino.<br>**Feedback:** Deve abrir uma aba com mais opções de trancamento de matrícula.<br>**Plano:** Mostrar para o usuário todas as opções relacionadas. |
+| **1.2. Escolher opção Trancar** | **Input:** O usuário deve escolher a opção Trancar.<br>**Feedback:** Uma nova página deve abrir com as matérias que podem ser trancadas.<br>**Plano:** Mostrar ao usuário as matérias para trancamento. |
+| **2. Selecionar matérias a serem trancadas** | **Input:** Seleção das matérias a serem trancadas por checkbox.<br>**Feedback:** As caixa de seleção de cada matéria deve ficar com um check dentro.<br>**Plano:** Confirmar as matérias escolhidas. |
+| **2.1. Informar justificativa para o trancamento** | **Input:** Informar a justificativa para trancamento das matérias escolhidas.<br>**Feedback:** O sistema deve exibir um "check" dentro do elemento escolhido.<br>**Plano:** Informar ao sistema a justificativa para a ação. |
+| **3. Inserir CPF e senha 1+2** | **Input:** Preenchimento de CPF e senha de usuário.<br>**Feedback:** Os dados aparecem no campo de texto.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
+| **3.1. Selecionar a opção de Confirmar solicitação** | **Input:** Seleção da opção de Confirmar solicitaç
+ão.<br>**Feedback:** O comprovante de matrícula aparecerá em outra página na tela.<br>**Plano:** Assegurar a escolha do usuário. |
 </details>
 
 ## Diagrama de Atividades
