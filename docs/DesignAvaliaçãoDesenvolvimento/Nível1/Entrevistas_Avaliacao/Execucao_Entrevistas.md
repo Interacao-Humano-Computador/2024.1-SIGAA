@@ -20,7 +20,7 @@ Este documento apresenta as gravações e as transcrições das respostas fornec
   
 Uma das funcionalidades criadas é o aluguel de sala que tem o objetivo de facilitar o processo de aluguel para os estudantes.
 
-Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md)
+Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards[s](url))
 
 Para visualizar a análise de tarefas dessa funcionalidade clique em [Análise de Tarefas]()
 
@@ -58,11 +58,11 @@ Termo de consentimento do participante João Pedro em [Termo João Pedro](Design
 
 - Média
 
-Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?
+**5.Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?**
 
 - Sim.
 
-Qual é o seu principal objetivo ao usar sistemas acadêmicos?
+**6.Qual é o seu principal objetivo ao usar sistemas acadêmicos?**
 
 - No geral, facilitar a realização de alguns procedimentos.
 
@@ -179,9 +179,9 @@ Em selecionar o horário, para deixar mais organizado, o usuário seleciona entr
   
 ### Funcionalidade: Pré-cadastro de estágio
 
-Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md)
+Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards)
 
-Para visualizar a análise de tarefas dessa funcionalidade clique em [Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards)
+Para visualizar a análise de tarefas dessa funcionalidade clique em [Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-SIGAA/#/Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica)
 
 Com base nisso, a avaliação do storyboard e da análise de tarefas para o pré-cadastro de estágios pode ser visualizado no vídeo 1:
 
@@ -216,11 +216,11 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 - Boa/Alta
 
-Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?
+**5.Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?**
 
 - Sim.
 
-Qual é o seu principal objetivo ao usar sistemas acadêmicos?
+**6.Qual é o seu principal objetivo ao usar sistemas acadêmicos?**
 
 - Resolver assuntos relacionados a faculdade com mais praticidade.
 
