@@ -44,7 +44,7 @@ Termo de consentimento do participante João Pedro em [Termo João Pedro](Design
 -  **Nome completo**: João Pedro Santiago Garcia
 -  **Idade**: 25 anos
 -  **Gênero**: Masculino
--   **urso ou área de Estudo/Trabalho**: Engenharia Aeroespacial no oitavo semestre.
+-   **Curso ou área de Estudo/Trabalho**: Engenharia Aeroespacial no oitavo semestre.
   
 **2. Com que frequência você usa computadores ou dispositivos móveis?**
 
@@ -169,6 +169,156 @@ Em selecionar o horário, para deixar mais organizado, o usuário seleciona entr
 
  </details>
 
+
+
+
+
+
+<details>
+  <summary size="20"><b> Estágio </b></summary> 
+  
+### Funcionalidade: Pré-cadastro de estágio
+
+Para visualizar o storyboard dessa funcionalidade clique em [Sotryboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md)
+
+Para visualizar a análise de tarefas dessa funcionalidade clique em [Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards)
+
+Com base nisso, a avaliação do storyboard e da análise de tarefas para o pré-cadastro de estágios pode ser visualizado no vídeo 1:
+
+**Vídeo 1:** Entrevista Avaliação sobre a funcionalidade Aluguel de sala.
+
+<iframe width="700" height="600" src="https://www.youtube.com/watch?v=yuGTIJrQU8g" title="AValiação do Storyboard e Análise de tarefas - Funcionalidade: Pré-cadastro de estágioo." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Autor:** [Iago Passaglia](https://github.com/Paxxaglia)
+
+Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watch?v=yuGTIJrQU8g)
+
+### Perguntas Respondidas Durante a Entrevista
+
+<details>
+  <summary size="20"><b> Questionário de Pré-Avaliação </b></summary> 
+
+**1. Dados Demográficos**:
+-  **Nome completo**: Ana Caroline Porto
+-  **Idade**: 20 anos
+-  **Gênero**: Feminino
+-   **Curso ou área de Estudo/Trabalho**: Nutrição, quinto semestre.
+  
+**2. Com que frequência você usa computadores ou dispositivos móveis?**
+
+- Diariamente.
+
+**3.Qual o seu nível de familiaridade com o uso de software acadêmico, em geral?**
+
+- Nível médio.
+
+**4.Como você classifica suas habilidades gerais com tecnologia?**
+
+- Boa/Alta
+
+Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?
+
+- Sim.
+
+Qual é o seu principal objetivo ao usar sistemas acadêmicos?
+
+- Resolver assuntos relacionados a faculdade com mais praticidade.
+
+  </details>
+
+<details>
+  <summary size="20"><b> Questionário sobre o Storyboard </b></summary> 
+
+### Questionário de avaliação Storyboard
+
+**1. O que você achou do storyboard apresentado? Houve algum elemento que se destacou positiva ou negativamente?**
+- Gostou do storyboard mas adicionaria o processo de como ela chegou no site do sigaa para preencher o formulário 
+  
+**2. O storyboard foi claro e fácil de entender? Quais partes, se houver, foram confusas ou difíceis de seguir?**
+- Sim, achou claro no geral, apenas a parte de como ela chegou no processo foi confusa.
+  
+**3. Você acha que o storyboard reflete bem as necessidades e as expectativas dos usuários? Por quê?**
+- Segundo a estudante, as necessidades foram refletidas. Já as expectativas não, pois o estudante espera conseguir resolver todas as etapas do processo de forma online, o que não é o caso.
+
+**4. Você acha que a solução apresentada no storyboard é relevante e eficaz para o problema mostrado? Por quê?**
+- Sim.
+
+**5. De que maneira você acha que a solução apresentada no storyboard poderia impactar a vida dos usuários?**
+- Acredita que a solução impacta na vida do usuário pois traz mais praticidade para o dia a dia e para resolver problemas de forma online.
+
+</details>
+
+<details>
+  <summary size="20"><b> Questionário sobre a análise de tarefas </b></summary> 
+
+### Questionário de Avaliação Análise de tarefas
+
+**1. A análise de tarefas foi fácil de seguir? Houve alguma etapa que você achou particularmente complicada ou mal explicada?**
+- Ela acha que sim e que as etapas estão bem estabelecidas.
+  
+**2. A sequência das tarefas fez sentido para você? Alguma etapa pareceu fora de ordem ou confusa?**
+- Ele acredita que a sequência das tarefas fazem sentido e em uma ordem correta e esperada.
+
+**3. Você acha que as tarefas analisadas são relevantes para o contexto do sistema acadêmico? Por quê?**
+- Acredita que esteja bem organizada e não me pareceu confusa em nenhuma das etapas
+
+**4. As tarefas apresentadas na análise foram consistentes entre si e com o resto do sistema? Alguma tarefa pareceu destoar do fluxo geral?**
+- Sim, foram consistentes. As tarefas parecem de acordo com o fluxo geral.
+
+**5. Você acha que as tarefas precisam ser mais fáceis de executar na prática? Quais tarefas poderiam ser simplificadas?**
+- A usuária alega que todo o processo poderia ser online, e não apenas parte dele, como é mostrado.
+
+**6. Quais são as principais dificuldades que os usuários enfrentam ao executar as tarefas propostas?**
+- Ana Caroline ressaltou que a falta de instruções ou tutoriais pode ser uma dificuldade que os usuários podem enfrentar eventualmente.
+
+**7. As tarefas são intuitivas e fáceis de entender?**
+- Sim.
+
+**8. Existem etapas desnecessárias ou confusas no fluxo das tarefas?**
+- Acredita que todas as etapas são necessárias para o processo.
+
+**9. Os objetivos dos usuários são alcançados de maneira eficiente?**
+- Ela acredita que sim.
+
+**10. Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas?**
+- Acredita que não, mas enfatiza que a parte do convênio dentro do sistema deve ter informações sobre o que se trata. Ja que nem todos os usuários podem entender com facilidade.
+
+
+</details>
+
+<details>
+  <summary size="20"><b> Questionário de avaliação conforme os objetivos </b></summary> 
+
+**1. Quais são os pontos fortes e fracos do sistema, na opinião dos usuários**
+- Pontos fortes: o aluno pode resolver a maior parte das pêndencia online.
+- Pontos fracos: Algumas partes do processo devem ser feitas fora do sistema.
+
+**2. Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? Quais necessidades e desejos foram ou não atendidos?**
+- Conforme foram apresentados, a usuária concordou que o unico objetivo que não pode ser alcançado na tarefa é a questão de integrar todos os processos do estágio no sistema.
+
+**3. A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?**
+- sim, integrando o formulário de termo de compromisso com a empresa contratante.
+
+ </details>
+
+<details>
+  <summary size="20"><b> Questionário de de pós-avaliação </b></summary> 
+
+**1. Como você descreveria sua satisfação geral com a experiência de uso observada?**
+- Satisfeita.
+
+**2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
+- A parte de selecionar o convnio fora do formulário é a menos intuitiva e a parte mais instuitiva é poder efetuar o processo de forma online.
+
+- 
+**3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
+- Acredita que sim.
+   
+  </details>
+
+ </details>
+
+
 ## Conclusão
 
 As entrevistas de avaliação do storyboard e da análise de tarefas forneceram uma visão mais focada na experiência do usuário e na eficiência das propostas apresentadas. Com isso, elas revelaram tanto pontos fortes quanto áreas que necessitam de melhorias e, com base nos feedbacks recebidos, será possível implementar ajustes e aperfeiçoamentos que garantirão um sistema mais intuitivo, funcional.
@@ -179,7 +329,8 @@ As entrevistas de avaliação do storyboard e da análise de tarefas forneceram 
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
 | 1.1 | Adicionar entrevista do aluguel de sala | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
-| 1.2 | Adicionar introdução e conclusão | Larissa Stéfane | - | 01/06/2024 |
+| 1.2 | Adicionar introdução e conclusão | Larissa Stéfane | Iago Passaglia | 01/06/2024 |
+| 1.3 | Correção de erros ortográgicos e adição <br> da entrevista de estágio| Iago Passaglia  | - | 01/06/2024 |
 
 
 
