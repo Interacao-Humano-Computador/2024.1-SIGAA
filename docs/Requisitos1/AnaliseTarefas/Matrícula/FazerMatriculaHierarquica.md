@@ -12,18 +12,25 @@ Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habi
 ## Tabela 1:  Realização de matrícula
 **Introdução:** Esta seção abrange todas as operações relacionadas a realização de matrícula, permitindo aos discentes, realizar matrícula em matérias durante o período previsto.
 
+<details>
+ <summary size="20"><b> Tabela de Realizar Matrícula </b></summary> 
+
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|----------------------------|
-| **0. Realizar matrícula** | **Input:** Seleção da opção "Matrícula On-line" no menu Ensino.<br>**Feedback:** Exibição da lista com as opções de matrícula disponíveis.<br>**Plano:** Assegurar que as opções disponíveis sejam claramente visíveis e compreensíveis. |
-| **1 Selecionar a aba Ensino 1>2** | **Input:** Seleção da opção "Selecionar matrícula" cdentro da parte de Matrícula On-line.<br>**Feedback:** A página de escolha de matérias é mostrada.<br>**Plano:** Garantir que os campos de filtro sejam simples de usar e abrangentes em suas opções. |
-| **1.1. Preencher e filtrar as matérias 2>3** | **Input:** Preenchimento das informações necessárias no formulário e seleção da opção "Confirmar".<br>**Feedback:** Mensagem de sucesso para a matéria adicionada.<br>**Plano:** Confirmar se o formulário foi preenchido corretamente. |
-| **1.2. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
-| **2. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
-| **2.1. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
-| **2.2. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
-| **2.3. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
-| **3. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
-| **3.1. Confirmação de matrícula** | **Input:** Preenchimento de CPF ou data de nascimento e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
+| **0. Realizar matrícula** | **Input:** O usuário precisa realizar a matrícula em matérias da universidade.<br>**Feedback:** O sistema deve possibilitar que o usuário faça a matrícula com facilidade.<br>**Plano:** Assegurar que as opções disponíveis sejam claramente visíveis e compreensíveis. |
+| **1 Selecionar a aba Ensino 1>2** | **Input:** Seleção da opção "Ensino" no menu .<br>**Feedback:** Uma aba com todas as opções de ensino aparece na tela.<br>**Plano:** Garantir que a aba Ensino tenha as opções corretas. |
+| **1.1. Escolher a opção Matrícula On-line 1>2** | **Input:** Escolher a opção Matrícula On-line na aba Ensino.<br>**Feedback:** Deve abrir uma aba com mais opções de matrícula.<br>**Plano:** Mostrar para o usuário todas as opções relacionadas. |
+| **1.2. Escolher opção Realizar Matrícula** | **Input:** O usuário deve escolher a opção Realizar Matrícula.<br>**Feedback:** Uma nova página deve abrir com mais informações sobre a matrícula.<br>**Plano:** Informar ao usuário sobre as datas de matrícula. |
+| **2. Selecionar a opção iniciar a seleção de turmas** | **Input:** Seleção da opção "Iniciar seleção de Turmas".<br>**Feedback:** Uma nova página deve ser aberta com as turmas a serem selecionadas.<br>**Plano:** Confirmar a opção do usuário. |
+| **2.1. Selecionar matérias a serem feitas** | **Input:** Seleção por meio de checkbox das matérias desejadas.<br>**Feedback:** O sistema deve exibir um "check" dentro do elemento escolhido.<br>**Plano:** Tornar mais intuitiva a confirmação de escolha. |
+| **2.2. Selecionar opção Adicionar Turmas Selecionadas** | **Input:** Seleção da opção adicionar turmas selecionadas.<br>**Feedback:** O sistema deve abrir uma página com as matérias escolhidas.<br>**Plano:** Confirmar com o usuário as matérias escolhidas. |
+| **2.3. Selecionar opção confirmar matrícula** | **Input:** Seleção da opção Confirmar matrícula.<br>**Feedback:** Uma outra página deve abrir com os inputs de CPF e senha.<br>**Plano:** Confirmar a identidadedo usuário. |
+| **3. Inserir CPF e senha 1+2** | **Input:** Preenchimento de CPF e senha de usuário.<br>**Feedback:** Mensagem positiva quanto á adição da matrícula.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
+| **3.1. Selecionar a opção de Confirmar matrícula** | **Input:** Seleção da opção de Confirmar matrícula.<br>**Feedback:** O comprovante de matrícula aparecerá na tela.<br>**Plano:** Assegurar a escolha do usuário. |
+</details>
+
+<details>
+ <summary size="20"><b> Tabela de Trancamento de matrícula </b></summary> 
 
 ## Tabela 2: Trancamento de matrícula
 **Introdução:** Esta tabela descreve o processo pelo qual discentes passam para realizar o trancamento de uma ou várias disciplinas.
@@ -33,6 +40,7 @@ Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habi
 | **0. Acessar Trancamento de matrícula** | **Input:** Seleção da opção "Trancamento de matrícula na aba Ensino".<br>**Feedback:** Serão exibidas as opções de Trancar e Exibir andamento do trancamento.<br>**Plano:** Garantir que as opções e processos sejam claros e compreensíveis. |
 | **1. Selecionar a opção trancar 1>2** | **Input:** Seleção da opção "Trancar".<br>**Feedback:** A página listando as matérias aparece.<br>**Plano:** Tornar simples a escolha de matérias para trancar. |
 | **2. Realizar o trancamento** | **Input:** Selecionar matérias para trancar e clicar em "Solicitar trancamento".<br>**Feedback:** A resposta sobre o sucesso do trancamento aparece.<br>**Plano:** Oferecer uma apresentação das informações de forma simples e de fácil acesso. |
+</details>
 
 ### Diagrama de Atividades
 
