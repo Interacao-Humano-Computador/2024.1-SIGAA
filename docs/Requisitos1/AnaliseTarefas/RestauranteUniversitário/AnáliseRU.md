@@ -51,7 +51,7 @@ Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, h
     0. Acessar Funcionalidade de Recarga de Créditos (1/2)
      1. Escolher Opção de Recarga (1>2)
        1.1 Opção de Cartão de Crédito ou Débito (1/2)
-         1.1.1 Inserir Valor a Ser Recarregado (1+2)
+         1.1.1 Inserir Valor a ser Recarregado (1+2)
            1.1.1.1 Digitar Valor Desejado para Recarga
          1.1.2 Inserir Detalhes do Cartão de Crédito (1+2)
            1.1.2.1 Número do Cartão
@@ -61,14 +61,14 @@ Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, h
            1.1.3.1 Autorizar Pagamento
            1.1.3.2 Verificar Transação Aprovada
        1.2 Opção de Boleto Bancário (1/2)
-         1.2.1 Gerar Boleto com Valor a Ser Pago (1>2)
+         1.2.1 Gerar Boleto com Valor a ser Pago (1>2)
            1.2.1.1 Gerar Boleto com Dados do Pagador
            1.2.1.2 Emitir Boleto com Valor Adequado
          1.2.2 Realizar Pagamento do Boleto (1>2)
            1.2.2.1 Efetuar Pagamento através do Banco ou Internet Banking
            1.2.2.2 Confirmar Pagamento do Boleto
        1.3 Opção de PIX (1/2)
-         1.3.1 Inserir Valor a Ser Recarregado (1>2)
+         1.3.1 Inserir Valor a ser Recarregado (1>2)
            1.3.1.1 Digitar Valor Desejado para Recarga
          1.3.2 Gerar QR Code para Pagamento via PIX (1>2)
            1.3.2.1 Gerar Código QR com Dados da Transação
@@ -118,33 +118,44 @@ Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, h
 Para facilitar a visualização das tarefas, a figura 1 mostra o diagrama:
 
  <div align="center">
-    Figura 1: Diagrama HTA da Consulta de Saldo
+    Figura 1: Diagrama HTA da aba RU
     <br>
-    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAconsultaSaldo.png">
+    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU.png">
     <br>
-     Fonte: Breno Alexandre
+    <strong> Autor: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
     <br>
 </div>
 
 <br>
 
-Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA da Consulta de Saldo](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAconsultaSaldo.png)
+Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA da aba RU](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU.png)
 
 ### Tabela de Análise
-A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcionalidade de consulta de saldo.
+As tabelas de 1 a 4 mostram a tabela da análise hierárquica de tarefas sobre as funcionalidades.
 
 <details>
-  <summary size="20"><b> Tabela de Análise </b></summary> 
+  <summary size="20"><b> Tabelas de Análise </b></summary> 
 <br>
+<center>
    
 **Tabela 1**: Análise Hierárquica de consulta de saldo.
 
 | Objetivos/Operações                           | Relações | Problemas e Recomendações                                                                                                                                                                           |
 | --------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0. Realizar Consulta de Saldo                 | 1 > 2    | **Input**: Necessidade de consultar o saldo no RU.<br>**Feedback**: O sistema carrega os dados.<br>**Plano**: Mostrar o saldo atual do estudante.<br>**Recomendação**: Prosseguir para a aba do RU. |
-| 1. Clicar na aba de Restaurante Universitário |          | **Input**: Clicar na aba.<br>**Feedback**: Mostra o saldo atual.<br>**Plano:** Checar o saldo do estudante.<br>**Recomendação**: Nenhuma.                                                           |
+| 0. Realizar Consulta de Saldo                 | 1/2      | **Input**: Necessidade de consultar o saldo no RU.<br>**Feedback**: O sistema carrega os dados.<br>**Plano**: Mostrar o saldo atual do estudante.<br>**Recomendação**: Prosseguir para a aba do RU. |
+| 1. Clicar na aba de Restaurante Universitário | 1>2      | **Input**: Clicar na aba.<br>**Feedback**: Mostra o saldo atual.<br>**Plano:** Checar o saldo do estudante.<br>**Recomendação**: Nenhuma.                                                           |
+<strong> Autor: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
-**Fonte:** [Breno Alexandre](https://github.com/brenoalexandre0)
+**Tabela 2**: Análise Hierárquica da Recarga de Créditos.
+
+| Objetivos/Operações                           | Relações | Problemas e Recomendações                                                                                                                                                                           |
+| --------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Realizar Consulta de Saldo                 | 1/2      | **Input**: Necessidade de consultar o saldo no RU.<br>**Feedback**: O sistema carrega os dados.<br>**Plano**: Mostrar o saldo atual do estudante.<br>**Recomendação**: Prosseguir para a aba do RU. |
+| 1. Clicar na aba de Restaurante Universitário | 1>2      | **Input**: Clicar na aba.<br>**Feedback**: Mostra o saldo atual.<br>**Plano:** Checar o saldo do estudante.<br>**Recomendação**: Nenhuma.                                                           |
+<strong> Autor: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+
+
+</center>
 </details>
 
 ## GOMS
