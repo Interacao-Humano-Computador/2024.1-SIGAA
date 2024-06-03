@@ -38,7 +38,7 @@ Como foi definido no planejamento, o método utilizado foi a inspeção por meio
 | ------------------ | ------------------ | ----------------- | -------------- | -------- | ----- |
 | Larissa Stéfane | João Pedro Garcia | 13:10 | 13:40 | 23/05/2024 | FGA-UnB- Sala S8 |
 | Larissa Stéfane | Leonardo Machado | 12:30 | 13:10 | 28/05/2024 | FGA-UnB- Sala S9 |
-| Pedro Izarias | Erika Iwakiri | 15:00 | 15:30 | 02/06/2024 | Casa |
+| Pedro Izarias | Erika Iwakiri | 15:00 | 15:40 | 02/06/2024 | Casa |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -57,7 +57,7 @@ Durante as entrevistas para avaliar as análises de tarefas, foram escolhidos pa
 | ------------------ | ------------------ | ----------------- | -------- |
 | Larissa Stéfane | João Pedro Garcia | <li> Estudante de engenharia aeroespacial na FGA-UnB no oitavo semestre. <br> <li> É do gênero masculino e tem 25 anos. <br> <li> Utiliza computadores e dispositivos móveis com frequência. <br> <li> Seu nível de habilidade com tecnologia é médio. <br> <li> Sua familiaridade com uso de sistemas acadêmicos é médio/baixo.| Aluguel de Sala |
 | Larissa Stéfane | Leonardo Machado |  <li> Estudante de engenharia de software na FGA-UnB no sétimo semestre. <br> <li> É do gênero masculino e tem 21 anos. <br> <li> Utiliza computadores e dispositivos móveis diariamente. <br> <li> Seu nível de habilidade com tecnologia é alto. <br> <li> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. | Aba de monitoria |
-
+| Pedro Izarias | Erika Iwakiri |  <li> Estudante de  de Letras - Tradução Inglês do Departamento de Linguas Estrangeiras e Tradução da UnB. <br> <li> É do gênero Feminino e tem 22 anos. <br> <li> Utiliza computadores e dispositivos móveis diariamente. <br> <li> Seu nível de habilidade com tecnologia é alto. <br> <li> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. | Realizar Matrícula |
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
@@ -75,6 +75,7 @@ Durante a análise dos resultados das entrevistas, diversos problemas foram iden
 | ------------------- | --------- | ---------- | ------- |
 | Aluguel de Sala |  <li> Formato de como o horário será representado e como será apresentado o formulário | O usuário relatou que permitir ao usuário escolher o horário de forma discursiva pode trazer problemas devido à falta de organização provocada por horários quebrados, por exemplo, 13:33. <br> <li> O usuário acredita que o formulário pode ser simplificado, pois a pessoa entra na sua conta, então, qualquer tarefa que ela realizar já vai ter os seus dados vinculados automaticamente. O ideal só para colher informações sobre o motivo do aluguel |  <li> Fazer o usuário selecionar os horários em tabelas já definidas, por exemplo, estrutura do heatmap. <br> <li> O formulário passa a ser apenas uma pergunta: “Qual o motivo para o aluguel” |
 | Aba de monitoria |  <li> A definição do local da turma de modo mais intuitivo e com complexidade elevada e desnecessária nos meios de comunicação entre monitores e estudantes. |  <li> Para selecionar uma turma, pode ser complexo definir o local dela, uma vez que algumas não são definidas por endereços, mas sim por unidades. <br> <li> O monitor e os estudantes podem ficar confusos sobre qual meio de comunicação utilizar e alguns podem acabar não sendo utilizados e ficarem defasados. |  <li> Seguir o mesmo caminho/estrutura que a realização de matrículas. <br> <li> Retirar a opção de comunicação exclusiva pelo SIGAA e permitir ao monitor ter liberdade para escolher as opções de como se comunicar com os estudantes. |
+| Realizar Matrícula |  <li> A relação entre os objetivos que compõem o diagrama não faz sentido. |  <li> Relação entre os objetivos está incorreta <br> <li> Os símbolos das relações entre os objetivos não condiz com o sistema, por exemplo na parte de escolher turmas a serem feiras e adicionar turmas selecionadas, o símbolo deve ser 1/2 e não 1>2, pois podem ser realizadas de maneira independente. |  <br> <li> Colocar o símbolo de 1/2 para objetivos que possam ser concomitantes. |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
