@@ -119,7 +119,7 @@ Após as sugestões de melhorias e com os feedbacks, foi possível reformular e 
 
 <div align="center">
 
-Imagem 1: Reformulação do Aluguel de Sala
+FIgura 1: Reformulação do Aluguel de Sala
 
 <br>
 
@@ -127,7 +127,7 @@ Imagem 1: Reformulação do Aluguel de Sala
 
 <br>
 
-Fonte: Larissa Stéfane
+Autora: Larissa Stéfane
 
 <br>
 
@@ -144,7 +144,7 @@ Fonte: Larissa Stéfane
 
 <div align="center">
 
-Imagem 2: Reformulação da Aba de monitoria
+Figura 2: Reformulação da Aba de monitoria
 
 <br>
 
@@ -152,7 +152,7 @@ Imagem 2: Reformulação da Aba de monitoria
 
 <br>
 
-Fonte: Larissa Stéfane
+Autora: Larissa Stéfane
 
 <br>
 
