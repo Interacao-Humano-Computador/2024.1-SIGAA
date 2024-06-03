@@ -4,21 +4,13 @@
 ## Sumário
 
 * [Introdução](#Introdução)
-
 * [Metodologia](#Metodologia)
-
 * [Entrevistas Executadas](#Entrevistas-Executadas)
-
 * [Apresentação dos Usuários](#Apresentação-dos-Usuários)
-
 * [Problemas Encontrados e Soluções](#Problemas-Encontrados-e-Soluções)
-
 * [Feedback dos Usuários](#Feedback-dos-Usuários)
-
 * [Correção dos Storyboard](#Correção-dos-Storyboards)
-
 * [Referências Bibliográficas](#Referências-Bibliográficas)
-
 * [Histórico de Versão](#Histórico-de-Versão)
 
 
