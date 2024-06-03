@@ -76,6 +76,10 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ### Planejado
 
+<details>
+
+<summary size="20"><b> Entrega 2 - Cronograma Planejado </b></summary> 
+
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
 <p align="center"> Tabela 3. Perfil dos Usuários </p>
@@ -95,7 +99,13 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0) e [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
+</details>
+
 ### Executado
+
+<details>
+
+<summary size="20"><b> Entrega 2 - Cronograma executado </b></summary>
 
 Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega.
 
@@ -153,6 +163,8 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 | Atualizar o Cronograma                                                               | 09/05/2024 | 10/05/2024 | Breno Alexandre                            | -                                          | -                       |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
+
+</details>
 
 ## Entrega 3 - Princípios Gerais de Projeto
 
