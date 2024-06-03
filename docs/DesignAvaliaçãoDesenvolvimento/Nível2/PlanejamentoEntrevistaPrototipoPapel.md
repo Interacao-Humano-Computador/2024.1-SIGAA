@@ -21,7 +21,7 @@
 ## Introdução
 
 
-O planejamento das entrevistas para a avaliação do protótipo de papel das funcionalidades do SIGAA funciona como um guia para auxiliar os integrantes do grupo a realizarem a avaliação de forma prática e padrão. Desta maneira, este documento apresenta o roteiro das entrevistas e inclui os questionários de pré-avaliação, avaliação e pós-avaliação. Além disso, este documento expõe o cronograma para a realização das entrevistas, o que garante uma organização dentro dos prazos estabelecidos. Assim como também, neste planejamento, também serão disponibilizados vídeos dos testes pilotos.
+O planejamento das entrevistas para a avaliação do protótipo de papel das funcionalidades do SIGAA funciona como um guia para auxiliar os integrantes do grupo a realizarem a avaliação de forma prática e padrão. Desta maneira, este documento apresenta o roteiro das entrevistas e inclui os questionários de pré-avaliação, avaliação e pós-avaliação. Além disso, este documento expõe o cronograma para a realização das entrevistas, o que garante uma organização dentro dos prazos estabelecidos. Assim como também, neste planejamento, serão disponibilizados vídeos dos testes pilotos.
 
 
 ## Metodologia
