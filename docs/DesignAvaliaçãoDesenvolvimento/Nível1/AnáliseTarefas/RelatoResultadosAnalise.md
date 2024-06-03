@@ -76,7 +76,7 @@ Durante a análise dos resultados das entrevistas, diversos problemas foram iden
 | ------------------- | --------- | ---------- | ------- |
 | Aluguel de Sala |  <li> Formato de como o horário será representado e como será apresentado o formulário | O usuário relatou que permitir ao usuário escolher o horário de forma discursiva pode trazer problemas devido à falta de organização provocada por horários quebrados, por exemplo, 13:33. <br> <li> O usuário acredita que o formulário pode ser simplificado, pois a pessoa entra na sua conta, então, qualquer tarefa que ela realizar já vai ter os seus dados vinculados automaticamente. O ideal só para colher informações sobre o motivo do aluguel |  <li> Fazer o usuário selecionar os horários em tabelas já definidas, por exemplo, estrutura do heatmap. <br> <li> O formulário passa a ser apenas uma pergunta: “Qual o motivo para o aluguel” |
 | Aba de monitoria |  <li> A definição do local da turma de modo mais intuitivo e com complexidade elevada e desnecessária nos meios de comunicação entre monitores e estudantes. |  <li> Para selecionar uma turma, pode ser complexo definir o local dela, uma vez que algumas não são definidas por endereços, mas sim por unidades. <br> <li> O monitor e os estudantes podem ficar confusos sobre qual meio de comunicação utilizar e alguns podem acabar não sendo utilizados e ficarem defasados. |  <li> Seguir o mesmo caminho/estrutura que a realização de matrículas. <br> <li> Retirar a opção de comunicação exclusiva pelo SIGAA e permitir ao monitor ter liberdade para escolher as opções de como se comunicar com os estudantes. |
-| Realizar Matrícula |  <li> A relação entre os objetivos que compõem o diagrama não faz sentido. |  <li> Relação entre os objetivos está incorreta <br> <li> Os símbolos das relações entre os objetivos não condiz com o sistema, por exemplo na parte de escolher turmas a serem feiras e adicionar turmas selecionadas, o símbolo deve ser 1/2 e não 1>2, pois podem ser realizadas de maneira independente. |  <br> <li> Colocar o símbolo de 1/2 para objetivos que possam ser concomitantes. |
+| Realizar Matrícula |  <li> A relação entre os objetivos que compõem o diagrama não faz sentido. |  <li> Relação entre as tarefas está incorreta <br> <li> Os símbolos das relações entre as tarefas não condiz com o sistema, por exemplo na parte de escolher turmas a serem feiras e adicionar turmas selecionadas, o símbolo deve ser 1>2 e não 1+2, pois podem ser realizadas de maneira independente. |  <br> <li> Colocar os símbolos corretos para cada relação entre tarefas. |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -146,6 +146,30 @@ Figura 2: Reformulação da Aba de monitoria
 <br>
 
 Autora: Larissa Stéfane
+
+<br>
+
+</div>
+
+
+</details>
+
+<details>
+
+<summary size="20"><b> Realizar Matrícula - Reformulado </b></summary>
+
+
+<div align="center">
+
+Figura 2: Reformulação da funcionalidade de Realizar Matrícula
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/avaliacaoStoryAnalise/HTAMatriculaNovo.png">
+
+<br>
+
+Autor: Pedro Izarias
 
 <br>
 
