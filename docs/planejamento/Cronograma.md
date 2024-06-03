@@ -289,6 +289,10 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 
 ### Planejado
 
+<details>
+
+<summary size="20"><b> Entrega 5 - Cronograma Planejado </b></summary>
+
 
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
@@ -305,7 +309,13 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta en
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
+</details>
+
 ### Executado
+
+<details>
+
+<summary size="20"><b> Entrega 5 - Cronograma executado </b></summary>
 
 
 Na Tabela 10, está explicitado o cronograma executado das atividades da quinta entrega.
@@ -324,9 +334,15 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da quinta 
 
 <font size="3"><p style="text-align: center">Fonte: [[Larissa Stéfane](https://github.com/SkywalkerSupreme)).</p></font>
 
+</details>
+
 ## Entrega 6.1 - Verificação dos Artefatos 1
 
 ### Planejado
+
+<details>
+
+<summary size="20"><b> Entrega 6.1 - Cronograma Planejado </b></summary>
 
 Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta entrega parte 1.
 
@@ -340,6 +356,8 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta en
 | Correção pós apresentação          | Início: 28/05 <br> Fim: 29/05 | Todos              | Início: 29/05 <br> Fim: 30/05 | Todos            |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+
+</details>
 
 ### Executado
 
@@ -356,6 +374,11 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da sexta e
 
 ### Planejado
 
+<details>
+
+<summary size="20"><b> Entrega 6.2 - Cronograma Planejado </b></summary>
+
+
 Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta entrega parte 2.
 
 <p align="center"> Tabela 13. Verificação dos Artefatos 2 </p>
@@ -368,6 +391,8 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta en
 | Correção pós apresentação          | Início: 13/06 <br> Fim: 14/06 | Todos              | Início: 15/06 <br> Fim: 16/06 | Todos            |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+
+</details>
 
 ### Executado
 
