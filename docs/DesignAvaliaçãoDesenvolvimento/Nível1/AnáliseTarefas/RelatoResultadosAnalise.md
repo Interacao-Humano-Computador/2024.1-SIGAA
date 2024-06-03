@@ -161,7 +161,7 @@ Autora: Larissa Stéfane
 
 <div align="center">
 
-Figura 2: Reformulação da funcionalidade de Realizar Matrícula
+Figura 3: Reformulação da funcionalidade de Realizar Matrícula
 
 <br>
 
