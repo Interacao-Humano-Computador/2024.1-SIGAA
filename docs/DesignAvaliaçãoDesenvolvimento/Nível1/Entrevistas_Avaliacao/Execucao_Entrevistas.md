@@ -581,6 +581,161 @@ O participante consentiu com os termos de consentimento em vídeo.
 
 </details>
 
+<details>
+<summary size="20"><b> Bolsas </b></summary>
+<br>
+<b><font size="+2"> Funcionalidade: Solicitação de Bolsas</font></b>
+
+Uma das funcionalidades criadas é a solicitação de bolsas, que tem o objetivo de facilitar a solicitação de diversas bolsas oferecidas pela UnB.
+
+Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards).
+
+Com base nisso, as avaliações do storyboard e da análise de tarefas para a solicitação de bolsas podem ser visualizadas no vídeo 4:
+
+<center> 
+
+**Vídeo 4:** Entrevista Avaliação sobre a funcionalidade Solicitação de Bolsas.
+
+<iframe width="700" height="450" src="" title="Avaliação do Storyboard e da Análise de Tarefas - Funcionalidade: Solicitação de Bolsas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b> Autor: </b> <a href="https://github.com/brunocva"> Bruno Araújo </a>
+
+</center>
+
+Caso o vídeo acima não funcione, utilize o [link]().
+
+A participante consentiu com os termos de consentimento em vídeo.
+
+### Perguntas Respondidas Durante a Entrevista
+
+<details>
+
+<summary size="20"><b> Questionário de Pré-Avaliação </b></summary>
+
+1. **Dados Demográficos**
+   - **Nome:** Marcella Cristina Ferreira
+   - **Idade:** 23
+   - **Gênero:** Feminino
+   - **Curso ou Área de Estudo/Trabalho:** Engenharia Aeroespacial
+
+2. **Com que frequência você usa computadores ou dispositivos móveis?**
+   - [X] Diariamente
+   - [ ] Semanalmente
+   - [ ] Raramente
+   - **Anotação:**
+
+3. **Qual o seu nível de familiaridade com o uso de software acadêmico em geral?**
+   - [ ] Alto
+   - [X] Médio
+   - [ ] Baixo
+   - [ ] Nenhum
+   - **Anotação:**
+
+4. **Como você classificaria suas habilidades gerais com a tecnologia?**
+   - Mediano
+
+5. **Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?**
+   - [ ] Sempre
+   - [ ] Frequentemente
+   - [X] Ocasionalmente
+   - [ ] Nunca
+
+6. **Qual é o principal objetivo ao usar sistemas acadêmicos como o que vamos avaliar?**
+   - **Resposta:** Obter informações
+
+</details>
+
+<details>
+<summary size="20"><b> Perguntas sobre o Storyboard </b></summary>
+
+**O que você achou do storyboard apresentado? Houve algum elemento que se destacou positivamente ou negativamente?**
+- A linguagem acessível.
+
+**1. O storyboard foi claro e fácil de entender? Quais partes, se houver, foram confusas ou difíceis de seguir?**
+- A linguagem, apesar de ser acessível, poderia ser mais objetiva.
+
+**2. Você acha que o storyboard reflete bem as necessidades e as expectativas dos usuários? Por quê?**
+- Ele reflete alguém que tem acesso fácil ao computador, mas poderia ser mais explícito sobre a possibilidade de uso em casa ou outros lugares.
+
+**3. Você acha que a solução apresentada no storyboard é relevante e eficaz para o problema mostrado? Por quê?**
+- É relevante, mas considerando que o SIGAA é um site um pouco complicado de acessar, quem é inexperiente tem dificuldade.
+
+**4. De que maneira você acha que a solução apresentada no storyboard poderia impactar a vida dos usuários?**
+- Facilitaria a encontrar informações não só sobre bolsas, mas também sobre outros assuntos, como estágio.
+
+</details>
+
+<details>
+<summary size="20"><b> Questionário Avaliação Análise de Tarefas </b></summary>
+
+**1. A análise de tarefas foi fácil de seguir? Houve alguma etapa que você achou particularmente complicada ou mal explicada?**
+- É fácil de seguir.
+
+**2. A sequência das tarefas fez sentido para você? Alguma etapa pareceu fora de ordem ou confusa?**
+- Não, foi bem simples.
+
+**3. Você acha que as tarefas analisadas são relevantes para o contexto do sistema acadêmico? Por quê?**
+- A maioria é relevante, mas algumas parecem não ser.
+
+**4. As tarefas apresentadas na análise foram consistentes entre si e com o resto do sistema? Alguma tarefa pareceu destoar do fluxo geral?**
+- Elas se conectam bem.
+
+**5. Você acha que as tarefas precisam ser mais fáceis de executar na prática? Quais tarefas poderiam ser simplificadas?**
+- A parte direita está simplificada, a do esquerdo está boa.
+
+**6. Quais são as principais dificuldades que os usuários enfrentam ao executar as tarefas propostas?**
+- O maior problema é na interface.
+
+**7. As tarefas são intuitivas e fáceis de entender?**
+- São intuitivas e fáceis de entender.
+
+**8. Existem etapas desnecessárias ou confusas no fluxo das tarefas?**
+- Ler informações e confirmar dados parece óbvio.
+
+**9. Os objetivos dos usuários são alcançados de maneira eficiente?**
+- Sim.
+
+**10. Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas?**
+- O fluxo é bem simplificado.
+
+</details>
+
+<details>
+<summary size="20"><b> Questionário de Avaliação conforme os Objetivos </b></summary>
+
+**1. O quanto eles são motivados a explorar as novas funcionalidades?**
+- Eles podem ser incentivados na hora de procurar as funções e investigá-las.
+
+**2. Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?**
+- O ponto forte é a objetividade, mas o fluxograma está simples.
+
+**3. Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? Quais necessidades e desejos foram ou não atendidos?**
+- Algumas funcionalidades foram atendidas, mas outras não.
+
+**4. A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?**
+- Sim.
+
+</details>
+
+<details>
+<summary size="20"><b> Questionário de Pós-Avaliação </b></summary>
+
+**1. Como você descreveria sua satisfação geral com a experiência de uso observada?**
+- Interessante.
+
+**2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
+- O storyboard foi acessível e intuitivo, mas não parece tão objetivo quanto o fluxograma (hta).
+
+**3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
+- Sim.
+
+**4. Com base na sua experiência, quais sugestões você daria para melhorar o sistema e a experiência de uso?**
+- Uma linguagem mais sucinta, com mais explicações.
+
+</details>
+
+</details>
+
 
 ## Conclusão
 
@@ -595,4 +750,5 @@ As entrevistas de avaliação do storyboard e da análise de tarefas forneceram 
 | 1.2    | Adicionar introdução e conclusão                                 | Larissa Stéfane | Iago Passaglia  | 01/06/2024 |
 | 1.3    | Correção de erros ortográgicos e adição da entrevista de estágio | Iago Passaglia  | Bruno Araújo    | 01/06/2024 |
 | 1.4    | Adicionar entrevista da Aba de monitoria                         | Larissa Stéfane | Breno Alexandre | 02/06/2024 |
-| 1.5    | Adicionar parcialmente entrevista da Aba do RU                   | Breno Alexandre | -               | 03/06/2024 |
+| 1.5    | Adicionar parcialmente entrevista da Aba do RU                   | Breno Alexandre | Bruno Araújo      | 03/06/2024 |
+| 1.6   | Adicionado entrevista Bolsas                   | Bruno Araújo | --      | 03/06/2024 |
