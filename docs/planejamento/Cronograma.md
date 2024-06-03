@@ -170,6 +170,10 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 
 ### Planejado
 
+<details>
+
+<summary size="20"><b> Entrega 3 - Cronograma Planejado </b></summary>
+
 Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
 
 <p align="center"> Tabela 5. Princípios Gerais de Projeto </p>
@@ -186,7 +190,14 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 
 <font size="3"><p style="text-align: center">Fonte:  [Breno Alexandre](https://github.com/brenoalexandre0) e  [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
+</details>
+
 ### Executado
+
+<details>
+
+<summary size="20"><b> Entrega 3 - Cronograma executado </b></summary>
+
 
 Na Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
 
@@ -206,9 +217,15 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
+</details>
+
 ## Entrega 4 - Planejamento da Avaliação do Storyboard
 
 ### Planejado
+
+<details>
+
+<summary size="20"><b> Entrega 4 - Cronograma Planejado </b></summary>
 
 Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
@@ -225,7 +242,13 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
+</details>
+
 ### Executado
+
+<details>
+
+<summary size="20"><b> Entrega 4 - Cronograma executado </b></summary>
 
 Na Tabela 8, está explicitado o cronograma executado das atividades da quarta entrega.
 
@@ -260,9 +283,12 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
+</details>
+
 ## Entrega 5 - Relato dos resultados do Story Board e da Análise de tarefas
 
 ### Planejado
+
 
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
