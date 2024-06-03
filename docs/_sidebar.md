@@ -166,3 +166,6 @@
       - [Planejamento da Avaliação do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md)
     * [Planejamento das Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível1/planejamentoEntrevistas.md)
     * [Planejamento do protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível1/PrototipodePapel.md)
+    * Resultados
+      - [Relato dos Resultados Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/RelatoResultadosStoryboard.md)
+      - [Relato dos Resultados Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/RelatoResultadosAnalise.md)
