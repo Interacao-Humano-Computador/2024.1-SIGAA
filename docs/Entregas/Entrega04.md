@@ -7,7 +7,7 @@ Neste documento está contido o vídeo de apresentação da quarta entrega da ma
 
 **Apresentação 04**
 
-É possível acessar o vídeo por meio deste [link]()
+É possível acessar o vídeo por meio deste [link](https://studio.youtube.com/video/qwyXyeaKul8/edit)
 
 **Tabela 1 - Objetivos entrega 04**
 
