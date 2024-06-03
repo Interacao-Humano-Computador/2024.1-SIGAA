@@ -519,7 +519,7 @@ Termo de consentimento do participante Leonardo Machado em [Termo Leonardo](Desi
   <summary size="20"><b> Aba do RU </b></summary> 
 <br>
   
-### Funcionalidade: Aba do RU
+<b><font size="+2"> Funcionalidade: Aba do RU</font></b>
 
 Uma das funcionalidades criadas é a aba do Restaurante Universitário que tem o objetivo de facilitar processos que antes eram apenas feitos presencialmente.
 
