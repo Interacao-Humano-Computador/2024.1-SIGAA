@@ -38,44 +38,43 @@ Com base no [planejamento dos relatos da avaliação do storyboard](DesignAvalia
 
 O método utilizado foi a inspeção por meio de entrevista dos usuários. Desse modo, a tabela 1 mostra o cronograma executado das entrevistas realizadas.
 
+<center> 
+
 **Tabela 1:** Cronograma executado das entrevistas.
-
-
 
 | Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim | Data | Local |
 | ------------------ | ------------------ | ----------------- | -------------- | -------- | ----- |
 | Larissa Stéfane | João Pedro Garcia | 13:10 | 13:40 | 23/05/2024 | FGA-UnB- Sala S8 |
 | Larissa Stéfane | Leonardo Machado | 12:30 | 13:10 | 28/05/2024 | FGA-UnB- Sala S9 |
 
-
-
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-
+</center>
 
 ## Apresentação dos Usuários
 
 Para a avaliação do storyboard das funcionalidades do SIGAA, a seleção dos participantes foi realizada visando garantir que os usuários se encaixam no perfil dos usuários. Dessa maneira, os participantes escolhidos refletem o perfil de usuários previamente definido no projeto. Assim, a tabela 2 mostra os participantes, a funcionalidade trabalhada e uma breve descrição do perfil deles.
 
+<center> 
+  
 **Tabela 2:** Perfil dos entrevistados.
-
-
 
 | Entrevistadores(s) | Entrevistado(s) | Perfil |
 | ------------------ | ------------------ | ----------------- |
 | Larissa Stéfane | João Pedro Garcia | <li> Estudante de engenharia aeroespacial na FGA-UnB no oitavo semestre. <br> <li>  É do gênero masculino e tem 25 anos. <br> <li>  Utiliza computadores e dispositivos móveis com frequência. <br> <li>  Seu nível de habilidade com tecnologia é médio. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é médio/baixo.|
 | Larissa Stéfane | Leonardo Machado |  <li> Estudante de engenharia de software na FGA-UnB no sétimo semestre. <br> <li>  É do gênero masculino e tem 21 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é alto. <br> <li>  Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. |
 
-
-
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+</center>
 
 
 ## Problemas Encontrados e Soluções
 
 No decorrer das entrevistas, alguns pontos de problemas e dificuldades foram apresentados. Assim, a tabela 3 apresenta os problemas encontrados conforme a funcionalidade.
 
+<center> 
+  
 **Tabela 3:** Problemas encontrados.
 
 | Funcionalidade | Problema Encontrado | Descrição | Solução Proposta |
@@ -83,15 +82,16 @@ No decorrer das entrevistas, alguns pontos de problemas e dificuldades foram apr
 | Aluguel de Sala | Não houve observações sobre problemas | Nenhum ponto negativo foi pontuado | Como não foi identificado nenhum ponto negativo pelo usuário, não há sugestão de melhoria também. |
 | Aba de monitoria | Não houve observações sobre problemas | Nenhum ponto negativo foi pontuado | Como não foi identificado nenhum ponto negativo pelo usuário, não há sugestão de melhoria também. |
 
-
-
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+</center>
 
 
 ### Feedback dos Usuários
 
 Ao lerem os storyboards, os participantes puderam expressar as suas opiniões conforme as respostas e observações dadas. Sendo assim, a tabela 5 mostra os feedbacks segundo a funcionalidade.
+
+<center> 
 
 **Tabela 4:** Feedback por funcionalidade
 
@@ -100,9 +100,9 @@ Ao lerem os storyboards, os participantes puderam expressar as suas opiniões co
 | João Pedro Garcia | Gostou da ideia da funcionalidade expressa no storyboard, pois facilita a vida do usuário, uma vez ele não precisa se locomover para realizar o aluguel. Assim, consegue fazer tudo de modo remoto. | Ele afirmou que facilita tanto para quem quer alugar a sala quanto para quem cuida desse processo, porque, por exemplo, se um conjunto de pessoas desejar alugar uma sala ao mesmo tempo, é formada uma fila que fica cansativa tanto para o servidor técnico que organiza as salas quanto para quem deseja alugar. Além disso, facilita o próprio processo de reserva de aluguel de salas. |
 | Leonardo Gonçalves Machado | Sim, pois ele pontuou que foram mostrados alguns problemas enfrentados pelos monitores e pelos estudantes em geral. | Para ele, reduziria o tempo gasto pelos estudantes para realizar essas tarefas, que são feitas presencialmente atualmente. Além de a funcionalidade tornar o processo mais prático em relação aos horários também, pois o monitor pode pedir monitoria a qualquer momento. |
 
-
-
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</center>
 
 ## Correção dos Storyboards
 
