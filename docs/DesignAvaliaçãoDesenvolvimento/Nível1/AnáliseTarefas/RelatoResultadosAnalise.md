@@ -39,9 +39,10 @@ Como foi definido no planejamento, o método utilizado foi a inspeção por meio
 | Larissa Stéfane | João Pedro Garcia | 13:10 | 13:40 | 23/05/2024 | FGA-UnB- Sala S8 |
 | Larissa Stéfane | Leonardo Machado | 12:30 | 13:10 | 28/05/2024 | FGA-UnB- Sala S9 |
 | Pedro Izarias | Erika Iwakiri | 15:00 | 15:40 | 02/06/2024 | Casa |
+| Iago Passaglia | Ana Caroline Porto | 13:00 | 13:30 | 31/05/2024 | Casa do entrevistador |
 
-**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
 </center>
 
 ### Apresentação dos Usuários
@@ -58,8 +59,10 @@ Durante as entrevistas para avaliar as análises de tarefas, foram escolhidos pa
 | Larissa Stéfane | João Pedro Garcia | <li> Estudante de engenharia aeroespacial na FGA-UnB no oitavo semestre. <br> <li> É do gênero masculino e tem 25 anos. <br> <li> Utiliza computadores e dispositivos móveis com frequência. <br> <li> Seu nível de habilidade com tecnologia é médio. <br> <li> Sua familiaridade com uso de sistemas acadêmicos é médio/baixo.| Aluguel de Sala |
 | Larissa Stéfane | Leonardo Machado |  <li> Estudante de engenharia de software na FGA-UnB no sétimo semestre. <br> <li> É do gênero masculino e tem 21 anos. <br> <li> Utiliza computadores e dispositivos móveis diariamente. <br> <li> Seu nível de habilidade com tecnologia é alto. <br> <li> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. | Aba de monitoria |
 | Pedro Izarias | Erika Iwakiri |  <li> Estudante de  de Letras - Tradução Inglês do Departamento de Linguas Estrangeiras e Tradução da UnB. <br> <li> É do gênero Feminino e tem 22 anos. <br> <li> Utiliza computadores e dispositivos móveis diariamente. <br> <li> Seu nível de habilidade com tecnologia é alto. <br> <li> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. | Realizar Matrícula |
+| Iago Passaglia | Ana Caroline Porto | <li> Estudante de nutrição do quinto semestre. <br> <li>  É do gênero feminino e tem 20 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é médio. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é boa/alta.| Pré-cadastro de estágio |
 
-**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
+
 
 </center>
 
@@ -77,8 +80,10 @@ Durante a análise dos resultados das entrevistas, diversos problemas foram iden
 | Aluguel de Sala |  <li> Formato de como o horário será representado e como será apresentado o formulário | O usuário relatou que permitir ao usuário escolher o horário de forma discursiva pode trazer problemas devido à falta de organização provocada por horários quebrados, por exemplo, 13:33. <br> <li> O usuário acredita que o formulário pode ser simplificado, pois a pessoa entra na sua conta, então, qualquer tarefa que ela realizar já vai ter os seus dados vinculados automaticamente. O ideal só para colher informações sobre o motivo do aluguel |  <li> Fazer o usuário selecionar os horários em tabelas já definidas, por exemplo, estrutura do heatmap. <br> <li> O formulário passa a ser apenas uma pergunta: “Qual o motivo para o aluguel” |
 | Aba de monitoria |  <li> A definição do local da turma de modo mais intuitivo e com complexidade elevada e desnecessária nos meios de comunicação entre monitores e estudantes. |  <li> Para selecionar uma turma, pode ser complexo definir o local dela, uma vez que algumas não são definidas por endereços, mas sim por unidades. <br> <li> O monitor e os estudantes podem ficar confusos sobre qual meio de comunicação utilizar e alguns podem acabar não sendo utilizados e ficarem defasados. |  <li> Seguir o mesmo caminho/estrutura que a realização de matrículas. <br> <li> Retirar a opção de comunicação exclusiva pelo SIGAA e permitir ao monitor ter liberdade para escolher as opções de como se comunicar com os estudantes. |
 | Realizar Matrícula |  <li> A relação entre os objetivos que compõem o diagrama não faz sentido. |  <li> Relação entre as tarefas está incorreta <br> <li> Os símbolos das relações entre as tarefas não condiz com o sistema, por exemplo na parte de escolher turmas a serem feiras e adicionar turmas selecionadas, o símbolo deve ser 1>2 e não 1+2, pois podem ser realizadas de maneira independente. |  <br> <li> Colocar os símbolos corretos para cada relação entre tarefas. |
+| Pré=cadastro de estágio | Integração completa | A entrevistada alega que o preenchimento do formulário por parte da empresa poderia ser efetuado dentro do sistema | Preparar o HTA para representar a nova funcionalidade |
 
-**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
 
 </center>
 
@@ -94,9 +99,9 @@ Ao analisarem a análise de tarefas, os participantes puderam expressar as suas 
 | Aluguel de Sala | Ele achou a análise de tarefas bem tranquila e com um fluxo fácil de ser entendido. | Ele acredita que a sequência das tarefas faz sentido e em uma ordem correta e esperada. | Ele falou que sim, pois o formato das tarefas para utilizar a funcionalidade segue a mesma dinâmica que os outros sistemas acadêmicos que ele utiliza. | Não, ele acredita que está bem coerente com o que é esperado. |
 | Aba de monitoria | Uma parte que ele achou complicada foi em monitorar monitoria em relação à área de definir comunicação. Para ele, seria ideal tirar a parte de comunicar diretamente com outros estudantes e professores pelo SIGAA, pois isso pode deixar o monitor e os estudantes confusos em relação a qual meio de comunicação utilizar. | Para ele, a sequência fez sentido. | Sim, ele acha que as tarefas e o fluxo estão conforme o que ele está acostumado. | Sim, em relação ao formato de comunicação. |
 | Realizar matrícula | Para a entrevistada, a análise foi fácil de seguir, apesar do problema com os símbolos de relação entre os objetivos. | Para ela, a sequência fez sentido. | Sim, ela concorda com as tarefas relacionadas a funcionalidade. | Sim, os símbolos de relação entre os objetivos está incorreto, deixando o diagrama da funcionalidade confuso. |
+| Pré-cadastro de estágio | Para a entrevistada, foi fácil seguir os passos | Para ela, a sequência fez sentido. | Sim, a entrevistada acredita que o fluxo das atividades estão de forma coerente. | Não foram apontadas nenhuma parte desnecessária ou confusa. |
 
-**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
-
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
 
 
 ## Correção das análises de Tarefas
@@ -179,6 +184,33 @@ Autor: Pedro Izarias
 </details>
 
 
+<details>
+
+<summary size="20"><b> Pré-cadastro de estágio - Reformulado </b></summary>
+
+
+<div align="center">
+
+FIgura 4: Reformulação do Pré-cadastro de estágio
+
+<br>
+
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTA%20ESTAGIO.png?raw=true">
+
+<br>
+
+Autor: Iago Passaglia
+
+<br>
+
+</div>
+
+
+</details>
+
+
+<details>
+
 ## Referências Bibliográficas
 
 1. Barbosa, S. D. J., & Silva, B. S. (2021). **Interação Humano-Computador e Experiência do Usuário**. Editora: Câmara Brasileira do Livro, SP, Brasil.
@@ -189,4 +221,6 @@ Autor: Pedro Izarias
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
 | 1.0 | Elaboração do documento | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
 | 1.1 | Adição dos resultados da análise de tarefas do aluguel de sala e da aba de monitoria. | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
-| 1.2 | Adição dos resultados da análise de tarefas da realização de matrícula | Pedro Izarias | - | 03/06/2024 |
+| 1.2 | Adição dos resultados da análise de tarefas da realização de matrícula | Pedro Izarias | Iago Passaglia | 03/06/2024 |
+| 1.3 | Adição dos resultados da análise de pré-cadastro de estágio. | Iago Passaglia | - | 02/06/2024 |
+
