@@ -239,7 +239,7 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 | Aluguel de Sala | Caio Braga | Larissa Stéfane | 27/05/2024 | 04/06/2024 | 13:00 | S9 |
 | Pré-cadastro de Estágio | Ana Caroline Porto | Iago Passaglia | 02/06/2024 | 07/06/2024 | 19:00 | Caso do entrevistador |
 | Aba RU | João Antônio Ginuino Carvalho | Breno Alexandre Soares Garcia | 03/06/2024 | 05/06/2024 | 08:30 | Alguma Sala do UAC |
-| Matrículas | Debora Damasceno | Pedro Augusto | 28/05/2024 | 07/06/2024 | 16:00 | 03/06/2024 |
+| Matrículas | Debora Damasceno | Pedro Augusto | 28/05/2024 | 07/06/2024 | 16:00 | UnB - Darcy Ribeiro |
 | Grade Sugerida | - | Luana Medeiros | - | - | - | - |
 | Solicitação de bolsa | - | Bruno Araújo | - | - | - | - |
 
