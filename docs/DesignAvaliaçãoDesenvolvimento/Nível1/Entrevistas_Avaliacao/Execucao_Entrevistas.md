@@ -344,7 +344,7 @@ Com base nisso, a avaliação do storyboard e da análise de tarefas para a aba 
 
 Caso o vídeo acima não funcione, utilize o [link](https://youtu.be/gzTPaBgR5Fg)
 
-Termo de consentimento do participante Leonardo Machado em [Termo Leonardo]()
+Termo de consentimento do participante Leonardo Machado em [Termo Leonardo](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/termos/Leonardo.md)
 
 
 ### Perguntas Respondidas Durante a Entrevista
@@ -524,6 +524,7 @@ As entrevistas de avaliação do storyboard e da análise de tarefas forneceram 
 | 1.1 | Adicionar entrevista do aluguel de sala | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
 | 1.2 | Adicionar introdução e conclusão | Larissa Stéfane | Iago Passaglia | 01/06/2024 |
 | 1.3 | Correção de erros ortográgicos e adição <br> da entrevista de estágio| Iago Passaglia  | Bruno Araújo | 01/06/2024 |
+| 1.4 | Adicionar entrevista da Aba de monitoria| Larissa Stéfane | - | 02/06/2024 |
 
 
 
