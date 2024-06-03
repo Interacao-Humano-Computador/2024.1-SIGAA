@@ -78,7 +78,7 @@ No decorrer das entrevistas, alguns pontos de problemas e dificuldades foram apr
 | Aluguel de Sala | Não houve observações sobre problemas | Nenhum ponto negativo foi pontuado | Como não foi identificado nenhum ponto negativo pelo usuário, não há sugestão de melhoria também. |
 | Aba de monitoria | Não houve observações sobre problemas | Nenhum ponto negativo foi pontuado | Como não foi identificado nenhum ponto negativo pelo usuário, não há sugestão de melhoria também. |
 | Pré=cadastro de estágio | Falta de informação | A entrevistada alega que faltaram alguns quadrinhos no storyboard detalhando mais a tarefa | Refazer o storyboard dando mais ênfase para os detalhes da funcionalidade |
-| Bolsas | Não houve observações sobre problemas | Nenhum ponto negativo foi pontuado | Como não foi identificado nenhum ponto negativo pelo usuário, não há sugestão de melhoria também. |
+| Solicitação de bolsas | Não houve observações sobre problemas | Nenhum ponto negativo foi pontuado | Como não foi identificado nenhum ponto negativo pelo usuário, não há sugestão de melhoria também. |
 
 **Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Bruno Araújo](https://github.com/brunocva).
 
