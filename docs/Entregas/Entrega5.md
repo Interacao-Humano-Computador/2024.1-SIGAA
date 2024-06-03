@@ -1,7 +1,7 @@
 # Apresentação 05
 
 ## Introdução
-Neste documento está contido o vídeo de apresentação da quarta entrega da matéria de Interação Humano Computador e o checklist do que está em conforme com a entrega.
+Neste documento está contido o vídeo de apresentação da quinta entrega da matéria de Interação Humano Computador.
 
 ## Vídeo da apresentação
 
