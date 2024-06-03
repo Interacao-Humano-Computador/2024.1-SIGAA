@@ -90,3 +90,151 @@ Para garantir que a avaliação seja detalhada em relação aos protótipos de p
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 
+## C Escolher os Métodos de Avaliação
+
+Na etapa de seleção dos métodos de avaliação, seguindo as diretrizes do framework DECIDE apresentado no livro de “Interação Humano Computador”¹, de Barbosa e Silva, no capítulo 11 e na página 273, é essencial considerar uma série de aspectos. Isso inclui os objetivos estabelecidos anteriormente, o prazo disponível e o conhecimento e experiência da equipe na execução da avaliação. Além disso, o contexto em que a avaliação será realizada também é crucial.
+
+Com isso, para esta avaliação do protótipo de papel, foi escolhida uma abordagem que combina os métodos de **investigação** e de **observação**. Isso significa que serão utilizadas técnicas de entrevistas e de questionários em três etapas: pré-avaliação, avaliação e pós-avaliação. Esses questionários têm o objetivo de coletar informações sobre a opinião e a compreensão dos participantes em relação às funcionalidades e foram elaborados para estimular o participante a desenvolver ideias e questionamentos sobre o protótipo apresentado.
+
+Além disso, será utilizado o método de observação, que consiste em acompanhar e observar os participantes os enquanto eles realizam as suas atividades no protótipo interativo de papel.
+
+Como uma extensão opcional, se os participantes se sentirem confortáveis, também será adotada a técnica "Think Aloud" (pensar em voz alta). Nesse método, os usuários expressarão suas reflexões, o que permitirá que o membro da equipe capture as suas observações e ideias para posterior análise dos resultados.
+
+## I Identificar e administrar as questões práticas da avaliação
+
+Na avaliação dos protótipos de papel, as questões práticas são aquelas relacionadas aos aspectos operacionais que garantem a eficácia do processo de avaliação. Assim, seguindo as orientações do livro "Interação Humano-Computador"¹, de Barbosa e Silva, essas questões abrangem o recrutamento dos usuários participantes, a preparação e utilização adequada dos equipamentos necessários, a gestão dos prazos e orçamento disponíveis, e a alocação adequada de recursos humanos para conduzir a avaliação. Esses tópicos estão detalhados abaixo.
+
+### Recrutamento dos Usuários ou Participantes
+
+**Observação:** Como recomendação do livro "Interação Humano-Computador"¹, de preferência, o usuário deve ser alguém que o integrante não um vínculo de amizade.
+
+- **Localização:** Os usuários serão recrutados no ambiente da Faculdade Gama (FGA) e o contato entre o participante e o integrante do grupo será por meio das ferramentas de comunicação WhatsApp ou Telegram.
+
+- **Perfil dos usuários:** Cada funcionalidade será avaliada por um usuário que se encaixe no perfil específico para aquela funcionalidade e esse perfil será confirmado por meio do questionário “pré-avaliação”. Assim nas funcionalidades destinadas aos estudantes, por exemplo, os usuários devem se encaixar no [perfil definido dos estudantes](PerfilUsuario/Estudantes/perfilEstudante.md).
+
+### Quantidade de Usuários
+
+- **Número de Participantes:** Seguindo as recomendações de Dumas e Redish (1999) e Nielsen (2000), no livro “Interação Humano Computador”¹, que sugerem entre cinco e doze usuários para avaliações de IHC, serão recrutados **oito usuários**. Isso porque cada participante/usuário irá avaliar um protótipo de papel, ou seja, uma funcionalidade e no projeto oito funcionalidades estão sendo trabalhadas.
+
+### Modalidade
+
+- **Presencial:** A avaliação do protótipo de papel será realizada de forma presencial para permitir uma observação direta e uma interação mais rica entre os membros da equipe e os participantes. Isso é importante, segundo o capítulo 11 do livro “Interação Humano Computador”¹, para captar nuances nas reações e feedbacks que podem não ser percebidos em avaliações remotas.
+
+### Equipamentos Eletrônicos Necessários
+
+- **Equipamentos de Gravação:** Para gravar a reunião, a câmera e o gravador de áudio devem ter uma qualidade boa o suficiente para captar as interações de maneira clara e compreensível. Além disso, devem ter memória suficiente para armazenar gravações de até 40 minutos.
+
+### Apresentação do Protótipo de Papel
+
+- **Formato de papel:** O protótipo deverá ser desenhado em folhas e ser elaborado de forma clara e semelhante ao que se espera do sistema.
+
+- **Preparação:** Todas as peças e as partes do protótipo necessárias para a interação devem estar organizadas.
+
+### Tempo de Avaliação
+
+- **Duração das Etapas:**
+
+
+**Antes da gravação**:
+
+- **Apresentação da reunião com a explicação do processo e a assinatura do termo de consentimento.**: 5 a 10 minutos;
+  
+**Início da gravação:**
+
+- **Questionário de pré-avaliação**: 3 a 5 minutos.
+
+- **Apresentação e interação com o protótipo de papel**: até 20 minutos.
+
+- **Questionário de avaliação**: Até 10 minutos.
+
+- **Questionário de pós-avaliação**: 3 a 5 minutos.
+
+- **Se necessário, pausa entre as etapas:** 2 minutos cada.
+
+- **Total de Avaliação:** A avaliação completa, incluindo todas as etapas e pausas, não deve ultrapassar 40 minutos por participante.
+
+### Orçamento
+
+- **Custos dos materiais:** Os materiais necessários para elaborar o protótipo, como folhas, lápis de cor, papéis, colorias, colas, entre outros, podem ser comprados em papelarias e o valor de custo pode variar conforme o preço de cada material e com o nível de elaboração do protótipo.
+
+### Recursos de Mão-de-Obra
+
+- **Integrante do grupo responsável pela análise de tarefas em questão:** Cada integrante do grupo será responsável por conduzir a avaliação de sua funcionalidade específica com o usuário participante.
+
+- **Auxiliares:** Alguém para ficar responsável pela gravação, ou seja, fazer a movimentação da câmera quando necessário.
+
+### Local da Reunião
+
+- **Opções de locais:**
+
+Os locais serão semelhantes aos  definidos para a avaliação do storyboard e da análise de tarefas.
+
+- **Salas de Aula vazias: inicialmente, o ideal é realizar a reunião em uma sala de aula vazia. Desse modo, para verificar as salas de aula que estariam livres no horário de almoço, foram analisados os horários e salas das disciplinas conforme a [página pública de turma do SIGAA](https://sigaa.unb.br/sigaa/public/turmas/listar.jsf) e conforme a organização das impressões disponibilizadas nas portas das salas. Abaixo, na tabela 1, há algumas salas que possuem maior probabilidade de estarem livres no horário de almoço.
+
+<details>
+
+<summary size="20"><b> Tabela 1: Horário das salas disponíveis </b></summary>
+
+**Tabela 3:** Horário das salas disponíveis
+
+| Horário | Dia da semana | Salas com alta probabilidade de estarem disponíveis |
+| - | - | - |
+| 12h – 14h | segunda-feira | S1, S2 e S9 |
+| 12h – 14h | terça-feira | I4, I5, I8, S1, S3 |
+| 12h – 14h | quarta-feira | I3, I4 e S1 |
+| 12h – 14h | quinta-feira | I4,I5, I8, S1, S3, S8, S9 |
+| 12h – 14h | sexta-feira | I3, I4, S1, S9 |
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</details>
+
+- **Outras opções:** Caso o integrante do grupo e o usuário achem melhor, a reunião acontecerá em outro lugar.
+
+- **Condições do Ambiente:**
+
+- **Recursos:** O local precisa ter uma mesa e, pelo menos, duas cadeiras ou bancos.
+
+- **Silêncio:** O ambiente deve ser livre de distrações para que o usuário possa focar nas tarefas.
+
+- **Conforto:** É necessário garantir que o espaço seja confortável para que os participantes se sintam à vontade para falar e fazer observações.
+
+### Prazos
+
+Para estabelecer um prazo específico, a tabela 2 mostra os prazos de cada etapa da avaliação.
+
+<details>
+
+<summary size="20"><b> Tabela 2: Prazos </b></summary>
+
+**Tabela 4:** Prazos da atividade.
+
+| Atividade | Data de início | Data de finalização |
+| - | - | - |
+| Planejamento da atividade | 29/05/2024 | 03/06/2024 |
+| Marcar a reunião com o usuário | 29/05/2024 | 07/06/2024 |
+| Reunião com o usuário | 03/06/2024 | 10/06/2024 |
+| Análise dos resultados | 03/06/2024 | 10/06/2024 |
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+</details>
+
+
+### Lista de Materiais Necessários Antes da Avaliação
+
+- **Termo de Consentimento Livre e Esclarecido (TCLE):** Impressos e prontos para serem assinados pelos participantes.
+
+- **Questionário de Pré-Avaliação:** Para coletar informações sobre características pessoais.
+
+- **Questionário de Avaliação:** Coletar perguntas sobre a opinião do usuário em relação aos objetivos.
+
+- **Questionário Pós-Avaliação:** Para coletar feedback sobre a experiência de uso.
+
+- **Folha em branco e canetas:** para anotações durante a avaliação.
+
+- **Protótipo de papel** com todas as partes.
+
+- **Dispositivo para Gravação:** Para registrar a sessão de avaliação.
+
+- **Roteiro de Acompanhamento:** Impresso para facilitar a organização da estrutura da reunião.
