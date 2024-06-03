@@ -238,3 +238,38 @@ Para estabelecer um prazo específico, a tabela 2 mostra os prazos de cada etapa
 - **Dispositivo para Gravação:** Para registrar a sessão de avaliação.
 
 - **Roteiro de Acompanhamento:** Impresso para facilitar a organização da estrutura da reunião.
+
+## D Decidir como lidar com as questões éticas
+
+Durante a avaliação do protótipo de papel, as questões éticas serão tratadas conforme o indicado no livro de Barbosa e Silva, “Interação Humano Computador”¹. Com isso, o integrante responsável pela condução da avaliação deve adotar uma postura empática, respeitosa e imparcial em relação aos participantes. Além disso, ele deve estar atento às necessidades e às limitações dos participantes visando garantir que se sintam confortáveis e seguros durante todo o processo.
+
+Também será utilizado um [termo de consentimento](ignore/termoConsentimento.md).
+
+O termo de consentimento satisfaz os seguintes pontos:
+
+- Informa os participantes sobre os objetivos, os procedimentos e os riscos.
+
+- Será assinado voluntariamente antes da avaliação.
+
+- Garante a segurança dos dados dos participantes.
+
+## E Avaliar, interpretar e apresentar os dados
+
+O objetivo desta etapa é garantir que os dados coletados durante a avaliação do protótipo de papel para as funcionalidades do projeto SIGAA sejam interpretados de forma precisa e confiável. Assim, isso envolve verificar a consistência dos resultados e avaliar se o método de avaliação utilizado foi eficaz para se obter as conclusões conforme os objetivos.
+
+Para isso, os dados coletados serão organizados e analisados em um documento específico, onde serão realizadas diversas análises e interpretações de cada entrevista realizada. Neste documento, serão destacadas as tendências e as observações dadas pelos participantes. Além disso, nele também serão apresentadas as áreas de melhoria para aprimorar as funcionalidades.
+
+## Bibliografia
+
+1. Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Disponível em: https://www.google.com.br/books/edition/Engenharia_de_Requisitos/gA7kDAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover. Acesso em: 22 de maio de 2024.
+
+
+## Referências Bibliográficas
+
+1. Barbosa, S. D. J., & Silva, B. S. (2021). Interação Humano-Computador e Experiência do Usuário. Editora: Câmara Brasileira do Livro, SP, Brasil.
+
+## Histórico de Versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| ------ | --------------------------------- | --------------- | --------------------- | ---------- |
+| 1.0 | Criação do documento e elaboração de todos os pontos da avaliação | Larissa Stéfane | - | 02/06/2024 |
