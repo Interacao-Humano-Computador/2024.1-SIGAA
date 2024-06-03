@@ -263,10 +263,17 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da quinta 
 
 <p align="center"> Tabela 10. Relato dos resultados do Story Board e da Análise de tarefas </p>
 
-| Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
+| Atividade                          | Período de desenvolvimento    | Autor(es)          | Data                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
+| Realizar a entrevista para a avaliação do storyboard e da análise de tarefas | Breno, Bruno, Iago, Larissa | 30/05/2024 - 03/06/2024 | Breno, Bruno e Iago |
+| Criar o documento dos relatos dos resultados do storyboard | Larissa Stéfane | 02/06/2024 | Iago Passaglia |
+| Criar o documento dos relatos dos resultados da análise de tarefas | Larissa Stéfane | 02/06/2024 | Bruno Araújo |
+| Preencher os resultados do storyboard (Vai ter uma sessão para cada funcionalidade) | Breno, Bruno, Iago, Larissa e Pedro. | 30/05/2024 - 03/06/2024 | Breno, Bruno e Iago |
+| Preencher os resultados da análise de tarefas (Vai ter uma sessão para cada funcionalidade | Breno, Bruno, Iago, Larissa e Pedro. | 30/05/2024 - 03/06/2024 | Breno, Bruno e Iago |
+| Planejamento da avaliação avaliação do Protótipo de Papel | Larissa Stéfane | 02/06/2024 | - |
+| Planejamento da entrevista da avaliação do Protótipo de Papel | Larissa Stéfane | 02/06/2024 | - |
 
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [[Larissa Stéfane](https://github.com/SkywalkerSupreme)).</p></font>
 
 ## Entrega 6.1 - Verificação dos Artefatos 1
 
@@ -399,3 +406,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 2.1    | Adição da "Correção pós apresentação" no cronograma executado da 3                                          | Breno Alexandre       | -               | 20/05/2024 |
 | 2.2    | Preechimento do executado para a entrega 4                                        | Luana Medeiros      | -               | 22/05/2024 |
 | 2.3    | Correção de alguns erros                                       | Larissa Stéfane      | -               | 03/06/2024 |
+| 2.4    | Adição do cronograma executado da entrega 5                                      | Larissa Stéfane      | -               | 03/06/2024 |
