@@ -63,8 +63,8 @@ Para a avaliação do storyboard das funcionalidades do SIGAA, a seleção dos p
 
 | Entrevistadores(s) | Entrevistado(s) | Perfil |
 | ------------------ | ------------------ | ----------------- |
-| Larissa Stéfane | João Pedro Garcia | Estudante de engenharia aeroespacial na FGA-UnB no oitavo semestre. <br> É do gênero masculino e tem 25 anos. <br> Utiliza computadores e dispositivos móveis com frequência. <br> Seu nível de habilidade com tecnologia é médio. <br> Sua familiaridade com uso de sistemas acadêmicos é médio/baixo.|
-| Larissa Stéfane | Leonardo Machado | Estudante de engenharia de software na FGA-UnB no sétimo semestre. <br> É do gênero masculino e tem 21 anos. <br> Utiliza computadores e dispositivos móveis diariamente. <br> Seu nível de habilidade com tecnologia é alto. <br> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. |
+| Larissa Stéfane | João Pedro Garcia | <li> Estudante de engenharia aeroespacial na FGA-UnB no oitavo semestre. <br> <li>  É do gênero masculino e tem 25 anos. <br> <li>  Utiliza computadores e dispositivos móveis com frequência. <br> <li>  Seu nível de habilidade com tecnologia é médio. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é médio/baixo.|
+| Larissa Stéfane | Leonardo Machado |  <li> Estudante de engenharia de software na FGA-UnB no sétimo semestre. <br> <li>  É do gênero masculino e tem 21 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é alto. <br> <li>  Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. |
 
 
 
