@@ -39,8 +39,9 @@ O método utilizado foi a inspeção por meio de entrevista dos usuários. Desse
 | Larissa Stéfane | João Pedro Garcia | 13:10 | 13:40 | 23/05/2024 | FGA-UnB- Sala S8 |
 | Larissa Stéfane | Leonardo Machado | 12:30 | 13:10 | 28/05/2024 | FGA-UnB- Sala S9 |
 | Iago Passaglia | Ana Caroline Porto | 13:00 | 13:30 | 31/05/2024 | Casa do entrevistador |
+| Bruno Araújo | Marcella Cristina | 10:30 | 10:50 | 03/05/2024 | FGA-UnB - Sala I4|
 
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia),  [Bruno Araújo](https://github.com/brunocva).
 
 </center>
 
@@ -57,8 +58,9 @@ Para a avaliação do storyboard das funcionalidades do SIGAA, a seleção dos p
 | Larissa Stéfane | João Pedro Garcia | <li> Estudante de engenharia aeroespacial na FGA-UnB no oitavo semestre. <br> <li>  É do gênero masculino e tem 25 anos. <br> <li>  Utiliza computadores e dispositivos móveis com frequência. <br> <li>  Seu nível de habilidade com tecnologia é médio. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é médio/baixo.|
 | Larissa Stéfane | Leonardo Machado |  <li> Estudante de engenharia de software na FGA-UnB no sétimo semestre. <br> <li>  É do gênero masculino e tem 21 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é alto. <br> <li>  Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. |
 | Iago Passaglia | Ana Caroline Porto | <li> Estudante de nutrição do quinto semestre. <br> <li>  É do gênero feminino e tem 20 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é médio. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é boa/alta.|
+| Bruno Araújo | Marcella Cristina| <li> Estudante de engenharia aeroespacial sétimo semestre. <br> <li>  É do gênero feminino e tem 23 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é médio. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é mediana.|
 
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) , [Iago Passaglia](https://github.com/Paxxaglia), [Bruno Araújo](https://github.com/brunocva).
 
 </center>
 
@@ -95,6 +97,9 @@ Ao lerem os storyboards, os participantes puderam expressar as suas opiniões co
 | João Pedro Garcia | Gostou da ideia da funcionalidade expressa no storyboard, pois facilita a vida do usuário, uma vez ele não precisa se locomover para realizar o aluguel. Assim, consegue fazer tudo de modo remoto. | Ele afirmou que facilita tanto para quem quer alugar a sala quanto para quem cuida desse processo, porque, por exemplo, se um conjunto de pessoas desejar alugar uma sala ao mesmo tempo, é formada uma fila que fica cansativa tanto para o servidor técnico que organiza as salas quanto para quem deseja alugar. Além disso, facilita o próprio processo de reserva de aluguel de salas. |
 | Leonardo Gonçalves Machado | Sim, pois ele pontuou que foram mostrados alguns problemas enfrentados pelos monitores e pelos estudantes em geral. | Para ele, reduziria o tempo gasto pelos estudantes para realizar essas tarefas, que são feitas presencialmente atualmente. Além de a funcionalidade tornar o processo mais prático em relação aos horários também, pois o monitor pode pedir monitoria a qualquer momento. |
 | Ana Caroline Porto | Acredita que as necessidades do usuário são parcialmente resolvidas pela funcionalidade. | Sugeriu transformar todos os processos em processos online, para que o estudante não tenha mais pendências para serem resolvidas fora do ambiente do portal acadêmico. |
+|Marcella Cristina | Acredita que as necessidades do usuário parcialmente resolvidas pela funcionalidade. | Sugeriu mudanças sutis, no quesito a interface . |
+
+
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
 
@@ -118,6 +123,7 @@ Portanto, é possível constatar a relevância e o impacto das informações col
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
 | 1.0 | Elaboração do documento | Larissa Stéfane | Iago Passaglia | 02/06/2024 |
 | 1.1 | Adição dos resultados do storyboard do aluguel de sala e da aba de monitoria. | Larissa Stéfane | Iago Passaglia | 02/06/2024 |
-| 1.2 | Adição dos resultados do storyboard do pré-cadastro de estágio. | Iago Passaglia | - | 03/06/2024 |
+| 1.2 | Adição dos resultados do storyboard do pré-cadastro de estágio. | Iago Passaglia | Bruno Araújo | 03/06/2024 |
+| 1.3 | Adição dos resultados do storyboard de Bolsas. | Bruno Araújo | - | 03/06/2024 |
 
 
