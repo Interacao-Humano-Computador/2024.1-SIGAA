@@ -159,5 +159,5 @@ Autora: Larissa Stéfane
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
-| 1.0 | Elaboração do documento | Larissa Stéfane | - | 02/06/2024 |
-| 1.1 | Adição dos resultados da análise de tarefas do aluguel de sala e da aba de monitoria. | Larissa Stéfane | - | 02/06/2024 |
+| 1.0 | Elaboração do documento | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
+| 1.1 | Adição dos resultados da análise de tarefas do aluguel de sala e da aba de monitoria. | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
