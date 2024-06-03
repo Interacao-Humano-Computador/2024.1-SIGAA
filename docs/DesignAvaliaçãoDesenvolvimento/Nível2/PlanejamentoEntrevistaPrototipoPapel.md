@@ -84,18 +84,13 @@ Abaixo se encontrar o roteiro que o integrante do grupo deve seguir durante a en
 </details>
 
 
-
 Para realizar a avaliação, será necessário ter o consentimento do usuário para realizar a avaliação. Desse modo, é possível acessar o termo de consentimento pelo link ou visualizá-lo nas imagens 1 e 2 em:
-
-
 
 Link: [Termo Consentimento](ignore/termoConsentimento.md)
 
 ## Questionário de Pré-Avaliação
 
-O objetivo do questionário de pré-avaliação é “coletar informações dos participantes
-
-que podem influenciar a interação usuário–sistema, tais como: características pessoais, experiências anteriores com tecnologia e conhecimento sobre o domínio;”, segundo o livro de Interação-Humano Computador¹, de Barbosa e Silva (2021, página 275).
+O objetivo do questionário de pré-avaliação é “coletar informações dos participantes que podem influenciar a interação usuário–sistema, tais como: características pessoais, experiências anteriores com tecnologia e conhecimento sobre o domínio;”, segundo o livro de Interação-Humano Computador¹, de Barbosa e Silva (2021, página 275).
 
 
 
@@ -286,6 +281,6 @@ Durante o processo de planejamento das entrevistas para avaliação dos protóti
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | - | 02/06/2024 |
-
+| 1.1 | Adição de informações sobre as matrículas nas tabelas| Pedro Izarias | Larissa Stéfane | 02/06/2024 |
 
 
