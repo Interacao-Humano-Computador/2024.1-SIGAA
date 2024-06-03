@@ -150,8 +150,10 @@ As tabelas de 1 a 4 mostram a tabela da análise hierárquica de tarefas sobre a
 
 | Objetivos/Operações                           | Relações | Problemas e Recomendações                                                                                                                                                                           |
 | --------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0. Realizar Consulta de Saldo                 | 1/2      | **Input**: Necessidade de consultar o saldo no RU.<br>**Feedback**: O sistema carrega os dados.<br>**Plano**: Mostrar o saldo atual do estudante.<br>**Recomendação**: Prosseguir para a aba do RU. |
-| 1. Clicar na aba de Restaurante Universitário | 1>2      | **Input**: Clicar na aba.<br>**Feedback**: Mostra o saldo atual.<br>**Plano:** Checar o saldo do estudante.<br>**Recomendação**: Nenhuma.                                                           |
+| 0. Acessar Funcionalidade de Recarga de Créditos | 1/2      | **Input**: Necessidade de recarregar o saldo no RU.<br>**Feedback**: O sistema carrega as áreas de preenchimento.<br>**Plano**: Recarregar o os créditos para serem usados no futuro.<br>**Recomendação**: Selecionar a opção de recarga de créditos. |
+| 1. Escolher Opção de Recarga | (1>2)      | **Input**: Necessidade de escolhar a opção de pagamento.<br>**Feedback**: O sistema exibe as opções.<br>**Plano**: Escolher uma opção de pagamento.<br>**Recomendação**: Selecionar uma opção. |
+| 1.1 Opção de Cartão de Crédito ou Débito | (1/2)      | **Input**: Necessidade de usar o cartão como forma de pagamento.<br>**Feedback**: O sistema carrega as áreas a serem preenchidas.<br>**Plano**: Preencher com os dados necessários.<br>**Recomendação**: Preencher com os dados corretos. |
+
 <strong> Autor: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
 
