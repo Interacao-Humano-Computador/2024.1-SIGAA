@@ -193,12 +193,12 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-| Planejamento da Avaliação do Storyboard              | Início: 01/05 <br> Fim: 03/05 |       -        | Início: 04/05 <br> Fim: 04/05 |      -     |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 03/05 <br> Fim: 05/05 |       -        | Início: 06/05 <br> Fim: 06/05 |      -     |
-| Planejamento da Avaliação de Análise de tarefas             | Início: 01/05 <br> Fim: 03/05 |       -        | Início: 04/05 <br> Fim: 04/05 |      -     |
+| Planejamento da Avaliação do Storyboard              | Início: 01/05 <br> Fim: 03/05 |   Breno, Bruno, Iago, Larissa, Luana, Pedro        | Início: 04/05 <br> Fim: 04/05 |      -     |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 03/05 <br> Fim: 05/05 |       Breno, Bruno, Iago, Larissa, Luana, Pedro          | Início: 06/05 <br> Fim: 06/05 |      -     |
+| Planejamento da Avaliação de Análise de tarefas             | Início: 01/05 <br> Fim: 03/05 |      Breno, Bruno, Iago, Larissa, Luana, Pedro          | Início: 04/05 <br> Fim: 04/05 |      -     |
 | Planejamento do relato dos resultados da avaliação de Análise de tarefas | Início: 03/05 <br> Fim: 05/05 |    -    | Início: 06/05 <br> Fim: 06/05 |      -     |
-| Gravar apresentação                | Início: 06/05 <br> Fim: 06/05 | Todos              | Início: 07/05 <br> Fim: 08/05 | Todos            |
-| Correção pós apresentação          | Início: 09/05 <br> Fim: 10/05 | Todos              | Início: 11/05 <br> Fim: 11/05 | Todos            |
+| Gravar apresentação                | Início: 06/05 <br> Fim: 06/05 | Breno, Bruno, Iago, Larissa, Luana, Pedro               | Início: 07/05 <br> Fim: 08/05 | Breno, Bruno, Iago, Larissa, Luana, Pedro              |
+| Correção pós apresentação          | Início: 09/05 <br> Fim: 10/05 | Breno, Bruno, Iago, Larissa, Luana, Pedro                | Início: 11/05 <br> Fim: 11/05 | Breno, Bruno, Iago, Larissa, Luana, Pedro              |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
@@ -247,12 +247,12 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta en
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-| Relato dos resultados do Story Board         | Início: 10/05 <br> Fim: 12/05 |       -        | Início: 13/05 <br> Fim: 13/05 |      -     |
-| Relato dos resultados da Análise de tarefas         | Início: 10/05 <br> Fim: 12/05 |       -        | Início: 13/05 <br> Fim: 13/05 |      -     |
-| Planejamento da Avaliação do Protótipo de Papel         | Início: 13/05 <br> Fim: 16/05 |       -        | Início: 17/05 <br> Fim: 17/05 |      -     |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel| Início: 13/05 <br> Fim: 16/05 | -   | Início: 17/05 <br> Fim: 17/05 |      -     |
-| Gravar apresentação                | Início: 18/05 <br> Fim: 18/05 | Todos              | Início: 19/05 <br> Fim: 19/05 | Todos            |
-| Correção pós apresentação          | Início: 21/05 <br> Fim: 22/05 | Todos              | Início: 23/05 <br> Fim: 24/05 | Todos            |
+| Relato dos resultados do Story Board         | Início: 25/05 <br> Fim: 02/06 |       Larissa ou Pedro       | Início: 02/06 <br> Fim: 03/06 |      Breno ou Bruno ou Iago ou  Larissa ou Luana ou Pedro       |
+| Relato dos resultados da Análise de tarefas         | Início: 25/05 <br> Fim: 02/06 |       Larissa ou Pedro        | Início: 13/05 <br> Fim: 13/05 |      Breno ou Bruno ou Iago ou  Larissa ou Luana ou Pedro    |
+| Planejamento da Avaliação do Protótipo de Papel         | Início: 25/05 <br> Fim: 02/06 |       Larissa ou Iago       | Início: 17/05 <br> Fim: 17/05 |    Breno ou Bruno ou Iago ou  Larissa ou Luana ou Pedro    |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel| Início: 25/05 <br> Fim: 02/06 | Bruno ou Breno   | Início: 17/05 <br> Fim: 17/05 |    Breno ou Bruno ou Iago ou  Larissa ou Luana ou Pedro    |
+| Gravar apresentação                | Início: 25/05 <br> Fim: 02/06 | Breno, Bruno, Iago,  Larissa, Luana,  Pedro             | Início: 19/05 <br> Fim: 19/05 | Breno ou Bruno ou Iago ou  Larissa ou Luana ou Pedro            |
+| Correção pós apresentação          | Início: 25/05 <br> Fim: 02/06 | Todos              | Início: 23/05 <br> Fim: 24/05 | Breno ou Bruno ou Iago ou  Larissa ou Luana ou Pedro            |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
