@@ -101,4 +101,199 @@ Para realizar a avaliação, será necessário ter o consentimento do usuário p
 
 Link: [Termo Consentimento](ignore/termoConsentimento.md)
 
+## Questionário de Pré-Avaliação
+
+O objetivo do questionário de pré-avaliação é “coletar informações dos participantes
+
+que podem influenciar a interação usuário–sistema, tais como: características pessoais, experiências anteriores com tecnologia e conhecimento sobre o domínio;”, segundo o livro de Interação-Humano Computador¹, de Barbosa e Silva (2021, página 275).
+
+
+
+Desse modo, abaixo, há o questionário de pré-avaliação
+
+<details>
+
+<summary size="20"><b> Questionário de pré-avaliação</b></summary>
+
+
+1. **Dados Demográficos** (Salientar que o usuário não precisa responder se se sentir desconfortável)
+
+- **Nome:**
+
+- **Idade:**
+
+- **Gênero:**
+
+- **Curso ou Área de Estudo/Trabalho:**
+
+
+2. **Com que frequência você usa computadores ou dispositivos móveis?**
+
+- ( ) Diariamente
+
+- ( ) Semanalmente
+
+- ( ) Raramente
+
+
+3. **Qual o seu nível de familiaridade com o uso de software acadêmico em geral?**
+
+- ( ) Alto
+
+- ( ) Médio
+
+- ( ) Baixo
+
+- ( ) Nenhum
+
+
+4. **Como você classificaria suas habilidades gerais com a tecnologia?**
+
+5. **Qual a sua expectativa em relação à funcionalidade?**
+
+- Resposta: ___________________________________
+
+
+6. **Resumidamente, como você espera a funcionalidade seja?**
+
+- Resposta: ___________________________________
+
+</details>
+
+## Questionário de Avaliação
+
+Nesta etapa, serão realizadas perguntas com base no protótipo avaliado. Dessa maneira, há perguntas para a avaliação. Elas serão feitas o intuito de garantir que o participante tenha compreendido cada detalhe e coletar a opinião dele.
+
+As perguntas foram definidas conforme o framework DECIDE.
+
+<details>
+
+<summary size="20"><b> Questionário Avaliação do protótipo de papel </b></summary>
+
+#### Perguntas sobre o protótipo de papel
+
+1. **Como você define a sua interação com o protótipo de papel e como ele difere das suas expectativas?**
+
+2. **De que maneira esse protótipo de papel influenciou a sua maneira de realizar essa atividade acadêmica? Você achou mais fácil de realizar do que seria feito presencialmente?**
+
+3. **Quanto tempo você acredita que levou para completar as suas tarefas utilizando o protótipo de papel? Achou que demorou ou que foi rápido? Acredita que o tempo possa ser reduzido ao simplificar alguma etapa?**
+
+4. **Como você avalia a sua satisfação geral com a experiência do uso da funcionalidade com o formato disposto no protótipo de papel?**
+
+5. **Essa funcionalidade ofereceu o suporte adequado para auxiliá-lo em suas tarefas? Ela foi executada e planejada de forma adequada? Se não, como ela pode ser melhorada?**
+
+6. **Quais são, na sua opinião, os aspectos mais positivos e negativos da funcionalidade apresentada pelo protótipo?**
+
+7. **Você acredita que seus objetivos com a funcionalidade podem ser alcançados da forma que foi apresentado no protótipo de papel? E quais não podem?**
+
+8. **Você consegue compreender e utilizar o formato das tarefas que foram apresentadas no protótipo de papel sem dificuldades?**
+
+9. **Você acredita que consegue realizar as suas tarefas de forma eficiente e sem erros utilizando o formato apresentado o protótipo de papel caso a funcionalidade seja implementada?**
+
+10. **Quais elementos do protótipo geraram insatisfação para você?**
+
+11. **Que aspectos da interação pelo formato do protótipo podem desmotivar você a explorar essas funcionalidades?**
+
+12. **Você consegue entender a função de cada elemento presente no protótipo de papel?**
+
+13. **Quais problemas de usabilidade você acredita que um usuário pode enfrentar ao utilizar a funcionalidade como ela foi disposta no protótipo de papel?**
+
+14. **Você conseguiu acessar todas as informações necessárias para executar as tarefas no protótipo de papel?**
+
+15. **Há alguma parte específica que os usuários podem evitar ou achar confusa em relação a como foi disposto no protótipo?**
+
+
+</details>
+
+
+## Questionário de Pós-Avaliação
+
+O objetivo do questionário de pós-avaliação é “coletar informações sobre a opinião e os sentimentos dos participantes decorrentes da experiência de uso observada”, segundo o livro de Interação-Humano Computador¹, de Simone Barbosa, na página 275.
+
+Desse modo, abaixo, há o questionário de pós-avaliação
+
+<details>
+
+<summary size="20"><b> Questionário de pós-avaliação</b></summary>
+
+1. **Como você descreveria sua satisfação geral com a experiência de uso observada?**
+
+2. **Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
+
+3. **As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
+
+4. **Com base na sua experiência, quais sugestões você daria para melhorar a funcionalidade e a experiência de uso?**
+
+
+</details>
+
+## Cronograma
+
+Para realizar as entrevistas, há um cronograma planejado com a data em que entrou em contato com o usuário e data marcada para a entrevista. Essas informações podem ser observadas na tabela 1.
+
+**Tabela 1:** Cronograma das reuniões
+
+| Funcionalidade | Entrevistado | Entrevistador | Data que entrou em contato | Data da entrevista | Horário da entrevista| Local da entrevista |
+| - | - | - | - | - | - | - |
+| Aba de Monitoria | Leonardo Machado | Larissa Stéfane | 27/05/2024 | 04/06/2024 | 12:30 | Sala S9 |
+| Aluguel de Sala | Caio Braga | Larissa Stéfane | 27/05/2024 | 04/06/2024 | 13:00 | S9 |
+| Aba RU | - | Breno Alexandre Soares Garcia | - | - | - | - |
+| Matrículas | - | Pedro Augusto | - | - | - | - |
+| Grade Sugerida | - | Luana Medeiros | - | - | - | - |
+| Solicitação de bolsa | - | Bruno Araújo | - | - | - | - |
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+## Planejamento do Teste Piloto
+
+### Objetivo do Teste Piloto
+
+O objetivo do teste piloto é avaliar o planejamento da avaliação do protótipo de papel e verificar se as questões práticas estão sendo adequadamente atendidas e se todos os materiais necessários estão organizados.
+
+### Preparação do Teste Piloto
+
+1. Selecionar os dispositivos eletrônicos necessários, incluindo os que serão utilizados para gravar e para mostrar os artefatos.
+
+2. Conferir a memória do dispositivo que será utilizado para a gravação.
+
+3. Imprimir os questionários (pré, pós e avaliação).
+
+4. Imprimir o termo de [consentimento](ignore/termoConsentimento.md).
+
+5. Separar folha de papel e lápis para as anotações de observações.
+
+6. Gravar o teste piloto.
+
+### Cronograma do Teste Piloto
+
+Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
+
+**Tabela 2:** Planejamento do teste piloto
+
+| Integrante | Horário | Data| Local |
+| - | - | - | - |
+| Larissa Stéfane | 14:30 | 03/06/2024 | Casa da integrante |
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+## Conclusão
+
+Durante o processo de planejamento das entrevistas para avaliação dos protótipos de papel, foram levados em consideração vários aspectos essenciais para assegurar a eficácia e a ética do estudo. Foram elaborados questionários que se concentram nos objetivos específicos da avaliação. Além disso, foi desenvolvido um roteiro para as entrevistas, visando aprimorar a organização e manter um padrão consistente entre as oito entrevistas que serão conduzidas pelo grupo.
+
+## Bibliografia
+
+1. Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Disponível em: https://www.google.com.br/books/edition/Engenharia_de_Requisitos/gA7kDAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover. Acesso em: 22 de maio de 2024.
+
+
+## Referências Bibliográficas
+
+1. Barbosa, S. D. J., & Silva, B. S. (2021). Interação Humano-Computador e Experiência do Usuário. Editora: Câmara Brasileira do Livro, SP, Brasil.
+
+## Histórico de Versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | - | 02/06/2024 |
+
+
 
