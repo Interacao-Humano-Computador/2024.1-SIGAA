@@ -31,7 +31,7 @@ Conforme o framework [DECIDE definido para a avaliação do protótipo de papel]
 
 ## Questões Práticas
 
-Conforme foi definido nas questões práticas do [framework DECIDE para o protótipo de papel](), os participantes fazem parte do ambiente da FGA e o local das entrevistas será também no ambiente da faculdade, com preferência em salas vazias.
+Conforme foi definido nas questões práticas do [framework DECIDE para o protótipo de papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoAvaliacaoPrototipoPapel.md), os participantes fazem parte do ambiente da FGA e o local das entrevistas será também no ambiente da faculdade, com preferência em salas vazias.
 
 Para a execução das entrevistas, o integrante do grupo deve, com antecedência, preparar-se cuidadosamente para garantir que todos os aspectos práticos sejam atendidos, além de ter um plano alternativo em caso de imprevistos, assegurando que a avaliação ocorra conforme o planejado.
 
