@@ -38,49 +38,45 @@ A metodologia adotada para a análise dos resultados das avaliações das análi
 
 Como foi definido no planejamento, o método utilizado foi a inspeção por meio de entrevista e de questionários com os usuários. Desse modo, a tabela 1 mostra o cronograma executado das entrevistas realizadas.
 
+<center> 
+
 **Tabela 1:** Cronograma executado das entrevistas.
-
-
 
 | Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim | Data | Local |
 | ------------------ | ------------------ | ----------------- | -------------- | -------- | ----- |
 | Larissa Stéfane | João Pedro Garcia | 13:10 | 13:40 | 23/05/2024 | FGA-UnB- Sala S8 |
 | Larissa Stéfane | Leonardo Machado | 12:30 | 13:10 | 28/05/2024 | FGA-UnB- Sala S9 |
 
-
-
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-
+</center>
 
 ### Apresentação dos Usuários
 
 Durante as entrevistas para avaliar as análises de tarefas, foram escolhidos participantes que refletissem o perfil dos usuários. Desse modo, cada participante foi selecionado com base em critérios relacionados ao contexto do sistema acadêmico, como seu nível de familiaridade com softwares acadêmicos e a frequência com que utiliza tecnologias semelhantes. Com isso, a tabela 2 mostra os participantes, a funcionalidade trabalhada e uma breve descrição do perfil deles.
 
+
+<center> 
+  
 **Tabela 2:** Perfil dos entrevistados.
-
-
 
 | Entrevistadores(s) | Entrevistado(s) | Perfil | Funcionalidade |
 | ------------------ | ------------------ | ----------------- | -------- |
 | Larissa Stéfane | João Pedro Garcia | <li> Estudante de engenharia aeroespacial na FGA-UnB no oitavo semestre. <br> <li> É do gênero masculino e tem 25 anos. <br> <li> Utiliza computadores e dispositivos móveis com frequência. <br> <li> Seu nível de habilidade com tecnologia é médio. <br> <li> Sua familiaridade com uso de sistemas acadêmicos é médio/baixo.| Aluguel de Sala |
 | Larissa Stéfane | Leonardo Machado |  <li> Estudante de engenharia de software na FGA-UnB no sétimo semestre. <br> <li> É do gênero masculino e tem 21 anos. <br> <li> Utiliza computadores e dispositivos móveis diariamente. <br> <li> Seu nível de habilidade com tecnologia é alto. <br> <li> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. | Aba de monitoria |
 
-
-
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
-
+</center>
 
 ## Problemas Encontrados e Soluções
 
 Durante a análise dos resultados das entrevistas, diversos problemas foram identificados em relação às interações representadas nas análises de tarefas. Neste contexto, entre os principais desafios encontrados pelos usuários estão dificuldades de compreensão em determinadas etapas das tarefas, inconsistências no fluxo apresentado e as dificuldades na realização de algumas atividades específicas. No entanto, para cada problema identificado, foram propostas soluções adequadas visando melhorar a usabilidade e a eficiência do sistema. Estas soluções incluem ajustes e reformulação da análise das tarefas. Com base nisso, a tabela 3 mostra os problemas e soluções encontradas para as funcionalidades avaliadas.
 
 
-
+<center>
+  
 **Tabela 3:** Problemas Encontrados e as suas Soluções
-
-
 
 | Funcionalidade | Problema Encontrado | Descrição | Solução Proposta |
 | ------------------- | --------- | ---------- | ------- |
@@ -89,6 +85,7 @@ Durante a análise dos resultados das entrevistas, diversos problemas foram iden
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+</center>
 
 
 ## Feedback dos Usuários
