@@ -39,6 +39,7 @@ Como foi definido no planejamento, o método utilizado foi a inspeção por meio
 | Larissa Stéfane | João Pedro Garcia | 13:10 | 13:40 | 23/05/2024 | FGA-UnB- Sala S8 |
 | Larissa Stéfane | Leonardo Machado | 12:30 | 13:10 | 28/05/2024 | FGA-UnB- Sala S9 |
 | Pedro Izarias | Erika Iwakiri | 15:00 | 15:40 | 02/06/2024 | Casa |
+
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
@@ -57,6 +58,7 @@ Durante as entrevistas para avaliar as análises de tarefas, foram escolhidos pa
 | Larissa Stéfane | João Pedro Garcia | <li> Estudante de engenharia aeroespacial na FGA-UnB no oitavo semestre. <br> <li> É do gênero masculino e tem 25 anos. <br> <li> Utiliza computadores e dispositivos móveis com frequência. <br> <li> Seu nível de habilidade com tecnologia é médio. <br> <li> Sua familiaridade com uso de sistemas acadêmicos é médio/baixo.| Aluguel de Sala |
 | Larissa Stéfane | Leonardo Machado |  <li> Estudante de engenharia de software na FGA-UnB no sétimo semestre. <br> <li> É do gênero masculino e tem 21 anos. <br> <li> Utiliza computadores e dispositivos móveis diariamente. <br> <li> Seu nível de habilidade com tecnologia é alto. <br> <li> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. | Aba de monitoria |
 | Pedro Izarias | Erika Iwakiri |  <li> Estudante de  de Letras - Tradução Inglês do Departamento de Linguas Estrangeiras e Tradução da UnB. <br> <li> É do gênero Feminino e tem 22 anos. <br> <li> Utiliza computadores e dispositivos móveis diariamente. <br> <li> Seu nível de habilidade com tecnologia é alto. <br> <li> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. | Realizar Matrícula |
+
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
@@ -91,6 +93,7 @@ Ao analisarem a análise de tarefas, os participantes puderam expressar as suas 
 | ------- | - | ---------- | ---- | --- | 
 | Aluguel de Sala | Ele achou a análise de tarefas bem tranquila e com um fluxo fácil de ser entendido. | Ele acredita que a sequência das tarefas faz sentido e em uma ordem correta e esperada. | Ele falou que sim, pois o formato das tarefas para utilizar a funcionalidade segue a mesma dinâmica que os outros sistemas acadêmicos que ele utiliza. | Não, ele acredita que está bem coerente com o que é esperado. |
 | Aba de monitoria | Uma parte que ele achou complicada foi em monitorar monitoria em relação à área de definir comunicação. Para ele, seria ideal tirar a parte de comunicar diretamente com outros estudantes e professores pelo SIGAA, pois isso pode deixar o monitor e os estudantes confusos em relação a qual meio de comunicação utilizar. | Para ele, a sequência fez sentido. | Sim, ele acha que as tarefas e o fluxo estão conforme o que ele está acostumado. | Sim, em relação ao formato de comunicação. |
+| Realizar matrícula | Para a entrevistada, a análise foi fácil de seguir, apesar do problema com os símbolos de relação entre os objetivos.. | Para ela, a sequência fez sentido. | Sim, ela concorda com as tarefas relacionadas a funcionalidade. | Sim, os símbolos de relação entre os objetivos está incorreto, deixando o diagrama da funcionalidade confuso. |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -162,3 +165,4 @@ Autora: Larissa Stéfane
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
 | 1.0 | Elaboração do documento | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
 | 1.1 | Adição dos resultados da análise de tarefas do aluguel de sala e da aba de monitoria. | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
+| 1.2 | Adição dos resultados da análise de tarefas da realização de matrícula | Pedro Izarias | - | 03/06/2024 |
