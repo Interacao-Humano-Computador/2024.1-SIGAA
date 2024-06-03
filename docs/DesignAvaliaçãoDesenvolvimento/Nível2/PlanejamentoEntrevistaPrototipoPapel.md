@@ -39,7 +39,7 @@ Para a execução das entrevistas, o integrante do grupo deve, com antecedência
 
 Abaixo se encontrar o roteiro que o integrante do grupo deve seguir durante a entrevista.
 
-**Observação:** No livro de Interação-Humano Computador, de Simone Barbosa, na página 275, há a sugestão de que um participante não pode demorar mais do que 20 minutos em uma etapa/tarefa e que, caso demore um pouco, ou seja, uma etapa muito cansativa, deve-se ter pausas rápidas para evitar fadiga física ou mental. Por isso, no roteiro, há a disposição de três pausas opcionais.
+**Observação:** No livro de Interação-Humano Computador, de Simone Barbosa, na página 275, há a sugestão de que um participante não pode demorar mais do que 20 minutos em uma etapa/tarefa e que, caso demore um pouco, ou seja, caso a etapa seja muito cansativa, deve-se ter pausas rápidas para evitar fadiga física ou mental. Por isso, no roteiro, há a disposição de três pausas opcionais.
 
 <details>
 
@@ -52,12 +52,9 @@ Abaixo se encontrar o roteiro que o integrante do grupo deve seguir durante a en
 3. **Receber o participante:** Encontrar-se com o usuário no local na hora marcada.
 
 4. **Introduzir e explicar (5 a 10 minutos):**
-
-- Apresentar-se e explicar o objetivo da entrevista.
-
-- Solicitar a assinatura do Termo de Consentimento Livre e Esclarecido (TCLE).
-
-- Fornecer visão geral da sessão.
+    - Apresentar-se e explicar o objetivo da entrevista.
+    - Solicitar a assinatura do Termo de Consentimento Livre e Esclarecido (TCLE).
+    - Fornecer visão geral da sessão.
 
 (início da gravação)
 
@@ -66,29 +63,22 @@ Abaixo se encontrar o roteiro que o integrante do grupo deve seguir durante a en
 6. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
 
 7. **Apresentar o protótipo de papel (até 20 minutos):**
-
-- Explicar como um protótipo de papel funciona.
-
-- Realizar a interação do participante com o protótipo de papel.
-
-- Se o usuário se sentir a vontade, solicitar que ele pense em voz alta (think aloud) enquanto interage com a funcionalidade no papel.
+    - Explicar como um protótipo de papel funciona.
+    - Realizar a interação do participante com o protótipo de papel.
+    - Se o usuário se sentir a vontade, solicitar que ele pense em voz alta (think aloud) enquanto interage com a funcionalidade no papel.
 
 8. **Questionário de avaliação (Até 10 minutos):**
-
-- Realizar o questionário de avaliação.
-
-- Anotar a opiniões.
+    - Realizar o questionário de avaliação.
+    - Anotar a opiniões.
 
 9. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
 
 10. **Aplicar questionário pós-avaliação (3 a 10 minutos):** Coletar feedback do usuário com a funcionalidade e o protótipo em geral.
 
 15. **Agradecer e encerrar:**
-
-- Agradecer ao participante pelo tempo e contribuições.
-
-- Reforçar sobre a confidencialidade das respostas.
-
+    - Agradecer ao participante pelo tempo e contribuições.
+    - Reforçar sobre a confidencialidade das respostas.
+  
 (Fim da gravação)
 
 </details>
