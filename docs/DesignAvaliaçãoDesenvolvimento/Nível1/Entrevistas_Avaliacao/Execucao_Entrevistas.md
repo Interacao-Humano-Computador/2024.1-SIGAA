@@ -328,7 +328,7 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 Uma das funcionalidades criadas é a aba de monitoria que tem o objetivo realizar os processos referentes à monitorias e facilitar a vida dos envolvidos.
 
-Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards[s](url))
+Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards).
 
 Com base nisso, a avaliação do storyboard e da análise de tarefas para a aba de monitoria pode ser visualizadoa no vídeo 3:
 
@@ -342,9 +342,9 @@ Com base nisso, a avaliação do storyboard e da análise de tarefas para a aba 
 
 </center>
 
-Caso o vídeo acima não funcione, utilize o [link](https://youtu.be/gzTPaBgR5Fg)
+Caso o vídeo acima não funcione, utilize o [link](https://youtu.be/gzTPaBgR5Fg).
 
-Termo de consentimento do participante Leonardo Machado em [Termo Leonardo](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/termos/Leonardo.md)
+Termo de consentimento do participante Leonardo Machado em [Termo Leonardo](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/termos/Leonardo.md).
 
 
 ### Perguntas Respondidas Durante a Entrevista
@@ -512,22 +512,86 @@ Termo de consentimento do participante Leonardo Machado em [Termo Leonardo](Desi
 </details>
 
 
+
+
+
+<details>
+  <summary size="20"><b> Aba do RU </b></summary> 
+  
+### Funcionalidade: Aba do RU
+
+Uma das funcionalidades criadas é a aba do Restaurante Universitário que tem o objetivo de facilitar processos que antes eram apenas feitos presencialmente.
+
+Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards).
+
+Com base nisso, as avaliações do storyboard e da análise de tarefas para a aba do RU podem ser visualizadas no vídeo 4:
+
+<center> 
+
+**Vídeo 4:** Entrevista Avaliação sobre a funcionalidade Aba do RU.
+
+<iframe width="700" height="450" src="" title="Avaliação do Storyboard e da Análise de Tarefas - Funcionalidade: Aba do RU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+
+</center>
+
+Caso o vídeo acima não funcione, utilize o [link]().
+
+O participante consentiu com os termos de consentimento em vídeo.
+
+
+### Perguntas Respondidas Durante a Entrevista
+
+<details>
+
+<summary size="20"><b> Questionário de Pré-Avaliação </b></summary>
+
+
+**1. Dados Demográficos**:
+
+- **Nome completo**: Limírio Correia Guimarães
+- **Idade**: 21 anos.
+- **Gênero**: Masculino
+- **Curso ou área de Estudo/Trabalho**: Quiinto semestre de Engenharia de Software.
+
+
+**2. Com que frequência você usa computadores ou dispositivos móveis?**
+
+- 
+
+**3.Qual o seu nível de familiaridade com o uso de software acadêmico, em geral?**
+
+- 
+
+**4.Como você classifica suas habilidades gerais com tecnologia?**
+
+- 
+
+**5.Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?**
+
+- Sim.
+
+**6.Qual é o seu principal objetivo ao usar sistemas acadêmicos?**
+
+- Ele utiliza sistemas acadêmicos para realizar processos acadêmicos, como realizar matrículas e para obter informações, como consultar as notas e frequências.
+
+</details>
+
+</details>
+
+
 ## Conclusão
 
 As entrevistas de avaliação do storyboard e da análise de tarefas forneceram uma visão mais focada na experiência do usuário e na eficiência das propostas apresentadas. Com isso, elas revelaram tanto pontos fortes quanto áreas que necessitam de melhorias e, com base nos feedbacks recebidos, será possível implementar ajustes e aperfeiçoamentos que garantirão um sistema mais intuitivo, funcional.
 
 
 ## Histórico de Versão
-| Versão | Alteração | Responsável | Revisor | Data |
-| - | - | - | - | - |
-| 1.0 | Criação do documento | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
-| 1.1 | Adicionar entrevista do aluguel de sala | Larissa Stéfane | Bruno Araújo | 30/05/2024 |
-| 1.2 | Adicionar introdução e conclusão | Larissa Stéfane | Iago Passaglia | 01/06/2024 |
-| 1.3 | Correção de erros ortográgicos e adição <br> da entrevista de estágio| Iago Passaglia  | Bruno Araújo | 01/06/2024 |
-| 1.4 | Adicionar entrevista da Aba de monitoria| Larissa Stéfane | - | 02/06/2024 |
-
-
-
-
-
-  
+| Versão | Alteração                                                        | Responsável     | Revisor         | Data       |
+| ------ | ---------------------------------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento                                             | Larissa Stéfane | Bruno Araújo    | 30/05/2024 |
+| 1.1    | Adicionar entrevista do aluguel de sala                          | Larissa Stéfane | Bruno Araújo    | 30/05/2024 |
+| 1.2    | Adicionar introdução e conclusão                                 | Larissa Stéfane | Iago Passaglia  | 01/06/2024 |
+| 1.3    | Correção de erros ortográgicos e adição da entrevista de estágio | Iago Passaglia  | Bruno Araújo    | 01/06/2024 |
+| 1.4    | Adicionar entrevista da Aba de monitoria                         | Larissa Stéfane | Breno Alexandre | 02/06/2024 |
+| 1.5    | Adicionar parcialmente entrevista da Aba do RU                   | Breno Alexandre | -               | 03/06/2024 |
