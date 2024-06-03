@@ -517,6 +517,7 @@ Termo de consentimento do participante Leonardo Machado em [Termo Leonardo](Desi
 
 <details>
   <summary size="20"><b> Aba do RU </b></summary> 
+<br>
   
 ### Funcionalidade: Aba do RU
 
