@@ -171,3 +171,6 @@
     * Resultados
       - [Relato dos Resultados Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/RelatoResultadosStoryboard.md)
       - [Relato dos Resultados Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/RelatoResultadosAnalise.md)
+  * Nível 2
+    * [Planejamento Avaliação Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoAvaliacaoPrototipoPapel.md)
+    * [Planejamento Entrevistas do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoEntrevistaPrototipoPapel.md)
