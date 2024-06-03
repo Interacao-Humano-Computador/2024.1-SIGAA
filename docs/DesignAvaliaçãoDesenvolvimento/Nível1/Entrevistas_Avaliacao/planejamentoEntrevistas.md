@@ -366,7 +366,7 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 | Aba de Monitoria | Leonardo Machado | Larissa Stéfane | 21/05/2024 | 28/05/2024 | 12:00 | Sala S9 |
 | Aluguel de Sala | João Pedro Garcia  | Larissa Stéfane | 21/05/2024 | 23/05/2024 | 13:00 | Sala S8 |
 | Aba RU |  Limírio Correia Guimarães | Breno Alexandre Soares Garcia | 21/05/2024 |  28/05/2024 |  13:00 |  Alguma sala no UAC |
-| Matrículas | Debora Damasceno | Pedro Augusto | 21/05/2024 |  27/05/2024 |  15:00 | Local de encontro na UnB|
+| Matrículas | Erika Iwakiri | Pedro Augusto | 21/05/2024 |  02/06/2024 |  15:00 | Casa do usuário |
 | Grade Sugerida |  Leonardo Ramiro | Luana Medeiros | 21/05/2024 |  28/05/2024 |  13:00 | casa do usuário |
 | Solicitação de bolsa |  Matheus Orrico | Bruno Araújo | 21/05/2024 |  29/05/2024 |  13:00 | casa do usuário |
 
