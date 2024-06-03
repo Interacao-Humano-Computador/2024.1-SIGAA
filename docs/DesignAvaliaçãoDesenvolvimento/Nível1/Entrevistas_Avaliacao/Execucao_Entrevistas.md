@@ -886,57 +886,7 @@ A participante concordou com os termos da entrevista.
 
  </details>
 
-<details>
-<summary size="20"><b> Bolsas </b></summary>
-<br>
-<b><font size="+2"> Funcionalidade: Solicitação de Bolsas</font></b>
 
-Uma das funcionalidades criadas é a solicitação de bolsas, que tem o objetivo de facilitar a solicitação de diversas bolsas oferecidas pela UnB.
-
-Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards).
-
-Com base nisso, as avaliações do storyboard e da análise de tarefas para a solicitação de bolsas podem ser visualizadas no vídeo 4:
-
-<center> 
-
-**Vídeo 4:** Entrevista Avaliação sobre a funcionalidade Solicitação de Bolsas.
-
-<iframe width="700" height="450" src="https://youtu.be/y_Uoi5tMh-Y?feature=shared" title="Avaliação do Storyboard e da Análise de Tarefas - Funcionalidade: Solicitação de Bolsas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<b> Autor: </b> <a href="https://github.com/brunocva"> Bruno Araújo </a>
-
-</center>
-
-Caso o vídeo acima não funcione, utilize o [link](https://youtu.be/y_Uoi5tMh-Y?feature=shared).
-
-A participante consentiu com os termos de consentimento em vídeo.
-
-### Perguntas Respondidas Durante a Entrevista
-
-<details>
-
-<summary size="20"><b> Questionário de Pré-Avaliação </b></summary>
-
-1. **Dados Demográficos**
-   - **Nome:** Marcella Cristina Ferreira
-   - **Idade:** 23
-   - **Gênero:** Feminino
-   - **Curso ou Área de Estudo/Trabalho:** Engenharia Aeroespacial
-
-2. **Com que frequência você usa computadores ou dispositivos móveis?**
-   - [X] Diariamente
-   - [ ] Semanalmente
-   - [ ] Raramente
-   - **Anotação:**
-
-3. **Qual o seu nível de familiaridade com o uso de software acadêmico em geral?**
-   - [ ] Alto
-   - [X] Médio
-   - [ ] Baixo
-   - [ ] Nenhum
-   - **Anotação:**
-</details>
- 
 ## Conclusão
 
 As entrevistas de avaliação do storyboard e da análise de tarefas forneceram uma visão mais focada na experiência do usuário e na eficiência das propostas apresentadas. Com isso, elas revelaram tanto pontos fortes quanto áreas que necessitam de melhorias e, com base nos feedbacks recebidos, será possível implementar ajustes e aperfeiçoamentos que garantirão um sistema mais intuitivo, funcional.
@@ -952,3 +902,4 @@ As entrevistas de avaliação do storyboard e da análise de tarefas forneceram 
 | 1.4    | Adicionar entrevista da Aba de monitoria                         | Larissa Stéfane | Breno Alexandre | 02/06/2024 |
 | 1.5    | Adicionar parcialmente entrevista da Aba do RU                   | Breno Alexandre | Bruno Araújo      | 03/06/2024 |
 | 1.6   | Adicionado entrevista Bolsas                   | Bruno Araújo | --      | 03/06/2024 |
+| 1.7   | Adicionado entrevista Matrícula                   | Pedro Izarias | --      | 03/06/2024 |
