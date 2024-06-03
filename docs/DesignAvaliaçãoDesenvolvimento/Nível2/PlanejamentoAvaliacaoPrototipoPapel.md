@@ -168,7 +168,7 @@ Na avaliação dos protótipos de papel, as questões práticas são aquelas rel
 
 Os locais serão semelhantes aos  definidos para a avaliação do storyboard e da análise de tarefas.
 
-- **Salas de Aula vazias: inicialmente, o ideal é realizar a reunião em uma sala de aula vazia. Desse modo, para verificar as salas de aula que estariam livres no horário de almoço, foram analisados os horários e salas das disciplinas conforme a [página pública de turma do SIGAA](https://sigaa.unb.br/sigaa/public/turmas/listar.jsf) e conforme a organização das impressões disponibilizadas nas portas das salas. Abaixo, na tabela 1, há algumas salas que possuem maior probabilidade de estarem livres no horário de almoço.
+- **Salas de Aula vazias**: inicialmente, o ideal é realizar a reunião em uma sala de aula vazia. Desse modo, para verificar as salas de aula que estariam livres no horário de almoço, foram analisados os horários e salas das disciplinas conforme a [página pública de turma do SIGAA](https://sigaa.unb.br/sigaa/public/turmas/listar.jsf) e conforme a organização das impressões disponibilizadas nas portas das salas. Abaixo, na tabela 1, há algumas salas que possuem maior probabilidade de estarem livres no horário de almoço.
 
 <details>
 
