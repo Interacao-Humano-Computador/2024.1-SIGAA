@@ -11,6 +11,7 @@
 * [Questionário de Pós-Avaliação](#Questionário-de-Pós-Avaliação)
 * [Cronograma](#Cronograma)
 * [Planejamento do Teste Piloto](#Planejamento-do-Teste-Piloto)
+* [Execução do Teste Piloto](#Execução-do-Teste-Piloto)
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Referências Biblliográficas](#Referências-Biblliográficas)
@@ -405,7 +406,19 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+## Execução do Teste Piloto
 
+O vídeo 1 apresenta a gravação do teste piloto para a execução da entrevista para a avaliação do storyboard e da análise de tarefas.
+
+<center> 
+vídeo 1: Teste Piloto para Avaliação do Storyboard e da Análise de Tarefas.
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/7FYiMVkWcEo" title="TestePiloto para entrevistas de avaliação do Sotryboard e da AnaliseTarefas - IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Autora**:  [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+
+</center>
 
 ## Conclusão
 
@@ -424,3 +437,4 @@ Foi possível observar que, no processo de planejamento das entrevistas para ava
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | Bruno Araújo | 22/05/2024 |
+| 1.1 | Adição da gravação do teste piloto | Larissa Stéfane | - | 03/06/2024 |
