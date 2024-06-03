@@ -39,7 +39,6 @@ Como foi definido no planejamento, o método utilizado foi a inspeção por meio
 | Larissa Stéfane | João Pedro Garcia | 13:10 | 13:40 | 23/05/2024 | FGA-UnB- Sala S8 |
 | Larissa Stéfane | Leonardo Machado | 12:30 | 13:10 | 28/05/2024 | FGA-UnB- Sala S9 |
 | Pedro Izarias | Erika Iwakiri | 15:00 | 15:40 | 02/06/2024 | Casa |
-
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </center>
