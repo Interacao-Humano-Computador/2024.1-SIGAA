@@ -41,8 +41,9 @@ O método utilizado foi a inspeção por meio de entrevista dos usuários. Desse
 | Iago Passaglia | Ana Caroline Porto | 13:00 | 13:30 | 31/05/2024 | Casa do entrevistador |
 | Bruno Araújo | Marcella Cristina | 10:30 | 10:50 | 03/05/2024 | FGA-UnB - Sala I4|
 | Pedro Izarias | Erika Iwakiri | 15:00 | 15:40 | 02/06/2024 | Casa da entrevistada|
+| Breno Alexandre | Limírio Correia | 18:58 | 19:37 | 03/06/2024 | Plataforma Teams |
 
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia),  [Bruno Araújo](https://github.com/brunocva), [Pedro Izarias](https://github.com/Izarias).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia),  [Bruno Araújo](https://github.com/brunocva), [Pedro Izarias](https://github.com/Izarias), [Breno Alexandre](https://github.com/brenoalexandre0).
 
 </center>
 
@@ -61,8 +62,9 @@ Para a avaliação do storyboard das funcionalidades do SIGAA, a seleção dos p
 | Iago Passaglia | Ana Caroline Porto | <li> Estudante de nutrição do quinto semestre. <br> <li>  É do gênero feminino e tem 20 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é médio. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é boa/alta.|
 | Bruno Araújo | Marcella Cristina| <li> Estudante de engenharia aeroespacial sétimo semestre. <br> <li>  É do gênero feminino e tem 23 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é médio. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é mediana.|
 | Pedro Izarias | Erika Iwakiri| <li> Estudante de Letras - Tradução Inglês. <br> <li>  É do gênero feminino e tem 22 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é alto. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é alta.|
+| Breno Alexandre | Limírio Correia| <li> Estudante de Engenharia de Software. <br> <li>  É do gênero masculino e tem 22 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é alto. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é alta.|
 
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) , [Iago Passaglia](https://github.com/Paxxaglia), [Bruno Araújo](https://github.com/brunocva), [Pedro Izarias](https://github.com/Izarias).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) , [Iago Passaglia](https://github.com/Paxxaglia), [Bruno Araújo](https://github.com/brunocva), [Pedro Izarias](https://github.com/Izarias), [Breno Alexandre](https://github.com/brenoalexandre0).
 
 </center>
 
@@ -81,9 +83,10 @@ No decorrer das entrevistas, alguns pontos de problemas e dificuldades foram apr
 | Aba de monitoria | Não houve observações sobre problemas | Nenhum ponto negativo foi pontuado | Como não foi identificado nenhum ponto negativo pelo usuário, não há sugestão de melhoria também. |
 | Pré=cadastro de estágio | Falta de informação | A entrevistada alega que faltaram alguns quadrinhos no storyboard detalhando mais a tarefa | Refazer o storyboard dando mais ênfase para os detalhes da funcionalidade |
 | Solicitação de bolsas | Não houve observações sobre problemas | Nenhum ponto negativo foi pontuado | Como não foi identificado nenhum ponto negativo pelo usuário, não há sugestão de melhoria também. |
-| Realizar Matrícula | Não  foram encontrados problemas | A entrevistada alegou que o storyboard representa bem a funcionalidade escolhida | Não há necessidade |
+| Realizar Matrícula | Não foram encontrados problemas | A entrevistada alegou que o storyboard representa bem a funcionalidade escolhida | Não há necessidade |
+| Aba do RU | Não foram encontrados problemas | Nenhum ponto negativo foi pontuado | Como não foi identificado nenhum ponto negativo pelo usuário, não há sugestão de melhoria também. |
 
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Bruno Araújo](https://github.com/brunocva), [Pedro Izarias](https://github.com/Izarias).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Bruno Araújo](https://github.com/brunocva), [Pedro Izarias](https://github.com/Izarias), [Breno Alexandre](https://github.com/brenoalexandre0).
 
 </center>
 
@@ -102,11 +105,12 @@ Ao lerem os storyboards, os participantes puderam expressar as suas opiniões co
 | Leonardo Gonçalves Machado | Sim, pois ele pontuou que foram mostrados alguns problemas enfrentados pelos monitores e pelos estudantes em geral. | Para ele, reduziria o tempo gasto pelos estudantes para realizar essas tarefas, que são feitas presencialmente atualmente. Além de a funcionalidade tornar o processo mais prático em relação aos horários também, pois o monitor pode pedir monitoria a qualquer momento. |
 | Ana Caroline Porto | Acredita que as necessidades do usuário são parcialmente resolvidas pela funcionalidade. | Sugeriu transformar todos os processos em processos online, para que o estudante não tenha mais pendências para serem resolvidas fora do ambiente do portal acadêmico. |
 |Marcella Cristina | Acredita que as necessidades do usuário parcialmente resolvidas pela funcionalidade. | Sugeriu mudanças sutis, no quesito a interface . |
-|Erika  Iwakiri | Acredita que a funcionalidade pode ser realizada com facilidade pelo sistema. | Sugeriu que algumas das opções dentro da aba Ensino se tornem abas separadas . |
+| Erika  Iwakiri | Acredita que a funcionalidade pode ser realizada com facilidade pelo sistema. | Sugeriu que algumas das opções dentro da aba Ensino se tornem abas separadas . |
+| Limírio Correia | Acredita que a funcionalidade pode ser realizada com facilidade pelo sistema. | Disse que a funcionalidade facilita por poder ser remoto e também poupar tempo. |
 
 
 
-**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Bruno Araújo](https://github.com/brunocva) , [Pedro Izarias](https://github.com/Izarias).
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Bruno Araújo](https://github.com/brunocva) , [Pedro Izarias](https://github.com/Izarias), [Breno Alexandre](https://github.com/brenoalexandre0).
 
 </center>
 
@@ -131,4 +135,4 @@ Portanto, é possível constatar a relevância e o impacto das informações col
 | 1.2 | Adição dos resultados do storyboard do pré-cadastro de estágio. | Iago Passaglia | Bruno Araújo | 03/06/2024 |
 | 1.3 | Adição dos resultados do storyboard de Bolsas. | Bruno Araújo | Pedro Izarias | 03/06/2024 |
 | 1.4 | Adição dos resultados do storyboard de Realizar Matrícula. | Pedro Izarias | - | 03/06/2024 |
-
+| 1.5 | Adição dos resultados do storyboard da Aba do RU. | Breno Alexandre | - | 03/06/2024 |
