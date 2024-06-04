@@ -263,6 +263,8 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
+### Gravação do Teste piloto
+
 <details>
   <summary size="20"><b> Teste piloto - Protótipo de papel - Realizar Matrícula </b></summary> 
 <center> 
