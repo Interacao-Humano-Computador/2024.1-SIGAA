@@ -275,6 +275,7 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 
 </center>
 
+</details>
 
 
 ## Conclusão
