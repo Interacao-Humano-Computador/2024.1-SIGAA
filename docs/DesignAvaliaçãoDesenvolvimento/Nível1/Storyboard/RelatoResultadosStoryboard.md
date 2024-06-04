@@ -106,7 +106,7 @@ Ao lerem os storyboards, os participantes puderam expressar as suas opiniões co
 
 
 
-**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), , [Pedro Izarias](https://github.com/Izarias).
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Bruno Araújo](https://github.com/brunocva) , [Pedro Izarias](https://github.com/Izarias).
 
 </center>
 
