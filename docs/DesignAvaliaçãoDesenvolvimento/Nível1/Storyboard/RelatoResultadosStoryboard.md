@@ -130,5 +130,5 @@ Portanto, é possível constatar a relevância e o impacto das informações col
 | 1.1 | Adição dos resultados do storyboard do aluguel de sala e da aba de monitoria. | Larissa Stéfane | Iago Passaglia | 02/06/2024 |
 | 1.2 | Adição dos resultados do storyboard do pré-cadastro de estágio. | Iago Passaglia | Bruno Araújo | 03/06/2024 |
 | 1.3 | Adição dos resultados do storyboard de Bolsas. | Bruno Araújo | Pedro Izarias | 03/06/2024 |
-| 1.4 | Adição dos resultados do storyboard de Realizar Matrícula. | Pedro Izarias | - | 03/06/2024 |
-| 1.5 | Adição dos resultados do storyboard da Aba do RU. | Breno Alexandre | - | 03/06/2024 |
+| 1.4 | Adição dos resultados do storyboard de Realizar Matrícula. | Pedro Izarias | Bruno Araújo | 03/06/2024 |
+| 1.5 | Adição dos resultados do storyboard da Aba do RU. | Breno Alexandre | Pedro Izarias | 03/06/2024 |
