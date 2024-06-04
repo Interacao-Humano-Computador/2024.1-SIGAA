@@ -109,6 +109,8 @@ Ao analisarem a análise de tarefas, os participantes puderam expressar as suas 
 | Realizar matrícula | Para a entrevistada, a análise foi fácil de seguir, apesar do problema com os símbolos de relação entre os objetivos. | Para ela, a sequência fez sentido. | Sim, ela concorda com as tarefas relacionadas a funcionalidade. | Sim, os símbolos de relação entre os objetivos está incorreto, deixando o diagrama da funcionalidade confuso. |
 | Pré-cadastro de estágio | Para a entrevistada, foi fácil seguir os passos | Para ela, a sequência fez sentido. | Sim, a entrevistada acredita que o fluxo das atividades estão de forma coerente. | Não foram apontadas nenhuma parte desnecessária ou confusa. |
 | Aba do RU | Sim, com exceção da tarefa de Recarga de Créditos, por ser muito extensa. | Achou bem coerente no geral. | Foram coerentes na visão dele. | Nada além do que foi dito anteriormente. |
+| Declaração de Bolsas| Sim.| Foram coerentes na 
+visão dele. | Nada além do que foi dito anteriormente. |
 
 **Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0), [Bruno Araújo](https://github.com/brunocva).
 
