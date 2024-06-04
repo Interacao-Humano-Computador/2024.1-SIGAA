@@ -231,6 +231,6 @@ Autor: Iago Passaglia
 | 1.0 | Elaboração do documento | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
 | 1.1 | Adição dos resultados da análise de tarefas do aluguel de sala e da aba de monitoria. | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
 | 1.2 | Adição dos resultados da análise de tarefas da realização de matrícula | Pedro Izarias | Iago Passaglia | 03/06/2024 |
-| 1.3 | Adição dos resultados da análise de pré-cadastro de estágio. | Iago Passaglia | - | 02/06/2024 |
+| 1.3 | Adição dos resultados da análise de pré-cadastro de estágio. | Iago Passaglia | Pedro Izarias | 02/06/2024 |
 | 1.4 | Adição dos resultados da análise aba do RU. | Breno Alexandre | Bruno Araújo | 03/06/2024 |
-| 1.5 | Adição dos resultados da análise aba Declaração de Bolsa. | Bruno Araújo| - | 03/06/2024 |
+| 1.5 | Adição dos resultados da análise aba Declaração de Bolsa. | Bruno Araújo| Pedro Izarias | 03/06/2024 |
