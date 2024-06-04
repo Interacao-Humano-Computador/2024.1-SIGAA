@@ -260,7 +260,7 @@ Para isso, os dados coletados serão organizados e analisados em um documento es
 
 ## Bibliografia
 
-1. Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Disponível em: https://www.google.com.br/books/edition/Engenharia_de_Requisitos/gA7kDAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover. Acesso em: 22 de maio de 2024.
+Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Disponível em: https://www.google.com.br/books/edition/Engenharia_de_Requisitos/gA7kDAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover. Acesso em: 22 de maio de 2024.
 
 
 ## Referências Bibliográficas
@@ -271,4 +271,4 @@ Para isso, os dados coletados serão organizados e analisados em um documento es
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0 | Criação do documento e elaboração de todos os pontos da avaliação | Larissa Stéfane | - | 02/06/2024 |
+| 1.0 | Criação do documento e elaboração de todos os pontos da avaliação | Larissa Stéfane | Breno Alexandre | 02/06/2024 |
