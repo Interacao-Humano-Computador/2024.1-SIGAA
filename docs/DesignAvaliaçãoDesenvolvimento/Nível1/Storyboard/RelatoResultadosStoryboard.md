@@ -114,10 +114,6 @@ Ao lerem os storyboards, os participantes puderam expressar as suas opiniões co
 
 </center>
 
-## Correção dos Storyboards
-
-Para os storyboards que apresentaram problemas ou sugestões por parte dos usuários, é possível visualizar as suas versões atualizadas abaixo.
-
 ## Conclusão
 
 Portanto, é possível constatar a relevância e o impacto das informações coletadas durante o processo de avaliação do storyboard, uma vez que, nas entrevistas realizadas, os usuários puderam destacar tanto os pontos fortes quanto os pontos fracos.
