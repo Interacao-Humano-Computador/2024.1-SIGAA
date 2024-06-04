@@ -21,7 +21,7 @@
   - [Apresentação 01](Entregas/Entrega01.md)
   - [Apresentação 02](Entregas/Entrega02.md)
   - [Apresentação 03](Entregas/Entrega03.md)
-  - 
+  - [Apresentação 04](Entregas/Entrega04.md)
   - [Apresentação 05](Entregas/Entrega5.md)
     
 * Planejamento 
