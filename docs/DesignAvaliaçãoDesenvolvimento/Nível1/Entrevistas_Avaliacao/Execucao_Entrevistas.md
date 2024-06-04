@@ -531,13 +531,13 @@ Com base nisso, as avaliações do storyboard e da análise de tarefas para a ab
 
 **Vídeo 4:** Entrevista Avaliação sobre a funcionalidade Aba do RU.
 
-<iframe width="700" height="450" src="" title="Avaliação do Storyboard e da Análise de Tarefas - Funcionalidade: Aba do RU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="800" src="https://www.youtube-nocookie.com/embed/ePtlMwfc-oE?si=cdgHjCQFhsIf_elO" title="Avaliação do Storyboard e da Análise de Tarefas - Funcionalidade: Aba do RU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
 </center>
 
-Caso o vídeo acima não funcione, utilize o [link]().
+Caso o vídeo acima não funcione, utilize o [link](https://youtu.be/ePtlMwfc-oE).
 
 O participante consentiu com os termos de consentimento em vídeo.
 
@@ -552,22 +552,22 @@ O participante consentiu com os termos de consentimento em vídeo.
 **1. Dados Demográficos**:
 
 - **Nome completo**: Limírio Correia Guimarães
-- **Idade**: 21 anos.
+- **Idade**: 22 anos.
 - **Gênero**: Masculino
-- **Curso ou área de Estudo/Trabalho**: Quiinto semestre de Engenharia de Software.
+- **Curso ou área de Estudo/Trabalho**: Oitavo semestre de Engenharia de Software.
 
 
 **2. Com que frequência você usa computadores ou dispositivos móveis?**
 
-- 
+- Todos os dias.
 
 **3.Qual o seu nível de familiaridade com o uso de software acadêmico, em geral?**
 
-- 
+- Bem proficiente.
 
 **4.Como você classifica suas habilidades gerais com tecnologia?**
 
-- 
+- Nível alto.
 
 **5.Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?**
 
@@ -579,7 +579,116 @@ O participante consentiu com os termos de consentimento em vídeo.
 
 </details>
 
+<details>
+  <summary size="20"><b> Questionário sobre o Storyboard </b></summary> 
+
+### Observações durante a leitura do storyboard:
+
+Leu rápidamente sem problemas.
+
+### Questionário de avaliação Storyboard
+
+**1. O que você achou do storyboard apresentado? Houve algum elemento que se destacou positiva ou negativamente?**
+- Ele achou ele bem feito e considerou os objetivos claros.
+  
+**2. O storyboard foi claro e fácil de entender? Quais partes, se houver, foram confusas ou difíceis de seguir?**
+- Considerou  que o storyboard tem uma qualidade linear.
+  
+**3. Você acha que o storyboard reflete bem as necessidades e as expectativas dos usuários? Por quê?**
+- Sim, porque, como usuário, ele pode sentir que um usuário agiria do mesmo jeito representado no storyboard.
+
+**4. Você acha que a solução apresentada no storyboard é relevante e eficaz para o problema mostrado? Por quê?**
+- Sim, acredita que os passos são interessantes a serem seguidos.
+
+**5. De que maneira você acha que a solução apresentada no storyboard poderia impactar a vida dos usuários?**
+- Facilita por poder ser remoto.
+- Poupa tempo.
+
 </details>
+
+<details>
+  <summary size="20"><b> Questionário sobre a análise de tarefas </b></summary> 
+
+### Observações durante avaliação da análise de tarefas: 
+
+Achou um pouco complicado ler e entender o HTA de forma geral à primeira vista.
+
+### Questionário de Avaliação Análise de tarefas
+
+**1. A análise de tarefas foi fácil de seguir? Houve alguma etapa que você achou particularmente complicada ou mal explicada?**
+- Sim, com exceção da tarefa de Recarga de Créditos, por ser muito extensa.
+  
+**2. A sequência das tarefas fez sentido para você? Alguma etapa pareceu fora de ordem ou confusa?**
+- Achou bem coerente no geral.
+- Na tarefa de Recarga de Créditos, os itens 3.1 e 3.1.1 parecem redundantes na visão do usuário.
+
+**3. Você acha que as tarefas analisadas são relevantes para o contexto do sistema acadêmico? Por quê?**
+- Sim, ele concorda. Ele acha importante ter essa parte no sistema acadêmico pois o RU é integrado na universidade.
+
+**4. As tarefas apresentadas na análise foram consistentes entre si e com o resto do sistema? Alguma tarefa pareceu destoar do fluxo geral?**
+- Foram coerentes na visão dele.
+- Considerou a tarefa de Pesquisa de Satisfação desnecessária pro sistema, pois apenas a empresa responsável pelo restaurante devia se preocupar com isso.
+
+**5. Você acha que as tarefas precisam ser mais fáceis de executar na prática? Quais tarefas poderiam ser simplificadas?**
+- Ele considerou as tarefas simples.
+- Na tarefa de Recarga de Créditos, dentro da opção de PIX como pagamento, o item 1.3.1.1 foi considerado redundante na visão dele.
+
+**6. Quais são as principais dificuldades que os usuários enfrentam ao executar as tarefas propostas?**
+- Não conseguiu apontar nenhuma dificuldade.
+
+**7. As tarefas são intuitivas e fáceis de entender?**
+- Ele considerou que sim.
+
+**8. Existem etapas desnecessárias ou confusas no fluxo das tarefas?**
+- Nada além do que foi dito anteriormente.
+
+**9. Os objetivos dos usuários são alcançados de maneira eficiente?**
+- Ele achou que sim.
+- Na tarefa de Recarga de Créditos, dentro da opção de PIX como pagamento, poderia ter uma opção de copiar a chave PIX.
+
+**10. Existem discrepâncias entre o que os usuários esperam e o que realmente ocorre durante a execução das tarefas?**
+- Ele achou todo o sistema coerente.
+
+</details>
+
+<details>
+  <summary size="20"><b> Questionário de avaliação conforme os objetivos </b></summary> 
+
+**1. O quanto eles são motivados a explorar as novas funcionalidades?**
+- Considerou sendo mais por necessidade, e na tarefa de Pesquisa de Satisfação a maior motivação seria para fazer elogios/reclamações.
+
+**2. Quais são os pontos fortes e fracos do sistema, na opinião dos usuários**
+- Maior ponto forte é poder fazer as tarefas de forma online. Sem considerações negativas.
+
+**3. Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? Quais necessidades e desejos foram ou não atendidos?**
+- Ele considerou que os objetivos básicos podem ser alcançados. Sugeriu uma funcionalidade de sugestões de cardápio.
+
+**4. A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?**
+- Na opinião dele, não. Pois considerou tudo bem coeso
+
+</details>
+
+<details>
+  <summary size="20"><b> Questionário de de pós-avaliação </b></summary> 
+
+**1. Como você descreveria sua satisfação geral com a experiência de uso observada?**
+- Achou tranquilo e compreensível como usuário.
+
+**2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
+- Achou tudo bem linear.
+
+**3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
+- Sim, ele considerou que corresponde sim.
+   
+  </details>
+
+</details>
+
+
+
+
+
+
 
 <details>
 <summary size="20"><b> Bolsas </b></summary>
@@ -900,6 +1009,7 @@ As entrevistas de avaliação do storyboard e da análise de tarefas forneceram 
 | 1.2    | Adicionar introdução e conclusão                                 | Larissa Stéfane | Iago Passaglia  | 01/06/2024 |
 | 1.3    | Correção de erros ortográgicos e adição da entrevista de estágio | Iago Passaglia  | Bruno Araújo    | 01/06/2024 |
 | 1.4    | Adicionar entrevista da Aba de monitoria                         | Larissa Stéfane | Breno Alexandre | 02/06/2024 |
-| 1.5    | Adicionar parcialmente entrevista da Aba do RU                   | Breno Alexandre | Bruno Araújo      | 03/06/2024 |
-| 1.6   | Adicionado entrevista Bolsas                   | Bruno Araújo | --      | 03/06/2024 |
-| 1.7   | Adicionado entrevista Matrícula                   | Pedro Izarias | --      | 03/06/2024 |
+| 1.5    | Adicionar parcialmente entrevista da Aba do RU                   | Breno Alexandre | Bruno Araújo    | 03/06/2024 |
+| 1.6    | Adicionado entrevista Bolsas                                     | Bruno Araújo    | --              | 03/06/2024 |
+| 1.7    | Adicionado entrevista Matrícula                                  | Pedro Izarias   | --              | 03/06/2024 |
+| 1.8    | Complementação da entrevista da Aba do RU                        | Breno Alexandre | --              | 03/06/2024 |
