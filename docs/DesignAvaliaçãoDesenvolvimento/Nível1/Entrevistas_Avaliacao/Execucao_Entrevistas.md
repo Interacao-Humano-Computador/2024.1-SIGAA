@@ -1012,6 +1012,6 @@ As entrevistas de avaliação do storyboard e da análise de tarefas forneceram 
 | 1.3    | Correção de erros ortográgicos e adição da entrevista de estágio | Iago Passaglia  | Bruno Araújo    | 01/06/2024 |
 | 1.4    | Adicionar entrevista da Aba de monitoria                         | Larissa Stéfane | Breno Alexandre | 02/06/2024 |
 | 1.5    | Adicionar parcialmente entrevista da Aba do RU                   | Breno Alexandre | Bruno Araújo    | 03/06/2024 |
-| 1.6    | Adicionado entrevista Bolsas                                     | Bruno Araújo    | --              | 03/06/2024 |
+| 1.6    | Adicionado entrevista Bolsas                                     | Bruno Araújo    | Pedro Izarias   | 03/06/2024 |
 | 1.7    | Adicionado entrevista Matrícula                                  | Pedro Izarias   | --              | 03/06/2024 |
-| 1.8    | Complementação da entrevista da Aba do RU                        | Breno Alexandre | --              | 03/06/2024 |
+| 1.8    | Complementação da entrevista da Aba do RU                        | Breno Alexandre | Pedro Izarias   | 03/06/2024 |
