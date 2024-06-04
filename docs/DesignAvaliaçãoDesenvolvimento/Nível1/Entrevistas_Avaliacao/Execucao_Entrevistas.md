@@ -711,7 +711,7 @@ Com base nisso, as avaliações do storyboard e da análise de tarefas para a so
 
 </center>
 
-Caso o vídeo acima não funcione, utilize o [link]().
+Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watch?v=y_Uoi5tMh-Y).
 
 A participante consentiu com os termos de consentimento em vídeo.
 
