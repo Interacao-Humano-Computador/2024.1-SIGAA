@@ -62,8 +62,9 @@ Durante as entrevistas para avaliar as análises de tarefas, foram escolhidos pa
 | Pedro Izarias | Erika Iwakiri |  <li> Estudante de  de Letras - Tradução Inglês do Departamento de Linguas Estrangeiras e Tradução da UnB. <br> <li> É do gênero Feminino e tem 22 anos. <br> <li> Utiliza computadores e dispositivos móveis diariamente. <br> <li> Seu nível de habilidade com tecnologia é alto. <br> <li> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. | Realizar Matrícula |
 | Iago Passaglia | Ana Caroline Porto | <li> Estudante de nutrição do quinto semestre. <br> <li>  É do gênero feminino e tem 20 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é médio. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é boa/alta.| Pré-cadastro de estágio |
 | Breno Alexandre | Limírio Correia| <li> Estudante de Engenharia de Software. <br> <li>  É do gênero masculino e tem 22 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é alto. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é alta. |
+| Bruno Araújo | Marcella Cristina| <li> Estudante de Engenharia de engenharia aeroespacial. <br> <li>  É do gênero feminino e tem 23 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é mediano. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é mediano. |
 
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0), [Bruno Araújo](https://github.com/brunocva).
 
 
 </center>
@@ -88,8 +89,9 @@ Durante a análise dos resultados das entrevistas, diversos problemas foram iden
 | Aba de RU | <li> Considerou a tarefa de Pesquisa de Satisfação desnecessária pro sistema | <li>Pois apenas a empresa responsável pelo restaurante devia se preocupar com isso. | Remover funcionalidade |
 | Aba de RU | <li> Na tarefa de Recarga de Créditos, dentro da opção de PIX como pagamento, o item 1.3.1.1 foi considerado redundante na visão dele. | <li>Pois a tarefa anterior fala sobre a mesma coisa  | Remover tarefa |
 | Aba de RU | <li> Na tarefa de Recarga de Créditos, dentro da opção de PIX como pagamento, poderia ter uma opção de copiar a chave PIX. | <li>Para ter mais uma opção de pagamento dentro da opção de PIX | Adicionar tarefa |
+| Declaração de bolsa |  <li> Poucas funcionalidades | O usuário relatou que algumas informações não parecem ser necessárias |  Ter funcionalidade direta |
 
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0), [Bruno Araújo](https://github.com/brunocva)
 
 </center>
 
@@ -108,7 +110,7 @@ Ao analisarem a análise de tarefas, os participantes puderam expressar as suas 
 | Pré-cadastro de estágio | Para a entrevistada, foi fácil seguir os passos | Para ela, a sequência fez sentido. | Sim, a entrevistada acredita que o fluxo das atividades estão de forma coerente. | Não foram apontadas nenhuma parte desnecessária ou confusa. |
 | Aba do RU | Sim, com exceção da tarefa de Recarga de Créditos, por ser muito extensa. | Achou bem coerente no geral. | Foram coerentes na visão dele. | Nada além do que foi dito anteriormente. |
 
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0), [Bruno Araújo](https://github.com/brunocva).
 
 
 ## Correção das análises de Tarefas
@@ -228,4 +230,5 @@ Autor: Iago Passaglia
 | 1.1 | Adição dos resultados da análise de tarefas do aluguel de sala e da aba de monitoria. | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
 | 1.2 | Adição dos resultados da análise de tarefas da realização de matrícula | Pedro Izarias | Iago Passaglia | 03/06/2024 |
 | 1.3 | Adição dos resultados da análise de pré-cadastro de estágio. | Iago Passaglia | - | 02/06/2024 |
-| 1.4 | Adição dos resultados da análise aba do RU. | Breno Alexandre | - | 03/06/2024 |
+| 1.4 | Adição dos resultados da análise aba do RU. | Breno Alexandre | Bruno Araújo | 03/06/2024 |
+| 1.5 | Adição dos resultados da análise aba Declaração de Bolsa. | Bruno Araújo| - | 03/06/2024 |
