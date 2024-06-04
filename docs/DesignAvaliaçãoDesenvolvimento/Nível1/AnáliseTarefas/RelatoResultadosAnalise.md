@@ -40,9 +40,10 @@ Como foi definido no planejamento, o método utilizado foi a inspeção por meio
 | Larissa Stéfane | Leonardo Machado | 12:30 | 13:10 | 28/05/2024 | FGA-UnB- Sala S9 |
 | Pedro Izarias | Erika Iwakiri | 15:00 | 15:40 | 02/06/2024 | Casa |
 | Iago Passaglia | Ana Caroline Porto | 13:00 | 13:30 | 31/05/2024 | Casa do entrevistador |
+| Breno Alexandre | Limírio Correia | 18:58 | 19:37 | 03/06/2024 | Plataforma Teams |
 
-
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0).
+.
 </center>
 
 ### Apresentação dos Usuários
@@ -60,8 +61,9 @@ Durante as entrevistas para avaliar as análises de tarefas, foram escolhidos pa
 | Larissa Stéfane | Leonardo Machado |  <li> Estudante de engenharia de software na FGA-UnB no sétimo semestre. <br> <li> É do gênero masculino e tem 21 anos. <br> <li> Utiliza computadores e dispositivos móveis diariamente. <br> <li> Seu nível de habilidade com tecnologia é alto. <br> <li> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. | Aba de monitoria |
 | Pedro Izarias | Erika Iwakiri |  <li> Estudante de  de Letras - Tradução Inglês do Departamento de Linguas Estrangeiras e Tradução da UnB. <br> <li> É do gênero Feminino e tem 22 anos. <br> <li> Utiliza computadores e dispositivos móveis diariamente. <br> <li> Seu nível de habilidade com tecnologia é alto. <br> <li> Sua familiaridade com o uso de sistemas acadêmicos é alta devido à frequência e tempo de uso. | Realizar Matrícula |
 | Iago Passaglia | Ana Caroline Porto | <li> Estudante de nutrição do quinto semestre. <br> <li>  É do gênero feminino e tem 20 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é médio. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é boa/alta.| Pré-cadastro de estágio |
+| Breno Alexandre | Limírio Correia| <li> Estudante de Engenharia de Software. <br> <li>  É do gênero masculino e tem 22 anos. <br> <li>  Utiliza computadores e dispositivos móveis diariamente. <br> <li>  Seu nível de habilidade com tecnologia é alto. <br> <li>  Sua familiaridade com uso de sistemas acadêmicos é alta. |
 
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0).
 
 
 </center>
@@ -81,9 +83,13 @@ Durante a análise dos resultados das entrevistas, diversos problemas foram iden
 | Aba de monitoria |  <li> A definição do local da turma de modo mais intuitivo e com complexidade elevada e desnecessária nos meios de comunicação entre monitores e estudantes. |  <li> Para selecionar uma turma, pode ser complexo definir o local dela, uma vez que algumas não são definidas por endereços, mas sim por unidades. <br> <li> O monitor e os estudantes podem ficar confusos sobre qual meio de comunicação utilizar e alguns podem acabar não sendo utilizados e ficarem defasados. |  <li> Seguir o mesmo caminho/estrutura que a realização de matrículas. <br> <li> Retirar a opção de comunicação exclusiva pelo SIGAA e permitir ao monitor ter liberdade para escolher as opções de como se comunicar com os estudantes. |
 | Realizar Matrícula |  <li> A relação entre os objetivos que compõem o diagrama não faz sentido. |  <li> Relação entre as tarefas está incorreta <br> <li> Os símbolos das relações entre as tarefas não condiz com o sistema, por exemplo na parte de escolher turmas a serem feiras e adicionar turmas selecionadas, o símbolo deve ser 1>2 e não 1+2, pois podem ser realizadas de maneira independente. |  <br> <li> Colocar os símbolos corretos para cada relação entre tarefas. |
 | Pré=cadastro de estágio | Integração completa | A entrevistada alega que o preenchimento do formulário por parte da empresa poderia ser efetuado dentro do sistema | Preparar o HTA para representar a nova funcionalidade |
+| Aba de RU | <li> A tarefa de Recarga de Créditos foi considerada muito extensa para leitura | <li>Muitos passos e opções existentes | Resumir e diminuir a quantidade de tarefas |
+| Aba de RU | <li> Na tarefa de Recarga de Créditos, os itens 3.1 e 3.1.1 parecem redundantes na visão do usuário | <li>Parecem a mesma tarefa | Fundir as duas em uma |
+| Aba de RU | <li> Considerou a tarefa de Pesquisa de Satisfação desnecessária pro sistema | <li>Pois apenas a empresa responsável pelo restaurante devia se preocupar com isso. | Remover funcionalidade |
+| Aba de RU | <li> Na tarefa de Recarga de Créditos, dentro da opção de PIX como pagamento, o item 1.3.1.1 foi considerado redundante na visão dele. | <li>Pois a tarefa anterior fala sobre a mesma coisa  | Remover tarefa |
+| Aba de RU | <li> Na tarefa de Recarga de Créditos, dentro da opção de PIX como pagamento, poderia ter uma opção de copiar a chave PIX. | <li>Para ter mais uma opção de pagamento dentro da opção de PIX | Adicionar tarefa |
 
-
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0).
 
 </center>
 
@@ -100,8 +106,9 @@ Ao analisarem a análise de tarefas, os participantes puderam expressar as suas 
 | Aba de monitoria | Uma parte que ele achou complicada foi em monitorar monitoria em relação à área de definir comunicação. Para ele, seria ideal tirar a parte de comunicar diretamente com outros estudantes e professores pelo SIGAA, pois isso pode deixar o monitor e os estudantes confusos em relação a qual meio de comunicação utilizar. | Para ele, a sequência fez sentido. | Sim, ele acha que as tarefas e o fluxo estão conforme o que ele está acostumado. | Sim, em relação ao formato de comunicação. |
 | Realizar matrícula | Para a entrevistada, a análise foi fácil de seguir, apesar do problema com os símbolos de relação entre os objetivos. | Para ela, a sequência fez sentido. | Sim, ela concorda com as tarefas relacionadas a funcionalidade. | Sim, os símbolos de relação entre os objetivos está incorreto, deixando o diagrama da funcionalidade confuso. |
 | Pré-cadastro de estágio | Para a entrevistada, foi fácil seguir os passos | Para ela, a sequência fez sentido. | Sim, a entrevistada acredita que o fluxo das atividades estão de forma coerente. | Não foram apontadas nenhuma parte desnecessária ou confusa. |
+| Aba do RU | Sim, com exceção da tarefa de Recarga de Créditos, por ser muito extensa. | Achou bem coerente no geral. | Foram coerentes na visão dele. | Nada além do que foi dito anteriormente. |
 
-**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme) e [Iago Passaglia](https://github.com/Paxxaglia).
+**Autores:** [Larissa Stéfane](https://github.com/SkywalkerSupreme), [Iago Passaglia](https://github.com/Paxxaglia), [Breno Alexandre](https://github.com/brenoalexandre0).
 
 
 ## Correção das análises de Tarefas
@@ -209,8 +216,6 @@ Autor: Iago Passaglia
 </details>
 
 
-<details>
-
 ## Referências Bibliográficas
 
 1. Barbosa, S. D. J., & Silva, B. S. (2021). **Interação Humano-Computador e Experiência do Usuário**. Editora: Câmara Brasileira do Livro, SP, Brasil.
@@ -223,4 +228,4 @@ Autor: Iago Passaglia
 | 1.1 | Adição dos resultados da análise de tarefas do aluguel de sala e da aba de monitoria. | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
 | 1.2 | Adição dos resultados da análise de tarefas da realização de matrícula | Pedro Izarias | Iago Passaglia | 03/06/2024 |
 | 1.3 | Adição dos resultados da análise de pré-cadastro de estágio. | Iago Passaglia | - | 02/06/2024 |
-
+| 1.4 | Adição dos resultados da análise aba do RU. | Breno Alexandre | - | 03/06/2024 |
