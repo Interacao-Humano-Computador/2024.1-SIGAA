@@ -170,7 +170,7 @@ Em selecionar o horário, para deixar mais organizado, o usuário seleciona entr
   </details>
 
  </details>
-
+#
 
 
 
@@ -318,7 +318,7 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
   </details>
 
  </details>
-
+#
 
 
 <details>
@@ -683,7 +683,7 @@ Achou um pouco complicado ler e entender o HTA de forma geral à primeira vista.
   </details>
 
 </details>
-
+#
 
 
 
@@ -844,6 +844,8 @@ A participante consentiu com os termos de consentimento em vídeo.
 </details>
 
 </details>
+#
+
 
 <details>
   <summary size="20"><b> Realização de Matrícula </b></summary> 
