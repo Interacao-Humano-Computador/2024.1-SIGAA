@@ -7,7 +7,7 @@ Neste documento está contido o vídeo de apresentação da quinta entrega da ma
 
 **Apresentação 05**
 
-É possível acessar o vídeo por meio deste [link]()
+É possível acessar o vídeo por meio deste [link](https://youtu.be/Bnvix3p7I00)
 
 <center>
   
