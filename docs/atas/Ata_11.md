@@ -32,6 +32,7 @@ Os presentes na reunião foram:
 - Bruno Cunha Vasconcelos de Araújo
 - Iago Passaglia Pereira
 - Larissa Stéfane Barboza Santos
+- Luana de Lima Medeiros
 - Pedro Augusto Dourado Izarias
 
 
