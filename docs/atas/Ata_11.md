@@ -3,26 +3,26 @@
 O vídeo 1 indica a reunião 11.
 
 <center> 
-<p align="center"> Vídeo 1: IHC - Reunião 10. </p>
+<p align="center"> Vídeo 1: IHC - Reunião 11. </p>
 
-<iframe width="700" height="800" src="https://www.youtube-nocookie.com/embed/C6ZmS7_TWRs?si=JQxB9t01iN25GFf-" title="IHC - Reunião 10" frameborder="0" allow="accelerometer; 
+<iframe width="700" height="800" src="" title="IHC - Reunião 10" frameborder="0" allow="accelerometer; 
   autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
-Caso não consiga ver o vídeo, acesse [aqui](https://www.youtube.com/watch?v=C6ZmS7_TWRs).
+Caso não consiga ver o vídeo, acesse [aqui]().
 </center>
 
-## Ata da reunião do dia 28/05
+## Ata da reunião do dia 06/06
 
 ## Data, Horário, Duração e Local
 
-- **Data:** 30/05/2024
-- **Horário de início previsto:** 11:45.
-- **Horário de início:** 12:06
-- **Duração:** 26 minutos
-- **Local:** Teams 
-- **Link da reunião:** - [Reunião 10](https://www.youtube.com/watch?v=C6ZmS7_TWRs).
+- **Data:** 06/06/2024
+- **Horário de início previsto:** 22:00
+- **Horário de início:** 22:00
+- **Duração:** 5 minutos.
+- **Local:** Whatsapp 
+- **Link da reunião:** - [Reunião 11]().
 
 ## Participantes
 
@@ -79,25 +79,68 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint 0, onde cada i
 | - | - | - | - |
 | Tópico  | Resultados das avaliações | ---------- | ----- |
 | Issue 1 |  Realizar a entrevista para a avaliação do storyboard e da análise de tarefas. | Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
-| Issue 2 | Preencher os resultados do storyboard (Vai ter uma sessão para cada funcionalidade)  |  Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
-| Issue 3 | Elaborar uma nova versão do storyboard corrigida com a sugestões do usuário (se houver) |  Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
-| Issue 4 | Preencher os resultados da análise de tarefas (Vai ter uma sessão para cada funcionalidade) |  Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
-| Issue 5 | Elaborar uma nova versão da análise de tarefas corrigida com a sugestões do usuário. (se houver) | Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
-| Tópico  | Protótipo de papel | ---------- | ----- |
-| Issue 6 | Realizar o planejamento da entrevista | Larissa Stéfane | 31/05/2024 |
-| Issue 7 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Larissa Stéfane | 31/05/2024 |
-| Issue 8 | Elaborar o protótipo de papel da funcionalidade e realizar o teste piloto |  Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
-| Tópico  | Arrumar entrega 3 | ---------- | ----- |
-| Issue 9 |  Reformular as características da plataforma | Larissa Stéfane | 31/05/2024 |
-| Issue 10 |  Princípios Gerais – Adicionar como vai melhorar o site (foram identificados os problemas, então tem que sugerir soluções) | Breno, Bruno, Iago, Larissa, Luana e Pedro. | 31/05/2024 |
-| Issue 11 |  Corrigir metas de usabilidade, indicar o motivo da escolha e como será aplicado | Pedro e Luana | 31/05/2024 |
-| Issue 12 |  Corrigir guia de estilo: Tirar do figma e trazer as informações para dentro do projeto | Breno | 31/05/2024 |
-| Issue 13 |  Especificar no guia de estilo quais elementos nos principios gerais serão implementados | Iago e Bruno | 31/05/2024 |
-| Issue 12 |  Refazer planejamento do relato do storyboard | Breno | 31/05/2024 |
+
+--------------------------------------------------------------------------
+PLANEJAMENTO
+**Lista de Verificação de Sites Avaliados** - 
+**Avaliações**
+- Biblioteca Nacional Digital -
+- Cebraspe -
+- Consumidor.gov -
+- NFSE -
+- Núcleo de Seleção UEG -
+- Stack Overflow -
+- *(Está no Site Escolhido) Site dos Correios - 
+--------------------------------------------------------------------------
+ANÀLISE DE REQUISITOS
+**Lista de Verificação dos Aspectos Éticos** - 
+**Avaliação dos Aspectos Éticos** - 
+
+**Lista de Verificação do Perfil de Usuário(Questionário)** - Larissa Stéfane
+**Avaliação dos Aspectos Éticos(Questionário)** - Breno Alexandre
+**Lista de Verificação do Perfil de Usuário(Grupo de Foco)** - Breno Alexandre
+**Avaliação dos Aspectos Éticos(Grupo de Foco)** - Larissa Stéfane
+
+**Lista de Verificação das Personas** - 
+**Avaliação das Personas** - 
+
+**Lista de Verificação de Cenários** - 
+**Avaliações**
+- Cálculo de Preços e Prazos de entrega -
+- Realização de Pré-postagem -
+- Loja dos correios -
+- Emitir certificados -
+- Minha importações -
+- Rastreamento de encomendas - 
+--------------------------------------------------------------------------
+ANÁLISE DE TAREFAS
+**Lista de Verificação de Análise HTA** - 
+**Avaliações**
+- Calcular Preços e Prazos de Entregas -
+- Realizar compras na loja online -
+- Recebimento de encomendas -
+- Realizar pré-postagem -
+- Gerenciar minhas importações - 
+- Rastrear  encomendas - 
+
+**Lista de Verificação de GOMS** - 
+**Avaliações**
+- Calcular Preços e Prazos de Entregas -
+- Realizar compras na loja online -
+- Recebimento de encomendas -
+- Realizar pré-postagem -
+- Gerenciar minhas importações - 
+- Rastrear  encomendas -
+--------------------------------------------------------------------------
+ANÁLISE DE REQUISITOS II
+**Lista de Verificação de Características da plataforma para o projeto** - 
+**Avaliação de Características da plataforma para o projeto** - 
+
+
 
 ## Histórico de Versão
 
 | Versão | Alteração                                                                  | Responsável     | Revisor         | Data       |
 | ------ | -------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação da base da Ata da Reunião                                          | Larissa Stéfane | Breno Alexandre | 28/05/2024 |
-| 1.1    | Preencher a ata de reunião                                                 | Larissa Stéfane | Breno Alexandre | 30/05/2024 |
+
