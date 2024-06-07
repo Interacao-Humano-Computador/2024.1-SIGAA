@@ -136,6 +136,32 @@ ANÁLISE DE REQUISITOS II
 **Lista de Verificação de Características da plataforma para o projeto** - 
 **Avaliação de Características da plataforma para o projeto** - 
 
+**Lista de Verificação de Características dos Princípios Gerais** - 
+**Avaliações**
+- Correspondência com as expectativas dos usuários -
+- Conteúdo relevante e expressão adequeada -
+- Consistênica e padronização -
+- Equilíbrio entre controle e liberdade do usuário -
+- Visibilidade e reconhecimento -
+
+**Lista de Verificação de Características das Metas Usabilidade** - 
+**Avaliações**
+- Eficácia -
+- Eficiência -
+- Segurança -
+- Utilidade -
+- Aprendizagem -
+- Memorabilidade -
+- Satisfação -
+
+**Lista de Verificação do Guia de Estilo** - 
+**Avaliações**
+- Introdução - Larissa Stéfane
+- Resultados de Análise -
+- Elementos de Interface - Breno Alexandre
+- Elementos de Interação -
+- Elementos Ação -
+- Vocabulário e Padrões -
 
 
 ## Histórico de Versão
