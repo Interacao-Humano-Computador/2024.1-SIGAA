@@ -162,6 +162,54 @@ ANÁLISE DE REQUISITOS II
 - Elementos de Interação -
 - Elementos Ação -
 - Vocabulário e Padrões -
+--------------------------------------------------------------------------
+DESIGN, AVALIAÇÃO E DESENVOLVIMENTO - Nível 1
+**Lista de Verificação de Planejamento de Avaliação Análise de Tarefas** - 
+**Avaliação de Planejamento de Avaliação Análise de Tarefas** - 
+
+**Lista de Verificação de Planejamento Relato dos Resultados Avaliação Análise de Tarefas** - 
+**Avaliação de Planejamento Relato dos Resultados Avaliação Análise de Tarefas** - 
+
+**Lista de Verificação dos Relatos dos Resultados Avaliação Análise de Tarefas** - 
+**Avaliações**
+- Calcular Preços e Prazos de Entregas -
+- Realizar compras na loja online -
+- Recebimento de encomendas -
+- Realizar pré-postagem -
+- Gerenciar minhas importações - 
+- Rastrear  encomendas -
+
+**Lista de Verificação de Planejamento de Avaliação Storyboard** - 
+**Avaliação de Planejamento de Avaliação Storyboard** - 
+
+**Lista de Verificação de Planejamento Relato dos Resultados Avaliação Storyboard** - 
+**Avaliação de Planejamento Relato dos Resultados Avaliação Storyboard** - 
+
+**Lista de Verificação dos Relatos dos Resultados Avaliação Storyboard** - 
+**Avaliações**
+- Calcular Preços e Prazos de Entregas -
+- Realizar compras na loja online -
+- Recebimento de encomendas -
+- Realizar pré-postagem -
+- Gerenciar minhas importações - 
+- Rastrear  encomendas -
+
+**Lista de Verificação dos Storyboards** - 
+**Avaliações**
+- Realizar pré-postagem -
+- Calcular Preços e Prazos de Entregas -
+- Recebimento de encomendas -
+- Rastrear  encomendas -
+- Realizar compras na loja online -
+- Gerenciar minhas importações - 
+--------------------------------------------------------------------------
+DESIGN, AVALIAÇÃO E DESENVOLVIMENTO - Nível 2
+
+**Lista de Verificação de Planejamento de Avaliação Protótipo de Papel** - 
+**Avaliação de Planejamento de Avaliação Protótipo de Papel** - 
+
+**Lista de Verificação de Planejamento Relato dos Resultados Avaliação Protótipo de Papel** - 
+**Avaliação de Planejamento Relato dos Resultados Avaliação Protótipo de Papel** - 
 
 
 ## Histórico de Versão
