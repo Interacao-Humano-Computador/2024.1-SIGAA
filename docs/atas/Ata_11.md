@@ -1,4 +1,4 @@
-# Reunião 11
+8# Reunião 11
 
 ## Ata da reunião do dia 06/06
 
@@ -195,5 +195,5 @@ DESIGN, AVALIAÇÃO E DESENVOLVIMENTO - Nível 2
 
 | Versão | Alteração                                                                  | Responsável     | Revisor         | Data       |
 | ------ | -------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação da base da Ata da Reunião                                          | Breno Alexandre | -               | 06/06/2024 |
+| 1.0    | Criação da base da Ata da Reunião                                          | Breno Alexandre | Bruno Araújo            | 06/06/2024 |
 
