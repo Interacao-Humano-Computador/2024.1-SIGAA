@@ -3,6 +3,8 @@
 
 ## Sumário
 
+* [Introdução](Introdução)
+* [Metodologia](Metodologia)
 * [Questão da Acessibilidade](#Questão-da-Acessibilidade)
 * [Questão da Assistência Estudantil](#Questão-da-Assistência-Estudantil)
 * [Questão da Etnia](#Questão-da-Etnia)
