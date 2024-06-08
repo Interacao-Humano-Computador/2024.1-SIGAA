@@ -87,6 +87,7 @@
         - [Planejamento da Classificação de Cartões](IdentificacaoNecessidadesUsuario/PlanejaClassificaCartoes.md)
         - [Execução da Classificação de Cartões](IdentificacaoNecessidadesUsuario/DesenvolvimentoClassificaCartoes.md)
         - [Resultados da Classificação de Cartões](IdentificacaoNecessidadesUsuario/ResultadoClassificaCartoes.md)
+      _ [Análise Documenta: Estudantes](PerfilUsuario/Estudantes/AnaliseDocumentalEstudantes.md)
       - [Perfil Usuário: Estudante](PerfilUsuario/Estudantes/perfilEstudante.md)
     * Técnicos
         * Entrevistas
