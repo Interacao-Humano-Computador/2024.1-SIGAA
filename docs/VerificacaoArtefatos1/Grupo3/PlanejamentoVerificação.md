@@ -25,36 +25,17 @@ Para a realização desta etapa de verificação dos artefatos do grupo 3 foi fe
 
 Tabela 1: divisão de verificação dos artefatos
 
-| ------- | -------------------------- ANÁLISE DE REQUISITOS ------------------------ | ------------------------------------------------ | --------------- |
-| Issue 3 | **Lista de Verificação dos Aspectos Éticos**                              |
+| Artefato                                | Responsável pela lista de verificação | Responsável(is) pela inspeção                  |
+| --------------------------------------- | ------------------------------------- | ------------------------------------------ |
+|                                         | <b>ANÁLISE DE REQUISITOS</b>          |                                            |
+| <b>Aspectos Éticos</b>                  | Breno Alexandre                       | Iago Passaglia                             |
+| <b>Perfil de Usuário(Questionário)</b>  | Larissa Stéfane                       | Breno Alexandre                            |
+| <b>Perfil de Usuário(Grupo de Foco)</b> | Breno Alexandre                       | Larissa Stéfane                            |
+| <b>Personas</b>                         | Pedro Izarias                         | Larissa Stéfane                            |
+| <b>Cenários</b>                         | Larissa Stéfane                       | <li> <b>Cálculo de Preços e Prazos de Entregas:</b> Larissa Stéfane <li> <b>Realização de pré-postagem:</b> Pedro Izarias <li> <b>Loja dos Correios:</b> Bruno Araújo <li> <b>Emitir certificados:</b> Iago Passaglia <li> <b>Minhas importações:</b> Breno Alexandre <li> <b>Rastreamento de  encomendas:</b> Luana Medeiros |
 
-ANÀLISE DE REQUISITOS
 
-**Lista de Verificação dos Aspectos Éticos** - Breno Alexandre
 
-**Inspeção dos Aspectos Éticos** - Iago Passaglia
-
-**Lista de Verificação do Perfil de Usuário(Questionário)** - Larissa Stéfane
-
-**Inspeção dos Aspectos Éticos(Questionário)** - Breno Alexandre
-
-**Lista de Verificação do Perfil de Usuário(Grupo de Foco)** - Breno Alexandre
-
-**Inspeção dos Aspectos Éticos(Grupo de Foco)** - Larissa Stéfane
-
-**Lista de Verificação das Personas** - Pedro Izarias
-
-**Inspeção das Personas** - Larissa Stéfane
-
-**Lista de Verificação de Cenários** - Breno Alexandre
-
-**Inspeções**
-- Calculo de Preços e Prazos de Entregas - Larissa Stéfane
-- Realização de pré-postagem - Pedro Izarias
-- Loja dos Correios - Bruno Araújo
-- Emitir certificados - Iago Passaglie
-- Minhas importações - Breno Alexandre
-- Rastreamento de  encomendas - Luana Medeiros
   
 --------------------------------------------------------------------------
 ANÁLISE DE TAREFAS
