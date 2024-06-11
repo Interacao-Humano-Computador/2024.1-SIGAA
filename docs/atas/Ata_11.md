@@ -57,7 +57,6 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
-| Tópico  | Resultados das avaliações | ---------- | ----- |
 | Issue 1 | Realizar a Ata da reunião                                                 | Breno Alexandre                                  | 06/06/2024      |
 | Issue 2 | Upar vídeo do youtube                                                     | Breno Alexandre                                  | 06/06/2024      |
 
