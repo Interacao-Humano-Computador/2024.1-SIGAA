@@ -171,7 +171,7 @@ Autora: Larissa Stéfane
 
 <details>
 
-<summary size="20"><b> Realizar Matrícula - Reformulado </b></summary>
+<summary size="20"><b> Realizar Matrícula - Reformulado -  Pedro Izarias</b></summary>
 
 
 <div align="center">
@@ -196,7 +196,7 @@ Autor: Pedro Izarias
 
 <details>
 
-<summary size="20"><b> Pré-cadastro de estágio - Reformulado </b></summary>
+<summary size="20"><b> Pré-cadastro de estágio - Reformulado - Iago Passaglia</b></summary>
 
 
 <div align="center">
