@@ -25,58 +25,35 @@ Para a realização desta etapa de verificação dos artefatos do grupo 3 foi fe
 
 Tabela 1: divisão de verificação dos artefatos
 
-| Artefato                                                               | Responsável pela lista de verificação | Responsável(is) pela inspeção              |
-| ---------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------ |
-| <b>ANÁLISE DE REQUISITOS</b>                                           | ------------------------------------- | -------------------------------------      |
-| <b>Aspectos Éticos</b>                                                 | Breno Alexandre                       | Iago Passaglia                             |
-| <b>Perfil de Usuário(Questionário)</b>                                 | Larissa Stéfane                       | Breno Alexandre                            |
-| <b>Perfil de Usuário(Grupo de Foco)</b>                                | Breno Alexandre                       | Larissa Stéfane                            |
-| <b>Personas</b>                                                        | Pedro Izarias                         | Larissa Stéfane                            |
-| <b>Cenários</b>                                                        | Larissa Stéfane                       | <li><b>Cálculo de Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realização de pré-postagem:</b> Pedro Izarias <li><b>Loja dos Correios:</b> Bruno Araújo <li><b>Emitir certificados:</b> Iago Passaglia <li><b>Minhas importações:</b> Breno Alexandre <li><b>Rastreamento de  encomendas:</b> Luana Medeiros |
-| <b>ANÁLISE DE TAREFAS</b>                                              | ------------------------------------- | -------------------------------------      |
-| <b>Análise HTA</b>                                                     | Pedro Izarias                         | <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Realizar pré-postagem:</b> Pedro Izarias  <li><b>Gerenciar minhas importações:</b> Breno Alexandre <li><b>Rastrear encomendas:</b> Luana Medeiros |
-| <b>CMN-GOMS</b>                                                        | Iago Passaglia                        | <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Realizar pré-postagem:</b> Pedro Izarias  <li><b>Gerenciar minhas importações:</b> Breno Alexandre <li><b>Rastrear encomendas:</b> Luana Medeiros |
-| <b>ANÁLISE DE REQUISITOS II</b>                                        | ------------------------------------- | -------------------------------------      |
-| <b>Características da plataforma para o projeto</b>                    | Larissa Stéfane                       | Iago Passaglia                             |
-| <b>Princípios Gerais</b>                                               | Larissa Stéfane                       | Luana Medeiros                             |
-| <b>Metas Usabilidade</b>                                               | Pedro Izarias                         | <li><b>Eficácia:</b> Iago Passaglia <li><b>Eficiência:</b> Luana Medeiros <li><b>Segurança:</b> Larissa Stéfane <li><b>Utilidade:</b> Bruno Araújo <li><b>Aprendizagem:</b> Breno Alexandre <li><b>Memorabilidade:</b> Pedro Izarias <li><b>Satisfação:</b> Larissa Stéfane |
-| <b>Guia de Estilo</b>                                                  | Iago Passaglia                        | <li><b>Introdução:</b> Larissa Stéfane <li><b>Resultados de Análise:</b> Pedro Izarias <li><b>Elementos de Interface:</b> Breno Alexandre <li><b>Elementos de Interação:</b> Bruno Araújo <li><b>Elementos de Ação:</b> Luana Medeiros <li><b>Vocabulário e Padrões:</b> Iago Passaglia |
-| <b>DESIGN, AVALIAÇÃO E DESENVOLVIMENTO - NÍVEL 1</b>                   | ------------------------------------- | -------------------------------------      |
-| <b>Planejamento de Avaliação Análise de Tarefas</b>                    | Luana Medeiros                        | Bruno Araújo                               |
-| <b>Planejamento Relato dos Resultados Avaliação Análise de Tarefas</b> | Iago Passaglia                        | Bruno Araújo                               |
-| <b>Relato dos Resultados Avaliação Análise de Tarefas</b>              | Breno Alexandre                       | <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Realizar pré-postagem:</b> Pedro Izarias  <li><b>Gerenciar minhas importações:</b> Breno Alexandre <li><b>Rastrear encomendas:</b> Luana Medeiros |
+| Artefato                                                                     | Responsável pela lista de verificação | Responsável(is) pela inspeção              |
+| ---------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------ |
+| <b>ANÁLISE DE REQUISITOS</b>                                                 | ------------------------------------- | -------------------------------------      |
+| <b>Aspectos Éticos</b>                                                       | Breno Alexandre                       | Iago Passaglia                             |
+| <b>Perfil de Usuário(Questionário)</b>                                       | Larissa Stéfane                       | Breno Alexandre                            |
+| <b>Perfil de Usuário(Grupo de Foco)</b>                                      | Breno Alexandre                       | Larissa Stéfane                            |
+| <b>Personas</b>                                                              | Pedro Izarias                         | Larissa Stéfane                            |
+| <b>Cenários</b>                                                              | Larissa Stéfane                       | <li><b>Cálculo de Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realização de pré-postagem:</b> Pedro Izarias <li><b>Loja dos Correios:</b> Bruno Araújo <li><b>Emitir certificados:</b> Iago Passaglia <li><b>Minhas importações:</b> Breno Alexandre <li><b>Rastreamento de  encomendas:</b> Luana Medeiros |
+| <b>ANÁLISE DE TAREFAS</b>                                                    | ------------------------------------- | -------------------------------------      |
+| <b>Análise HTA</b>                                                           | Pedro Izarias                         | <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Realizar pré-postagem:</b> Pedro Izarias  <li><b>Gerenciar minhas importações:</b> Breno Alexandre <li><b>Rastrear encomendas:</b> Luana Medeiros |
+| <b>CMN-GOMS</b>                                                              | Iago Passaglia                        | <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Realizar pré-postagem:</b> Pedro Izarias  <li><b>Gerenciar minhas importações:</b> Breno Alexandre <li><b>Rastrear encomendas:</b> Luana Medeiros |
+| <b>ANÁLISE DE REQUISITOS II</b>                                              | ------------------------------------- | -------------------------------------      |
+| <b>Características da plataforma para o projeto</b>                          | Larissa Stéfane                       | Iago Passaglia                             |
+| <b>Princípios Gerais</b>                                                     | Larissa Stéfane                       | Luana Medeiros                             |
+| <b>Metas Usabilidade</b>                                                     | Pedro Izarias                         | <li><b>Eficácia:</b> Iago Passaglia <li><b>Eficiência:</b> Luana Medeiros <li><b>Segurança:</b> Larissa Stéfane <li><b>Utilidade:</b> Bruno Araújo <li><b>Aprendizagem:</b> Breno Alexandre <li><b>Memorabilidade:</b> Pedro Izarias <li><b>Satisfação:</b> Larissa Stéfane |
+| <b>Guia de Estilo</b>                                                        | Iago Passaglia                        | <li><b>Introdução:</b> Larissa Stéfane <li><b>Resultados de Análise:</b> Pedro Izarias <li><b>Elementos de Interface:</b> Breno Alexandre <li><b>Elementos de Interação:</b> Bruno Araújo <li><b>Elementos de Ação:</b> Luana Medeiros <li><b>Vocabulário e Padrões:</b> Iago Passaglia |
+| <b>DESIGN, AVALIAÇÃO E DESENVOLVIMENTO - NÍVEL 1</b>                         | ------------------------------------- | -------------------------------------      |
+| <b>Planejamento de Avaliação da Análise de Tarefas</b>                       | Luana Medeiros                        | Bruno Araújo                               |
+| <b>Planejamento Relato dos Resultados de Avaliação da Análise de Tarefas</b> | Iago Passaglia                        | Bruno Araújo                               |
+| <b>Relato dos Resultados Avaliação da Análise de Tarefas</b>                 | Breno Alexandre                       | <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Realizar pré-postagem:</b> Pedro Izarias  <li><b>Gerenciar minhas importações:</b> Breno Alexandre <li><b>Rastrear encomendas:</b> Luana Medeiros |
+| <b>Planejamento de Avaliação do Storyboard</b>                               | Pedro Izarias                         | Luana Medeiros                             |
+| <b>Planejamento Relato dos Resultados de Avaliação do Storyboard</b>         | Breno Alexandre                       | Pedro Izarias                              |
+| <b>Relato dos Resultados de Avaliação do Storyboard</b>                      | Iago Passaglia                        | <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Realizar pré-postagem:</b> Pedro Izarias  <li><b>Gerenciar minhas importações:</b> Breno Alexandre <li><b>Rastrear encomendas:</b> Luana Medeiros |
+| <b>Storyboards</b>                                                           | Luana Medeiros                        | <li><b>Realizar pré-postagem:</b> Pedro Izarias <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Rastrear encomendas:</b> Luana Medeiros <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Gerenciar minhas importações:</b> Breno Alexandre  |
 
 
 
 
 
-**Lista de Verificação de Planejamento de Avaliação Storyboard** - Iago Passaglia
-
-**Inspeção de Planejamento de Avaliação Storyboard** - Larissa Stéfane
-
-**Lista de Verificação de Planejamento Relato dos Resultados Avaliação Storyboard** - Larissa Stéfane
-
-**Inspeção de Planejamento Relato dos Resultados Avaliação Storyboard** - Breno Alexandre
-
-**Lista de Verificação dos Relatos dos Resultados Avaliação Storyboard** - Breno Alexandre
-
-**Inspeções**
-- Calcular Preços e Prazos de Entregas - Larissa Stéfane
-- Realizar compras na loja online - Bruno Araújo
-- Recebimento de encomendas - Iago Passaglia
-- Realizar pré-postagem - Pedro Izarias
-- Gerenciar minhas importações - Breno Alexandre
-- Rastrear  encomendas - Luana Medeiros
-
-**Lista de Verificação dos Storyboards** - Pedro Izarias
-
-**Inspeções**
-- Realizar pré-postagem - Pedro Izarias
-- Calcular Preços e Prazos de Entregas - Larissa Stéfane
-- Recebimento de encomendas - Iago Passaglia
-- Rastrear  encomendas - Luana Medeiros
-- Realizar compras na loja online - Bruno Araújo
-- Gerenciar minhas importações - Breno Alexandre
 
 --------------------------------------------------------------------------
 DESIGN, AVALIAÇÃO E DESENVOLVIMENTO - Nível 2
