@@ -40,20 +40,10 @@ Tabela 1: divisão de verificação dos artefatos
 | <b>Características da plataforma para o projeto</b> | Larissa Stéfane                       | Iago Passaglia                             |
 | <b>Princípios Gerais</b>                            | Larissa Stéfane                       | Luana Medeiros                             |
 | <b>Metas Usabilidade</b>                            | Pedro Izarias                         | <li><b>Eficácia:</b> Iago Passaglia <li><b>Eficiência:</b> Luana Medeiros <li><b>Segurança:</b> Larissa Stéfane <li><b>Utilidade:</b> Bruno Araújo <li><b>Aprendizagem:</b> Breno Alexandre <li><b>Memorabilidade:</b> Pedro Izarias <li><b>Satisfação:</b> Larissa Stéfane |
-
+| <b>Guia de Estilo</b>                               | Breno Alexandre                       | <li><b>Introdução:</b> Larissa Stéfane <li><b>Resultados de Análise:</b> Pedro Izarias <li><b>Elementos de Interface:</b> Breno Alexandre <li><b>Elementos de Interação:</b> Bruno Araújo <li><b>Elementos de Ação:</b> Luana Medeiros <li><b>Vocabulário e Padrões:</b> Iago Passaglia |
 
   
 
-
-**Lista de Verificação do Guia de Estilo** - Breno Alexandre
-
-**Inspeções**
-- Introdução - Larissa Stéfane
-- Resultados de Análise - Pedro Izarias
-- Elementos de Interface - Breno Alexandre
-- Elementos de Interação - Bruno Araújo
-- Elementos Ação - Luana Medeiros
-- Vocabulário e Padrões - Iago Passaglia
 --------------------------------------------------------------------------
 DESIGN, AVALIAÇÃO E DESENVOLVIMENTO - Nível 1
 
