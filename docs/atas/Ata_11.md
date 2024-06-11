@@ -63,6 +63,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 --------------------------------------------------------------------------
 PLANEJAMENTO
+
 **Lista de Verificação de Sites Avaliados** - Breno Alexandre
 **Avaliações**
 - Biblioteca Nacional Digital - Luana Medeiros
@@ -71,53 +72,68 @@ PLANEJAMENTO
 - NFSE - Pedro Izarias
 - Núcleo de Seleção UEG - Bruno Araújo
 - Stack Overflow - Breno Alexandre
-- *(Está no Site Escolhido) Site dos Correios - 
+- *(Está no Site Escolhido) Site dos Correios -
+
 --------------------------------------------------------------------------
 ANÀLISE DE REQUISITOS
-**Lista de Verificação dos Aspectos Éticos** - Bruno Araújo
+
+**Lista de Verificação dos Aspectos Éticos** - Breno Alexandre
+
 **Avaliação dos Aspectos Éticos** - Iago Passaglia
 
 **Lista de Verificação do Perfil de Usuário(Questionário)** - Larissa Stéfane
+
 **Avaliação dos Aspectos Éticos(Questionário)** - Breno Alexandre
+
 **Lista de Verificação do Perfil de Usuário(Grupo de Foco)** - Breno Alexandre
+
 **Avaliação dos Aspectos Éticos(Grupo de Foco)** - Larissa Stéfane
 
-**Lista de Verificação das Personas** - Larissa Stéfane
-**Avaliação das Personas** - Pedro Izarias
+**Lista de Verificação das Personas** - Pedro Izarias
+
+**Avaliação das Personas** - Larissa Stéfane
 
 **Lista de Verificação de Cenários** - Breno Alexandre
+
 **Avaliações**
-- Cálculo de Preços e Prazos de entrega - Iago Passaglia
-- Realização de Pré-postagem - Bruno Araújo
-- Loja dos correios - Larissa Stéfane
-- Emitir certificados - Pedro Izarias
-- Minha importações - Luana Medeiros
-- Rastreamento de encomendas - Breno Alexandre
+- Calculo de Preços e Prazos de Entregas - Larissa Stéfane
+- Realização de pré-postagem - Pedro Izarias
+- Loja dos Correios - Bruno Araújo
+- Emitir certificados - Iago Passaglie
+- Minhas importações - Breno Alexandre
+- Rastreamento de  encomendas - Luana Medeiros
+  
 --------------------------------------------------------------------------
 ANÁLISE DE TAREFAS
-**Lista de Verificação de Análise HTA** - Pedro Izarias
-**Avaliações**
-- Calcular Preços e Prazos de Entregas - Bruno Araújo
-- Realizar compras na loja online - Breno Alexandre
-- Recebimento de encomendas - Luana Medeiros
-- Realizar pré-postagem - Iago Passaglia
-- Gerenciar minhas importações - Larissa Stéfane
-- Rastrear  encomendas - Pedro Izarias
 
-**Lista de Verificação de GOMS** - Iago Passaglia
+**Lista de Verificação de Análise HTA** - Pedro Izarias
+
 **Avaliações**
 - Calcular Preços e Prazos de Entregas - Larissa Stéfane
-- Realizar compras na loja online - Pedro Izarias
-- Recebimento de encomendas - Luana Medeiros
-- Realizar pré-postagem - Bruno Araújo
+- Realizar compras na loja online - Bruno Araújo
+- Recebimento de encomendas - Iago Passaglia
+- Realizar pré-postagem - Pedro Izarias
 - Gerenciar minhas importações - Breno Alexandre
-- Rastrear  encomendas - Iago Passaglia
+- Rastrear  encomendas - Luana Medeiros
+
+**Lista de Verificação de GOMS** - Iago Passaglia
+
+**Avaliações**
+- Calcular Preços e Prazos de Entregas - Larissa Stéfane
+- Realizar compras na loja online - Bruno Araújo
+- Recebimento de encomendas - Iago Passaglia
+- Realizar pré-postagem - Pedro Izarias
+- Gerenciar minhas importações - Breno Alexandre
+- Rastrear  encomendas - Luana Medeiros
 --------------------------------------------------------------------------
 ANÁLISE DE REQUISITOS II
+
 **Lista de Verificação de Características da plataforma para o projeto** - Larissa Stéfane
+
 **Avaliação de Características da plataforma para o projeto** - Iago Passaglia
 
 **Lista de Verificação de Características dos Princípios Gerais** - Larissa Stéfane
+
 **Avaliações**
 - Correspondência com as expectativas dos usuários - Breno Alexandre
 - Conteúdo relevante e expressão adequeada - Pedro Izarias
@@ -126,6 +142,7 @@ ANÁLISE DE REQUISITOS II
 - Visibilidade e reconhecimento - Bruno Araújo
 
 **Lista de Verificação de Características das Metas Usabilidade** - Pedro Izarias
+
 **Avaliações**
 - Eficácia - Iago Passaglia
 - Eficiência - Luana Medeiros
@@ -135,7 +152,8 @@ ANÁLISE DE REQUISITOS II
 - Memorabilidade - Pedro Izarias
 - Satisfação - Larissa Stéfane
 
-**Lista de Verificação do Guia de Estilo** - 
+**Lista de Verificação do Guia de Estilo** - Breno Alexandre
+
 **Avaliações**
 - Introdução - Larissa Stéfane
 - Resultados de Análise - Pedro Izarias
@@ -145,37 +163,45 @@ ANÁLISE DE REQUISITOS II
 - Vocabulário e Padrões - Iago Passaglia
 --------------------------------------------------------------------------
 DESIGN, AVALIAÇÃO E DESENVOLVIMENTO - Nível 1
+
 **Lista de Verificação de Planejamento de Avaliação Análise de Tarefas** - Larissa Stéfane
+
 **Avaliação de Planejamento de Avaliação Análise de Tarefas** - Luana Medeiros
 
 **Lista de Verificação de Planejamento Relato dos Resultados Avaliação Análise de Tarefas** - Breno Alexandre
+
 **Avaliação de Planejamento Relato dos Resultados Avaliação Análise de Tarefas** - Iago Passaglia
 
 **Lista de Verificação dos Relatos dos Resultados Avaliação Análise de Tarefas** - Pedro Izarias
+
 **Avaliações**
-- Calcular Preços e Prazos de Entregas - Breno Alexandre
-- Realizar compras na loja online - Iago Passaglia
-- Recebimento de encomendas - Larissa Stéfane
-- Realizar pré-postagem - Bruno Araújo
-- Gerenciar minhas importações - Luana Medeiros
-- Rastrear  encomendas - Pedro Izarias
+- Calcular Preços e Prazos de Entregas - Larissa Stéfane
+- Realizar compras na loja online - Bruno Araújo
+- Recebimento de encomendas - Iago Passaglia
+- Realizar pré-postagem - Pedro Izarias
+- Gerenciar minhas importações - Breno Alexandre
+- Rastrear  encomendas - Luana Medeiros
 
 **Lista de Verificação de Planejamento de Avaliação Storyboard** - Iago Passaglia
+
 **Avaliação de Planejamento de Avaliação Storyboard** - Larissa Stéfane
 
 **Lista de Verificação de Planejamento Relato dos Resultados Avaliação Storyboard** - Larissa Stéfane
+
 **Avaliação de Planejamento Relato dos Resultados Avaliação Storyboard** - Breno Alexandre
 
 **Lista de Verificação dos Relatos dos Resultados Avaliação Storyboard** - Breno Alexandre
+
 **Avaliações**
-- Calcular Preços e Prazos de Entregas - Bruno Araújo
-- Realizar compras na loja online - Luana Medeiros
-- Recebimento de encomendas - Pedro Izarias
-- Realizar pré-postagem - Breno Alexandre
-- Gerenciar minhas importações - Larissa Stéfane
-- Rastrear  encomendas - Iago Passaglia
+- Calcular Preços e Prazos de Entregas - Larissa Stéfane
+- Realizar compras na loja online - Bruno Araújo
+- Recebimento de encomendas - Iago Passaglia
+- Realizar pré-postagem - Pedro Izarias
+- Gerenciar minhas importações - Breno Alexandre
+- Rastrear  encomendas - Luana Medeiros
 
 **Lista de Verificação dos Storyboards** - Pedro Izarias
+
 **Avaliações**
 - Realizar pré-postagem - Pedro Izarias
 - Calcular Preços e Prazos de Entregas - Larissa Stéfane
@@ -183,12 +209,16 @@ DESIGN, AVALIAÇÃO E DESENVOLVIMENTO - Nível 1
 - Rastrear  encomendas - Luana Medeiros
 - Realizar compras na loja online - Bruno Araújo
 - Gerenciar minhas importações - Breno Alexandre
+
 --------------------------------------------------------------------------
 DESIGN, AVALIAÇÃO E DESENVOLVIMENTO - Nível 2
+
 **Lista de Verificação de Planejamento de Avaliação Protótipo de Papel** - Breno Alexandre
+
 **Avaliação de Planejamento de Avaliação Protótipo de Papel** - Iago Passaglia
 
 **Lista de Verificação de Planejamento Relato dos Resultados Avaliação Protótipo de Papel** - Larissa Stéfane
+
 **Avaliação de Planejamento Relato dos Resultados Avaliação Protótipo de Papel** - Bruno Araújo
 
 ## Histórico de Versão
