@@ -25,46 +25,23 @@ Para a realização desta etapa de verificação dos artefatos do grupo 3 foi fe
 
 Tabela 1: divisão de verificação dos artefatos
 
-| Artefato                                | Responsável pela lista de verificação | Responsável(is) pela inspeção                  |
-| --------------------------------------- | ------------------------------------- | ------------------------------------------ |
-|                                         | <b>ANÁLISE DE REQUISITOS</b>          |                                            |
-| <b>Aspectos Éticos</b>                  | Breno Alexandre                       | Iago Passaglia                             |
-| <b>Perfil de Usuário(Questionário)</b>  | Larissa Stéfane                       | Breno Alexandre                            |
-| <b>Perfil de Usuário(Grupo de Foco)</b> | Breno Alexandre                       | Larissa Stéfane                            |
-| <b>Personas</b>                         | Pedro Izarias                         | Larissa Stéfane                            |
-| <b>Cenários</b>                         | Larissa Stéfane                       | <li> <b>Cálculo de Preços e Prazos de Entregas:</b> Larissa Stéfane <li> <b>Realização de pré-postagem:</b> Pedro Izarias <li> <b>Loja dos Correios:</b> Bruno Araújo <li> <b>Emitir certificados:</b> Iago Passaglia <li> <b>Minhas importações:</b> Breno Alexandre <li> <b>Rastreamento de  encomendas:</b> Luana Medeiros |
-
+| Artefato                                            | Responsável pela lista de verificação | Responsável(is) pela inspeção              |
+| --------------------------------------------------- | ------------------------------------- | ------------------------------------------ |
+| <b>ANÁLISE DE REQUISITOS</b>                        | ------------------------------------- | -------------------------------------      |
+| <b>Aspectos Éticos</b>                              | Breno Alexandre                       | Iago Passaglia                             |
+| <b>Perfil de Usuário(Questionário)</b>              | Larissa Stéfane                       | Breno Alexandre                            |
+| <b>Perfil de Usuário(Grupo de Foco)</b>             | Breno Alexandre                       | Larissa Stéfane                            |
+| <b>Personas</b>                                     | Pedro Izarias                         | Larissa Stéfane                            |
+| <b>Cenários</b>                                     | Larissa Stéfane                       | <li><b>Cálculo de Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realização de pré-postagem:</b> Pedro Izarias <li><b>Loja dos Correios:</b> Bruno Araújo <li><b>Emitir certificados:</b> Iago Passaglia <li><b>Minhas importações:</b> Breno Alexandre <li><b>Rastreamento de  encomendas:</b> Luana Medeiros |
+| <b>ANÁLISE DE TAREFAS</b>                           | ------------------------------------- | -------------------------------------      |
+| <b>Análise HTA</b>                                  | Pedro Izarias                         | <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Realizar pré-postagem:</b> Pedro Izarias  <li><b>Gerenciar minhas importações:</b> Breno Alexandre <li><b>Rastrear encomendas:</b> Luana Medeiros |
+| <b>CMN-GOMS</b>                                     | Iago Passaglia                        | <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Realizar pré-postagem:</b> Pedro Izarias  <li><b>Gerenciar minhas importações:</b> Breno Alexandre <li><b>Rastrear encomendas:</b> Luana Medeiros |
+| <b>ANÁLISE DE REQUISITOS II</b>                     | ------------------------------------- | -------------------------------------      |
+| <b>Características da plataforma para o projeto</b> | Larissa Stéfane                       | Iago Passaglia                             |
+| <b>Características da plataforma para o projeto</b> | Larissa Stéfane                       | Luana Medeiros                             |
 
 
   
---------------------------------------------------------------------------
-ANÁLISE DE TAREFAS
-
-**Lista de Verificação de Análise HTA** - Pedro Izarias
-
-**Inspeções**
-- Calcular Preços e Prazos de Entregas - Larissa Stéfane
-- Realizar compras na loja online - Bruno Araújo
-- Recebimento de encomendas - Iago Passaglia
-- Realizar pré-postagem - Pedro Izarias
-- Gerenciar minhas importações - Breno Alexandre
-- Rastrear  encomendas - Luana Medeiros
-
-**Lista de Verificação de GOMS** - Iago Passaglia
-
-**Inspeções**
-- Calcular Preços e Prazos de Entregas - Larissa Stéfane
-- Realizar compras na loja online - Bruno Araújo
-- Recebimento de encomendas - Iago Passaglia
-- Realizar pré-postagem - Pedro Izarias
-- Gerenciar minhas importações - Breno Alexandre
-- Rastrear  encomendas - Luana Medeiros
---------------------------------------------------------------------------
-ANÁLISE DE REQUISITOS II
-
-**Lista de Verificação de Características da plataforma para o projeto** - Larissa Stéfane
-
-**Inspeção de Características da plataforma para o projeto** - Iago Passaglia
 
 **Lista de Verificação de Características dos Princípios Gerais** - Larissa Stéfane
 
