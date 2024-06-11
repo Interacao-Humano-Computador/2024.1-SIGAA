@@ -38,25 +38,12 @@ Tabela 1: divisão de verificação dos artefatos
 | <b>CMN-GOMS</b>                                     | Iago Passaglia                        | <li><b>Calcular Preços e Prazos de Entregas:</b> Larissa Stéfane <li><b>Realizar compras na loja online:</b> Bruno Araújo <li><b>Recebimento de encomendas:</b> Iago Passaglia <li><b>Realizar pré-postagem:</b> Pedro Izarias  <li><b>Gerenciar minhas importações:</b> Breno Alexandre <li><b>Rastrear encomendas:</b> Luana Medeiros |
 | <b>ANÁLISE DE REQUISITOS II</b>                     | ------------------------------------- | -------------------------------------      |
 | <b>Características da plataforma para o projeto</b> | Larissa Stéfane                       | Iago Passaglia                             |
-| <b>Características da plataforma para o projeto</b> | Larissa Stéfane                       | Luana Medeiros                             |
+| <b>Princípios Gerais</b>                            | Larissa Stéfane                       | Luana Medeiros                             |
+| <b>Metas Usabilidade</b>                            | Pedro Izarias                         | <li><b>Eficácia:</b> Iago Passaglia <li><b>Eficiência:</b> Luana Medeiros <li><b>Segurança:</b> Larissa Stéfane <li><b>Utilidade:</b> Bruno Araújo <li><b>Aprendizagem:</b> Breno Alexandre <li><b>Memorabilidade:</b> Pedro Izarias <li><b>Satisfação:</b> Larissa Stéfane |
 
 
   
 
-**Lista de Verificação de Características dos Princípios Gerais** - Larissa Stéfane
-
-**Inspeção de Características dos Princípios Gerais** - Luana Medeiros
-
-**Lista de Verificação de Características das Metas Usabilidade** - Pedro Izarias
-
-**Inspeções**
-- Eficácia - Iago Passaglia
-- Eficiência - Luana Medeiros
-- Segurança - Larissa Stéfane
-- Utilidade - Bruno Araújo
-- Aprendizagem - Breno Alexandre
-- Memorabilidade - Pedro Izarias
-- Satisfação - Larissa Stéfane
 
 **Lista de Verificação do Guia de Estilo** - Breno Alexandre
 
