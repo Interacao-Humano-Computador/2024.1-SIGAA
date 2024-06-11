@@ -58,21 +58,8 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
 | Tópico  | Resultados das avaliações | ---------- | ----- |
-| Issue 1                 | Realizar a Ata da reunião                                                 | Breno Alexandre                                  | 06/06/2024      |
-| Issue 2                 | Upar vídeo do youtube                                                     | Breno Alexandre                                  | 06/06/2024      |
-
---------------------------------------------------------------------------
-PLANEJAMENTO
-
-**Lista de Verificação de Sites Avaliados** - Breno Alexandre
-**Avaliações**
-- Biblioteca Nacional Digital - Luana Medeiros
-- Cebraspe - Iago Passaglia
-- Consumidor.gov - Larissa Stéfane
-- NFSE - Pedro Izarias
-- Núcleo de Seleção UEG - Bruno Araújo
-- Stack Overflow - Breno Alexandre
-- *(Está no Site Escolhido) Site dos Correios -
+| Issue 1 | Realizar a Ata da reunião                                                 | Breno Alexandre                                  | 06/06/2024      |
+| Issue 2 | Upar vídeo do youtube                                                     | Breno Alexandre                                  | 06/06/2024      |
 
 --------------------------------------------------------------------------
 ANÀLISE DE REQUISITOS
@@ -134,12 +121,7 @@ ANÁLISE DE REQUISITOS II
 
 **Lista de Verificação de Características dos Princípios Gerais** - Larissa Stéfane
 
-**Avaliações**
-- Correspondência com as expectativas dos usuários - Breno Alexandre
-- Conteúdo relevante e expressão adequeada - Pedro Izarias
-- Consistênica e padronização - Iago Passaglia
-- Equilíbrio entre controle e liberdade do usuário - Luana Medeiros
-- Visibilidade e reconhecimento - Bruno Araújo
+**Avaliação de Características dos Princípios Gerais** - Luana Medeiros
 
 **Lista de Verificação de Características das Metas Usabilidade** - Pedro Izarias
 
