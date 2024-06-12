@@ -28,8 +28,13 @@ Tabela 1: Lista de Verificação da técnica de grupo de foco para traçar um pe
 
 | ID |  Pergunta                                    | Explicação                                                                                                                                                | Rastreabilidade | Captura de Tela |
 | -- | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
-| 01 | As sessões incluíram entre 3 e 10 participantes? | Consenso Geral. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
-| 02 | O moderador cumpriu seu papel adequadamente? | Checar se o moderador chegou a assegurar que pessoas mais quietas ou tímidas participem e a evitar que as extrovertidas e agressivas dominem a discussão. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
+| 01 | As sessões incluíram entre três e dez participantes? | Consenso Geral. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
+| 02 | As sessões duraram entre uma e duas horas? | Consenso Geral. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
+| 03 | O moderador cumpriu seu papel adequadamente? | Checar se o moderador chegou a assegurar que pessoas mais quietas ou tímidas participem e a evitar que as extrovertidas e agressivas dominem a discussão. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
+| 04 | O moderador evitou pedir para os participantes fazerem previsões sobre algo que eles ainda não experimentaram? | Checar se o moderador evitou pedir para os participantes fazerem previsões sobre algo
+que eles ainda não experimentaram, como, por exemplo, pedir para avaliar a utilidade de algo que ainda não utilizaram. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
+| 05 | O moderador evitou endereçar tópicos polêmicos? | Checar se o moderador evitou endereçar tópicos polêmicos, relacionados, por exemplo, com política e valores morais. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
+| 06 | Algumas questões típicas foram exploradas? | Checar se algumas questões típicas foram exploradas. (Checar captura de tela) | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
