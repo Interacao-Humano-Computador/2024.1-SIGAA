@@ -1,0 +1,81 @@
+# Verificação e Inspeção da Técnica de Grupo de Foco
+
+## Sumário
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Lista de Verificação](#Lista-de-Verificação)
+* [Inspeção](#Inspeção)
+* [Conclusão e Observações](#Conclusão-e-Observações)
+* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Histórico de versão](#Histórico-de-versão)
+
+
+## Introdução
+
+Este documento tem como objetivo mostrar a verificação e a inspeção realizada em relação ao artefato [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/#grupo-de-foco) desenvolvido pelo grupo 3.  Desse modo, foi realizado um estudo detalhado das diretrizes e indicações pertinentes, a fim de elaborar uma lista de a verificação. Com isso, será conduzida uma inspeção do tópico de Grupo de Foco, utilizando a lista de verificação elaborada.
+
+## Metodologia
+
+A metodologia será executada em duas etapas principais. Primeiramente, um membro do grupo realizará um estudo e a elaboração da lista de verificação. Essa lista incluirá critérios específicos para avaliar a clareza e coerência da técnica de Grupo de Foco. Em seguida, outro integrante do grupo utilizará essa lista para realizar uma inspeção do artefato ao analisar cada item de acordo com os critérios estabelecidos. 
+
+## Lista de Verificação
+
+A tabela 1 mostra a lista de veriicação realizada para se fazer a inspeção em relação a aplicação da técnica de grupo de foco.
+
+<center>
+
+Tabela 1: Lista de Verificação da técnica de grupo de foco para traçar um perfil de usuário.
+
+| ID |  Pergunta | Explicação | Rastreabilidade | Captura de Tela |
+| -- | ----------| ---------- | --------------- | --------------- |
+| 01 | 
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
+
+</center>
+
+## Inspeção
+
+A tabela 2 mostra a identificação do histórico de versão do documento inspecionado.
+
+<center>
+
+Tabela 2: Identificação do artefato avaliado.
+ 
+| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+A tabela 3 mostra a inspeção realizada em relação a aplicação da técnica de grupo de foco.
+
+<center>
+
+Tabela 3: Inspeção da técnica de grupo de foco.
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+## Conclusão e Observações
+
+
+## Referências Bibliográficas
+
+1. 
+
+
+## Histórico de versão
+
+| Versão | Alteração                                                  | Responsável     | Revisor         | Data       |
+| ------ | ---------------------------------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento  e elaboração da lista de verificação | Breno Alexandre | -               | 12/06/2024 |
