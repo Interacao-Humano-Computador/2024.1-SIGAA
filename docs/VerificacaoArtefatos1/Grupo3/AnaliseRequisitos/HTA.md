@@ -54,7 +54,7 @@ A tabela 2 mostra a avaliação da Análise HTA com base na lista de verificaç�
 | 4 | Os métodos de aquisição de dados foram selecionados de forma adequada? |||
 | 5 | Os dados foram coletados de maneira completa e precisa?|||
 | 6 | A decomposição das tarefas foi realizada de forma exaustiva e sem sobreposições? |||
-| 7 | |||
+| 7 | As operações necessárias para alcançar cada subobjetivo foram claramente identificadas, juntamente com as condições que indicam seu atingimento? |||
 | 8 | Foram identificadas operações significativas utilizando o critério p x c?|||
 | 9 |Foram geradas e testadas hipóteses relacionadas aos fatores que afetam o desempenho? |||
 | 10 | A análise levou em consideração os diferentes níveis de desempenho propostos por Reason (1990)? |||
@@ -65,7 +65,7 @@ A tabela 2 mostra a avaliação da Análise HTA com base na lista de verificaç�
 
 ## Conclusão e Observações
 
-## Referências Bibliográficas
+## Bibliografia
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág 196 . Acesso em 12 de Junho de 2024.
 
    
