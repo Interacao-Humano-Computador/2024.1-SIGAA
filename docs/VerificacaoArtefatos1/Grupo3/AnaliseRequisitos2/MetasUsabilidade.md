@@ -65,10 +65,10 @@ A tabela 3 mostra a avaliação das Metas de Utilidade com base na lista de veri
 **Tabela 3:** Avaliação para Metas de Utilidade
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
 |-----|------|------|---------|
-| 1 | As metas de usabilidade foram claramente definidas para o projeto em questão? | Sim | As metas de usabilidade foram definidas de acordo com as necessidades do projeto. |
-| 2 | Os indicadores de desempenho escolhidos são relevantes e mensuráveis? | Sim | Indicadores relevantes e mensuráveis foram selecionados para avaliar a usabilidade. |
+| 1 | As metas de usabilidade foram claramente definidas para o projeto em questão? | Sim | -- |
+| 2 | Os indicadores de desempenho escolhidos são relevantes e mensuráveis? | Sim | -- |
 | 3 | Foram estabelecidas faixas de valores para os indicadores de usabilidade? | Não| Faixas de valores não foram estabelecidas, o que pode dificultar a avaliação precisa. |
-| 4 | O trabalho considerou o retorno de investimento (ROI) relacionado à usabilidade do sistema? | Não | --- |
+| 4 | O trabalho considerou o retorno de investimento (ROI) relacionado à usabilidade do sistema? | Não se aplica | --- |
 | 5 | O método de design utilizado (como design paralelo ou design participativo) foi adequado às necessidades do projeto? | Sim | O método de design escolhido atende às necessidades do projeto |
 | 6 | Os protótipos desenvolvidos foram eficazes para testar e validar as soluções de design propostas? | Sim | Os protótipos foram eficazes na validação das soluções propostas |
 | 7 | Foi realizada uma avaliação empírica da usabilidade do sistema durante o desenvolvimento? | Sim | - |
