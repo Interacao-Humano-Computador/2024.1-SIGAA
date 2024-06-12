@@ -49,6 +49,36 @@ A tabela 1 apresenta a lista de verificação para o perfil de usuário com base
 | 20 | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto? | Deve descrever os objetivos e as tarefas principais dos usuários de acordo com as suas expectativas. | Interação Humano-Computador e Experiência do Usuário”, de Barbosa e Silva, Capítulo 7, tópico 2, "Que Dados Coletar?", página 137.                              
 | 21 | Indica as funcionalidades mais utilizadas pelos usuários? | Deve listar as aplicações mais usadas e as expectativas dos usuários em relação a elas. | [ About Face 3 The Essentials of Interaction Design - Personas are represented as individual people  - Páginas 81 e 82 ](https://fall14se.wordpress.com/wp-content/uploads/2017/04/about_face_3__the_essentials_of_interaction_design.pdf) |
 
-**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
+## Inspeção
+
+<center>
+
+Tabela 2: Identificação do artefato avaliado
+ 
+| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+<center>
+
+Tabela 3: Inspeção do questionário
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+## Conclusão e Observações
