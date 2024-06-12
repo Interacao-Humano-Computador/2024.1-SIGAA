@@ -26,9 +26,10 @@ A tabela 1 mostra a lista de veriicação realizada para se fazer a inspeção e
 
 Tabela 1: Lista de Verificação da técnica de grupo de foco para traçar um perfil de usuário.
 
-| ID |  Pergunta | Explicação | Rastreabilidade | Captura de Tela |
-| -- | ----------| ---------- | --------------- | --------------- |
-| 01 | 
+| ID |  Pergunta                                    | Explicação                                                                                                                                                | Rastreabilidade | Captura de Tela |
+| -- | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
+| 01 | O moderador cumpriu seu papel adequadamente? | Checar se o moderador chegou a assegurar que pessoas mais quietas ou tímidas participem e a evitar que as extrovertidas e agressivas dominem a discussão. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
+
 
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
@@ -71,7 +72,7 @@ Tabela 3: Inspeção da técnica de grupo de foco.
 
 ## Referências Bibliográficas
 
-1. 
+1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA , Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021. Capítulo 7, pags. 152-155.
 
 
 ## Histórico de versão
