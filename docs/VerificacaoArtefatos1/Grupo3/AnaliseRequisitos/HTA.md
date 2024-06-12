@@ -28,7 +28,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Aná
 | 2   | Houve consenso entre as partes interessadas na definição dos objetivos? | Avalia se as partes interessadas concordaram com os objetivos da análise.                | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág 195         |        [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/HTACapturaTela/hta2.png)         |
 | 3   | As fontes de informação das tarefas foram corretamente identificadas? | Checa se as fontes de informação necessárias para a análise foram identificadas adequadamente. | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág 195         |       [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/HTACapturaTela/hta3.png)          |
 | 4   | Os métodos de aquisição de dados foram selecionados de forma adequada? | Verifica se os métodos de coleta de dados foram apropriados para a análise.              | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág 195         |       [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/HTACapturaTela/hta3.png)          |
-| 5   | Os dados foram coletados de maneira completa e precisa? | Avalia se a coleta de dados foi feita de maneira detalhada e abrangente.                  | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág 196         |        [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/HTACapturaTela/hta4.png)         |
+| 5   | Os dados foram coletados de maneira completa e precisa? | Avalia se a coleta de dados foi feita de maneira detalhada e abrangente.                  | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág 196         |        [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/HTACapturaTela/hta4.png)     |
 | 6   | A decomposição das tarefas foi realizada de forma exaustiva e sem sobreposições? | Checa se a decomposição das tarefas foi completa e se não há sobreposição entre os subobjetivos. | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág 196         |        [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/HTACapturaTela/hta4.png)         |
 | 7   |  |  | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág          |        [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/HTACapturaTela/.png)         |
 | 8   | Foram identificadas operações significativas utilizando o critério p x c? | Verifica se o critério p x c foi usado para identificar operações significativas na análise. | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág 196         |        [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/HTACapturaTela/hta5.png)         |
@@ -42,18 +42,31 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Aná
 
 ## Avaliação
 
-A tabela 2 mostra a avaliação das personas com base na lista de veriicação.
+A tabela 2 mostra a avaliação da Análise HTA com base na lista de verificação.
 
-**Tabela 2:** Avaliação para Personas.
+**Tabela 2:** Avaliação para Análise HTA.
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+|-----|------|------|---------|
+| 1 | Os objetivos da análise foram claramente definidos?|||
+| 2 | Houve consenso entre as partes interessadas na definição dos objetivos? |||
+| 3 |As fontes de informação das tarefas foram corretamente identificadas? |||
+| 4 | Os métodos de aquisição de dados foram selecionados de forma adequada? |||
+| 5 | Os dados foram coletados de maneira completa e precisa?|||
+| 6 | A decomposição das tarefas foi realizada de forma exaustiva e sem sobreposições? |||
+| 7 | |||
+| 8 | Foram identificadas operações significativas utilizando o critério p x c?|||
+| 9 |Foram geradas e testadas hipóteses relacionadas aos fatores que afetam o desempenho? |||
+| 10 | A análise levou em consideração os diferentes níveis de desempenho propostos por Reason (1990)? |||
 
 
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
 
-**Autora:** [Autor](https://github.com/Autor)
 
 ## Conclusão e Observações
 
 ## Referências Bibliográficas
-1. COOPER, A.; REIMANN, R.; CRONIN, D.; NOESSEL, C. About face: The essentials of interaction design. 4. ed. Indianapolis: John Wiley & Sons, 2014. <https://fall14se.wordpress.com/wp-content/uploads/2017/04/alan-cooper-robert-reimann-david-cronin-christopher-noessel-about-face_-the-essentials-of-interaction-design-wiley-2014.pdf> Acesso em 09 de Junho de 2024.
+1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág 196 . Acesso em 12 de Junho de 2024.
 
    
 ## Histórico de versão
