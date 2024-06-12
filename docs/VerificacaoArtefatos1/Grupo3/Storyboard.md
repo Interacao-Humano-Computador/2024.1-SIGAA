@@ -54,17 +54,22 @@ Tabela 2: Identificação do artefato avaliado
 
 </center>
 
-<center>
 
-Tabela 3: Inspeção dos aspectos éticos
+Tabela 3: Inspeção dos Storyboards
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
+| -- | -- | -- | -- |
+| 1  | Apresenta uma sequência lógica de cenas?                 | - | - | 
+| 2  | Inclui descrições detalhadas de cada cena?               | - | - | 
+| 3  | Indica movimentos de câmera (zoom, panorâmica, etc.)?    | - | - | 
+| 4  | Apresenta os personagens principais em cada cena?        | - | - | 
+| 5  | Mostra mudanças de cenário ou ambiente?                  | - | - | 
+| 6  | Inclui notas sobre áudio ou diálogo?                     | - | - | 
+| 7  | Apresenta variações de enquadramento?                    | - | - | 
+| 8  | Existe uma descrição das ações do usuário e as respostas do sistema em cada etapa? | - | - | 
+| 9  | O storyboard permite a identificação de potenciais problemas de usabilidade ou pontos de confusão para o usuário? | - | - | 
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 </center>
 
