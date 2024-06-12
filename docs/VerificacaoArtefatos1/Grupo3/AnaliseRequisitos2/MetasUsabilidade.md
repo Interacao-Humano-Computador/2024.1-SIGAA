@@ -79,6 +79,28 @@ A tabela 3 mostra a avaliação das Metas de Utilidade com base na lista de veri
 </center>
 </details>
 
+<details>
+  <summary size="20"><b> Eficiência - Luana Medeiros </b></summary> 
+<center>
+
+A tabela 4 mostra a avaliação das Metas de Eficiência com base na lista de verificação.
+
+*Tabela 4:* Avaliação para Metas de Eficiência
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+|-----|------|------|---------|
+| 1 |As metas de usabilidade foram claramente definidas para o projeto em questão?| Sim | |
+| 2 |Os indicadores de desempenho escolhidos são relevantes e mensuráveis?| Sim | |
+| 3 |Foram estabelecidas faixas de valores para os indicadores de usabilidade?| Não | É importante definir faixas de valores para os indicadores de usabilidade para estabelecer parâmetros claros de sucesso e facilitar a avaliação do desempenho do sistema. |
+| 4 |O trabalho considerou o retorno de investimento (ROI) relacionado à usabilidade do sistema?| Não | Considerar o ROI da usabilidade é essencial para justificar investimentos em design e melhorias, mostrando o impacto financeiro positivo de uma boa usabilidade. |
+| 5 |O método de design utilizado (como design paralelo ou design participativo) foi adequado às necessidades do projeto?|Sim | |
+| 6 |Os protótipos desenvolvidos foram eficazes para testar e validar as soluções de design propostas?| Sim | |
+| 7 |Foi realizada uma avaliação empírica da usabilidade do sistema durante o desenvolvimento?| Não | Realizar avaliações empíricas é crucial para identificar problemas de usabilidade e ajustar o design antes do lançamento, garantindo que o sistema atende às necessidades dos usuários. |
+| 8 |As decisões de design foram documentadas de forma clara e justificadas?| Sim | |
+
+*Fonte:* [Luana Medeiros](https://github.com/LuaMedeiros)ç] 
+
+</center>
+</details>
 
 ## Conclusão e Observações
 
@@ -92,3 +114,4 @@ A tabela 3 mostra a avaliação das Metas de Utilidade com base na lista de veri
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo | 12/06/2024 |
 | 1.1 | Adição utilidade | Bruno Araújo | - | 12/06/2024 |
+| 1.2 | Adição inspeção Eficiência | Luana Medeiros | - | 12/06/2024 |
