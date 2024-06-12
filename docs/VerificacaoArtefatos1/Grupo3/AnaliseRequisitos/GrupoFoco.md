@@ -26,9 +26,9 @@ A tabela 1 mostra a lista de veriicação realizada para se fazer a inspeção e
 
 Tabela 1: Lista de Verificação da técnica de grupo de foco para traçar um perfil de usuário.
 
-| ID |  Pergunta                                    | Explicação                                                                                                                                                | Rastreabilidade | Captura de Tela |
-| -- | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
-| 01 | As sessões incluíram entre três e dez participantes? | Consenso Geral. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
+| ID |  Pergunta                                    | Explicação                                   | Rastreabilidade | Captura de Tela |
+| -- | -------------------------------------------- | -------------------------------------------- | --------------- | --------------- |
+| 01 | As sessões incluíram entre três e dez participantes? | Consenso Geral. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | [Captura de tela do trecho](/assets/listaVerificacaoGrupoFoco1.jpeg) |
 | 02 | As sessões duraram entre uma e duas horas? | Consenso Geral. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
 | 03 | O moderador cumpriu seu papel adequadamente? | Checar se o moderador chegou a assegurar que pessoas mais quietas ou tímidas participem e a evitar que as extrovertidas e agressivas dominem a discussão. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
 | 04 | O moderador evitou pedir para os participantes fazerem previsões sobre algo que eles ainda não experimentaram? | Checar se o moderador evitou pedir para os participantes fazerem previsões sobre algo que eles ainda não experimentaram, como, por exemplo, pedir para avaliar a utilidade de algo que ainda não utilizaram. | Livro Interação Humano-Computador e Expectativas dos Usuários – Capítulo 7, página 152.¹ | Captura de tela do trecho |
