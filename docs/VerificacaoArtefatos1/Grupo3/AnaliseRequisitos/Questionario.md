@@ -12,11 +12,11 @@
 
 ## Introdução
 
-Este documento tem como objetivo mostrar a verificação e a inspeção realizada pelo grupo 2 em relação ao artefato do questionário desenvolvido pelo grupo 3.  Desse modo, foi realizado um estudo detalhado das diretrizes e indicações pertinentes, a fim de elaborar uma lista de a verificação . Com isso, será conduzida uma inspeção do artefato de questionários, utilizando a lista de verificação elaborada.
+Este documento tem como objetivo mostrar a verificação e a inspeção realizada pelo grupo 2 em relação ao artefato do questionário desenvolvido pelo grupo 3.  Desse modo, foi realizado um estudo detalhado das diretrizes e indicações pertinentes, a fim de elaborar uma lista de a verificação. Com isso, será conduzida uma inspeção do artefato de questionários, utilizando a lista de verificação elaborada.
 
 ## Metodologia
 
-
+A metodologia será executada em duas etapas principais. Primeiramente, um membro do grupo realizará um estudo e a elaboração da lista de verificação. Essa lista incluirá critérios específicos para avaliar a clareza e coerência do questionário. Em seguida, outro integrante do grupo utilizará essa lista para realizar uma inspeção do artefato ao analisar cada item de acordo com os critérios estabelecidos. 
 
 ## Lista de Verificação
 
