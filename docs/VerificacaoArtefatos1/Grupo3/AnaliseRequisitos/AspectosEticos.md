@@ -4,7 +4,7 @@
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
 * [Lista de Verificação](#Lista-de-Verificação)
-* [Avaliação](#Avaliação)
+* [Inspeção](#Inspeção)
 * [Conclusão e Observações](#Conclusão-e-Observações)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
@@ -22,6 +22,7 @@ A metodologia adotada para a verificação e inspeção dos aspectos éticos ser
 ## Lista de Verificação
 
 A tabela 1 mostra a lista de veriicação realizada para se fazer a inspeção em relação aos princípios éticos.
+
 <center>
 
 Tabela 1: Lista de Verificação dos Aspectos Éticos
@@ -48,6 +49,36 @@ Tabela 1: Lista de Verificação dos Aspectos Éticos
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
+## Inspeção
+
+<center>
+
+Tabela 2: Identificação do artefato avaliado
+ 
+| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+<center>
+
+Tabela 3: Inspeção dos aspectos éticos
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+## Conclusão
+
 
 ## Referências Bibliográficas
 
