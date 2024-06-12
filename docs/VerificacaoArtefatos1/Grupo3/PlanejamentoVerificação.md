@@ -62,7 +62,11 @@ Tabela 1: divisão de verificação dos artefatos
 
 ### Template para Tabela de Verificação:
 
+A tabela 2 mostra o template/formato que a tabela da lista de verificação deve seguir.
+
 <center>
+
+Tabela 2: Template para Tabela de Verificação
 
 | ID |  Pergunta | Explicação | Rastreabilidade | Captura de Tela |
 | -- | ----------| ---------- | --------------- | --------------- |
@@ -70,28 +74,45 @@ Tabela 1: divisão de verificação dos artefatos
 | -- | ----------| ---------- | --------------- | --------------- |
 | -- | ----------| ---------- | --------------- | --------------- |
 
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
 
 ### Template para a inspeção
 
 #### Identificação do artefato avaliado.
 
+A tabela 3 mostra o template/formato que a tabela de identificação do artefato avaliado e ela deve ser colocada sempre antes dos resultados das inspeções.
+
 <center>
+
+Tabela 3: Identificação do artefato avaliado
  
 | Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
 | ------- | ---- | ------ | ----------------------- | --------- | ------- |
 | ------- | ---- | ------ | ----------------------- | --------- | ------- |
 
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
 
 #### Templete para a inspeção
 
+A tabela 4 mostra o formato que os resultados das inspeções deve ser mostrado.
+
 <center>
- 
+
+Tabela 4:  Templete para resultados da inspeção
+
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
 | -- | ----------| ---------- | --------------- | 
 | -- | ----------| ---------- | --------------- | 
 | -- | ----------| ---------- | --------------- | 
 | -- | ----------| ---------- | --------------- | 
 
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
 
 ## Bibliografia
 
@@ -100,4 +121,5 @@ Tabela 1: divisão de verificação dos artefatos
 ## Histórico de versão
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento                | Breno Alexandre | -               | 10/06/2024 |
+| 1.0    | Criação do documento                | Breno Alexandre | Larissa Stéfane             | 10/06/2024 |
+| 1.1    | Adição das tabelas de template              | Larissa Stéfane | -               | 10/06/2024 |
