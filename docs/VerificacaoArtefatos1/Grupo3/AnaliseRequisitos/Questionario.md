@@ -83,7 +83,7 @@ Tabela 3: Inspeção do questionário
 
 </center>
 
-## Conclusão
+## Conclusão e Observações
 
 
 ## Referências Bibliográficas
