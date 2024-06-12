@@ -62,6 +62,34 @@ A tabela 2 mostra a avaliação da Análise HTA com base na lista de verificaç�
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
+<details>
+  <summary size="20"><b> Rastrear encomendas - Luana Medeiros </b></summary> 
+
+  <br>
+A tabela X mostra as verificações e observações realizadas para o HTA - Rastrear encomendas.
+
+Tabela X: Rastrear encomendas
+
+<br>
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+|-----|------|------|---------|
+| 1 | Os objetivos da análise foram claramente definidos?| Sim | |
+| 2 | Houve consenso entre as partes interessadas na definição dos objetivos? | Sim | |
+| 3 |As fontes de informação das tarefas foram corretamente identificadas? | Sim | |
+| 4 | Os métodos de aquisição de dados foram selecionados de forma adequada? | Sim | |
+| 5 | Os dados foram coletados de maneira completa e precisa?| Sim | |
+| 6 | A decomposição das tarefas foi realizada de forma exaustiva e sem sobreposições? | Sim | |
+| 7 | As operações necessárias para alcançar cada subobjetivo foram claramente identificadas, juntamente com as condições que indicam seu atingimento? | Sim | |
+| 8 | Foram identificadas operações significativas utilizando o critério p x c?| Não | É importante identificar operações significativas com base no critério p x c (probabilidade x consequência) para priorizar e gerenciar riscos de maneira eficaz. |
+| 9 |Foram geradas e testadas hipóteses relacionadas aos fatores que afetam o desempenho? | Não| Gerar e testar hipóteses é fundamental para entender melhor os fatores que influenciam o desempenho e para criar soluções eficazes. |
+| 10 | A análise levou em consideração os diferentes níveis de desempenho propostos por Reason (1990)? | Não | Considerar os diferentes níveis de desempenho propostos ajuda a identificar e mitigar possíveis erros em vários níveis de operação. |
+<br>
+
+ **Autora:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+
+</details>
 
 ## Conclusão e Observações
 
@@ -74,3 +102,4 @@ A tabela 2 mostra a avaliação da Análise HTA com base na lista de verificaç�
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | - | 12/06/2024 |
+| 1.1 | Avaliação do Rastrear encomendas | Luana Medeiros | - | 12/06/2024 |
