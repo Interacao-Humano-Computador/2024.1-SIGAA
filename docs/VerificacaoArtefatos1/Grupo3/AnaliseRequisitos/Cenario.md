@@ -98,4 +98,4 @@ Tabela 3: Inspeção do questionário
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento  e elaboração da lista de verificação              | Larissa Stéfane |          | 12/06/2024 |
+| 1.0    | Criação do documento  e elaboração da lista de verificação              | Larissa Stéfane |  Bruno Araújo        | 12/06/2024 |
