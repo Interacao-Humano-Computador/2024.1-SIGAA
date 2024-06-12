@@ -40,6 +40,7 @@ Tabela 1: Lista de Verificação do Storyboard
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 </center>
+
 ## Inspeção
 
 <center>
