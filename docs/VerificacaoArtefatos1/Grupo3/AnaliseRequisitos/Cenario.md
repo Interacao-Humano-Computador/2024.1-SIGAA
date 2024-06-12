@@ -93,3 +93,9 @@ Tabela 3: Inspeção do questionário
 4. Uso de cenários para especificação de requisitos de qualidade e avaliação de arquitetura. DevMedia. Disponível em: <https://www.devmedia.com.br/uso-de-cenarios-para-especificacao-de-requisitos-de-qualidade-e-avaliacao-de-arquitetura/22528> . Acesso em 09 junnho de 2024.
 
 5. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira de. Engenharia de Software de Requisitos – Software Orientado ao Negócio. Editoras FATTOS e Brasport. Disponível em: <https://analisederequisitos.com.br/wp-content/uploads/2023/06/engenharia-de-requisitos-software-orientado-ao-negocio.pdf> . Acesso em 09 junnho de 2024.
+
+## Histórico de versão
+
+| Versão | Alteração                           | Responsável     | Revisor         | Data       |
+| ------ | ----------------------------------- | --------------- | --------------- | ---------- |
+| 1.0    | Criação do documento  e elaboração da lista de verificação              | Larissa Stéfane |          | 12/06/2024 |
