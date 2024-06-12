@@ -23,7 +23,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Aná
 **Tabela 1:** Lista de verificação para Personas.
 
 | ID  | Pergunta     | Explicação    | Rastreabilidade | Captura de tela |
-|-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------|
+|-----|--------------------------|------------------------------|------------------------------------------------------------------------------------------|-------|
 | 1  |  |   | ||
 
 
@@ -37,8 +37,19 @@ A tabela 2 mostra a avaliação das personas com base na lista de veriicação.
 
 **Tabela 2:** Avaliação para Personas.
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
-| 1 | ---- | ---------- | --------------- | 
+| ID  | Pergunta                                | Explicação                                                                                | Rastreabilidade    | Captura de tela |
+|-----|-----------------------------------------|------------------------------------------------------------------------------------------|--------------------|-----------------|
+| 1   | Os objetivos da análise foram claramente definidos? | Verifica se os objetivos da análise foram estabelecidos de forma clara e precisa.         | Página 193         |                 |
+| 2   | Houve consenso entre as partes interessadas na definição dos objetivos? | Avalia se as partes interessadas concordaram com os objetivos da análise.                | Página 195         |                 |
+| 3   | As fontes de informação das tarefas foram corretamente identificadas? | Checa se as fontes de informação necessárias para a análise foram identificadas adequadamente. | Página 195         |                 |
+| 4   | Os métodos de aquisição de dados foram selecionados de forma adequada? | Verifica se os métodos de coleta de dados foram apropriados para a análise.              | Página 195         |                 |
+| 5   | Os dados foram coletados de maneira completa e precisa? | Avalia se a coleta de dados foi feita de maneira detalhada e abrangente.                  | Página 196         |                 |
+| 6   | A decomposição das tarefas foi realizada de forma exaustiva e sem sobreposições? | Checa se a decomposição das tarefas foi completa e se não há sobreposição entre os subobjetivos. | Página 196         |                 |
+| 7   | A validade da decomposição foi verificada com as partes interessadas? | Avalia se a decomposição foi validada junto às partes interessadas para garantir sua precisão. | Página 196         |                 |
+| 8   | Foram identificadas operações significativas utilizando o critério p u c? | Verifica se o critério p u c foi usado para identificar operações significativas na análise. | Página 196         |                 |
+| 9   | Foram geradas e testadas hipóteses relacionadas aos fatores que afetam o desempenho? | Checa se hipóteses foram criadas e testadas sobre os fatores que influenciam o desempenho. | Página 196         |                 |
+| 10  | A análise levou em consideração os diferentes níveis de desempenho propostos por Reason (1990)? | Avalia se a análise considerou os níveis de desempenho: habilidades, regras, e conhecimento. | Página 196         |                 |
+
 
 **Autora:** [Autor](https://github.com/Autor)
 
