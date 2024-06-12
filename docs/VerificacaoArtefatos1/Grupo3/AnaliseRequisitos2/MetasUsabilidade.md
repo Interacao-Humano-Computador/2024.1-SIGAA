@@ -66,4 +66,4 @@ A tabela 2 mostra a avaliação das Metas de Usabilidade com base na lista de ve
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Pedro Izarias | - | 12/06/2024 |
+| 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo | 12/06/2024 |
