@@ -29,7 +29,7 @@ Tabela 1: divisão de verificação dos artefatos
 | Artefato                                                                        | Responsável pela lista de verificação | Responsável(is) pela inspeção              |
 | ------------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------ |
 | <b>ANÁLISE DE REQUISITOS</b>                                                    | ------------------------------------- | -------------------------------------      |
-| <b>Aspectos Éticos</b>                                                          | Breno Alexandre                       | Iago Passaglia                             |
+| <b>Aspectos Éticos</b>                                                          | Larissa Stéfane                      | Iago Passaglia                             |
 | <b>Perfil de Usuário(Questionário)</b>                                          | Larissa Stéfane                       | Breno Alexandre                            |
 | <b>Perfil de Usuário(Grupo de Foco)</b>                                         | Breno Alexandre                       | Larissa Stéfane                            |
 | <b>Personas</b>                                                                 | Pedro Izarias                         | Larissa Stéfane                            |
