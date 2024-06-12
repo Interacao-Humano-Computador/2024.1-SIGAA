@@ -44,14 +44,14 @@ A tabela 2 mostra a avaliação do Planejamento da Avaliação do Storyboard com
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
 |-----|------|------|---------|
-| 1 | Os objetivos da avaliação de IHC foram determinados? |||
-| 2 | Foram elaboradas perguntas específicas para cada objetivo definido? |||
-| 3 | Os métodos de avaliação foram escolhidos de forma adequada para responder às perguntas e atingir os objetivos esperados? |||
-| 4 | As questões práticas da avaliação foram identificadas e gerenciadas? |||
-| 5 | Foram tomados cuidados éticos necessários durante a avaliação? |||
-| 6 | Os dados foram avaliados, interpretados e apresentados considerando aspectos como confiabilidade, validade interna e validade externa? |||
+| 1 | Os objetivos da avaliação de IHC foram determinados? |Sim | |
+| 2 | Foram elaboradas perguntas específicas para cada objetivo definido? |Incompleto | É necessário formular perguntas específicas para cada objetivo para garantir que todos os aspectos da avaliação sejam abordados de maneira detalhada e focada. |
+| 3 | Os métodos de avaliação foram escolhidos de forma adequada para responder às perguntas e atingir os objetivos esperados? | Incompleto | Escolher métodos adequados é crucial para garantir que a avaliação seja eficaz e que os resultados obtenham respostas precisas às perguntas formuladas. |
+| 4 | As questões práticas da avaliação foram identificadas e gerenciadas? | Sim | |
+| 5 | Foram tomados cuidados éticos necessários durante a avaliação? |Sim | |
+| 6 | Os dados foram avaliados, interpretados e apresentados considerando aspectos como confiabilidade, validade interna e validade externa? | Sim | |
 
-**Autora:** [Pedro Izarias](https://github.com/Izarias)
+**Autora:** [Luana Medeiros](https://github.com/LuaMedeiros)
 
 ## Conclusão e Observações
 
@@ -64,3 +64,4 @@ A tabela 2 mostra a avaliação do Planejamento da Avaliação do Storyboard com
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | - | 12/06/2024 |
+| 1.1 | Inspeção | Luana Medeiros | - | 12/06/2024 |
