@@ -7,11 +7,12 @@
 *[Histórico de Versão](#Histórico-de-Versão)
 
 ## Introdução
+Este documento possui o intuito de apresentar as Personas criadas para o projeto e todas as suas informações. Cada persona possui background, motivações de vida, tarefas realizadas no sigaa e dados demográficos. No total temos 5 personas a fim de abranger os limites definidos pelo perfil de usuário e a quantidade de personas definidas na Literatura.
 
 ## Metodologia
+Foram divididos entre o grupo a criação de personas de cada tipo e ficou definido que seria utilizado a mesma plataforma (Uxpressia) a fim de manter o padrão. Logo em seguida, foi criado o documento para registro das personas.
 
 ## Personas
-
 
 <center>
 
