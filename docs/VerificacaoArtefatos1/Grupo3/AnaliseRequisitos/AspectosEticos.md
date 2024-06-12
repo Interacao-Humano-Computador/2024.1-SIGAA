@@ -27,8 +27,16 @@ Tabela 1: Lista de Verificação dos Aspectos Éticos
 | -- | ----------| ---------- | --------------- | --------------- |
 | -- | Antes de a técnica com usuários ser aplicada, os participantes são informados dos objetivos da coleta de dados? | É necessário que seja informado aos participantes quais os objetivos da técnica aplicada, por exemplo, entrevista, antes que se inicie o procedimento. | Livro Interação Humano-Computador e Expectativas dos Usuários – | [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AspectosEticos_CapturaTela/photo_5136457243506617712_y.jpg) |
 | -- | Antes de a técnica com usuários ser aplicada, os participantes consetiram a coleta de seus dados? | Ao saberem o objetivo, é necessário que os participantes permitam que seus dados e informações sejam utilizadas na pesquia.| Livro Interação Humano-Computador e Expectativas dos Usuários – | [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AspectosEticos_CapturaTela/photo_5136457243506617712_y.jpg) |
-| -- | | ---------- | --------------- | --------------- |
+| -- | A autorização dos participantes é obtida através da assinatura de um formulário de consentimento? | A procedimento realizado com o usuário só pode acontecer se o participante assinar o termo de consentimento esclarecido. Isso serve de proteção tanto para o participante quanto para a equipe. | Livro Interação Humano-Computador e Expectativas dos Usuários –  | [Captura de Tela](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AspectosEticos_CapturaTela/photo_5136457243506617713_y.jpg) |
 | -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+
+
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
