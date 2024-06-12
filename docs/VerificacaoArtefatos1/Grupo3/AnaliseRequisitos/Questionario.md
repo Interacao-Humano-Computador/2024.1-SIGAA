@@ -5,7 +5,7 @@
 * [Metodologia](#Metodologia)
 * [Lista de Verificação](#Lista-de-Verificação)
 * [Inspeção](#Inspeção)
-* [Conclusão](#Conclusão-e-Observações)
+* [Conclusão e Observações](#Conclusão-e-Observações)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
