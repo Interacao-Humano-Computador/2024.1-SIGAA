@@ -76,6 +76,39 @@ Tabela 3: Inspeção do questionário
 
 </center>
 
+<details>
+  <summary size="20"><b> Rastreamento de encomendas - Luana Medeiros </b></summary> 
+
+  <br>
+A tabela X mostra as verificações e observações realizadas para o cenário - Rastreamento de encomendas
+
+Tabela X: Rastreamento de encomendas
+
+<br>
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+| -- | ----------| ---------- | --------------- | 
+| 1  | O título do cenário representa explicitamente o tema? |Sim |  |
+| 2  | O objetivo do cenário está claramente definido? | Sim |  |
+| 3  | O contexto do cenário está bem descrito, incluindo as pré-condições, o local e o tempo? | Sim |  |
+| 4  | Os recursos envolvidos no cenário estão identificados? | Sim |  |
+| 5  | Os atores envolvidos no cenário estão definidos? | Sim |  |
+| 6 | Os atores estão sendo representados por personas? | Sim |  |
+| 7 | As ações dos atores estão descritas de forma observável? | Sim |  |
+| 8  | As restrições e as exceções dos episódios estão explicitadas? | Não | As restrições e exceções são cruciais para identificar limitações e condições especiais do cenário, o que ajuda a prever e lidar com situações atípicas. |
+| 9  | O ambiente ou contexto do cenário está detalhado? | Sim |  |
+| 10 | O cenário está escrito em linguagem natural simples? | Sim |  |
+| 11 | Há a descrição do que o sistema e os usuários esperam quando o cenário se finalizar ?| Sim |  |
+| 12 | As possíveis falhas e as suas tratativas estão descritas? | Não | Incluir possíveis falhas e suas tratativas é essencial para garantir que todas as eventualidades são consideradas e que existem planos de contingência. |
+| 13 | As informações sobre acontecimentos que podem ocorrer durante o cenário estão incluídas? | Sim |  |
+| 14 | Há uma descrição sobre o estado inicial e o final do contexto no cenário? | Sim |  |
+| 15 | Os requisitos presentes estão descritos no cenário? | Não | 	Descrever os requisitos no cenário é importante para alinhar as expectativas e assegurar que todos os aspectos funcionais e não funcionais são contemplados. |
+
+ **Autora:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+
+</details>
+
 ## Conclusão e Observações
 
 
@@ -96,3 +129,4 @@ Tabela 3: Inspeção do questionário
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento  e elaboração da lista de verificação              | Larissa Stéfane |  Bruno Araújo        | 12/06/2024 |
+| 1.1    | Inspeção do cenário de Rastreamento de encomendas | Luana Medeiros |  -       | 12/06/2024 |
