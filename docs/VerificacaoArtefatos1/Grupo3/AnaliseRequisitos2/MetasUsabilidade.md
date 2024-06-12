@@ -59,7 +59,7 @@ A tabela 2 mostra a avaliação das Metas de Usabilidade com base na lista de ve
 ## Conclusão e Observações
 
 ## Bibliografia
-1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Pág 196 . Acesso em 12 de Junho de 2024.
+1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Acesso em 12 de Junho de 2024.
 
    
 ## Histórico de versão
