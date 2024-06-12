@@ -65,6 +65,7 @@ A tabela 2 mostra a avaliação das personas com base na lista de veriicação.
 | 12 | A foto da persona está livre de expressões exageradas? |||
 | 13 | A foto da persona parece natural e não obviamente posada? |||
 | 14 | A foto da persona apresenta um sujeito que parece uma pessoa comum e não um modelo? |||
+
 **Autora:** [Autor](https://github.com/Autor)
 
 ## Conclusão e Observações
