@@ -6,7 +6,7 @@
 * [Lista de Verificação](#Lista-de-Verificação)
 * [Avaliação](#Avaliação)
 * [Conclusão e Observações](#Conclusão-e-Observações)
-* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
