@@ -1,4 +1,4 @@
-# Verificação e Inspeção do QUestionário
+# Verificação e Inspeção do Questionário
 
 ## Sumário
 * [Introdução](#Introdução)
