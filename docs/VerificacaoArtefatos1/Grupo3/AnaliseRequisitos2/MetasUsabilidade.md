@@ -91,4 +91,4 @@ A tabela 3 mostra a avaliação das Metas de Utilidade com base na lista de veri
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo | 12/06/2024 |
-| 1.1 | Adição utilidade | Pedro Izarias | - | 12/06/2024 |
+| 1.1 | Adição utilidade | Bruno Araújo | - | 12/06/2024 |
