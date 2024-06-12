@@ -12,15 +12,15 @@
 
 ## Introdução
 
-Este documento tem como objetivo apresentar a verificação e a avaliação dos [cenários elaborados no projeto dos Correios](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/) desenvolvido pelo grupo 3. Desse modo, para garantir a conformidade dos cenários com os padrões estabelecidos, foi criada uma lista de verificação baseada em referências acadêmicas e práticas na área de engenharia de requisitos. Com isso, esta lista de verificação será utilizada para revisar detalhadamente cada cenário, assegurando que todos os elementos essenciais estejam presentes e adequadamente descritos.
+Este documento tem como objetivo apresentar a verificação e a avaliação, por parte do grupo 2, dos cenários elaborados no projeto dos Correios desenvolvido pelo grupo 3. Desse modo, para garantir a conformidade dos cenários com os padrões estabelecidos, foi criada uma lista de verificação baseada em referências acadêmicas e práticas na área de engenharia de requisitos. Com isso, esta lista de verificação será utilizada para revisar detalhadamente cada cenário, assegurando que todos os elementos essenciais estejam presentes e adequadamente descritos.
 
 ## Metodologia
 
-Inicialmente, a integrante [Larissa Stéfane](https://github.com/SkywalkerSupreme) será responsável por elaborar a lista de verificações, que servirá como base para a análise dos cenários do projeto dos Correios. Em seguida, cada integrante da nossa equipe, o grupo 2, ficará responsável por avaliar ao menos um cenário específico do projeto dos Correios utilizando a lista de verificação elaborada. Durante a avaliação, os integrantes documentarão suas observações.
+Inicialmente, a integrante [Larissa Stéfane](https://github.com/SkywalkerSupreme) será responsável por elaborar a lista de verificações, que servirá como base para a análise dos cenários do projeto dos Correios. Em seguida, outro  integrante da equipe ficará responsável por avaliar ao menos um cenário específico do projeto dos Correios utilizando a lista de verificação elaborada. Durante a avaliação, os integrantes documentarão suas observações.
 
 ## Lista de Verificação
 
-A tabela 1 apresenta a lista de verificação para os [cenários do projeto dos correios](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/) com base em pontos citados em livros e artigos.
+A tabela 1 apresenta a lista de verificação com base em pontos citados em livros e artigos.
 
 Esses livros e artigos podem ser acessados por meio dos links na coluna **Rastreabilidade**.
 
