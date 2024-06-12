@@ -50,6 +50,7 @@ A tabela 2 mostra a avaliação das personas com base na lista de veriicação.
 **Tabela 2:** Avaliação para Personas.
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+|-----|------|------|---------|
 | 1 | As personas foram baseadas em dados de pesquisa real com usuários? |----------|---------------| 
 | 2 | As personas incluem metas e tarefas específicas que refletem as necessidades dos usuários? |----------|---------------| 
 | 3 | As personas evitaram que o design se concentrasse em casos extremos (edge cases) e mantiveram o foco nas necessidades dos usuários típicos?  |----------|---------------| 
