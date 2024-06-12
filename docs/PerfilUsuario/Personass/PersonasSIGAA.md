@@ -68,4 +68,4 @@ Figura 5: Persona Ana
 ## Histórico de versão
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do formato do documento     | Larissa Stéfane | -            | 10/06/2024 |
+| 1.0    | Criação do formato do documento     | Larissa Stéfane | Pedro Izarias      | 10/06/2024 |
