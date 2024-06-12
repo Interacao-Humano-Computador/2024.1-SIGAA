@@ -12,6 +12,7 @@
 
 ## Introdução
 
+Este documento tem como objetivo mostrar a verificação e a inspeção realizada pelo grupo 2 em relação ao artefato do questionário desenvolvido pelo grupo 3.  Desse modo, foi realizado um estudo detalhado das diretrizes e indicações pertinentes, a fim de elaborar uma lista de a verificação . Com isso, será conduzida uma inspeção do artefato de questionários, utilizando a lista de verificação elaborada.
 
 ## Metodologia
 
