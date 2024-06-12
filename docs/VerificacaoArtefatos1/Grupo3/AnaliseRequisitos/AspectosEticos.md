@@ -77,7 +77,7 @@ Tabela 3: Inspeção dos aspectos éticos
 
 </center>
 
-## Conclusão
+## Conclusão e Observações
 
 
 ## Referências Bibliográficas
