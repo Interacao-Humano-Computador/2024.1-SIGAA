@@ -24,12 +24,11 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato GOMS, a
 
 | ID  | Pergunta   | Rastreabilidade | Captura de tela |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------|
-| 1  | Os objetivos do usuário foram claramente definidos e hierarquizados?| Hochstein, Lorin. "GOMS". CENFS, Outubro 2002. |[Captura de tela do trecho](https://prnt.sc/7x1WV1Pn05c5)|
-| 2  | As ações básicas ou operadores necessários para alcançar cada objetivo foram identificados e documentados? | Hochstein, Lorin. "GOMS". CENFS, Outubro 2002. Pág 65 |[Captura de tela do trecho](https://prnt.sc/hi8EPbjlKbaj)|
-| 3  | Existem métodos definidos que descrevem a sequência de operadores e subobjetivos para atingir cada objetivo principal?| Hochstein, Lorin. "GOMS". CENFS, Outubro 2002. Pág 65 |[Captura de tela do trecho](https://prnt.sc/hxLTULuL6voM)|
-| 4  | O tempo necessário para a execução de cada operador foi estimado e registrado? | Hochstein, Lorin. "GOMS". CENFS, Outubro 2002. Pág 67|[Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/PersonasCapturaTela/4.png)|
-| 5  | A hierarquia de objetivos é clara, mostrando a decomposição dos objetivos em subobjetivos? | Hochstein, Lorin. "GOMS". CENFS, Outubro 2002. Pág 68 | [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/PersonasCapturaTela/5.png) |
-| 6  | O GOMS foi utilizado para prever o desempenho dos usuários (tempo de execução e eficiência)?  | Hochstein, Lorin. "GOMS". CENFS, Outubro 2002. Pág 69 | [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/PersonasCapturaTela/6.png)  |
+| 1  | Os objetivos do usuário foram claramente definidos e hierarquizados?| Hochstein, Lorin. "GOMS". CENFS, Outubro 2002. Tópico "Goals" |[Captura de tela do trecho](https://prnt.sc/7x1WV1Pn05c5)|
+| 2  | As ações básicas ou operadores necessários para alcançar cada objetivo foram identificados e documentados? | Hochstein, Lorin. "GOMS". CENFS, Outubro 2002.  Tópico "Operators"|[Captura de tela do trecho](https://prnt.sc/hi8EPbjlKbaj)|
+| 3  | Existem métodos definidos que descrevem a sequência de operadores e subobjetivos para atingir cada objetivo principal?| Hochstein, Lorin. "GOMS". CENFS, Outubro 2002. Tópico "Methods" |[Captura de tela do trecho](https://prnt.sc/hxLTULuL6voM)|
+| 4  | O tempo necessário para a execução de cada operador foi estimado e registrado? | Hochstein, Lorin. "GOMS". CENFS, Outubro 2002. Tópico "Execution time"|[Captura de tela do trecho](https://prnt.sc/JtngNEg-lgPY)|
+| 5  | A hierarquia de objetivos é clara, mostrando a decomposição dos objetivos em subobjetivos? | Hochstein, Lorin. "GOMS". CENFS, Outubro 2002. Tópico "Goals" | [Captura de tela do trecho](https://prnt.sc/QpOSEGRzNDpT) |
 
 **Autor:** [Iago Passaglia](https://github.com/Paxxaglia)
 
@@ -38,7 +37,10 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato GOMS, a
 ## Avaliação
 
 
+
 ## Conclusão e Observações
+
+
 
 ## Bibliografia
 1. Hochstein, Lorin. GOMS. Outubro, 2002. Disponível em: <https://cefns.nau.edu/~edo/Classes/CS477_WWW/Docs/TechArticles/GOMS%20and%20Keystroke-Level%20Model.pdf>
