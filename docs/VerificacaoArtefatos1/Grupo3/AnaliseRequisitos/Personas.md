@@ -25,10 +25,10 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 | ID  | Pergunta     | Explicação    | Rastreabilidade | Captura de tela |
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------|
 | 1  | As personas foram baseadas em dados de pesquisa real com usuários? |   | COOPER, Alan; REIMANN, Robert; CRONIN, David; NOESSEL, Christopher. *About face: the essentials of interaction design*. Wiley, 2014. Pág 67|[Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/PersonasCapturaTela/1.png)|
-| 2  |  |   | ||
-| 3  |  |   | ||
-| 4  |  |   | ||
-| 5  |  |   | ||
+| 2  | As personas incluem metas e tarefas específicas que refletem as necessidades dos usuários? |   | COOPER, Alan; REIMANN, Robert; CRONIN, David; NOESSEL, Christopher. *About face: the essentials of interaction design*. Wiley, 2014. Pág 65 |[Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/PersonasCapturaTela/2.png)|
+| 3  | As personas evitaram que o design se concentrasse em casos extremos (edge cases) e mantiveram o foco nas necessidades dos usuários típicos? |   | COOPER, Alan; REIMANN, Robert; CRONIN, David; NOESSEL, Christopher. *About face: the essentials of interaction design*. Wiley, 2014. Pág 65 |[Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/PersonasCapturaTela/3.png)|
+| 4  | As personas são específicas ao contexto, focando em comportamentos e objetivos relacionados ao domínio específico de um produto? |   | COOPER, Alan; REIMANN, Robert; CRONIN, David; NOESSEL, Christopher. *About face: the essentials of interaction design*. Wiley, 2014. Pág 67|[Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/PersonasCapturaTela/4.png)|
+| 5  | Estereótipos foram evitados durante o desenvolvimento das personas para garantir que as personas sejam bem desenvolvidas e baseadas em dados factuais? |   | COOPER, Alan; REIMANN, Robert; CRONIN, David; NOESSEL, Christopher. *About face: the essentials of interaction design*. Wiley, 2014. Pág 68 | [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/PersonasCapturaTela/5.png) |
 | 6  |  |   | ||
 | 7  |  |   | ||
 | 8  |  |   | ||
