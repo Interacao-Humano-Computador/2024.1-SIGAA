@@ -49,4 +49,4 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato GOMS, a
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento e adição | Iago Passaglia | - | 12/06/2024 |
+| 1.0 | Criação do documento e adição | Iago Passaglia | Bruno Araújo | 12/06/2024 |
