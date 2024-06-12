@@ -1,4 +1,4 @@
-# Verificação para as Personas.
+# Verificação para o GOMS.
 
 ## Sumário
 * [Introdução](#Introdução)
