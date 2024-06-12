@@ -12,7 +12,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo a “verificação e inspeção”², pelo grupo 2,  dos **aspectos éticos relacionados à interação com pessoas** aplicados no projeto dos correios pelo grupo 3. Com isso, através de uma análise do conteúdo, será realizada uma lista de verificação para assegurar que todas as práticas adotadas estejam em conformidade com as normas e recomendações estabelecidas. 
+Este documento tem como objetivo a verificação e a inspeção, pelo grupo 2,  dos **aspectos éticos relacionados à interação com pessoas** aplicados no projeto dos correios pelo grupo 3. Com isso, através de uma análise do conteúdo, será realizada uma lista de verificação para assegurar que todas as práticas adotadas estejam em conformidade com as normas e recomendações estabelecidas. 
 
 ## Metodologia
 
@@ -78,11 +78,14 @@ Tabela 3: Inspeção dos aspectos éticos
 
 ## Conclusão e Observações
 
+## Bibliografia
+
+1. Univesp, Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. Disponível em <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s> . Acesso em 12 de junho de 2024.
+
 
 ## Referências Bibliográficas
 
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., Barbosa, G. D. J. (2021). **Interação Humano-Computador e Experiência do Usuário**. 03 de maio de 2021. Acesso em 11 de junho de 2024.
-2. Univesp, Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. Disponível em <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s> . Acesso em 12 de junho de 2024.
 
 ## Histórico de versão
 
