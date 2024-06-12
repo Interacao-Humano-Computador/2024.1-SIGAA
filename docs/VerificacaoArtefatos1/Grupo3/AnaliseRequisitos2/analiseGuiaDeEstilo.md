@@ -1,4 +1,4 @@
-# Verificação para as Personas.
+# Verificação para o Guia de Estilo.
 
 ## Sumário
 * [Introdução](#Introdução)
@@ -10,17 +10,17 @@
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
-O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de GOMS criado pelo grupo 03 do aplicativo dos correios da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura dos GOMS, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de guia de Estilo criado pelo grupo 03 do aplicativo dos correios da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura dos guia de Estilo, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 ## Metodologia 
-Será criada uma lista de verificação com várias perguntas acerca do artefato e conteúdo de GOMS. As perguntas foram inferidas o livro "Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário". 
+Será criada uma lista de verificação com várias perguntas acerca do artefato e conteúdo de guia de Estilo. As perguntas foram inferidas o livro "Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário". 
 
 ## Lista de Verificação
-A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato GOMS, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
+A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato guia de Estilo, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
 <center>
 
-**Tabela 1:** Lista de verificação para GOMS.
+**Tabela 1:** Lista de verificação para guia de Estilo.
 
 | ID  | Pergunta   | Rastreabilidade | Captura de tela |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------|
@@ -41,7 +41,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato GOMS, a
 
 ## Avaliação
 
-**Tabela 2:** Resposta da lista de verificação para GOMS.
+**Tabela 2:** Resposta da lista de verificação para guia de Estilo.
 
 | ID  | Pergunta   | Resposta | Observação |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------|
