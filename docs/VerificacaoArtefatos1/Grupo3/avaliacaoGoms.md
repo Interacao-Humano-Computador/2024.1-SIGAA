@@ -37,6 +37,24 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato GOMS, a
 ## Avaliação
 
 
+<details>
+  <summary size="20"><b> Realizar compras online </b></summary> 
+<center>
+   
+Tabela 2: Realizar compras online
+
+| id | pergunta                                                                                                       | resposta       | observação                                                                                                    |
+|----|----------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
+| 1  | Os objetivos do usuário foram claramente definidos e hierarquizados?                                           | Sim            |                                                                                                              |
+| 2  | As ações básicas ou operadores necessários para alcançar cada objetivo foram identificados e documentados?     | Sim            |                                                                                                              |
+| 3  | Existem métodos definidos que descrevem a sequência de operadores e subobjetivos para atingir cada objetivo principal? | Sim            |                                                                                                              |
+| 4  | O tempo necessário para a execução de cada operador foi estimado e registrado?                                 | Sim            |                                                                                                              |
+| 5  | A hierarquia de objetivos é clara, mostrando a decomposição dos objetivos em subobjetivos?                     | Sim            |                                                                                                              |
+
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</center>
+</details>
 
 ## Conclusão e Observações
 
@@ -50,3 +68,4 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato GOMS, a
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento e adição da lista de verificação | Iago Passaglia | Bruno Araújo | 12/06/2024 |
+| 1.1 | Inclusão de avaliação Realizar compras online | Bruno Araújo | -- | 12/06/2024 |
