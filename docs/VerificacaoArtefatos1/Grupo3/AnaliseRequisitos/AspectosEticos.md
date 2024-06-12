@@ -19,4 +19,16 @@
 
 ## Lista de Verificação
 
+<center>
 
+Tabela 1: Lista de Verificação dos Aspectos Éticos
+
+| ID |  Pergunta | Explicação | Rastreabilidade | Captura de Tela |
+| -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
