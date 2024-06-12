@@ -102,16 +102,16 @@ A tabela 4 mostra a avaliação da Análise HTA com base na lista de verificaç�
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
 |-----|------|------|---------|
-| 1 | Os objetivos da análise foram claramente definidos? | Sim | Definidos no tópico 7.5.5.1 do livro de Barbosa e Silva . |
-| 2 | Houve consenso entre as partes interessadas na definição dos objetivos? | Sim | Consenso alcançado conforme descrito no tópico 6.3.6 . |
-| 3 | As fontes de informação das tarefas foram corretamente identificadas? | Sim | Identificadas conforme indicado no capítulo 7.1 . |
-| 4 | Os métodos de aquisição de dados foram selecionados de forma adequada? | Sim | Selecionados de forma adequada no capítulo 7.5 . |
-| 5 | Os dados foram coletados de maneira completa e precisa? | Incompleto | Necessário revisão conforme tópico 7.5.5.2 . |
-| 6 | A decomposição das tarefas foi realizada de forma exaustiva e sem sobreposições? | Sim | Decomposição exaustiva no capítulo 8.4 . |
-| 7 | As operações necessárias para alcançar cada subobjetivo foram claramente identificadas, juntamente com as condições que indicam seu atingimento? | Sim | Operações identificadas conforme descrito no capítulo 8.4 . |
-| 8 | Foram identificadas operações significativas utilizando o critério p x c? | Sim | Critério p x c utilizado conforme descrito no capítulo 8.4 . |
-| 9 | Foram geradas e testadas hipóteses relacionadas aos fatores que afetam o desempenho? | Sim | Hipóteses geradas e testadas conforme indicado no tópico 9.3 . |
-| 10 | A análise levou em consideração os diferentes níveis de desempenho propostos por Reason (1990)? | Sim | Níveis de desempenho considerados conforme indicado no tópico 8.2 . |
+| 1 | Os objetivos da análise foram claramente definidos? | Sim | - |
+| 2 | Houve consenso entre as partes interessadas na definição dos objetivos? | Sim | - |
+| 3 | As fontes de informação das tarefas foram corretamente identificadas? | Sim | - |
+| 4 | Os métodos de aquisição de dados foram selecionados de forma adequada? | Sim | - |
+| 5 | Os dados foram coletados de maneira completa e precisa? | Incompleto | A coleta de dados não foi exaustiva, faltando alguns detalhes importantes. |
+| 6 | A decomposição das tarefas foi realizada de forma exaustiva e sem sobreposições? | Sim | - |
+| 7 | As operações necessárias para alcançar cada subobjetivo foram claramente identificadas, juntamente com as condições que indicam seu atingimento? | Sim | - |
+| 8 | Foram identificadas operações significativas utilizando o critério p x c? | Sim | O critério p x c foi utilizado para identificar operações significativas. |
+| 9 | Foram geradas e testadas hipóteses relacionadas aos fatores que afetam o desempenho? | Sim | - |
+| 10 | A análise levou em consideração os diferentes níveis de desempenho propostos por Reason (1990)? | Sim | -  |
 
 **Fonte:** [Bruno Araújo](https://github.com/brunocva)
 
