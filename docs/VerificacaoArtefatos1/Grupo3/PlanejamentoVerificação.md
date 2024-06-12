@@ -4,6 +4,7 @@
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
 * [Planejamento](#planejamento)
+* [Templates](#Templates)
 * [Bibliografia](#bibliografia)
 * [Histórico de versão](#histórico-de-versão)
 
@@ -56,6 +57,41 @@ Tabela 1: divisão de verificação dos artefatos
 <b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 </center>
+
+## Templates
+
+### Template para Tabela de Verificação:
+
+<center>
+
+| ID |  Pergunta | Explicação | Rastreabilidade | Captura de Tela |
+| -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+| -- | ----------| ---------- | --------------- | --------------- |
+
+
+### Template para a inspeção
+
+#### Identificação do artefato avaliado.
+
+<center>
+ 
+| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+
+
+#### Templete para a inspeção
+
+<center>
+ 
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+
 
 ## Bibliografia
 
