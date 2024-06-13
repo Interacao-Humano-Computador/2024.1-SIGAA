@@ -110,7 +110,7 @@ Tabela 4: Avaliação para Storyboard.
 | -- | -- | -- | -- |
 | 1  | Apresenta uma sequência lógica de cenas?                 | Sim | - |
 | 2  | Inclui descrições detalhadas de cada cena?               | Sim | - |
-| 3  | Indica movimentos de câmera (zoom, panorâmica, etc.)?    | Não | Movimentos de câmera não foram indicados. |
+| 3  | Indica movimentos de câmera (zoom, panorâmica, etc.)?    | Não se aplica | Movimentos de câmera não foram indicados. |
 | 4  | Apresenta os personagens principais em cada cena?        | Sim | - |
 | 5  | Mostra mudanças de cenário ou ambiente?                  | Sim | - |
 | 6  | Inclui notas sobre áudio ou diálogo?                     | Sim | - |
