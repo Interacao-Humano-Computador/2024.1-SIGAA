@@ -51,7 +51,7 @@ A tabela 2 mostra a avaliação do Planejamento da Avaliação da Análise de ta
 | 5 | Foram tomados cuidados éticos necessários durante o planejamento da avaliação? |||
 | 6 | A avaliação, interpretação e apresentação dos dados foram planejadas considerando aspectos como confiabilidade, validade interna e validade externa? |||
 
-**Autora:** [Iago Passaglia](https://github.com/Paxxaglia)
+**Autor:** [Iago Passaglia](https://github.com/Paxxaglia)
 
 ## Conclusão e Observações
 

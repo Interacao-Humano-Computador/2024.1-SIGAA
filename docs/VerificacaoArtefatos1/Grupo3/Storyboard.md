@@ -1,4 +1,4 @@
-# Verificação e Inspeção dos Aspectos Éticos
+# Verificação e Inspeção dos StoryBoards
 
 ## Sumário
 * [Introdução](#Introdução)
@@ -74,6 +74,33 @@ Tabela 3: Inspeção dos Storyboards
 
 </center>
 
+
+<details>
+  <summary size="20"><b> Loja Online </b></summary> 
+<center>
+A tabela 4 mostra a avaliação da Análise HTA com base na lista de verificação
+
+Tabela 4: Avaliação para Storyboard.
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+| -- | -- | -- | -- |
+| 1  | Apresenta uma sequência lógica de cenas?                 | Sim | - |
+| 2  | Inclui descrições detalhadas de cada cena?               | Sim | - |
+| 3  | Indica movimentos de câmera (zoom, panorâmica, etc.)?    | Não se aplica | Movimentos de câmera não foram indicados. |
+| 4  | Apresenta os personagens principais em cada cena?        | Sim | - |
+| 5  | Mostra mudanças de cenário ou ambiente?                  | Sim | - |
+| 6  | Inclui notas sobre áudio ou diálogo?                     | Sim | - |
+| 7  | Apresenta variações de enquadramento?                    | Sim | - |
+| 8  | Existe uma descrição das ações do usuário e as respostas do sistema em cada etapa? | Incompleto | A descrição das ações do usuário está presente, mas as respostas do sistema precisam ser mais detalhadas. |
+| 9  | O storyboard permite a identificação de potenciais problemas de usabilidade ou pontos de confusão para o usuário? | Sim | - |
+
+**Autor:** [Bruno Araújo](https://github.com/brunocva)
+
+</center>
+</details>
+
+
+
 ## Conclusão e Observações
 
 
@@ -90,3 +117,4 @@ Tabela 3: Inspeção dos Storyboards
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento e elaboração da lista de verificação              | Luana Medeiros | - | 12/06/2024 |
+| 1.1    | Adição avaliação storyboard Loja Online            | Bruno Araújo | - | 12/06/2024 |

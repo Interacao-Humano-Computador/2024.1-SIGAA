@@ -54,7 +54,53 @@ A tabela 2 mostra a avaliação das Metas de Usabilidade com base na lista de ve
 | 7 |Foi realizada uma avaliação empírica da usabilidade do sistema durante o desenvolvimento?|||
 | 8 |As decisões de design foram documentadas de forma clara e justificadas?|||
 
-**Autor:** [Pedro Izarias](https://github.com/Izarias)
+**Autor:** [Pedro Izarias](https://github.com/Izarias
+
+<details>
+  <summary size="20"><b> Utilidade </b></summary> 
+<center>
+
+A tabela 3 mostra a avaliação das Metas de Utilidade com base na lista de verificação.
+
+**Tabela 3:** Avaliação para Metas de Utilidade
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+|-----|------|------|---------|
+| 1 | As metas de usabilidade foram claramente definidas para o projeto em questão? | Sim | -- |
+| 2 | Os indicadores de desempenho escolhidos são relevantes e mensuráveis? | Sim | -- |
+| 3 | Foram estabelecidas faixas de valores para os indicadores de usabilidade? | Não| Faixas de valores não foram estabelecidas, o que pode dificultar a avaliação precisa. |
+| 4 | O trabalho considerou o retorno de investimento (ROI) relacionado à usabilidade do sistema? | Não se aplica | --- |
+| 5 | O método de design utilizado (como design paralelo ou design participativo) foi adequado às necessidades do projeto? | Sim | O método de design escolhido atende às necessidades do projeto |
+| 6 | Os protótipos desenvolvidos foram eficazes para testar e validar as soluções de design propostas? | Sim | Os protótipos foram eficazes na validação das soluções propostas |
+| 7 | Foi realizada uma avaliação empírica da usabilidade do sistema durante o desenvolvimento? | Sim | - |
+| 8 | As decisões de design foram documentadas de forma clara e justificadas? | Sim | Todas as decisões de design foram bem documentadas e justificadas. |
+
+**Fonte:** [Bruno Araújo](https://github.com/brunocva)ç] 
+
+</center>
+</details>
+
+<details>
+  <summary size="20"><b> Eficiência - Luana Medeiros </b></summary> 
+<center>
+
+A tabela 4 mostra a avaliação das Metas de Eficiência com base na lista de verificação.
+
+*Tabela 4:* Avaliação para Metas de Eficiência
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+|-----|------|------|---------|
+| 1 |As metas de usabilidade foram claramente definidas para o projeto em questão?| Sim | |
+| 2 |Os indicadores de desempenho escolhidos são relevantes e mensuráveis?| Sim | |
+| 3 |Foram estabelecidas faixas de valores para os indicadores de usabilidade?| Não | É importante definir faixas de valores para os indicadores de usabilidade para estabelecer parâmetros claros de sucesso e facilitar a avaliação do desempenho do sistema. |
+| 4 |O trabalho considerou o retorno de investimento (ROI) relacionado à usabilidade do sistema?| Não | Considerar o ROI da usabilidade é essencial para justificar investimentos em design e melhorias, mostrando o impacto financeiro positivo de uma boa usabilidade. |
+| 5 |O método de design utilizado (como design paralelo ou design participativo) foi adequado às necessidades do projeto?|Sim | |
+| 6 |Os protótipos desenvolvidos foram eficazes para testar e validar as soluções de design propostas?| Sim | |
+| 7 |Foi realizada uma avaliação empírica da usabilidade do sistema durante o desenvolvimento?| Não | Realizar avaliações empíricas é crucial para identificar problemas de usabilidade e ajustar o design antes do lançamento, garantindo que o sistema atende às necessidades dos usuários. |
+| 8 |As decisões de design foram documentadas de forma clara e justificadas?| Sim | |
+
+*Fonte:* [Luana Medeiros](https://github.com/LuaMedeiros)ç] 
+
+</center>
+</details>
 
 ## Conclusão e Observações
 
@@ -67,3 +113,5 @@ A tabela 2 mostra a avaliação das Metas de Usabilidade com base na lista de ve
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo | 12/06/2024 |
+| 1.1 | Adição utilidade | Bruno Araújo | - | 12/06/2024 |
+| 1.2 | Adição inspeção Eficiência | Luana Medeiros | - | 12/06/2024 |
