@@ -181,7 +181,7 @@
     * [Planejamento Entrevistas do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoEntrevistaPrototipoPapel.md)
       
 * Verificação
-  *Grupo 3
+  * Grupo 3
     * [Planejamento da Verificação](VerificacaoArtefatos1/Grupo3/PlanejamentoVerificação.md)
     * Análise de Requisitos
        - [Aspectos Éticos](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/AspectosEticos.md)
