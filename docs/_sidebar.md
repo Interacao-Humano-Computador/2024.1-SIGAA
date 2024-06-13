@@ -182,11 +182,12 @@
       
 * Verificação
   *Grupo 3
+    * [Planejamento da Verificação](VerificacaoArtefatos1/Grupo3/PlanejamentoVerificação.md)
     * Análise de Requisitos
        - [Aspectos Éticos](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/AspectosEticos.md)
        - [Cánarios](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/Cenario.md)
        - [Grupo de Foco](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/GrupoFoco.md)
-       - [HTA](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/HTA.md)
+       - [Análise HTA](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/HTA.md)
        - [Perfil de Usuário](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/PerfilUsuário.md)
        - [Personas](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/Personas.md)
        - [Questionário](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/Questionario.mdd)
