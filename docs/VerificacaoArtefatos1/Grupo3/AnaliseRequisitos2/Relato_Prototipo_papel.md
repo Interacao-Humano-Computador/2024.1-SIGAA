@@ -8,30 +8,13 @@ Prototipagem de papel é uma técnica que permite criar e testar interfaces de u
 
 ## Metodologia
 
-<div align="justify">
 
-A metodologia adotada para a verificação do artefato de planejamento do relato dos resultados da inspeção do protótipo de papel segue as diretrizes gerais de inspeção e análise de artefatos. Esta metodologia compreende as seguintes etapas:
-
-1. **Preparação**:
-    - Definir tarefas específicas que os participantes deverão executar.
-    - Determinar o perfil dos participantes e recrutá-los de acordo com os critérios estabelecidos.
-    - Criar protótipos em papel da interface que permitam a execução das tarefas definidas.
-    - Executar um teste-piloto para identificar possíveis ajustes necessários antes da realização dos testes principais.
-
-2. **Consolidação dos Resultados**:
-    - Priorizar a correção dos problemas não resolvidos durante os testes iniciais.
-    - Sugerir correções e melhorias com base nas observações feitas.
-
-3. **Relato dos Resultados**:
-    - Relatar os problemas encontrados e as sugestões de correção. Este relato deve ser detalhado e incluir uma análise completa dos dados obtidos, assim como as implicações para o design do sistema.
-
+A metodologia adotada para a verificação do artefato de planejamento do relato dos resultados da inspeção do protótipo de papel segue as diretrizes gerais de inspeção e análise de artefatos, norteado pelo framework DECIDE. Esta metodologia compreende as seguintes etapas: preparação, coleta de dados,
+interpretação, consolidação e relato dos resultados.
 
 ## Planejamento do Relato dos Resultados
 
-
 O planejamento do relato dos resultados envolve a elaboração de um documento estruturado que descreve todas as etapas do processo de prototipagem, desde a preparação até o relato dos resultados. Este documento deve ser claro, objetivo e conter informações suficientes para que outros membros da equipe possam entender e replicar o processo, se necessário.
-
-</div>
 
 ## Tabela de Atividades
 
