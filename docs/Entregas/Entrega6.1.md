@@ -8,7 +8,7 @@ Neste documento está contido o vídeo de apresentação da primeira parte da se
 **Apresentação 06.1**
 
 
-É possível acessar o vídeo por meio deste [link]()
+É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=WdTnRNad9YQ)
 
 
 
@@ -16,4 +16,4 @@ Neste documento está contido o vídeo de apresentação da primeira parte da se
 
 | Versão | Alteração                  | Responsável      | Revisor         | Data       |
 | ------ | -------------------------- | ---------------- | --------------- | ---------- |
-| 1.0    | Criação do documento       | Luana Medeiros  | - | 12/06/2024 |
+| 1.0    | Criação do documento       | Luana Medeiros  | Iago Passaglia | 12/06/2024 |
