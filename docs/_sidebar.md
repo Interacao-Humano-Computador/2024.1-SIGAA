@@ -193,13 +193,13 @@
      * Análise de Requisitos II
        - [Metas de Usabilidade](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos2/MetasUsabilidade.md)
        - [Guia de Estilo](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos2/analiseGuiaDeEstilo.md)
+     * Análise de Tarefas
+       - [CMN-GOMS](VerificacaoArtefatos1/Grupo3/AnaliseTarefas/avaliacaoGoms.md)
      * Design Avaliacao Desenvolvimento
         * Nível 1
-           - [Planejamento da Avaliação da Análise de Tarefas ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoHTA.md)
+           - [Storyboard ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md)
+           - [Planejamento da Avaliação da Análise de Tarefas ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoDeAvaliaçãoDaAnáliseDeTarefas.md)
            - [Planejamento da Avaliação Storyboard ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md)
            - [Relato dos Resultados da Avaliação da Análise de Tarefas ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)
            - [Relato dos Resultados do Storyboard ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md)
-        * Nível 2
-           - [Planejamento da Avaliação do Protótipo de Papel ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel2/PlanejamentoAvaliacaoHTA.md)
-           - [Planejamento do Relato dos Resultados do Protótipo de Papel ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel2/PlanejamentoAvaliacaoStoryboard.md)
 
