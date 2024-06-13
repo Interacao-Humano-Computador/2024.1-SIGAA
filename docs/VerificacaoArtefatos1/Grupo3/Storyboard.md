@@ -1,4 +1,4 @@
-# Verificação e Inspeção dos Aspectos Éticos
+# Verificação e Inspeção dos StoryBoards
 
 ## Sumário
 * [Introdução](#Introdução)
@@ -141,6 +141,4 @@ Tabela 4: Avaliação para Storyboard.
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento e elaboração da lista de verificação              | Luana Medeiros | - | 12/06/2024 |
-| 1.0    | Adição avaliação storyboard Loja Online            | Bruno Araújo | - | 12/06/2024 |
-
-| 1.0    | Criação do documento e elaboração da lista de verificação              | Luana Medeiros | - | 12/06/2024 |
+| 1.1    | Adição avaliação storyboard Loja Online            | Bruno Araújo | - | 12/06/2024 |
