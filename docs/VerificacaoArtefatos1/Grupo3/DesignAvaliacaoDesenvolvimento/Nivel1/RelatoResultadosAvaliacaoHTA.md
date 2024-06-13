@@ -114,7 +114,7 @@ Tabela 3: Inspeção dos relatos dos resultados.
 
 
 <details>
-  <summary size="20"><b> Calcular Preços e Prazos de Entregas: Larissa Stéfane </b></summary> 
+  <summary size="20"><b> Recebimento de encomendas: Iago Passaglia </b></summary> 
 <br>
 
 A tabela 2 mostra a identificação do histórico de versão do documento inspecionado.
@@ -127,7 +127,7 @@ Tabela 2: Identificação do artefato avaliado.
 | ------- | ---- | ------ | ----------------------- | --------- | ------- |
 | ------- | ---- | ------ | ----------------------- | --------- | ------- |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
@@ -143,49 +143,15 @@ Tabela 3: Inspeção dos relatos dos resultados.
 | -- | ----------| ---------- | --------------- | 
 | -- | ----------| ---------- | --------------- | 
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
-
-</center>
-
-</details>
-<details>
-  <summary size="20"><b> Calcular Preços e Prazos de Entregas: Larissa Stéfane </b></summary> 
-<br>
-
-A tabela 2 mostra a identificação do histórico de versão do documento inspecionado.
-
-<center>
-
-Tabela 2: Identificação do artefato avaliado.
- 
-| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
-
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
-
-</center>
-
-A tabela 3 mostra a inspeção realizada em relação aos relatos dos resultados.
-
-<center>
-
-Tabela 3: Inspeção dos relatos dos resultados.
-
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-| -- | ----------| ---------- | --------------- | 
-
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
 
 </details>
 
+
 <details>
-  <summary size="20"><b> Calcular Preços e Prazos de Entregas: Larissa Stéfane </b></summary> 
+  <summary size="20"><b> Realizar pré-postagem: Pedro Izarias </b></summary> 
 <br>
 
 A tabela 2 mostra a identificação do histórico de versão do documento inspecionado.
@@ -198,7 +164,7 @@ Tabela 2: Identificação do artefato avaliado.
 | ------- | ---- | ------ | ----------------------- | --------- | ------- |
 | ------- | ---- | ------ | ----------------------- | --------- | ------- |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -214,14 +180,15 @@ Tabela 3: Inspeção dos relatos dos resultados.
 | -- | ----------| ---------- | --------------- | 
 | -- | ----------| ---------- | --------------- | 
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
 </details>
 
+
 <details>
-  <summary size="20"><b> Calcular Preços e Prazos de Entregas: Larissa Stéfane </b></summary> 
+  <summary size="20"><b> Gerenciar minhas importações: Breno Alexandre </b></summary> 
 <br>
 
 A tabela 2 mostra a identificação do histórico de versão do documento inspecionado.
@@ -234,7 +201,7 @@ Tabela 2: Identificação do artefato avaliado.
 | ------- | ---- | ------ | ----------------------- | --------- | ------- |
 | ------- | ---- | ------ | ----------------------- | --------- | ------- |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 </center>
 
@@ -250,7 +217,44 @@ Tabela 3: Inspeção dos relatos dos resultados.
 | -- | ----------| ---------- | --------------- | 
 | -- | ----------| ---------- | --------------- | 
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
+<details>
+  <summary size="20"><b> Rastrear encomendas: Luana Medeiros </b></summary> 
+<br>
+
+A tabela 2 mostra a identificação do histórico de versão do documento inspecionado.
+
+<center>
+
+Tabela 2: Identificação do artefato avaliado.
+ 
+| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+| ------- | ---- | ------ | ----------------------- | --------- | ------- |
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+
+</center>
+
+A tabela 3 mostra a inspeção realizada em relação aos relatos dos resultados.
+
+<center>
+
+Tabela 3: Inspeção dos relatos dos resultados.
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+| -- | ----------| ---------- | --------------- | 
+
+<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 </center>
 
