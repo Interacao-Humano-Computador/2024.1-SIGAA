@@ -267,7 +267,7 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 ### Gravação do Teste piloto
 
 <details>
-  <summary size="20"><b> Teste piloto - Protótipo de papel - Realizar Matrícula </b></summary> 
+  <summary size="20"><b> Teste piloto - Protótipo de papel - Realizar Matrícula - Pedro Izarias </b></summary> 
 <center> 
 
 **Vídeo 1:** Teste Piloto - Protótipo de papel - Realizar matrícula.
@@ -275,6 +275,22 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 <iframe width="700" height="600" src="https://youtu.be/KXX9uDxur9A" title="Teste Piloto - Protótipo de papel - Realizar matrícula." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Autora:** [Pedro Izarias](https://github.com/Izarias)
+
+</center>
+
+</details>
+
+<details>
+  <summary size="20"><b> Teste piloto - Protótipo de Papel - Aluguel de Sala - Larissa Stéfane </b></summary> 
+<center> 
+
+**Vídeo 2:** Teste Piloto - Protótipo de papel - ALuguel de Sala
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/1glGGT6AzM8" title="IHC -  Teste Piloto do Protótipo de Papel do Aluguel de Sala" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=1glGGT6AzM8)
 
 </center>
 
