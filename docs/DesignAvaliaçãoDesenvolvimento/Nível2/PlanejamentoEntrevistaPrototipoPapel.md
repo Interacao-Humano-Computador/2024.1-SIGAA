@@ -274,7 +274,7 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 
 <iframe width="700" height="600" src="https://youtu.be/KXX9uDxur9A" title="Teste Piloto - Protótipo de papel - Realizar matrícula." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Autora:** [Pedro Izarias](https://github.com/Izarias)
+<b> Autor: </b> <a href="https://github.com/Izarias"> Pedro Izarias</a>.
 
 </center>
 
@@ -316,5 +316,5 @@ Durante o processo de planejamento das entrevistas para avaliação dos protóti
 | - | - | - | - | - |
 | 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | Pedro Izarias | 02/06/2024 |
 | 1.1 | Adição de informações sobre as matrículas nas tabelas| Pedro Izarias | Larissa Stéfane | 02/06/2024 |
-
+| 1.2 | Adição do teste piloto de aluguel de sala| Larissa Stéfane | - | 13/06/2024 |
 
