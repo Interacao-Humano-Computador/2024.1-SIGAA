@@ -220,8 +220,8 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 
 | Funcionalidade | Entrevistado | Entrevistador | Data que entrou em contato | Data da entrevista | Horário da entrevista| Local da entrevista |
 | - | - | - | - | - | - | - |
-| Aba de Monitoria | Leonardo Machado | Larissa Stéfane | 27/05/2024 | 04/06/2024 | 12:30 | Sala S9 |
-| Aluguel de Sala | Caio Braga | Larissa Stéfane | 27/05/2024 | 04/06/2024 | 13:00 | S9 |
+| Aba de Monitoria | Amanda Campos | Larissa Stéfane | 27/05/2024 | 04/06/2024 | 13:30 | Sala S9 |
+| Aluguel de Sala | Carlos Gabriel | Larissa Stéfane | 27/05/2024 | 04/06/2024 | 12:30 | S9 |
 | Pré-cadastro de Estágio | Ana Caroline Porto | Iago Passaglia | 02/06/2024 | 07/06/2024 | 19:00 | Caso do entrevistador |
 | Aba RU | João Antônio Ginuino Carvalho | Breno Alexandre Soares Garcia | 03/06/2024 | 05/06/2024 | 08:30 | Alguma Sala do UAC |
 | Matrículas | Debora Damasceno | Pedro Augusto | 28/05/2024 | 07/06/2024 | 16:00 | UnB - Darcy Ribeiro |
