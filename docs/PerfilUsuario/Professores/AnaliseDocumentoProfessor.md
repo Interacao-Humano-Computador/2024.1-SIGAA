@@ -71,13 +71,14 @@ Com base nas informações acima, a análise do perfil dos docentes das Institui
 
 ## Referências Bibliográficas
 
-Jornal da USP. Entre as 20 melhores universidades do Brasil, 18 são públicas. Disponível em https://jornal.usp.br/universidade/politicas-cientificas/15-universidades-publicas-produzem-60-da-ciencia-brasileira/. Acessado em 20/05/2024.
+1. Educa. Perfil socioeconômico, formativo e profissional de estudantes da Licenciatura em Educação do Campo da UFPI. 2022. Disponível em <http://educa.fcc.org.br/scielo.php?pid=S1517-97022023000100603&script=sci_arttext> Acessado em 17/05/2024.
 
-INEP. Censo da educação superior 2022. Disponível em https://download.inep.gov.br/educacao_superior/censo_superior/documentos/2022/apresentacao_censo_da_educacao_superior_2022.pdf. Acessado em 19/05/2024.
+2. Jornal da USP. Entre as 20 melhores universidades do Brasil, 18 são públicas. Disponível em <https://jornal.usp.br/universidade/politicas-cientificas/15-universidades-publicas-produzem-60-da-ciencia-brasileira/>. Acessado em 20/05/2024.
 
-INEP. Censo da educação superior 2022 Notas Estatísticas. https://download.inep.gov.br/publicacoes/institucionais/estatisticas_e_indicadores/notas_estatisticas_censo_escolar_2022.pdf. Acessado em 19/05/2024.
+3. INEP. Censo da educação superior 2022. Disponível em <https://download.inep.gov.br/educacao_superior/censo_superior/documentos/2022/apresentacao_censo_da_educacao_superior_2022.pdf>. Acessado em 19/05/2024.
 
-INEP. Resumo Técnico do Censo da Educação Superior 2022. Disponível em https://download.inep.gov.br/publicacoes/institucionais/estatisticas_e_indicadores/resumo_tecnico_censo_educacao_superior_2022.pdf. Acessado em 19/05/2024.
+4. INEP. Censo da educação superior 2022 Notas Estatísticas. <https://download.inep.gov.br/publicacoes/institucionais/estatisticas_e_indicadores/notas_estatisticas_censo_escolar_2022.pdf>. Acessado em 19/05/2024.
+
+5. INEP. Resumo Técnico do Censo da Educação Superior 2022. Disponível em <https://download.inep.gov.br/publicacoes/institucionais/estatisticas_e_indicadores/resumo_tecnico_censo_educacao_superior_2022.pdf>. Acessado em 19/05/2024.
 
 
-Educa. Perfil socioeconômico, formativo e profissional de estudantes da Licenciatura em Educação do Campo da UFPI. 2022. Disponível em http://educa.fcc.org.br/scielo.php?pid=S1517-97022023000100603&script=sci_arttext. Acessado em 17/05/2024.
