@@ -292,9 +292,31 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 
 Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=1glGGT6AzM8)
 
+#### Foto do protótipo de papel do Aluguel de sala
+
 </center>
 
 </details>
+
+
+<details>
+  <summary size="20"><b> Teste piloto - Protótipo de Papel - Aba de Monitoria - Larissa Stéfane </b></summary> 
+<center> 
+
+**Vídeo 3:** Teste Piloto - Protótipo de papel - Aba de Monitoria
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/QxSKSak-XPg" title="IHC - Teste Piloto - Protótipo de Papel - Aba de monitoria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=QxSKSak-XPg)
+
+#### Foto do protótipo de papel do Aluguel de sala
+
+
+
+
+</center>
 
 
 ## Conclusão
