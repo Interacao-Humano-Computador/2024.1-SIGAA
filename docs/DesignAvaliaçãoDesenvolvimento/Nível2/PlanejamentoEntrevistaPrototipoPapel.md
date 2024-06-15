@@ -294,6 +294,15 @@ Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=
 
 #### Foto do protótipo de papel do Aluguel de sala
 
+  <div align="center">
+    Imagem: Protótipo Papel de Aluguel de Sala
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AluguelSalaPrototipo/photo_5140949199477648831_y.jpg">
+    <br>
+    <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+    <br>
+</div>
+
 </center>
 
 </details>
@@ -313,8 +322,14 @@ Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=
 
 #### Foto do protótipo de papel do Aluguel de sala
 
-
-
+ <div align="center">
+    Imagem: Protótipo Papel de Aba de Monitoria
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AluguelSalaPrototipo/photo_5140949199477648826_y.jpg">
+    <br>
+    <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+    <br>
+</div>
 
 </center>
 
@@ -339,4 +354,4 @@ Durante o processo de planejamento das entrevistas para avaliação dos protóti
 | 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | Pedro Izarias | 02/06/2024 |
 | 1.1 | Adição de informações sobre as matrículas nas tabelas| Pedro Izarias | Larissa Stéfane | 02/06/2024 |
 | 1.2 | Adição do teste piloto de aluguel de sala| Larissa Stéfane | - | 13/06/2024 |
-
+| 1.2 | Adição do teste piloto de Aba de Monitoria| Larissa Stéfane | - | 14/06/2024 |
