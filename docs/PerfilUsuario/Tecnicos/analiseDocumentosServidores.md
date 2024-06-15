@@ -5,7 +5,7 @@
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
 * [Nível de Formação](#Nível-de-Formação)
-* [Faixa Etária](#Faixa-Etária]
+* [Faixa Etária](#Faixa-Etária)
 * [Gênero](#Gênero)
 * [Questão Socioeconômica](Questão-Socioeconômica)
 * [Conclusão](#Conclusão)
@@ -122,4 +122,7 @@ Com os dados mostrados acima, é possível observar que a maioria dos técnicos 
 
 ## Histórico de Versão
 
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 07/06/2024 |
 
