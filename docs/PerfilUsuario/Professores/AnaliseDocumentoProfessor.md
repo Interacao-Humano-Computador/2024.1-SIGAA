@@ -81,8 +81,11 @@ Com base nas informações acima, a análise do perfil dos docentes das Institui
 
 5. INEP. Resumo Técnico do Censo da Educação Superior 2022. Disponível em <https://download.inep.gov.br/publicacoes/institucionais/estatisticas_e_indicadores/resumo_tecnico_censo_educacao_superior_2022.pdf>. Acessado em 19/05/2024.
 
+6. LIMA, Raquel; RODRIGUES, Marcella. Greve: Professores da UnB rejeitam proposta apresentada pelo governo; entenda. Para maioria dos professores, proposta segue sendo 'insuficiente'. Paralisação começou em 15 de abril. g1 DF, Brasília, 23 maio 2024. Disponível em: <https://g1.globo.com/df/distrito-federal/noticia/2024/05/23/greve-professores-da-unb-rejeitam-proposta-apresentada-pelo-governo-entenda.ghtml> Acesso em: 15 jun. 2024.
+
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e realização do documento | Larissa Stéfane | - | 28/05/2024 |
-| 1.1 | COrreções | Larissa Stéfane | - | 15/06/2024 |
+| 1.1 | Correções | Larissa Stéfane | - | 15/06/2024 |
+| 1.2 | Adição de informações | Larissa Stéfane | - | 15/06/2024 |
