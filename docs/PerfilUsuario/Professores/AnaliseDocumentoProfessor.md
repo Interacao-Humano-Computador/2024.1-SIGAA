@@ -81,4 +81,7 @@ Com base nas informações acima, a análise do perfil dos docentes das Institui
 
 5. INEP. Resumo Técnico do Censo da Educação Superior 2022. Disponível em <https://download.inep.gov.br/publicacoes/institucionais/estatisticas_e_indicadores/resumo_tecnico_censo_educacao_superior_2022.pdf>. Acessado em 19/05/2024.
 
-
+## Histórico de Versão
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 28/05/2024 |
