@@ -57,6 +57,7 @@
                 - [Elaine Venson](PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson.md)
                 - [Mário Andrade](PerfilUsuario/Professores/Entrevistas/Gravacoes/MarioAndrade.md)
             - [Análise dos Resultados](PerfilUsuario/Professores/Entrevistas/ResultadoEntrevista.md)
+        - [Análise de Documentos: Docentes](PerfilUsuario/Professores/AnaliseDocumentoProfessor.md)
         - [Perfil Usuário: Professores](PerfilUsuario/Professores/PerfilProfessor.md)
     * Estudantes
         * Questionário
@@ -87,7 +88,7 @@
         - [Planejamento da Classificação de Cartões](IdentificacaoNecessidadesUsuario/PlanejaClassificaCartoes.md)
         - [Execução da Classificação de Cartões](IdentificacaoNecessidadesUsuario/DesenvolvimentoClassificaCartoes.md)
         - [Resultados da Classificação de Cartões](IdentificacaoNecessidadesUsuario/ResultadoClassificaCartoes.md)
-      _ [Análise Documenta: Estudantes](PerfilUsuario/Estudantes/AnaliseDocumentalEstudantes.md)
+      - [Análise Documental: Estudantes](PerfilUsuario/Estudantes/AnaliseDocumentalEstudantes.md)
       - [Perfil Usuário: Estudante](PerfilUsuario/Estudantes/perfilEstudante.md)
     * Técnicos
         * Entrevistas
