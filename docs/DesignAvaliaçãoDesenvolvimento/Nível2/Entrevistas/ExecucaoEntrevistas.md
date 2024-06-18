@@ -334,8 +334,9 @@ Termo de consentimento do participante Amanda Campos em [Termo Amanda Campos](De
 
  </details>
 
+## Conclusão
 
-
+O processo de avaliação dos protótipos de papel, por meio de entrevistas com os usuários, revelou-se uma etapa fundamental para o desenvolvimento do projeto, uma vez que as respostas e as observações dadas forneceram uma compreensão clara sobre a usabilidade e a eficácia das funcionalidades propostas, destacando tanto os pontos fortes quanto as áreas que necessitam de melhorias. 
 
 
 
