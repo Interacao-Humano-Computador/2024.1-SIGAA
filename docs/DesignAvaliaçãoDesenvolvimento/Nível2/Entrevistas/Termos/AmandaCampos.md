@@ -7,7 +7,11 @@ A imagem 1 mostra o termo de consentimento assinado:
  <div align="center">
     Imagem 1: Termo de consentimento assinado
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AluguelSalaPrototipo/termos/TermoAmanda1.jpeg">
+
+ <div align="center">
+    <br>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AluguelSalaPrototipo/termos/termoAmanda2.jpeg">
 
   **Autor:**  Amanda Campos
 
