@@ -335,7 +335,7 @@ Termo de consentimento do participante Amanda Campos em [Termo Amanda Campos](De
  </details>
 
 <details>
-  <summary size="20"><b> Aluguel de Sala - Larissa Stéfane</b></summary> 
+  <summary size="20"><b> Realização de matrícula - Pedro Augusto</b></summary> 
   
 ### Funcionalidade: Realização de matrícula
 Uma das funcionalidades criadas é o aluguel de sala que tem o objetivo de facilitar o processo de aluguel para os estudantes.
