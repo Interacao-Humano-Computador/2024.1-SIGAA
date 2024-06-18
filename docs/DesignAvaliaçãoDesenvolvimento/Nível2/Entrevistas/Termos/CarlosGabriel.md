@@ -7,11 +7,12 @@ A imagem 1 mostra o termo de consentimento assinado:
  <div align="center">
     Imagem 1: Termo de consentimento assinado
     <br>
-    <img src="g">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AluguelSalaPrototipo/termos/TermoCarlos.jpeg">
 
   **Autor:** Carlos Gabriel 
 
-  ## Histórico de Versão
+
+## Histórico de Versão
 
 | Versão | Alteração                         | Responsável     | Revisor         | Data       |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
