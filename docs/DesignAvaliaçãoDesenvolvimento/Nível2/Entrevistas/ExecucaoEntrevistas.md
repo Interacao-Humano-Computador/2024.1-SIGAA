@@ -205,6 +205,126 @@ Termo de consentimento do participante Amanda Campos em [Termo Amanda Campos](De
 
 ### Perguntas Respondidas Durante a Entrevista
 
+<details>
+  <summary size="20"><b> Questionário de Pré-Avaliação </b></summary> 
+
+**1. Dados Demográficos:**
+
+- **Nome:** Amanda Alves Campos
+- **Idade:** 23 anos
+- Gênero:** Feminino
+- **Curso ou Área de Estudo/Trabalho:** Estuda engenharia na UnB, atualmente cursa engenharia aéreo espacial, mas pensa em migrar para engenharia de software.
+
+
+**2. Com que frequência você usa computadores ou dispositivos móveis?**
+
+- Diariamente.
+
+**3. Qual o seu nível de familiaridade com o uso de software acadêmico, em geral?**
+
+- Tem familiaridade, pois utiliza todos os dias.
+
+**4. Como você classificaria suas habilidades gerais com a tecnologia?**
+
+- A participante afirmou que lida bem com a tecnologia, pois estuda na área de tecnologia.
+
+**5. Qual a sua expectativa em relação à funcionalidade?**
+
+- Ela espera que a funcionalidade seja promissora, pois seria importante para o contexto acadêmico.
+
+**6. Resumidamente, como você espera que a funcionalidade seja?**
+
+- Deve permitir que ocorra pedido para um estudante ser monitor e facilitar a comunicação com os professores. Além disso, também deve permitir verificar os resultados da monitoria e o processo de monitoria em si.
+
+ </details>
+
+<details>
+  <summary size="20"><b> Questionário de Avaliação </b></summary> 
+
+  1. **Como você define a sua interação com o protótipo de papel e como ele difere das suas expectativas?**
+
+- A participante afirmou que a funcionalidade não foi diferente do que ela esperava inicialmente. A diferença é que ela pensava que a funcionalidade estaria na aba de ensino ao invés de ser uma aba em si.
+
+2. **De que maneira esse protótipo de papel influenciou a sua maneira de realizar essa atividade acadêmica? Você achou mais fácil de realizar do que seria feito presencialmente?**
+
+- Ela acha que, ao nível de funcionalidade, a implementada no protótipo de papel é bem semelhante à como é realizada presencialmente.
+
+
+
+3. **Quanto tempo você acredita que levou para completar as suas tarefas utilizando o protótipo de papel? Achou que demorou ou que foi rápido? Acredita que o tempo possa ser reduzido ao simplificar alguma etapa?**
+
+- A participante afirmou que a execução da funcionalidade foi rápida e eficiente.
+
+
+
+4. **Como você avalia a sua satisfação geral com a experiência do uso da funcionalidade com o formato disposto no protótipo de papel?**
+
+- A participante afirmou que está satisfeita com a funcionalidade, pois ela iria melhorar muito o processo e o controle de monitoria, o que ajudaria bastante a comunidade acadêmica. Por exemplo, ter a opção de avaliar um monitor é muito útil.
+
+
+5. **Essa funcionalidade ofereceu o suporte adequado para auxiliá-lo em suas tarefas? Ela foi executada e planejada de forma adequada? Se não, como ela pode ser melhorada?**
+
+- Sim, a funcionalidade ofereceu o suporte adequado.
+
+
+6. **Quais são, na sua opinião, os aspectos mais positivos e negativos da funcionalidade apresentada pelo protótipo?**
+
+- **Pontos positivos**:
+
+- Permite organizar mais o processo de pedir monitoria e acompanhar a monitoria, o que facilita a organização para o monitor.
+
+- Permite que a coordenação e os professores acompanhem a monitoria por meio das informações dadas.
+
+
+7. **Você acredita que seus objetivos com a funcionalidade podem ser alcançados da forma que foi apresentado no protótipo de papel? E quais não podem?**
+
+- Sim, a participante acredita que os objetivos são todos atendidos com a funcionalidade.
+
+
+8. **Você consegue compreender e utilizar o formato das tarefas que foram apresentadas no protótipo de papel sem dificuldades?**
+
+- Na parte de pedir para ser monitor, seria interessante adicionar uma explicação sobre o que cada componente faz. Por exemplo, na parte de enviar um arquivo, informar o usuário sobre qual informação e em quais condições enviar o arquivo, ou seja, adicionar uma descrição.
+
+
+
+9. **Você acredita que consegue realizar as suas tarefas de forma eficiente e sem erros utilizando o formato apresentado o protótipo de papel caso a funcionalidade seja implementada?**
+
+- A participante afirmou que sim, porém, seria mais fácil e evitaria que ocorressem erros com outros usuários se fossem adicionadas as descrições que explicassem melhor o que fazem cada atividade.
+
+10. **Quais elementos do protótipo geraram insatisfação para você?**
+
+- Na parte de responde formulários, seria mais agradável aos usuários se as perguntas fossem fechadas e objetivas e deixar as abertas como algo a mais caso o usuário deseje complementar.
+
+
+11. **Que aspectos da interação pelo formato do protótipo podem desmotivar você a explorar essas funcionalidades?**
+
+- Em relação à funcionalidade em geral, a participante gostou do formato da interação e achou o fluxo bom e intuitivo. Seria ideal só explicar algumas coisas quando os usuários leigos fossem interagir com o sistema.
+
+
+12. **Você consegue entender a função de cada elemento presente no protótipo de papel?**
+
+- Sim, a participante afirmou que os elementos são fáceis de serem entendidos, mas seria ideal mudar o nome “monitorar monitoria” para algo mais compreensível ao cotidiano do usuário, como “acompanhar monitoria”.
+
+
+13. **Quais problemas de usabilidade você acredita que um usuário pode enfrentar ao utilizar a funcionalidade como ela foi disposta no protótipo de papel?**
+
+- Algumas etapas, como enviar arquivos, precisam ter instruções para os usuários sobre como fazer.
+
+- Deixar os formulários com perguntas mais fechadas.
+
+
+14. **Você conseguiu acessar todas as informações necessárias para executar as tarefas no protótipo de papel?**
+
+- Sim.
+
+
+15. **Há alguma parte específica que os usuários podem evitar ou achar confusa em relação a como foi disposto no protótipo?**
+
+- A participante afirmou que somente os pontos que ela falou nas perguntas anteriores.
+
+
+
+
 
 ## Histórico de Versão
 | Versão | Alteração                                                        | Responsável     | Revisor         | Data       |
