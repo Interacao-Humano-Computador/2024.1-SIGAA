@@ -249,12 +249,9 @@ Termo de consentimento do participante Amanda Campos em [Termo Amanda Campos](De
 
 - Ela acha que, ao nível de funcionalidade, a implementada no protótipo de papel é bem semelhante à como é realizada presencialmente.
 
-
-
 3. **Quanto tempo você acredita que levou para completar as suas tarefas utilizando o protótipo de papel? Achou que demorou ou que foi rápido? Acredita que o tempo possa ser reduzido ao simplificar alguma etapa?**
 
 - A participante afirmou que a execução da funcionalidade foi rápida e eficiente.
-
 
 
 4. **Como você avalia a sua satisfação geral com a experiência do uso da funcionalidade com o formato disposto no protótipo de papel?**
@@ -266,7 +263,6 @@ Termo de consentimento do participante Amanda Campos em [Termo Amanda Campos](De
 
 - Sim, a funcionalidade ofereceu o suporte adequado.
 
-
 6. **Quais são, na sua opinião, os aspectos mais positivos e negativos da funcionalidade apresentada pelo protótipo?**
 
 - **Pontos positivos**:
@@ -275,17 +271,13 @@ Termo de consentimento do participante Amanda Campos em [Termo Amanda Campos](De
 
 - Permite que a coordenação e os professores acompanhem a monitoria por meio das informações dadas.
 
-
 7. **Você acredita que seus objetivos com a funcionalidade podem ser alcançados da forma que foi apresentado no protótipo de papel? E quais não podem?**
 
 - Sim, a participante acredita que os objetivos são todos atendidos com a funcionalidade.
 
-
 8. **Você consegue compreender e utilizar o formato das tarefas que foram apresentadas no protótipo de papel sem dificuldades?**
 
 - Na parte de pedir para ser monitor, seria interessante adicionar uma explicação sobre o que cada componente faz. Por exemplo, na parte de enviar um arquivo, informar o usuário sobre qual informação e em quais condições enviar o arquivo, ou seja, adicionar uma descrição.
-
-
 
 9. **Você acredita que consegue realizar as suas tarefas de forma eficiente e sem erros utilizando o formato apresentado o protótipo de papel caso a funcionalidade seja implementada?**
 
@@ -295,16 +287,13 @@ Termo de consentimento do participante Amanda Campos em [Termo Amanda Campos](De
 
 - Na parte de responde formulários, seria mais agradável aos usuários se as perguntas fossem fechadas e objetivas e deixar as abertas como algo a mais caso o usuário deseje complementar.
 
-
 11. **Que aspectos da interação pelo formato do protótipo podem desmotivar você a explorar essas funcionalidades?**
 
 - Em relação à funcionalidade em geral, a participante gostou do formato da interação e achou o fluxo bom e intuitivo. Seria ideal só explicar algumas coisas quando os usuários leigos fossem interagir com o sistema.
 
-
 12. **Você consegue entender a função de cada elemento presente no protótipo de papel?**
 
 - Sim, a participante afirmou que os elementos são fáceis de serem entendidos, mas seria ideal mudar o nome “monitorar monitoria” para algo mais compreensível ao cotidiano do usuário, como “acompanhar monitoria”.
-
 
 13. **Quais problemas de usabilidade você acredita que um usuário pode enfrentar ao utilizar a funcionalidade como ela foi disposta no protótipo de papel?**
 
@@ -312,15 +301,39 @@ Termo de consentimento do participante Amanda Campos em [Termo Amanda Campos](De
 
 - Deixar os formulários com perguntas mais fechadas.
 
-
 14. **Você conseguiu acessar todas as informações necessárias para executar as tarefas no protótipo de papel?**
 
 - Sim.
 
-
 15. **Há alguma parte específica que os usuários podem evitar ou achar confusa em relação a como foi disposto no protótipo?**
 
 - A participante afirmou que somente os pontos que ela falou nas perguntas anteriores.
+
+ </details>
+
+<details>
+  <summary size="20"><b> Questionário Pós-Avaliação </b></summary> 
+
+1. **Como você descreveria sua satisfação geral com a experiência de uso observada?**
+
+- A satisfação da participante é boa, ela achou o procedimento tranquilo e interessante. Ela também pontuou que o processo foi bem explicado.
+
+2. **Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
+
+- Considerou o processo bem intuitivo.
+
+3. **As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
+
+- Sim, a participante considerou que todo o processo estava claro sobre como ser feito e ser seguido.
+
+4. **Com base na sua experiência, quais sugestões você daria para melhorar a funcionalidade e a experiência de uso?**
+
+- Além das sugestões dadas anteriormente, a participante não tem algo mais a acrescentar.
+
+ </details>
+
+ </details>
+
 
 
 
