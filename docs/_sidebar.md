@@ -181,6 +181,9 @@
   * Nível 2
     * [Planejamento Avaliação Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoAvaliacaoPrototipoPapel.md)
     * [Planejamento Entrevistas do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoEntrevistaPrototipoPapel.md)
+    * Entrevistas
+      - [Planejamento das Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/PlanejamentoEntrevistaPrototipoPapel.md)
+      - [Execução Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md)
 
 * Verificação
   * Grupo 3
