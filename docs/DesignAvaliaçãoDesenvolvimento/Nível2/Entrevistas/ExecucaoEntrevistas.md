@@ -180,6 +180,31 @@ Termo de consentimento do participante Carlos Gabriel em [Termo Carlos Gabriel](
 
 </details>
 
+<details>
+  <summary size="20"><b> Aba de Monitoria - Larissa Stéfane </b></summary> 
+
+### Funcionalidade: Aba de monitoria
+
+Uma das funcionalidades criadas é a aba de monitoria que tem o objetivo realizar os processos referentes à monitorias e facilitar a vida dos envolvidos.
+
+Para visualizar como o protótipo funciona e todas as suas partes, assista o vídeo do teste piloto em [Teste Piloto do Protótipo de Papel da Aba de Monitoria](https://youtu.be/QxSKSak-XPg)
+
+Com base nisso, a avaliação do protótipo de papel para o aluguel de sala pode ser visualizado no vídeo 1:
+
+<center> 
+  
+<iframe width="750" height="450" src="https://www.youtube.com/embed/NGPHZ_bTXso" title="IHC - Avaliação do Protótipo de Papel - Aba de Monitoria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+Caso o vídeo acima não funcione, utilize o [link](https://youtu.be/NGPHZ_bTXso)
+
+Termo de consentimento do participante Amanda Campos em [Termo Amanda Campos](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/Termos/AmandaCampos.md)
+
+### Perguntas Respondidas Durante a Entrevista
+
 
 ## Histórico de Versão
 | Versão | Alteração                                                        | Responsável     | Revisor         | Data       |
