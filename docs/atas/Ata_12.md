@@ -57,15 +57,16 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) | Data de entrega |
 | - | - | - | - |
-| Issue 1 | Realizar a Ata da reunião                                          | Breno Alexandre                            | 18/06/2024 |
-| Issue 2 | Gravar teste pilo do protótipo de papel                            | Breno, Bruno, Iago, Larrisa, Luana e Pedro | 18/06/2024 |
-| Issue 3 | Gravar avaliação do protótipo de papel                             | Breno, Bruno, Iago, Larrisa, Luana e Pedro | 18/06/2024 |
-| Issue 4 | Transcrever a avaliação do protótipo de papel                      | Breno, Bruno, Iago, Larrisa, Luana e Pedro | 18/06/2024 |
-| Issue 5 | Preencher relatos do resultados da avaliação do protótipo de papel | Breno, Bruno, Iago, Larrisa, Luana e Pedro | 18/06/2024 |
-| Issue 6 | Fazer planejamento DECIDE do protótipo de alta fidelidade          | Larissa Stéfane                            | 18/06/2024 |
-| Issue 7 | Fazer planejamento das entrevistas do protótipo de alta fidelidade | Larissa Stéfane                            | 18/06/2024 |
-| Issue 8 | Fazer planejamento das relatos do protótipo de alta fidelidade     | Larissa Stéfane                            | 18/06/2024 |
-| Issue 9 | Atualizar o cronograma                                             | Breno Alexandre                            | 18/06/2024 |
+| Issue 1  | Realizar a Ata da reunião                                          | Breno Alexandre                            | 18/06/2024 |
+| Issue 2  | Gravar teste pilo do protótipo de papel                            | Breno, Bruno, Iago, Larrisa, Luana e Pedro | 18/06/2024 |
+| Issue 3  | Gravar avaliação do protótipo de papel                             | Breno, Bruno, Iago, Larrisa, Luana e Pedro | 18/06/2024 |
+| Issue 4  | Transcrever a avaliação do protótipo de papel                      | Breno, Bruno, Iago, Larrisa, Luana e Pedro | 18/06/2024 |
+| Issue 5  | Atualizar cronograma das entrevistas do protótipo de papel         | Breno, Bruno, Iago, Larrisa, Luana e Pedro | 18/06/2024 |
+| Issue 6  | Preencher relatos do resultados da avaliação do protótipo de papel | Breno, Bruno, Iago, Larrisa, Luana e Pedro | 18/06/2024 |
+| Issue 7  | Fazer planejamento DECIDE do protótipo de alta fidelidade          | Larissa Stéfane                            | 18/06/2024 |
+| Issue 8  | Fazer planejamento das entrevistas do protótipo de alta fidelidade | Larissa Stéfane                            | 18/06/2024 |
+| Issue 9  | Fazer planejamento das relatos do protótipo de alta fidelidade     | Larissa Stéfane                            | 18/06/2024 |
+| Issue 10 | Atualizar o cronograma                                             | Breno Alexandre                            | 18/06/2024 |
 
 
 ## Histórico de Versão
