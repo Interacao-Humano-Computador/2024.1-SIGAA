@@ -157,7 +157,28 @@ Termo de consentimento do participante Carlos Gabriel em [Termo Carlos Gabriel](
 
  </details>
 
+<details>
+  <summary size="20"><b> Questionário Pós-Avaliação </b></summary> 
 
+**1. Como você descreveria sua satisfação geral com a experiência de uso observada?**
+
+- O participante afirmou estar satisfeito.
+
+**2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
+
+- **Mais intuitivo:** Ter as opções para diversos caminhos de forma objetiva que deixa claro qual caminho o usuário deve seguir conforme o seu objetivo.
+
+**3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
+
+- Ele afirmou que o fluxo é bem intuitivo, ser completo e permite que o usuário tenha liberdade para voltar ou corrigir seus erros. Desse modo, afirmou que a funcionalidade atendeu a sua expectativa inicial.
+
+**4. Com base na sua experiência, quais sugestões você daria para melhorar a funcionalidade e a experiência de uso?**
+
+- Ele afirmou que, como a funcionalidade foi apresentada, está ótima e a sugestão seria deixar o encontro dela mais fácil, mesmo quando ele estiver na aba de outros.
+
+</details>
+
+</details>
 
 
 
