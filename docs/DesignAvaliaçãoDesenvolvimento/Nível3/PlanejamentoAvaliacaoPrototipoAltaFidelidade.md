@@ -11,6 +11,7 @@
 * [I Identificar e administrar as questões práticas da avaliação](#I-Identificar-e-administrar-as-questões-práticas-da-avaliação)
 * [D Decidir como lidar com as questões éticas](#D-Decidir-como-lidar-com-as-questões-éticas)
 * [E Avaliar, interpretar e apresentar os dados](#E-Avaliar,-interpretar-e-apresentar-os-dados)
+* [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Referências Bibliográficas](#Referências-Biblliográficas)
 * [Histórico de versão](#Histórico-de-versão)
@@ -167,3 +168,22 @@ Observação das expressões faciais e gestos para interpretar reações emocion
 Em um documento próprio para os relatos dos resultados, serão organizadas tabelas com os dados de cada avaliação e as informações coletadas.
 
 Além disso, o feedback e as observações dos usuários também serão levadas em consideração.
+
+## Conclusão
+
+Ao analisar as etapas acima, é possível observar que o planejamento detalhado da avaliação dos protótipos de alta fidelidade, conforme orientado pelo framework DECIDE, assegura uma abordagem estruturada para coletar os dados significativos e observações que auxiliarão o melhoramento das funcionalidades e do projeto. Com isso, cada etapa, desde a seleção dos métodos de avaliação até a consideração das questões éticas e práticas, foi planejada para garantir uma análise robusta. Portanto, ao seguir este plano, é esperado identificar e solucionar problemas de usabilidade e outras questões nas funcionalidades que estão sendo desenvolvidas.
+
+## Bibliografia
+
+Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Disponível em: https://www.google.com.br/books/edition/Engenharia_de_Requisitos/gA7kDAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover. Acesso em: 18 de maio de 2024.
+
+
+## Referências Bibliográficas
+
+1. Barbosa, S. D. J., & Silva, B. S. (2021). Interação Humano-Computador e Experiência do Usuário. Editora: Câmara Brasileira do Livro, SP, Brasil. Acesso em: 19 de maio de 2024.
+
+## Histórico de Versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| ------ | --------------------------------- | --------------- | --------------------- | ---------- |
+| 1.0 | Criação do documento e elaboração de todos os pontos da avaliação | Larissa Stéfane | - | 19/06/2024 |
