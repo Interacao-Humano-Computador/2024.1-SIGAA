@@ -145,7 +145,7 @@ Como durante a avaliação foram discutidos alguns problemas e inconsistências 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Os usuários <br> conseguem alcançar <br> seus objetivos? | Elementos que geraram <br> insatisfação | Elementos que geraram <br> desmotivação | Compreensão dos elementos | Problemas encontrados | Sugestão de melhoria |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
 | Larissa Stéfane | Carlos Gabriel | Aluguel de Sala | Sim, o participante afirmou que conseguiu atingir o seu objetivo com efetividade. | O participante afirmou que gostou de todos os elementos e etapas da funcionalidade. <br> Não houve elementos ou partes que o desagradou.| Uma situação que poderia desmotivar o usuário, principalmente, se forem iniciantes ou leigos em relação ao SIGAA, seria difícil encontrar a funcionalidade, que está na “aba outros”. | Segundo o usuário, as tareas estão bem implícitas e cada uma delas indica bem o que significa a etapa ou tarefa. | Dificuldade para encontrar a funcionalidade na página do SIGAA. | Se tiver ícones na representação de algumas etapas, o ideal seria utilizar um que o usuário mais conhece e que represente bem o contexto. |
-| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Larissa Stéfane | Amanda Campos | Aba de Monitoria | A participante acredita que os objetivos são todos atendidos com a funcionalidade | Na parte de responde formulários, seria mais agradável aos usuários se as perguntas fossem fechadas e objetivas e deixar as abertas como algo a mais caso o usuário deseje complementar. | Em relação à funcionalidade em geral, a participante gostou do formato da interação e achou o fluxo bom e intuitivo. Seria ideal só explicar algumas coisas quando os usuários leigos fossem interagir com o sistema. | A participante afirmou que os elementos são fáceis de serem entendidos, mas seria ideal mudar o nome “monitorar monitoria” para algo mais compreensível ao cotidiano do usuário, como “acompanhar monitoria”. | <li> Algumas etapas precisam ter mais instruções ou serem mais intuítivas, como a parte de enviar resumos. <br> <li> Os formulários etão com muitas perguntas abertas, o ideal é ter mais perguntas fechadas. | <li> Adicionar um ícone de dúvidas em todo o site. <br> <li> Reformular os quetionários.|
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
 
@@ -160,7 +160,7 @@ Outro ponto importante é a equipe saber como foi a experiência pessoal dos par
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | opinião sobre a experiência |
 | ------------------ | ------------------ | ----------------- | -------- |
 | Larissa Stéfane | Carlos Gabriel | Aluguel de Sala | O participante afirmou estar satisfeito. |
-| ------------------ | ------------------ | ----------------- | -------- |
+| Larissa Stéfane | Amanda Campos | Aba de Monitoria | A participante considerou que todo o processo estava claro sobre como ser feito e ser seguido. |
 | ------------------ | ------------------ | ----------------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- |
 
@@ -177,6 +177,7 @@ Outro ponto importante é a equipe saber como foi a experiência pessoal dos par
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
 | 1.0 | Elaboração do documento com suas estruturas | Larissa Stéfane | - | 18/06/2024 |
 | 1.1 | Adição das informações para o Aluguel de Sala | Larissa Stéfane | - | 18/06/2024 |
+| 1.2 | Adição das informações para a Aba de Monitoria| Larissa Stéfane | - | 18/06/2024 |
 
 
 
