@@ -59,38 +59,53 @@ De acordo com o livro "Interação Humano Computador e Experiência do Usuário"
 Ao se observar as perguntas indicadas na página 266 do livro "Interação Humano Computador e Experiência do Usuário"¹, foram realizadas adaptações para utilizá-las nas entrevistas, a fim de garantir que a avaliação dos protótipos de alta fidelidade seja detalhada e que os dados coletados estejam coerentes com os objetivos definidos. Além dessas adaptações, novas perguntas foram elaboradas considerando o contexto específico. Com isso, a Tabela 2 apresenta o conjunto completo das perguntas que serão feitas com o participante.
 
 <center> 
-Tabela 2: Perguntas da avaliação.
+
+Tabela 2: - Perguntas da avaliação direcionadas ao participante.
 
 | Ordem das Perguntas | Pergunta | Objetivo da Pergunta |
 |---------------------|----------|----------------------|
-| 1 | Você considera que o protótipo atende aos critérios de acessibilidade necessários para garantir que todos os usuários, incluindo aqueles com necessidades específicas, possam utilizar as funcionalidades sem dificuldades? | Verificar conformidade com padrões estabelecidos |
-| 2 | Na sua opinião, a interface do protótipo segue os padrões visuais e de interação esperados para uma aplicação deste tipo? Ela está alinhada com as diretrizes de design estabelecidas para sistemas similares? | Verificar conformidade com padrões estabelecidos |
-| 3 | Você acha que os termos e convenções utilizados no protótipo são compreensíveis e consistentes com as práticas usuais no contexto deste tipo de aplicação? | Verificar conformidade com padrões estabelecidos |
-| 4 | Como você avalia o protótipo em comparação com outras aplicações similares que você já utilizou? Há aspectos que o protótipo poderia melhorar ou que se destacam positivamente? | Verificar conformidade com padrões estabelecidos |
-| 5 | A linguagem e o tom utilizados no protótipo são adequados para os usuários deste sistema? Eles facilitam a compreensão das informações e a realização das tarefas propostas? | Verificar conformidade com padrões estabelecidos |
-| 6 | Você encontra dificuldades em operar as funcionalidades do protótipo de maneira intuitiva? Quais foram os principais obstáculos que você enfrentou durante o uso? | Identificar problemas na interação e na interface |
-| 7 | Quanto tempo você levou para realizar as tarefas propostas pelo protótipo? Houve algum aspecto que contribuiu para atrasar ou facilitar o processo? | Identificar problemas na interação e na interface |
+| 1 | Você considera que o protótipo atende aos critérios de acessibilidade necessários para garantir que todos os usuários, incluindo aqueles com necessidades específicas, possam utilizar as funcionalidades sem dificuldades? Na sua opinião. | Verificar conformidade com padrões estabelecidos |
+| 2 | Na sua opinião, a interface do protótipo segue os padrões visuais e de interação esperados para o SIGAA? Ela está alinhada com o formato que você conhece no SIGAA? | Verificar conformidade com padrões estabelecidos |
+| 3 | Você acha que os termos e convenções utilizados no protótipo são compreensíveis e consistentes com o contexto acadêmico e da funcionalidade? | Verificar conformidade com padrões estabelecidos |
+| 4 | Como você avalia o protótipo em comparação com outras funcionalidades parecidas que você já utilizou?  | Verificar conformidade com padrões estabelecidos |
+| 5 | A linguagem e os símbolos no protótipo são adequados para os usuários deste sistema? Você conseguiu entendê-los com facilidade? | Verificar conformidade com padrões estabelecidos |
+| 6 | Você encontrou dificuldades quando navegou nas funcionalidades do protótipo? | Identificar problemas na interação e na interface |
+| 7 | Você acha que levou mais tempo que o necessário para realizar as tarefas propostas pelo protótipo ou acha que levou o tempo ideal? | Identificar problemas na interação e na interface |
 | 8 | Quais partes do protótipo você considera menos satisfatórias ou que poderiam ser melhoradas para proporcionar uma experiência mais positiva? | Identificar problemas na interação e na interface |
-| 9 | O protótipo incentiva você a explorar todas as suas funcionalidades e recursos? Ou há áreas que não despertaram seu interesse para uma exploração mais profunda? | Identificar problemas na interação e na interface |
-| 10 | Você conseguiu entender claramente o significado e a utilidade de cada elemento da interface do protótipo? Houve algum elemento que não ficou claro para você durante o uso? | Identificar problemas na interação e na interface |
-| 11 | Você se sentiu orientado sobre quais passos tomar a seguir para completar suas tarefas no protótipo? As orientações fornecidas foram claras e úteis? | Identificar problemas na interação e na interface |
-| 12 | Os elementos visuais e de design do protótipo ajudaram você a compreender a hierarquia das informações apresentadas e a navegar de forma eficiente entre as diferentes partes da aplicação? |Identificar problemas na interação e na interface |
-| 13 | A interface do protótipo mantém uma consistência visual ao longo de todas as telas e elementos? | Verificar conformidade com padrões estabelecidos |
-| 14 | Como o protótipo se comporta em diferentes dispositivos e tamanhos de tela? | Verificar conformidade com padrões estabelecidos |
-| 15 | O protótipo integra-se de forma eficiente com outros sistemas ou plataformas utilizadas pelos usuários? | Verificar conformidade com padrões estabelecidos |
-| 16 | O protótipo fornece feedback claro e imediato após a execução de ações pelos usuários? | Identificar problemas na interação e na interface |
-| 17 | Os usuários sentem que têm controle sobre a navegação e a interação com o protótipo? | Identificar problemas na interação e na interface |
-| 18 | Como o protótipo influencia a satisfação pessoal dos usuários ao completar tarefas? | Identificar problemas na interação e na interface |
-| 19 | Quanto tempo os usuários levam para completar tarefas específicas no protótipo? | Identificar problemas na interação e na interface |
-| 20 | Com que frequência os usuários cometem erros durante a interação com o protótipo e qual é a gravidade desses erros? | Identificar problemas na interação e na interface |
-| 21 | Os usuários percebem que o protótipo oferece valor significativo e utilidade em suas tarefas? | Identificar problemas na interação e na interface |
-| 22 | O protótipo atendeu às expectativas dos usuários em termos de funcionalidades e desempenho? | Identificar problemas na interação e na interface |
-| 23 | Quais são as principais áreas que você gostaria de ver melhoradas no protótipo? | Identificar problemas na interação e na interface |
-| 24 | Existem funcionalidades adicionais que você gostaria de ver implementadas no protótipo? | Identificar problemas na interação e na interface |
+| 9 | A interface do protótipo incentivou você a explorar as suas funcionalidades e os recursos do SIGAA? | Identificar problemas na interação e na interface |
+| 10 | Você conseguiu entender claramente o significado e a utilidade de cada elemento da interface do protótipo?  | Identificar problemas na interação e na interface |
+| 11 | Você conseguiu entender claramente o significado e a utilidade de cada elemento da funcionalidade do protótipo?  | Identificar problemas na interação e na interface |
+| 12 | Você se sentiu orientado sobre quais passos tomar a seguir para completar suas tarefas no protótipo? Se sim, as orientações fornecidas foram claras e úteis? | Identificar problemas na interação e na interface |
+| 13 | Os elementos visuais e de design do protótipo ajudaram você a compreender a hierarquia das informações apresentadas? | Identificar problemas na interação e na interface |
+| 14 | A interface do protótipo mantém uma consistência visual ao longo de todas as telas e elementos? | Verificar conformidade com padrões estabelecidos |
+| 15 | Como o protótipo se comporta em diferentes dispositivos e tamanhos de tela? | Verificar conformidade com padrões estabelecidos |
+| 16 | Você sentiu que teve o controle sobre a navegação e a interação com o protótipo? | Identificar problemas na interação e na interface |
+| 17 | Como você define a sua satisfação pessoal ao completar tarefas da funcionalidade? | Identificar problemas na interação e na interface |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </center>
+
+Além das perguntas que os participantes terão que responder, há também as perguntas que os integrantes do grupo, ou seja, que desenvolveu a funcionalidade, deverá responder. Essas perguntas estão na tabela 3.
+
+<center> 
+    
+Tabela 3: Perguntas da avaliação para o Integrante
+
+| Ordem das Perguntas | Pergunta | Objetivo da Pergunta |
+|---------------------|----------|----------------------|
+| 1 | O sistema está de acordo com os padrões de acessibilidade do W3C? | Verificar conformidade com padrões estabelecidos |
+| 2 | A interface segue o padrão da interface do SIGAA e a lógica do site também? | Verificar conformidade com padrões estabelecidos |
+| 3 | O usuário conseguiu operar o protótipo? | Identificar problemas na interação e na interface |
+| 4 | Quanto tempo o participante realizou a atividade? | Identificar problemas na interação e na interface |
+| 5 | Quantos erros o participante cometeu enquanto estava interagindo com o protótipo? | Identificar problemas na interação e na interface |
+| 6 | Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas? | Identificar problemas na interação e na interface |
+| 7 | No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante? | Identificar problemas na interação e na interface |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
 
 ## C Escolher os Métodos de Avaliação
 
