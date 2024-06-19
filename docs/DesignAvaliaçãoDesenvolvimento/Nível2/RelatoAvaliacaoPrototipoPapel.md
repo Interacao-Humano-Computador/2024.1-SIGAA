@@ -3,7 +3,14 @@
 
 ## Sumário
 
-
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Objetivos e Escopo da Avaliação](#Objetivos-e-Escopo-da-Avaliação)
+* [Metodologia da Avaliação](#Metodologia-da-Avaliação)
+* [Dados Coletados](#Dados-Coletados)
+* [Obervações Gerais](#Obervações-Gerais)
+* [Conclusão](#Conclusão)
+* [Histórico de Versão](#Histórico-de-Versão)
 
 ## Introdução
 
@@ -19,9 +26,7 @@ Neste contexto, essas tabelas serão estruturadas para capturar diversos aspecto
 
 Além disso, as tabelas abordarão a experiência do usuário com a funcionalidade no protótipo, a opinião do usuário em relação à usabilidade e as suas percepções sobre os problemas e as soluções.
 
-## Estrutura do Relato dos Resultados
-
-### Objetivos e Escopo da Avaliação
+## Objetivos e Escopo da Avaliação
 
 Os objetivos definidos para a avaliação dos protótipos de papel foram orientados por duas metas principais:
 
@@ -31,17 +36,17 @@ Os objetivos definidos para a avaliação dos protótipos de papel foram orienta
 
 Esses objetivos foram definidos com o intuito de garantir que as funcionalidades atendam efetivamente às necessidades dos usuários e para identificar possíveis as áreas de melhoria antes da implementação final.
 
-### Metodologia da Avaliação
+## Metodologia da Avaliação
 
 Para esta avaliação, optou-se por combinar os métodos de **investigação** e de **observação**. Com isso, as técnicas de entrevistas e de questionários foram aplicadas em três fases distintas: pré-avaliação, avaliação e pós-avaliação. Na fase de avaliação, os participantes interagiram com o protótipo de papel.
 
 Como uma extensão opcional, foi considerada a técnica "Think Aloud" (pensar em voz alta), na qual os usuários expressam seus pensamentos em tempo real durante a interação com os protótipos.
 
-#### Entrevistas Executadas
+### Entrevistas Executadas
 
 Inicialmente, para mostrar a organização das entrevistas, a tabela 1 mostra o cronograma executado das avaliações:
 
-** Tabela 1:** Cronograma executado das entrevistas.
+**Tabela 1:** Cronograma executado das entrevistas.
 
 | Entrevistador(a) | Entrevistad@ | Horário de Início | Horário de Fim | Data | Local |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
@@ -50,7 +55,7 @@ Inicialmente, para mostrar a organização das entrevistas, a tabela 1 mostra o 
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-#### Apresentação dos Usuários
+### Apresentação dos Usuários
 
 Com base no [perfil dos estudantes](PerfilUsuario/Estudantes/perfilEstudante.md) coletados nas primeiras fases do projeto, a tabela 2 mostra o perfil dos entrevistados.
 
@@ -67,7 +72,7 @@ Com base no [perfil dos estudantes](PerfilUsuario/Estudantes/perfilEstudante.md)
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-#### Descrição da Entrevista
+### Descrição da Entrevista
 
 Para se compreender melhor como cada entrevista ou reunião foi realizada, a tabela 3 mostra uma descrição breve de como foi cada avaliação em relação ao ambiente.
 
@@ -80,11 +85,11 @@ Para se compreender melhor como cada entrevista ou reunião foi realizada, a tab
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-### Dados Coletados
+## Dados Coletados
 
 Abaixo, há a coletânea de informações e dados coletados durante as avaliações.
 
-#### Opinião Prévia
+### Opinião Prévia
 
 A tabela 4 mostra o que o participante espera da funcionalidade antes de interagir com o protótipo de papel.
 
@@ -101,7 +106,7 @@ A tabela 4 mostra o que o participante espera da funcionalidade antes de interag
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-#### Experiência do Usuário com a Funcionalidade no Protótipo
+### Experiência do Usuário com a Funcionalidade no Protótipo
 
 A tabela 5 mostra como o participante interagiu com o protótipo e como ele se sentiu em relação à funcionalidade.
 
@@ -117,7 +122,7 @@ A tabela 5 mostra como o participante interagiu com o protótipo e como ele se s
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
-#### Opinião do Usuário em Relação à Usabilidade
+### Opinião do Usuário em Relação à Usabilidade
 
 Um dos objetivos principais dessa avaliação é coletar informações sobre a usabilidade da funcionalidade. Desse modo, a tabela 6 mostra as observações sobre a usabilidade da funcionalidade na visão do participante.
 
@@ -132,7 +137,7 @@ Um dos objetivos principais dessa avaliação é coletar informações sobre a u
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-#### Opinião do Usuário sobre os problemas e soluções
+### Opinião do Usuário sobre os problemas e soluções
 
 Como durante a avaliação foram discutidos alguns problemas e inconsistências na funcionalidade, a tabela 7 mostra as observações dadas e soluções discutidas.
 
@@ -147,7 +152,7 @@ Como durante a avaliação foram discutidos alguns problemas e inconsistências 
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-### Experiência do Usuário com a entrevista
+## Experiência do Usuário com a entrevista
 
 Outro ponto importante é a equipe saber como foi a experiência pessoal dos participantes durante a entrevista. Assim, a tabela 8 mostra a opinião deles em relação ao processo da avaliação.
 
@@ -163,9 +168,9 @@ Outro ponto importante é a equipe saber como foi a experiência pessoal dos par
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-### Obervações gerais
+## Obervações gerais
 
-### Conclusão
+## Conclusão
 
 ## Histórico de Versão
 
