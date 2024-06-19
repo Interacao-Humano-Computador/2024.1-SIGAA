@@ -4,13 +4,14 @@
 
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
-* [Nível de Formação](#Nível-de-Formação)
 * [Faixa Etária](#Faixa-Etária)
+* [Nível de Formação](#Nível-Escolar-e-Área-de-Formação)
+* [Tempo de Carreira](#Tempo-de-Carreira)
 * [Gênero](#Gênero)
-* [Questão Socioeconômica](Questão-Socioeconômica)
+* [Estado Civil](#Estado-Civil)
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
-* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Referência Bibliográfica](#Referência-Bibliográfica)
 * [Histórico de Versão](#Histórico-de-Versão)
 
 
@@ -66,7 +67,7 @@ Dos que cursaram e finalizaram algum curso superior, os campos se estudo se conc
 
 - Os outros 52% se distribuem entre ciência da computação. Gestão de projetos, gestão pública, jornalismo, recursos humanos, entre outros.
 
-## Tempo de carreira
+## Tempo de Carreira
 
 Segundo o artigo [Perfil De Servidores Técnico-Administrativos De Um Campus De Uma Universidade Federal Paulista](https://convibra.org/congresso/res/uploads/pdf/2018_38_15243.pdf) , a maioria, cerca de 52%, dos servidores trabalham como auxiliar administrativo.
 
@@ -90,7 +91,7 @@ Em relação ao tempo de trabalho em uma instituição, na pesquisa, observou-se
 
 Segundo o artigo [Perfil De Servidores Técnico-Administrativos De Um Campus De Uma Universidade Federal Paulista](https://convibra.org/congresso/res/uploads/pdf/2018_38_15243.pdf) , 40% dos servidores são do gênero feminino e 60% são do gênero masculino.
 
-## Estado civil
+## Estado Civil
 
 
 Segundo o artigo [Perfil De Servidores Técnico-Administrativos De Um Campus De Uma Universidade Federal Paulista](https://convibra.org/congresso/res/uploads/pdf/2018_38_15243.pdf) , o estado civil dos servidores se divide assim:
@@ -113,16 +114,16 @@ Com os dados mostrados acima, é possível observar que a maioria dos técnicos 
 
 ## Bibliografia
 
-1. UFMG. O que é ser servidor público? . Outubro de 2018. Disponível em <https://ufmg.br/comunicacao/noticias/servidores-da-ufmg-falam-sobre-o-que-e-ser-servidor-e-prestar-servicos-a-educacao>. Acessado em 07 de junho de 2024.
+<b>UFMG</b>. O que é ser servidor público? . Outubro de 2018. Disponível em <https://ufmg.br/comunicacao/noticias/servidores-da-ufmg-falam-sobre-o-que-e-ser-servidor-e-prestar-servicos-a-educacao>. Acessado em 07 de junho de 2024.
 
 
 ## Referência Bibliográfica
 
-1. TAMADA & CUNHA. Perfil de servidores técnico-administrativos de um campus de uma universidade federal paulista. 2017. Disponível em https://convibra.org/congresso/res/uploads/pdf/2018_38_15243.pdf. Acessado em 07 de junho de 2024.
+1. <b>TAMADA & CUNHA</b>. Perfil de servidores técnico-administrativos de um campus de uma universidade federal paulista. 2017. Disponível em https://convibra.org/congresso/res/uploads/pdf/2018_38_15243.pdf. Acessado em 07 de junho de 2024.
 
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 07/06/2024 |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | Breno Alexandre | 07/06/2024 |
 
