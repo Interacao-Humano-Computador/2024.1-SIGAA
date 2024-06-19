@@ -171,7 +171,7 @@ Outro ponto importante é a equipe saber como foi a experiência pessoal dos par
 | Pedro Izarias | Isabela Garcia | Realizar Matrícula | A participante afirmou estar satisfeita com a experiência. |
 
 
-<b> Autores: </b> Larissa, Luana, Pedro.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ## Obervações gerais
 
