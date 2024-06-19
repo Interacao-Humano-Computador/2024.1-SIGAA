@@ -347,6 +347,7 @@ Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=
 <b> Autor: </b> <a href="https://github.com/LuaMedeiros"> Luana Medeiros</a>.
 
 </center>
+</details>
 
 <details>
   <summary size="20"><b> Teste piloto - Protótipo de papel - Grade Sugerida - Luana Medeiros </b></summary> 
