@@ -348,6 +348,18 @@ Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=
 
 </center>
 
+<details>
+  <summary size="20"><b> Teste piloto - Protótipo de papel - Grade Sugerida - Luana Medeiros </b></summary> 
+<center> 
+
+**Vídeo 4:** Teste Piloto - Protótipo de papel - Pré-Cadastro de Estágio.
+
+<iframe width="1695" height="677" src="https://www.youtube.com/embed/dI8pCCZPYuw" title="Teste piloto prototipo de papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b> Autor: </b> <a href="https://github.com/LuaMedeiros"> Iago Passaglia</a>.
+
+</center>
+
 </details>
 
 ## Conclusão
@@ -369,6 +381,7 @@ Durante o processo de planejamento das entrevistas para avaliação dos protóti
 | - | - | - | - | - |
 | 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | Pedro Izarias | 02/06/2024 |
 | 1.1 | Adição de informações sobre as matrículas nas tabelas| Pedro Izarias | Larissa Stéfane | 02/06/2024 |
-| 1.2 | Adição do teste piloto de aluguel de sala| Larissa Stéfane | - | 13/06/2024 |
-| 1.3 | Adição do teste piloto de Aba de Monitoria| Larissa Stéfane | - | 14/06/2024 |
-| 1.4 | Adição do teste piloto da Grade Sugerida| Luana Medeiros | - | 19/06/2024 |
+| 1.2 | Adição do teste piloto de aluguel de sala| Larissa Stéfane | Iago Passaglia | 13/06/2024 |
+| 1.3 | Adição do teste piloto de Aba de Monitoria| Larissa Stéfane | Iago Passaglia | 14/06/2024 |
+| 1.4 | Adição do teste piloto da Grade Sugerida| Luana Medeiros | Iago Passaglia | 19/06/2024 |
+| 1.4 | Adição do teste piloto de Pré-Cadastro de Estágio| Iago Passaglia | - | 19/06/2024 |
