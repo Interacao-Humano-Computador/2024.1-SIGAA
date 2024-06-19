@@ -109,13 +109,15 @@ Tabela 3: Perguntas da avaliação para o Integrante
 
 ## C Escolher os Métodos de Avaliação
 
-Para escolher os métodos da avaliação, com base nas reuniões anteriores realizadas no projeto, foram levados em consideração os objetivos da avaliação e a estrutura da avaliação para o desenvolvimento das entrevistas. Desse modo, conforme orientado pelo framework DECIDE em "Interação Humano Computador e Experiência do Usuário"¹ (capítulo 11, página 273), ao alinhar os métodos de avaliação com os objetivos estabelecidos e o cronograma disponível, foram escolhidos foram os métodos de **investigação** e de **observação**. Sendo assim, as justificativas, com base no livro, para essas escolhas são:
+Para escolher os métodos da avaliação, com base nas reuniões anteriores realizadas no projeto, foram levados em consideração os objetivos da avaliação e a sua estrutura. Desse modo, conforme orientado pelo framework DECIDE em "Interação Humano Computador e Experiência do Usuário"¹ (capítulo 11, página 273), a avaliação vai ter duas partes, uma realizada pelo próprio integrante da equipe, onde será utilizado o método de inspeção e o quem desenvolveu o protótipo irá avaliar o objetivo de verificar a conformidade com um padrão. A segunda etapa será realizada durante e após a avaliação e utilizará os métodos de **investigação** e de **observação**. Nesta parte, haverá perguntas que os participantes irão responder e haverá  perguntas que o responsável pelo protótipo irá responder após a entrevista.
 
-- **Investigação:** Os métodos de investigação, como entrevistas e questionários, foram selecionados por sua capacidade de acessar e interpretar as concepções, opiniões e comportamentos dos usuários em relação ao protótipo de alta fidelidade.
+As justificativas, com base no livro, para essas escolhas são:
 
-- **Observação:** A observação permite registrar as interações dos usuários e proporciona uma coleta de dados mais detalhada sobre as atividades dos usuários que permite identificar problemas reais enfrentados pelos usuários durante sua experiência de uso do protótipo.
+- **Inspeção**: O método de inspeção permite ao avaliador examinar a solução de IHC para antecipar as possíveis consequências de certas decisões de design nas experiências de uso, identificando problemas potenciais que os usuários podem enfrentar.
 
-Além disso, como uma extensão opcional, será utilizada a técnica "Think Aloud" (pensar em voz alta), na qual os usuários expressam seus pensamentos durante a interação com o sistema. Com isso, essa abordagem permitirá uma compreensão mais profunda da experiência do usuário em tempo real, facilitando uma análise detalhada e qualitativa dos resultados obtidos.
+- **Investigação:** O método de investigação, como entrevistas e questionários, foram selecionados por sua capacidade de acessar e interpretar as concepções, opiniões e comportamentos dos usuários em relação ao protótipo de alta fidelidade.
+
+- **Observação:** A observação permite registrar as interações dos usuários e proporciona uma coleta de dados mais detalhada sobre as atividades dos usuários, que permite identificar problemas reais enfrentados pelos usuários durante sua experiência de uso do protótipo.
 
 ## I Identificar e administrar as questões práticas da avaliação
 
