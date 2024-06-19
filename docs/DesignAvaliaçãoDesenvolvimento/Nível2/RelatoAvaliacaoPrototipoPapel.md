@@ -181,9 +181,9 @@ Outro ponto importante é a equipe saber como foi a experiência pessoal dos par
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
-| 1.0 | Elaboração do documento com suas estruturas | Larissa Stéfane | - | 18/06/2024 |
-| 1.1 | Adição das informações para o Aluguel de Sala | Larissa Stéfane | - | 18/06/2024 |
-| 1.2 | Adição das informações para a Aba de Monitoria| Larissa Stéfane | - | 18/06/2024 |
+| 1.0 | Elaboração do documento com suas estruturas | Larissa Stéfane | Pedro Izarias | 18/06/2024 |
+| 1.1 | Adição das informações para o Aluguel de Sala | Larissa Stéfane | Pedro Izarias | 18/06/2024 |
+| 1.2 | Adição das informações para a Aba de Monitoria| Larissa Stéfane | Pedro Izarias | 18/06/2024 |
 | 1.3 | Adição das informações para a Grade Sugerida| Luana Medeiros | - | 19/06/2024 |
 | 1.4 | Adição das informações para a funcionalidade de Realizar Matrícula | Pedro Izarias | - | 19/06/2024 |
 
