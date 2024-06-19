@@ -78,9 +78,9 @@ Para se compreender melhor como cada entrevista ou reunião foi realizada, a tab
 
 **Tabela 3:** Execução das entrevistas
 
-| Entrevistador(a) | Entrevistad@ | Funcionalidade | Descrição do processo | Descrição do ambiente <br> Nível de barulho: <br> Silêncio completo, barulho ao <br> fundo ou Muito barulho, ou ventania. | Experiência do participante |
+| Entrevistador(a) | Entrevistad@ | Funcionalidade | Descrição do processo | Descrição do ambiente <br> Nível de barulho: <br> Silêncio completo, barulho ao fundo ou Muito barulho, ou ventania. | Experiência do participante |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
-| ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
+| Larissa Stéfane | Carlos Gabriel | Aluguel de Sala | A avaliação foi realizada na sala de aula S9 e foram utilizadas duas câmeras. Uma em uma mesa, onde a câmera estava posicionada para captar todos os movimentos e interações com o protótipo de papel. Uma segunda que gravou a interação direta entre a integrante da equipe e o participante usuário.  | Silêncio com um pouco de ruído ao fundo devido aos estudantes fora da sala de aula. | O participante afirmou estar satisfeito. |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
@@ -99,7 +99,7 @@ A tabela 4 mostra o que o participante espera da funcionalidade antes de interag
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Opinião prévia |
 | ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
+| Larissa Stéfane | Carlos Gabriel | Aluguel de Sala | O participante acredita que a funcionalidade deve ser capaz de atender e registrar as demandas, sendo capaz de mostrar quem alugou e quem precisa alugar para manter o controle. |
 | ------------------ | ------------------ | ----------------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- |
@@ -114,7 +114,7 @@ A tabela 5 mostra como o participante interagiu com o protótipo e como ele se s
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Opinião em relação <br> às expectativas | Opinião em relação <br> Aplicabilidade | Opinião em relação <br> ao tempo |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |
+| Larissa Stéfane | Carlos Gabriel | Aluguel de Sala | O protótipo está conforme a expectativa do participante e ele considerou a interação amigável e intuitiva. Além disso, ele considera que está segundo a expectativa dele, pois mostrou os dados e as informações que ele gostaria de visualizar. | O participante acredita que será mais fácil alugar a sala por meio desa funcionalidade do que presencialmente na coordenação, além de também reduzir o tempo do processo. | O participante acredita que o fluxo está fácil de ser executado e sem complicações. Assim, ele acredita que as tarefas podem ser realizadas de forma bem rápida. |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |
