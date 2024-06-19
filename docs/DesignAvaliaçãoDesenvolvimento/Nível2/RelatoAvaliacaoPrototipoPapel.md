@@ -71,7 +71,7 @@ Com base no [perfil dos estudantes](PerfilUsuario/Estudantes/perfilEstudante.md)
 
 Para se compreender melhor como cada entrevista ou reunião foi realizada, a tabela 3 mostra uma descrição breve de como foi cada avaliação em relação ao ambiente.
 
-** Tabela 3:** Execução das entrevistas
+**Tabela 3:** Execução das entrevistas
 
 | Entrevistador(a) | Entrevistad@ | Funcionalidade | Descrição do processo | Descrição do ambiente <br> Nível de barulho: <br> Silêncio completo, barulho ao <br> fundo ou Muito barulho, ou ventania. | Experiência do participante |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
@@ -90,7 +90,7 @@ A tabela 4 mostra o que o participante espera da funcionalidade antes de interag
 
 - Essa parte é importante para que o usuário possa expressar a sua expectativa sem que ela tenha interferência da experiência com o protótipo de papel.
 
-** Tabela 4:** Opinião Anterior
+**Tabela 4:** Opinião Anterior
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Opinião prévia |
 | ------------------ | ------------------ | ----------------- | -------- |
@@ -105,7 +105,7 @@ A tabela 4 mostra o que o participante espera da funcionalidade antes de interag
 
 A tabela 5 mostra como o participante interagiu com o protótipo e como ele se sentiu em relação à funcionalidade.
 
-** Tabela 5:** Como foi a interação do participante?
+**Tabela 5:** Como foi a interação do participante?
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Opinião em relação <br> às expectativas | Opinião em relação <br> Aplicabilidade | Opinião em relação <br> ao tempo |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |
@@ -115,3 +115,66 @@ A tabela 5 mostra como o participante interagiu com o protótipo e como ele se s
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+
+#### Opinião do Usuário em Relação à Usabilidade
+
+Um dos objetivos principais dessa avaliação é coletar informações sobre a usabilidade da funcionalidade. Desse modo, a tabela 6 mostra as observações sobre a usabilidade da funcionalidade na visão do participante.
+
+**Tabela 6:** Usabilidade da Funcionalidade
+
+| Entrevistador(a) | Entrevistado(a) | Funcionalidade | Satisfação Geral | Nível de Suporte das Tarefas | Aspectos Positivos | Aspectos Negativos | Nível de Dificuldade <br> Baixa/Média/ Alta | Erros Cometidos entre as Tarefas |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+#### Opinião do Usuário sobre os problemas e soluções
+
+Como durante a avaliação foram discutidos alguns problemas e inconsistências na funcionalidade, a tabela 7 mostra as observações dadas e soluções discutidas.
+
+**Tabela 7:** Problemas e Soluções
+
+| Entrevistador(a) | Entrevistado(a) | Funcionalidade | Os usuários <br> conseguem alcançar <br> seus objetivos? | Elementos que geraram <br> insatisfação | Elementos que geraram <br> desmotivação | Compreensão dos elementos | Problemas encontrados | Sugestão de melhoria |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+### Experiência do Usuário com a entrevista
+
+Outro ponto importante é a equipe saber como foi a experiência pessoal dos participantes durante a entrevista. Assim, a tabela 8 mostra a opinião deles em relação ao processo da avaliação.
+
+**Tabela 8:** Experiência com a avaliação
+
+| Entrevistador(a) | Entrevistado(a) | Funcionalidade | opinião sobre a experiência |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+### Obervações gerais
+
+### Conclusão
+
+## Histórico de Versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| ------ | --------------------------------- | --------------- | --------------- | ---------- |
+| 1.0 | Elaboração do documento com suas estruturas | Larissa Stéfane | - | 18/06/2024 |
+
+
+
+
+
+
