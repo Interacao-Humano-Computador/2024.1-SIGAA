@@ -55,7 +55,7 @@ Inicialmente, para mostrar a organização das entrevistas, a tabela 1 mostra o 
 | Luana Medeiros  | Leonardo Ramiro | 18:00 | 18:20 | 18/06 | Casa do Entrevistador |
 | Pedro Izarias  | Isabela Garcia | 17:10 | 17:29 | 18/06 | Casa do Entrevistador |
 
-<b> Autores: </b> Larissa, Luana, Pedro.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Apresentação dos Usuários
 
@@ -72,7 +72,7 @@ Com base no [perfil dos estudantes](PerfilUsuario/Estudantes/perfilEstudante.md)
 | Luana Medeiros | Leonardo Ramiro | <li> **Nome**: Leonardo Ramiro <br> <li> **Idade**: 21 anos <br> <li> **Gênero**: Masculino <br> <li>  **Curso**: Engenharia de Software na UnB <br> <li> **Frequência de uso de computadores:** 	Todo dia. <br> <li>  **Familiaridade com software acadêmico:** Alta. <br> <li> **Habilidades com tecnologia:** Acima da média. | Grade Sugerida |
 | Pedro Izarias | Isabela Garcia | <li> **Nome**: Isabela Garcia <br> <li> **Idade**: 29 anos <br> <li> **Gênero**: Feminino <br> <li>  **Curso**: Arquitetura <br> <li> **Frequência de uso de computadores:** 	Todo dia. <br> <li>  **Familiaridade com software acadêmico:** Alta. <br> <li> **Habilidades com tecnologia:** Média. | Realizar Matrícula |
 
-<b> Autores: </b> Larissa, Luana, Pedro.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Descrição da Entrevista
 
@@ -87,7 +87,7 @@ Para se compreender melhor como cada entrevista ou reunião foi realizada, a tab
 | Luana Medeiros | Leonardo Ramiro | Grade Sugerida | A avaliação foi realizada na sala da casa da entrivstadora e foram utilizadas duas câmeras. Uma em uma mesa, onde a câmera estava posicionada para captar todos os movimentos e interações com o protótipo de papel. Uma segunda que gravou a interação direta entre a integrante da equipe e o participante usuário. | Silêncio com um pouco de ruído ao fundo devido aos moradores que estavam na casa. | O participante afirmou estar satisfeito. |
 | Pedro Izarias | Isabela Garcia | Realizar matrícula | A avaliação foi realizada na sala da casa do entrivstador e foram feitas pausas entre as etapas para posicionar a câmera e não cansar a entrevistada. | Silêncio . | A participante afirmou estar satisfeita. |
 
-<b> Autores: </b> Larissa, Luana, Pedro.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ## Dados Coletados
 
@@ -108,7 +108,7 @@ A tabela 4 mostra o que o participante espera da funcionalidade antes de interag
 | Luana Medeiros | Leonardo Ramiro | Grade Sugerida | O participante acredita que seja útil e que falta uma possibilidade de editar a grade sugerida sem precisar gerar uma nova. |
 | Pedro Izarias | Isabela Garcia | Realizar Matrícula | A participante espera que a funcionalidade seja fácil e simples, sem maiores complicações para ser realizada. |
 
-<b> Autores: </b> Larissa, Luana, Pedro.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Experiência do Usuário com a Funcionalidade no Protótipo
 
@@ -123,7 +123,7 @@ A tabela 5 mostra como o participante interagiu com o protótipo e como ele se s
 | Luana Medeiros | Leonardo Ramiro | Grade Sugerida | O protótipo está conforme a expectativa do participante e ele considerou a interação amigável e intuitiva. Além disso, ele considera que está segundo a expectativa dele, pois mostrou os dados e as informações que ele gostaria de visualizar. | O participante acredita que ajudará quem não tem contato com veteranos para fazer essa sugestão de grade | O participante acredita que o fluxo está fácil de ser executado e sem complicações. Assim, ele acredita que as tarefas podem ser realizadas de forma bem rápida. |
 | Pedro Izarias | Isabela Garcia | Realizar Matrícula | O protótipo está um pouco diferente da expectativa da participante, tendo ela considerado difícil de encontrar a opção de matrícula por esta não estar em uma aba separada, mas dentro da aba de Ensino. | A participante acredita que é mais fácil utilizar a funcionalidade e que esta pode ser tranquilamente implementada. | A participante acredita ser mais rápido realizar a matrícula através da funcionalidade do que presencialmente. |
 
-<b> Autores: </b> Larissa, Luana, Pedro.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 
 ### Opinião do Usuário em Relação à Usabilidade
@@ -139,7 +139,7 @@ Um dos objetivos principais dessa avaliação é coletar informações sobre a u
 | Luana Medeiros | Leonardo Ramiro | Grade Sugerida | O participante gostou de como a funcionalidade foi apresentada e organizada. | acredita que a funcionalidade está intuitiva, uma vez que as informações e os títulos das tarefas transmitem bem a ideia do que cada função ou etapa faz e espera do usuário. | <li> Ajudar quem não tem tanto contato ou tanta ideia do fluxo. <br> <li> | <li> Falta opção de alterar a grade sugerida. <br> <li> | Baixa. O participante afirmou que conseguiu completar cada etapa sem complicações. |O usuário não cometeu denhum erro durante o procedimento. |
 | Pedro Izarias | Isabela Garcia | Realizar Matrícula | A participante afirmou que a funcionalidade pode ser melhorada e deu sugestões. | A participante acredita que o fluxo da funcionalidade não facilitou o uso do sistema e poderia melhorar. | O sistema cumpre sua função. | A dificuldade em encontrar a opção em meio ao site. | Média. A participante conseguiu realizar a matrícula porém com dificuldades para encontrar a opção correta. | A participante não conseguiu encontrar a primeira opção para realizar a tarefa (Aba de Ensino). |
 
-<b> Autores: </b> Larissa, Luana, Pedro.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ### Opinião do Usuário sobre os problemas e soluções
 
@@ -155,7 +155,7 @@ Como durante a avaliação foram discutidos alguns problemas e inconsistências 
 | Pedro Izarias | Isabela Garcia | Realizar Matrícula | Sim, a participante conseguiu atingir seu objetivo porém com dificuldades. | A falta de uma aba clara com as opções de matrícula e a quantidade de opções da aba de Ensino | A procura pela opção de matrícula no site. | A participante compreendeu bem todos os elementos do protótipo. | A falta de destaque para opções de matrícula | Colocar uma aba separada para matrícula e retirar as opções de matrícula da aba de Ensino. |
 
 
-<b> Autores: </b> Larissa, Luana, Pedro.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ## Experiência do Usuário com a entrevista
 
