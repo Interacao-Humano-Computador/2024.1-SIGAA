@@ -225,7 +225,7 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 | Pré-cadastro de Estágio | Ana Caroline Porto | Iago Passaglia | 02/06/2024 | 07/06/2024 | 19:00 | Caso do entrevistador |
 | Aba RU | João Antônio Ginuino Carvalho | Breno Alexandre Soares Garcia | 03/06/2024 | 05/06/2024 | 08:30 | Alguma Sala do UAC |
 | Matrículas | Debora Damasceno | Pedro Augusto | 28/05/2024 | 07/06/2024 | 16:00 | UnB - Darcy Ribeiro |
-| Grade Sugerida | - | Luana Medeiros | - | - | - | - |
+| Grade Sugerida | Leonardo Ramiro | Luana Medeiros | 28/05/2024 | 18/06/2024 | 18:00 | Casa do entrevistador |
 | Solicitação de bolsa | - | Bruno Araújo | - | - | - | - |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
@@ -261,6 +261,7 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 | Larissa Stéfane | Aluguel de Sala | 23:00  | 03/06/2024 | Casa da integrante |
 | Larissa Stéfane | Aba de Monitoria | 23:30  | 03/06/2024 | Casa da integrante |
 | Pedro Izarias | Aba de Matrículas | 15:00 | 03/06/2024 | Casa do integrante |
+| Luana Medeiros | Grade Sugerida | 18:00 | 17/06/2024 | Casa do integrante |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
@@ -320,6 +321,7 @@ Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=
 
 Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=QxSKSak-XPg)
 
+
 #### Foto do protótipo de papel do Aluguel de sala
 
  <div align="center">
@@ -332,7 +334,21 @@ Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=
 </div>
 
 </center>
+</details>
 
+<details>
+  <summary size="20"><b> Teste piloto - Protótipo de papel - Grade Sugerida - Luana Medeiros </b></summary> 
+<center> 
+
+**Vídeo 4:** Teste Piloto - Protótipo de papel - Grade Sugerida.
+
+<iframe width="866" height="487" src="https://www.youtube.com/embed/lUp9Ymx7j7o" title="Teste Piloto Protótipo de Papel - Grade Sugerida" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b> Autor: </b> <a href="https://github.com/LuaMedeiros"> Luana Medeiros</a>.
+
+</center>
+
+</details>
 
 ## Conclusão
 
@@ -354,4 +370,5 @@ Durante o processo de planejamento das entrevistas para avaliação dos protóti
 | 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | Pedro Izarias | 02/06/2024 |
 | 1.1 | Adição de informações sobre as matrículas nas tabelas| Pedro Izarias | Larissa Stéfane | 02/06/2024 |
 | 1.2 | Adição do teste piloto de aluguel de sala| Larissa Stéfane | - | 13/06/2024 |
-| 1.2 | Adição do teste piloto de Aba de Monitoria| Larissa Stéfane | - | 14/06/2024 |
+| 1.3 | Adição do teste piloto de Aba de Monitoria| Larissa Stéfane | - | 14/06/2024 |
+| 1.4 | Adição do teste piloto da Grade Sugerida| Luana Medeiros | - | 19/06/2024 |
