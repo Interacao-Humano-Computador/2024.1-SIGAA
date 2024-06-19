@@ -3,6 +3,15 @@
 
 ## Sumário
 
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Estrutura do Relato dos Resultados](#Estrutura-do-Relato-dos-Resultados)
+* [Objetivos e Escopo da Avaliação](#Objetivos-e-Escopo-da-Avaliação)
+* [Metodologia da Avaliação](#Metodologia-da-Avaliação)
+* [Dados Coletados](#Dados-Coletados)
+* [Obervações Gerais](#Obervações-Gerais)
+* [Conclusão](#Conclusão)
+* [Histórico de Versão](#Histórico-de-Versão)
 
 
 ## Introdução
@@ -139,7 +148,7 @@ Posteriormente, as informações serão organizadas conforme as perguntas elabor
 | ------------------ | ------------------ | ----------------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- |
 
-### Obervações gerais
+### Obervações Gerais
 
 - Serão apresentadas as observações gerais sobre os dados coletados e, se possível, haverá a presença de gráficos.
 
