@@ -122,7 +122,7 @@ Após as sugestões de melhorias e com os feedbacks, foi possível reformular e 
 
 <details>
 
-<summary size="20"><b> Aluguel de Sala - Reformulado </b></summary>
+<summary size="20"><b> Aluguel de Sala - Reformulado - Larissa Stéfane </b></summary>
 
 
 <div align="center">
@@ -147,7 +147,7 @@ Autora: Larissa Stéfane
 
 <details>
 
-<summary size="20"><b> Aba monitoria - Reformulado </b></summary>
+<summary size="20"><b> Aba monitoria - Reformulado - Larissa Stéfane </b></summary>
 
 
 <div align="center">
