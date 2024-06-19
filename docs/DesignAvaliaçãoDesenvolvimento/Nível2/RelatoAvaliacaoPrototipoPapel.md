@@ -50,7 +50,7 @@ Inicialmente, para mostrar a organização das entrevistas, a tabela 1 mostra o 
 
 | Entrevistador(a) | Entrevistad@ | Horário de Início | Horário de Fim | Data | Local |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
-| ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
+| Larissa Stéfane | Carlos Gabriel | 12:43 | 13:20 | 06/06 | Sala S5|
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
@@ -65,7 +65,7 @@ Com base no [perfil dos estudantes](PerfilUsuario/Estudantes/perfilEstudante.md)
 
 | Entrevistadores(s) | Entrevistado(s) | Perfil | Funcionalidade |
 | ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
+| Larissa Stéfane | Carlos Gabriel | <li> **Nome**: Carlos Gabriel Cardoso Ramos <br> <li> **Idade**: 23 anos <br> <li> **Gênero**: Masculino <br> <li>  **Curso**: Engenharia de Software na UnB <br> <li> **Frequência de uso de computadores:** 	Muita frequência, todos os dias. <br> <li>  **Familiaridade com software acadêmico:** Alta – Muita Familiaridade. <br> <li> **Habilidades com tecnologia:** Alta.  | Aluguel de Sala |
 | ------------------ | ------------------ | ----------------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- |
