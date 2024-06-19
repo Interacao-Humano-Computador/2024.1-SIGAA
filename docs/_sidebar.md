@@ -147,8 +147,8 @@
         - [Análise Avaliação de monitores](Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor.md)
 
       * Restaurante Universitário
-        - [Planejamento](Requisitos1/AnaliseTarefas/RestauranteUniversitário/Planejamento.md)
-        - [Análise Consulta de Saldo](Requisitos1/AnaliseTarefas/RestauranteUniversitário/AnáliseConsultaSaldo.md)
+        - [Planejamento](Requisitos1/AnaliseTarefas/RestauranteUniversitário/PlanejamentoRU.md)
+        - [Análise da Aba RU](Requisitos1/AnaliseTarefas/RestauranteUniversitário/AnáliseRU.md)
      
     * [Características do SIGAA](Requisitos2/CaracteristicasGerais.md)
 
