@@ -666,7 +666,7 @@ O processo de avaliação dos protótipos de papel, por meio de entrevistas com 
 | 1.1    | Adicionar entrevista do aluguel de sala                          | Larissa Stéfane | Pedro Izarias   | 30/05/2024 |
 | 1.2    | Adicionar entrevista da aba de monitoria                         | Larissa Stéfane | Pedro Izarias   | 30/05/2024 |
 | 1.3    | Adicionar entrevista da funcionalidade de realizar matrícula     | Pedro Izarias   | -               | 17/06/2024 |
-| 1.4    | Adicionar entrevista da funcionalidade de Grade Sugerida         | Luana Medeiros  | -               | 19/06/2024 |
+| 1.4    | Adicionar entrevista da funcionalidade de Grade Sugerida         | Luana Medeiros  | Pedro Izarias   | 19/06/2024 |
 
 
 
