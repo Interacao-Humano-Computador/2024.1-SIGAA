@@ -111,7 +111,7 @@ Para facilitar a visualização das tarefas, a figura 1 mostra o diagrama:
  <div align="center">
     Figura 1: Diagrama HTA da aba RU
     <br>
-    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU.png">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/HTAabaRU.png">
     <br>
     <strong> Autor: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
     <br>
@@ -126,7 +126,7 @@ Após a [avaliação do diagrama com um usuário](/DesignAvaliaçãoDesenvolvime
  <div align="center">
     Figura 2: Diagrama HTA da aba RU refeito
     <br>
-    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU2.png">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/HTAabaRU2.png">
     <br>
     <strong> Autor: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
     <br>
