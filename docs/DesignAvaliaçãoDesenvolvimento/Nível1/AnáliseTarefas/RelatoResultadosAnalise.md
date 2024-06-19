@@ -219,6 +219,31 @@ Autor: Iago Passaglia
 </details>
 
 
+<details>
+
+<summary size="20"><b> Aba do RU - Reformulado - Breno Alexandre</b></summary>
+
+
+<div align="center">
+
+FIgura 5: Reformulação da Aba do RU
+
+<br>
+
+<img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU2.png?raw=true">
+
+<br>
+
+Autor: Breno Alexandre.
+
+<br>
+
+</div>
+
+
+</details>
+
+
 ## Referências Bibliográficas
 
 1. Barbosa, S. D. J., & Silva, B. S. (2021). **Interação Humano-Computador e Experiência do Usuário**. Editora: Câmara Brasileira do Livro, SP, Brasil.
@@ -231,5 +256,6 @@ Autor: Iago Passaglia
 | 1.1 | Adição dos resultados da análise de tarefas do aluguel de sala e da aba de monitoria. | Larissa Stéfane | Bruno Araújo | 02/06/2024 |
 | 1.2 | Adição dos resultados da análise de tarefas da realização de matrícula | Pedro Izarias | Iago Passaglia | 03/06/2024 |
 | 1.3 | Adição dos resultados da análise de pré-cadastro de estágio. | Iago Passaglia | Pedro Izarias | 02/06/2024 |
-| 1.4 | Adição dos resultados da análise aba do RU. | Breno Alexandre | Bruno Araújo | 03/06/2024 |
+| 1.4 | Adição dos resultados da análise aba do RU.                | Breno Alexandre | Bruno Araújo | 03/06/2024 |
 | 1.5 | Adição dos resultados da análise aba Declaração de Bolsa. | Bruno Araújo| Pedro Izarias | 03/06/2024 |
+| 1.6 | Adição do HTA da Aba do RU reformulado. | Breno Alexandre| -    | 19/06/2024 |
