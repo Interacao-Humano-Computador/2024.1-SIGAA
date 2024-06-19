@@ -23,6 +23,7 @@ Esse planejamento da avaliação dos protótipos de papel pretende principal val
 
 Como foi citado, a metodologia utilizada para essa avaliação dos protótipos de papel segue o framework DECIDE, o qual compreende seis etapas principais que podem ser observadas na tabela 1. Assim, primeiramente, serão definidos os objetivos específicos da avaliação, ao focar na usabilidade e na eficiência das funcionalidades. Em seguida, serão exploradas as questões relevantes para a avaliação e será definida a escolha dos métodos, que incluirá técnicas como entrevistas e questionários. Além disso, os aspectos éticos serão considerados para garantir a confidencialidade e o consentimento dos participantes. Por fim, os dados coletados serão avaliados e interpretados para identificar pontos fortes e áreas de melhoria.
 
+A Tabela 1 apresenta a organização detalhada do framework DECIDE, que serviu como base para a estruturação da metodologia utilizada neste planejamento.
 
 <center>
 
