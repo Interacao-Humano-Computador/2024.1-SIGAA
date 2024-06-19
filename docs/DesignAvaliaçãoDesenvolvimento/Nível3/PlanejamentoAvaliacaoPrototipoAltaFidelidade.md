@@ -153,3 +153,17 @@ Na avaliação do protótipo de alta fidelidade, será essencial garantir a prot
 ### Minimização de Riscos
 
 O ambiente de avaliação será seguro e confortável, em um local que não tenha muitas distrações. Além disso, os participantes poderão interromper sua participação a qualquer momento se se sentirem desconfortáveis.
+
+## E Avaliar, interpretar e apresentar os dados
+
+Após a coleta dos dados durante a avaliação do protótipo de alta fidelidade, o processo de análise será conduzido de maneira a garantir a precisão e a relevância dos resultados. Desse modo, serão realizados os seguintes procedimentos:
+
+##### Revisão do conteúdo das gravações:
+
+Observação das expressões faciais e gestos para interpretar reações emocionais durante a interação com o protótipo. Além disso, as entrevistas serão transcritas por meio das perguntas realizadas com os usuários.
+
+##### Organização:
+
+Em um documento próprio para os relatos dos resultados, serão organizadas tabelas com os dados de cada avaliação e as informações coletadas.
+
+Além disso, o feedback e as observações dos usuários também serão levadas em consideração.
