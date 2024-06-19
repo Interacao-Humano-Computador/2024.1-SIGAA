@@ -16,7 +16,7 @@ Dá no máximo para ver o extrato no RU dos últimos sete dias. A imagem 1 mostr
 <div align="center">
     Imagem 1: Abas de algumas funcionalidades (Não há o RU).
     <br>
-    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/abasSIGAA.png">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/abasSIGAA.png">
     <br>
      Fonte: Breno Alexandre
     <br>
@@ -29,7 +29,7 @@ A imagem 2 mostra que até há a possibilidade de consulta de extrato no RU.
 <div align="center">
     Imagem 2: Extrato do RU.
     <br>
-    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/extratoRU.jpeg">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/extratoRU.jpeg">
     <br>
      Fonte: Breno Alexandre
     <br>
@@ -101,3 +101,4 @@ Projeto Lichess. Disponívem em: <https://interacao-humano-computador.github.io/
 | Versão | Alteração                         | Responsável     | Revisor          | Data       |
 | ------ | --------------------------------- | --------------- | ---------------- | ---------- |
 | 1.0    | Criação e realização do documento | Breno Alexandre | Larissa Stéfane  | 06/05/2024 |
+| 1.1    | Atualiza imagens para carregaram no git pages | Breno Alexandre | -    | 19/06/2024 |
