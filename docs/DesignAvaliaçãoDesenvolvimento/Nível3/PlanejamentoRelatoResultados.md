@@ -25,6 +25,6 @@ A análise dos resultados seguirá as diretrizes estabelecidas no livro "Intera�
 
 Primeiramente, será reafirmado o escopo e os objetivos da avaliação no início da análise dos relatos. Isso é essencial para justificar a coleta e a estruturação dos dados que serão apresentados. Em seguida, será descrito o processo de realização das avaliações, incluindo os métodos utilizados e as condições em que foram aplicados.
 
-Os dados coletados serão organizados conforme as perguntas preparadas para a avaliação, apresentando-os em tabelas e gráficos para facilitar a compreensão e interpretação. Por fim, uma conclusão será elaborada, sintetizando as principais observações e destacando os pontos críticos e as oportunidades de melhoria identificadas.
+Os dados coletados serão organizados conforme as perguntas preparadas para a avaliação, apresentando-os em tabelas e gráficos para facilitar a compreensão e interpretação. Por fim, uma conclusão será elaborada ao sintetizar as principais observações e destacar os pontos críticos e as oportunidades de melhoria identificadas.
 
 Além disso, será incluída uma análise detalhada dos feedbacks qualitativos e quantitativos obtidos dos participantes.
