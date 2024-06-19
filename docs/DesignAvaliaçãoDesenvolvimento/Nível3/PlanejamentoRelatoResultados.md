@@ -28,3 +28,46 @@ Primeiramente, será reafirmado o escopo e os objetivos da avaliação no iníci
 Os dados coletados serão organizados conforme as perguntas preparadas para a avaliação, apresentando-os em tabelas e gráficos para facilitar a compreensão e interpretação. Por fim, uma conclusão será elaborada ao sintetizar as principais observações e destacar os pontos críticos e as oportunidades de melhoria identificadas.
 
 Além disso, será incluída uma análise detalhada dos feedbacks qualitativos e quantitativos obtidos dos participantes.
+
+## Estrutura do Relato dos Resultados
+
+### Objetivos e Escopo da Avaliação
+Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja, os objetivos de **verificar a conformidade com padrões estabelecidos** e de **identificar problemas na interação e na interface.**
+- Aqui também devem ser explicados o que foi feito na avaliação para se atingir esses objetivos.
+
+### Metodologia da Avaliação
+
+- Detalhar como as avaliações foram realizadas, ou seja, explicar resumidamente. Para isso, serão utilizadas as tabelas 1, 2 e 3.
+  
+#### Entrevistas Executadas
+- A tabela 1 irá mostrar o cronograma executado das avaliações:
+  
+** Tabela 1:** Cronograma executado das entrevistas.
+| Entrevistador(a) | Entrevistad@ | Horário de Início | Horário de Fim | Data | Local |
+| ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
+| ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
+| ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
+
+#### Apresentação dos Usuários
+
+- A tabela 2 deverá mostrar o perfil dos entrevistados
+  
+**Tabela 2:** Perfil dos entrevistados.
+
+| Entrevistadores(s) | Entrevistado(s) | Perfil | Funcionalidade |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+
+#### Descrição da Entrevista
+
+- A tabela 3 deverá mostrar uma descrição breve de como foi cada entrevista.
+
+** Tabela 3:** Execução das entrevistas
+
+| Entrevistador(a) | Entrevistad@ | Funcionalidade | Descrição do processo | Descrição do ambiente <br> Nível de barulho: <br> Silêncio completo, barulho ao fundo ou <br> Muito barulho, ou ventania. | Experiência do participante |
+| ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
+| ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
+| ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
