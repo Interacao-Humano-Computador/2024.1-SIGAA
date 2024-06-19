@@ -143,4 +143,13 @@ A avaliação do protótipo de alta fidelidade está estimada para durar entre 1
 3. **Documentos**: Termo de Consentimento Livre e Esclarecido (TCLE), questionários de pré-avaliação, avaliação e pós-avaliação.
 4. **Roteiro de Acompanhamento**: Impresso para guiar a estrutura da avaliação durante a interação com o protótipo.
 
+## D Decidir como lidar com as questões éticas
 
+Na avaliação do protótipo de alta fidelidade, será essencial garantir a proteção dos direitos e o bem-estar dos participantes. Desse modo, ao seguir as diretrizes do framework DECIDE, serão abordados um conjunto de questões éticas:
+
+- **Termo de Consentimento**: Os participantes serão informados sobre os objetivos, procedimentos, riscos, benefícios e seus direitos antes da avaliação por meio de um Termo de Consentimento Livre e Esclarecido (TCLE) e esse deverá ser assinado antes da gravação começar.
+    - A entrevista só poderá ocorrer se o usuário der o seu consentimento e assinar o termo antes.
+      
+### Minimização de Riscos
+
+O ambiente de avaliação será seguro e confortável, em um local que não tenha muitas distrações. Além disso, os participantes poderão interromper sua participação a qualquer momento se se sentirem desconfortáveis.
