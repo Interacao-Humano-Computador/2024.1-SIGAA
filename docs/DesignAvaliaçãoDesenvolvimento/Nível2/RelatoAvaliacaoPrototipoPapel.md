@@ -51,7 +51,7 @@ Inicialmente, para mostrar a organização das entrevistas, a tabela 1 mostra o 
 | Entrevistador(a) | Entrevistad@ | Horário de Início | Horário de Fim | Data | Local |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
 | Larissa Stéfane | Carlos Gabriel | 12:43 | 13:20 | 06/06 | Sala S5|
-| ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
+| Larissa Stéfane | Amanda Campos | 13:40 | 14:16 | 06/06 | Sala S5|
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -66,7 +66,7 @@ Com base no [perfil dos estudantes](PerfilUsuario/Estudantes/perfilEstudante.md)
 | Entrevistadores(s) | Entrevistado(s) | Perfil | Funcionalidade |
 | ------------------ | ------------------ | ----------------- | -------- |
 | Larissa Stéfane | Carlos Gabriel | <li> **Nome**: Carlos Gabriel Cardoso Ramos <br> <li> **Idade**: 23 anos <br> <li> **Gênero**: Masculino <br> <li>  **Curso**: Engenharia de Software na UnB <br> <li> **Frequência de uso de computadores:** 	Muita frequência, todos os dias. <br> <li>  **Familiaridade com software acadêmico:** Alta – Muita Familiaridade. <br> <li> **Habilidades com tecnologia:** Alta.  | Aluguel de Sala |
-| ------------------ | ------------------ | ----------------- | -------- |
+| Larissa Stéfane | Amanda Alves Campos | <li> **Nome**: Amanda Alves Campos <br> <li> **Idade**: 23 anos <br> <li> **Gênero**: Feminino <br> <li>  **Curso**: Estuda engenharia na UnB, atualmente cursa engenharia aéreo espacial, mas pensa em migrar para engenharia de software. <br> <li> **Frequência de uso de computadores:** 	Diariamente. <br> <li>  **Familiaridade com software acadêmico:** Tem familiaridade, pois utiliza todos os dias. <br> <li> **Habilidades com tecnologia:**  Lida bem com a tecnologia, pois estuda na área de tecnologia.  | Aba de Monitoria |
 | ------------------ | ------------------ | ----------------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- |
 
@@ -81,8 +81,7 @@ Para se compreender melhor como cada entrevista ou reunião foi realizada, a tab
 | Entrevistador(a) | Entrevistad@ | Funcionalidade | Descrição do processo | Descrição do ambiente <br> Nível de barulho: <br> Silêncio completo, barulho ao fundo ou Muito barulho, ou ventania. | Experiência do participante |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
 | Larissa Stéfane | Carlos Gabriel | Aluguel de Sala | A avaliação foi realizada na sala de aula S9 e foram utilizadas duas câmeras. Uma em uma mesa, onde a câmera estava posicionada para captar todos os movimentos e interações com o protótipo de papel. Uma segunda que gravou a interação direta entre a integrante da equipe e o participante usuário.  | Silêncio com um pouco de ruído ao fundo devido aos estudantes fora da sala de aula. | O participante afirmou estar satisfeito. |
-| ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
-
+| Larissa Stéfane | Amanda Campo | Aba de Monitoria | A avaliação foi realizada na sala de aula S9 e foram utilizadas duas câmeras. Uma em uma mesa, onde a câmera estava posicionada para captar todos os movimentos e interações com o protótipo de papel. Uma segunda que gravou a interação direta entre a integrante da equipe e a participante usuário.  | Silêncio com um pouco de ruído ao fundo devido aos estudantes fora da sala de aula. | A satisfação da participante é boa, ela achou o procedimento tranquilo e interessante. Ela também pontuou que o processo foi bem explicado. |
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ## Dados Coletados
@@ -100,7 +99,7 @@ A tabela 4 mostra o que o participante espera da funcionalidade antes de interag
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Opinião prévia |
 | ------------------ | ------------------ | ----------------- | -------- |
 | Larissa Stéfane | Carlos Gabriel | Aluguel de Sala | O participante acredita que a funcionalidade deve ser capaz de atender e registrar as demandas, sendo capaz de mostrar quem alugou e quem precisa alugar para manter o controle. |
-| ------------------ | ------------------ | ----------------- | -------- |
+| Larissa Stéfane | Amanda Campos | Aba de Monitoria | Deve permitir que ocorra pedido para um estudante ser monitor e facilitar a comunicação com os professores. Além disso, também deve permitir verificar os resultados da monitoria e o processo de monitoria em si.|
 | ------------------ | ------------------ | ----------------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- |
 
