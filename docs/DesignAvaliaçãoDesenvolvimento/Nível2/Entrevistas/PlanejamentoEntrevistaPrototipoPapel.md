@@ -350,7 +350,7 @@ Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=
 </details>
 
 <details>
-  <summary size="20"><b> Teste piloto - Protótipo de papel - Grade Sugerida - Luana Medeiros </b></summary> 
+  <summary size="20"><b> Teste piloto - Protótipo de papel - Pré-Cadastro de Estágio - Iago Passaglia </b></summary> 
 <center> 
 
 **Vídeo 4:** Teste Piloto - Protótipo de papel - Pré-Cadastro de Estágio.
@@ -385,4 +385,4 @@ Durante o processo de planejamento das entrevistas para avaliação dos protóti
 | 1.2 | Adição do teste piloto de aluguel de sala| Larissa Stéfane | Iago Passaglia | 13/06/2024 |
 | 1.3 | Adição do teste piloto de Aba de Monitoria| Larissa Stéfane | Iago Passaglia | 14/06/2024 |
 | 1.4 | Adição do teste piloto da Grade Sugerida| Luana Medeiros | Iago Passaglia | 19/06/2024 |
-| 1.4 | Adição do teste piloto de Pré-Cadastro de Estágio| Iago Passaglia | - | 19/06/2024 |
+| 1.5 | Adição do teste piloto de Pré-Cadastro de Estágio| Iago Passaglia | Pedro Izarias | 19/06/2024 |
