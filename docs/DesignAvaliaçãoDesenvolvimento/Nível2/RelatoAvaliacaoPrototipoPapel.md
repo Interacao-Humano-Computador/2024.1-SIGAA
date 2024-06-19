@@ -145,7 +145,7 @@ Como durante a avaliação foram discutidos alguns problemas e inconsistências 
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Os usuários <br> conseguem alcançar <br> seus objetivos? | Elementos que geraram <br> insatisfação | Elementos que geraram <br> desmotivação | Compreensão dos elementos | Problemas encontrados | Sugestão de melhoria |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
-| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Larissa Stéfane | Carlos Gabriel | Aluguel de Sala | Sim, o participante afirmou que conseguiu atingir o seu objetivo com efetividade. | O participante afirmou que gostou de todos os elementos e etapas da funcionalidade. <br> Não houve elementos ou partes que o desagradou.| Uma situação que poderia desmotivar o usuário, principalmente, se forem iniciantes ou leigos em relação ao SIGAA, seria difícil encontrar a funcionalidade, que está na “aba outros”. | Segundo o usuário, as tareas estão bem implícitas e cada uma delas indica bem o que significa a etapa ou tarefa. | Dificuldade para encontrar a funcionalidade na página do SIGAA. | Se tiver ícones na representação de algumas etapas, o ideal seria utilizar um que o usuário mais conhece e que represente bem o contexto. |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
@@ -160,7 +160,7 @@ Outro ponto importante é a equipe saber como foi a experiência pessoal dos par
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | opinião sobre a experiência |
 | ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
+| Larissa Stéfane | Carlos Gabriel | Aluguel de Sala | O participante afirmou estar satisfeito. |
 | ------------------ | ------------------ | ----------------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- |
@@ -177,7 +177,7 @@ Outro ponto importante é a equipe saber como foi a experiência pessoal dos par
 | Versão | Alteração | Responsável | Revisor | Data |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
 | 1.0 | Elaboração do documento com suas estruturas | Larissa Stéfane | - | 18/06/2024 |
-
+| 1.1 | Adição das informações para o Aluguel de Sala | Larissa Stéfane | - | 18/06/2024 |
 
 
 
