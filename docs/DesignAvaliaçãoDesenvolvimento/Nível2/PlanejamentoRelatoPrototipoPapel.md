@@ -158,5 +158,5 @@ Posteriormente, as informações serão organizadas conforme as perguntas elabor
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
-| 1.0 | Elaboração do documento com suas estruturas | Larissa Stéfane | - | 18/06/2024 |
+| 1.0 | Elaboração do documento com suas estruturas | Larissa Stéfane | Bruno Araújo | 18/06/2024 |
 
