@@ -121,12 +121,12 @@ Para facilitar a visualização das tarefas, a figura 1 mostra o diagrama:
 
 Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA da aba RU](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU.png)
 
-Para facilitar a visualização das tarefas, a figura 1 mostra o diagrama:
+Após a [avaliação do diagrama com um usuário](/DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/Execucao_Entrevistas.md), ele foi refeito baseado no feedback da entrevista, como mostra a figura 2.
 
  <div align="center">
-    Figura 1: Diagrama HTA da aba RU
+    Figura 2: Diagrama HTA da aba RU refeito
     <br>
-    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU.png">
+    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU2.png">
     <br>
     <strong> Autor: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
     <br>
@@ -134,7 +134,7 @@ Para facilitar a visualização das tarefas, a figura 1 mostra o diagrama:
 
 <br>
 
-Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA da aba RU](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU.png)
+Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA da aba RU](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU2.png)
 
 ### Tabela de Análise
 As tabelas de 1 a 4 mostram a tabela da análise hierárquica de tarefas sobre as funcionalidades.
