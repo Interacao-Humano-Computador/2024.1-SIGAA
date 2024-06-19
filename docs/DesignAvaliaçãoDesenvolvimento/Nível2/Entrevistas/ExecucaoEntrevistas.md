@@ -137,7 +137,7 @@ Termo de consentimento do participante Carlos Gabriel em [Termo Carlos Gabriel](
 
 **11. Que aspectos da interação pelo formato do protótipo podem desmotivar você a explorar essas funcionalidades?**
 
-- Uma situação que poderia desmotivar o usuário, principalmente, se forem iniciantes ou leigos em relação ao SIGAA, seria encontrar a funcionalidade, que está na “aba outros”.
+- Uma situação que poderia desmotivar o usuário, principalmente, se forem iniciantes ou leigos em relação ao SIGAA, seria difícil encontrar a funcionalidade, que está na “aba outros”.
 
 **12. Você consegue entender a função de cada elemento presente no protótipo de papel?**
 
