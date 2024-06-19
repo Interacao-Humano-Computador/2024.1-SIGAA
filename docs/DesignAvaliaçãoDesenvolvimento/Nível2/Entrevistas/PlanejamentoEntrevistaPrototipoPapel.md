@@ -371,6 +371,10 @@ Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=
 
 <b> Autor: </b> <a href="https://github.com/brunocva"> Bruno Araújo</a>.
 
+Foto do protótipo de papel
+![prototipo](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/2daf8886-885a-408f-80f8-3b35e8610b0e)
+
+
 </center>
 
 </details>
