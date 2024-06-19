@@ -22,7 +22,6 @@ Por meio da análise de tarefas, este documento apresenta a análise detalhada d
 - **Consulta de Saldo:** visa disponibilizar uma verificação em tempo real dos créditos de um estudante no sistema do Restaurante Universitário.
 - **Recarga de Créditos:** visa disponibilizar a recarga de créditos de um estudante no sistema do Restaurante Universitário.
 - **Consulta de Cardápio:** visa disponibilizar e exibir o cardápio da semana que tem no site do Restaurante Universitário.
-- **Realização de Pesquisa de Satisfação do RU:** visa disponibilizar a realização de pesquisa de satisfação do RU.
 
 Portanto, para decompor as atividades envolvidas nestes processos, hierarquia analítica e GOMS (Goals, Operators, Methods, e Selection Rules), 
 serão usados, procurando entender e avaliar a interação do usuário com a interface e identificar as áreas necessárias para execução de consultas através do SIGAA.
@@ -69,24 +68,21 @@ Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, h
            1.2.2.2 Confirmar Pagamento do Boleto
        1.3 Opção de PIX (1/2)
          1.3.1 Inserir Valor a ser Recarregado (1>2)
-           1.3.1.1 Digitar Valor Desejado para Recarga
          1.3.2 Gerar QR Code para Pagamento via PIX (1>2)
            1.3.2.1 Gerar Código QR com Dados da Transação
            1.3.2.2 Disponibilizar Código QR para Escaneamento
+           1.3.2.3 Disponibilizar Código QR para copiar
          1.3.3 Efetuar Pagamento via PIX (1>2)
-           1.3.3.1 Escanear QR Code com Aplicativo Bancário
+           1.3.3.1 Escanear/Colar QR Code com Aplicativo Bancário
            1.3.3.2 Confirmar Transação PIX
      2. Receber Confirmação e Comprovante (1>2)
        2.1 Visualizar Confirmação da Transação
          2.1.1 Receber Notificação de Sucesso
        2.2 Receber Comprovante de Pagamento (1>2)
          2.2.1 Gerar Comprovante em Formato Digital ou PDF
-     3. Atualizar Saldo na Conta do Usuário (1>2)
-       3.1 Refletir Saldo Atualizado na Conta do Usuário
-         3.1.1 Verificar Disponibilidade de Recursos Recarregados
-     4. Oferecer Suporte ao Usuário (1>2)
-       4.1 Disponibilizar Canal de Atendimento ao Cliente
-         4.1.1 Chat ao Vivo, Suporte por Telefone, E-mail, etc.
+     3. Oferecer Suporte ao Usuário (1>2)
+       3.1 Disponibilizar Canal de Atendimento ao Cliente
+         3.1.1 Chat ao Vivo, Suporte por Telefone, E-mail, etc.
 
     0. Realizar Consulta de Cardápio (1/2)
       1. Opção de Consultar Cardápio (1>2)
@@ -104,16 +100,26 @@ Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, h
                   1.2.1.3 Dar zoom 
                   1.2.1.4 Tirar zoom
 
-    0. Realizar Pesquisa de Satisfação do RU (1/2)
-       1. Opção de Pesquisa de Satisfação do RU (1>2)
-          1.1 Preencher o formulário (1>2)
-             1.1.1 Baixar uma cópia do formulário respondido como PDF
-
 <strong> Autor: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
 
 </details>
 
 ### Diagrama de Atividades
+
+Para facilitar a visualização das tarefas, a figura 1 mostra o diagrama:
+
+ <div align="center">
+    Figura 1: Diagrama HTA da aba RU
+    <br>
+    <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU.png">
+    <br>
+    <strong> Autor: </strong> <a href="https://github.com/brenoalexandre0"> Breno Alexandre </a>
+    <br>
+</div>
+
+<br>
+
+Para visualizar a imagem em uma qualidade melhor e em um tamanho maior clique em [Diagrama HTA da aba RU](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/HTAabaRU.png)
 
 Para facilitar a visualização das tarefas, a figura 1 mostra o diagrama:
 
