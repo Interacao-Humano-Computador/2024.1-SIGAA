@@ -71,3 +71,49 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
+
+### Dados Coletados
+
+- Apresentação das observações e das respostas dos usuários.
+
+### Avaliação por Inspeção
+
+####  Conformidade com os padrões das normas
+
+- A tabela 4 deve mostrar o que o integrante do grupo responsável pela funcionalidade avaliou do seu protótipo em relação à conformidade com as normas espera da funcionalidade antes de interagir com o protótipo de papel.
+
+** Tabela 4:** Conformidade com os padrões das normas
+
+| Integrante | Funcionalidade | Quais tópicos interface segue os padrões do W3C ? | Quais tópicos a interface não segue os padrões do W3C? |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+
+
+####  Conformidade com os padrões do site do SIGAA 
+
+- A tabela 5 deve  mostrar o que o integrante do grupo responsável pela funcionalidade avaliou do seu protótipo em relação à conformidade com o padrão do SIGAA e da lógica do site.
+
+** Tabela 5:** Conformidade com os padrões do site do SIGAA
+
+| Integrante | Funcionalidade | Quais tópicos interface segue os padrões do SIGAA? | Quais tópicos a interface não segue os padrões do SIGAA? |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+
+####  Como o integrante observou o participante
+
+- A tabela 6 deve  mostrar o que o integrante do grupo responsável pela funcionalidade avaliou em relação ao participante.
+
+** Tabela 6:** Conformidade com os padrões do site do SIGAA
+
+| Entrevistador(a) | Entrevistado(a) | Funcionalidade | Como o participante operou o protótipo | Tempo que o participante realizou a atividade | Quantidade de erros do participante | Quantidade de vezes que o participante <br> teve que parar de interagir com o protótipo para tirar dúvidas | Expressões predominantes do participante |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- | 
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |
