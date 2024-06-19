@@ -78,7 +78,7 @@ Posteriormente, as informações serão organizadas conforme as perguntas elabor
 
 #### Opinião Prévia
 
-- A tabela 4 deve mostrar qual o que o participante espera da funcionalidade antes de interagir com o protótipo de papel.
+- A tabela 4 deve mostrar o que o participante espera da funcionalidade antes de interagir com o protótipo de papel.
 
 - É a opinião do usuário sem que ela tenha interferência da experiência do participante com o protótipo.
 
