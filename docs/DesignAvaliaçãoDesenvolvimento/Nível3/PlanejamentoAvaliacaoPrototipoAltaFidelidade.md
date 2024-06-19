@@ -94,7 +94,7 @@ Tabela 3: Perguntas da avaliação para o Integrante
 
 | Ordem das Perguntas | Pergunta | Objetivo da Pergunta |
 |---------------------|----------|----------------------|
-| 1 | O sistema está de acordo com os padrões de acessibilidade do W3C? | Verificar conformidade com padrões estabelecidos |
+| 1 | A interface está de acordo com os padrões de acessibilidade do W3C? | Verificar conformidade com padrões estabelecidos |
 | 2 | A interface segue o padrão da interface do SIGAA e a lógica do site também? | Verificar conformidade com padrões estabelecidos |
 | 3 | O usuário conseguiu operar o protótipo? | Identificar problemas na interação e na interface |
 | 4 | Quanto tempo o participante realizou a atividade? | Identificar problemas na interação e na interface |
