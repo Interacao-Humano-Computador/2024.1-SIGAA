@@ -379,6 +379,22 @@ Foto do protótipo de papel
 
 </details>
 
+<details>
+  <summary size="20"><b> Teste piloto - Protótipo de papel -Aba RU- Breno Alexandre </b></summary> 
+<center> 
+
+<iframe width="1695" height="677" src="https://www.youtube.com/watch?v=r3mOmCRSKZU&feature=youtu.be" title="Teste piloto prototipo de papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b> Autor: </b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
+
+Foto do protótipo de papel
+![prototipo](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/papelAbaRU.png?raw=true)
+
+
+</center>
+
+</details>
+
 ## Conclusão
 
 Durante o processo de planejamento das entrevistas para avaliação dos protótipos de papel, foram levados em consideração vários aspectos essenciais para assegurar a eficácia e a ética do estudo. Foram elaborados questionários que se concentram nos objetivos específicos da avaliação. Além disso, foi desenvolvido um roteiro para as entrevistas, visando aprimorar a organização e manter um padrão consistente entre as oito entrevistas que serão conduzidas pelo grupo.
@@ -403,5 +419,6 @@ Durante o processo de planejamento das entrevistas para avaliação dos protóti
 | 1.4 | Adição do teste piloto da Grade Sugerida| Luana Medeiros | Iago Passaglia | 19/06/2024 |
 | 1.5 | Adição do teste piloto de Pré-Cadastro de Estágio| Iago Passaglia | Pedro Izarias | 19/06/2024 |
 | 1.6 | Adição do teste piloto de Solicitação de Bolsas| Bruno Araújo | - - | 19/06/2024 |
+| 1.7 | Adição do teste piloto da Aba do RU | Breno Alexandre | - - | 19/06/2024 |
 
 
