@@ -55,7 +55,7 @@ Inicialmente, para mostrar a organização das entrevistas, a tabela 1 mostra o 
 | Luana Medeiros  | Leonardo Ramiro | 18:00 | 18:20 | 18/06 | Casa do Entrevistador |
 | Pedro Izarias  | Isabela Garcia | 17:10 | 17:29 | 18/06 | Casa do Entrevistador |
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autores: </b> Larissa, Luana, Pedro
 
 ### Apresentação dos Usuários
 
