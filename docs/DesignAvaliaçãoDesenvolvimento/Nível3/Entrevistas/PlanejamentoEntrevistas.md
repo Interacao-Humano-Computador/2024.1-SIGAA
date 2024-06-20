@@ -212,13 +212,13 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 
 | Funcionalidade | Entrevistado | Entrevistador | Data que entrou em contato | Data da entrevista | Horário da entrevista| Local da entrevista |
 | - | - | - | - | - | - | - |
-| Aba de Monitoria |  | Larissa Stéfane |  | |  | |
-| Aluguel de Sala | | Larissa Stéfane |  |  |  |  |
-| Pré-cadastro de Estágio |  | Iago Passaglia |  |  |  | |
-| Aba RU |  | Breno Alexandre Soares Garcia |  |  | |  |
-| Matrículas | | Pedro Augusto | 28/05/2024 |  |  |  |
-| Grade Sugerida |  | Luana Medeiros |  |  |  |  |
-| Solicitação de bolsa | - | Bruno Araújo | - | - | - | - |
+| Aba de Monitoria | Lavínia Inácia | Larissa Stéfane | 17/06/2024 | 22/06/2024 | 15:00 |teams |
+| Aluguel de Sala | Bruno  | Larissa Stéfane | 17/06/2024 | 22/06/2024 | 20:00 | teams|
+| Pré-cadastro de Estágio | Ana Caroline | Iago Passaglia | 18/06/2024 |  24/06/2024 | 21:30 | teams |
+| Aba RU | João Antônio | Breno Alexandre  | 18/06/2024 | 22/06/2024 | 11:00 | teams |
+| Matrículas | Narla El Hafi | Pedro Augusto | 28/05/2024 | 18/06/2024 | 13:00 | teams |
+| Grade Sugerida | Leonardo Ramiro | Luana Medeiros | 18/06/2024 | 23/06/2024 | 21:00 | teams |
+| Solicitação de bolsa | Laura Melo | Bruno Araújo | 18/06/2024 | 24/06/2024 | 10:00 | Teams |
 
 <b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane
 
@@ -250,13 +250,13 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 
 | Integrante | tema | Horário | Data| Local |
 | - | - | - | - | - |
-| Breno Alexandre | RU | 15:00 | 25/06/2024 | Casa do integrante |
-| Bruno Araújo | Bolsas | 22:00 | 26/06/2024 | Casa do integrante |
-| Iago Passaglia| Estágio | 22:00 | 26/06/2024 | Casa do integrante |
-| Larissa Stéfane | Aluguel de Sala | 15:00  | 22/06/2024 | Casa da integrante |
-| Larissa Stéfane | Aba de Monitoria | 15:30  | 22/06/2024 | Casa da integrante |
-| Luana Medeiros | Grade Sugerida | 17:00 | 23/06/2024 | Casa do integrante |
-| Pedro Izarias | Aba de Matrículas | 19:00 | 24/06/2024 | Casa do integrante |
+| Breno Alexandre | RU | 15:00 | 22/06/2024 | Casa do integrante |
+| Bruno Araújo | Bolsas | 22:00 | 22/06/2024 | Casa do integrante |
+| Iago Passaglia| Estágio | 22:00 | 21/06/2024 | Casa do integrante |
+| Larissa Stéfane | Aluguel de Sala | 15:00  | 21/06/2024 | Casa da integrante |
+| Larissa Stéfane | Aba de Monitoria | 15:30  | 21/06/2024 | Casa da integrante |
+| Luana Medeiros | Grade Sugerida | 17:00 | 22/06/2024 | Casa do integrante |
+| Pedro Izarias | Aba de Matrículas | 19:00 | 21/06/2024 | Casa do integrante |
 
 <b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane
 
