@@ -114,34 +114,16 @@ Desse modo, abaixo, há o questionário de pré-avaliação
 
 2. **Com que frequência você usa computadores ou dispositivos móveis?**
 
-- ( ) Diariamente
-
-- ( ) Semanalmente
-
-- ( ) Raramente
-
 
 3. **Qual o seu nível de familiaridade com o uso de software acadêmico em geral?**
-
-- ( ) Alto
-
-- ( ) Médio
-
-- ( ) Baixo
-
-- ( ) Nenhum
 
 
 4. **Como você classificaria suas habilidades gerais com a tecnologia?**
 
 5. **Qual a sua expectativa em relação à funcionalidade?**
 
-- Resposta: ___________________________________
-
-
 6. **Resumidamente, como você espera a funcionalidade seja?**
 
-- Resposta: ___________________________________
 
 </details>
 
@@ -427,7 +409,7 @@ Durante o processo de planejamento das entrevistas para avaliação dos protóti
 | 1.3 | Adição do teste piloto de Aba de Monitoria| Larissa Stéfane | Iago Passaglia | 14/06/2024 |
 | 1.4 | Adição do teste piloto da Grade Sugerida| Luana Medeiros | Iago Passaglia | 19/06/2024 |
 | 1.5 | Adição do teste piloto de Pré-Cadastro de Estágio| Iago Passaglia | Pedro Izarias | 19/06/2024 |
-| 1.6 | Adição do teste piloto de Solicitação de Bolsas| Bruno Araújo | - - | 19/06/2024 |
-| 1.7 | Adição do teste piloto da Aba do RU | Breno Alexandre | - - | 19/06/2024 |
+| 1.6 | Adição do teste piloto de Solicitação de Bolsas| Bruno Araújo | Larissa Stéfane | 19/06/2024 |
+| 1.7 | Adição do teste piloto da Aba do RU | Breno Alexandre | Larissa Stéfane | 19/06/2024 |
 
 
