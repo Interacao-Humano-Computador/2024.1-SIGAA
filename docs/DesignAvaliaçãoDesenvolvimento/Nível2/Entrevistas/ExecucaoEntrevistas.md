@@ -832,17 +832,17 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
   
 **1. Dados Demográficos**:
 
-- **Nome**: Leonardo Ramiro
+- **Nome**: Victor Moreira Almeida
 
-- **Idade**: 21 anos
+- **Idade**: 20 anos
 
 - **Gênero**: Masculino
 
-- **Curso ou Área de Estudo/Trabalho**: Engenharia de Software na UnB
+- **Curso ou Área de Estudo/Trabalho**: Quinto semestre de Engenharia de Software na UnB
 
 **2. Com que frequência você usa computadores ou dispositivos móveis?**
 
-- Todo dia.
+- Muita frequência.
 
 **3. Qual o seu nível de familiaridade com o uso de software acadêmico, em geral?**
 
@@ -850,15 +850,17 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **4. Como você classificaria suas habilidades gerais com a tecnologia?**
 
-- Acima da Média.
+- Alta.
 
 **5. Qual a sua expectativa em relação à funcionalidade?**
 
-- Acredita que vai atender à expectativa
+- Espera que seja tranquilo.
 
 **6. Resumidamente, como você espera que a funcionalidade seja?**
 
-- Acredita que a funcionalidade deve atender as expectativas.
+- Consultar saldo: logar e clicar em algum botão.
+- Recarga de Créditos: ir para uma tela, inserir o valor de recarga e o método de pagamento.
+- Consultar cardápio: apertar apenas um botão.
 
  </details>
 
@@ -877,44 +879,49 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **1. Como você define a sua interação com o protótipo de papel e como ele difere das suas expectativas?**
 
-- O protótipo está conforme a expectativa do participante e ele considerou a interação amigável e intuitiva. Além disso, ele considera que está segundo a expectativa dele, pois mostrou os dados e as informações que ele gostaria de visualizar. Também achou o protótipo realista.
+- Foi até que bem, porém tiveram muitos passos em algumas funcionalidades. Ainda assim, acha que fez sentido.
 
 **2. De que maneira esse protótipo de papel influenciou a sua maneira de realizar essa atividade acadêmica? Você achou mais fácil de realizar do que seria feito presencialmente?**
 
-- O participante acredita que foi mais fácil.
+- Achou mais fácil, simples. Melhor ter uma aba sobre o RU do que apenas ter o saldo no meio da tela inicial do SIGAA.
 
 **3. Quanto tempo você acredita que levou para completar as suas tarefas utilizando o protótipo de papel? Achou que demorou ou que foi rápido? Acredita que o tempo possa ser reduzido ao simplificar alguma etapa?**
 
-- O participante acredita que o fluxo está fácil de ser executado e sem complicações. Assim, ele acredita que as tarefas podem ser realizadas de forma bem rápida.
+- Acha que em 2 minutos deu pra fazer tudo. Demorou um pouco por pouca familiaridade.
+- <b>Sugestões:</b>
+- Ao invés de aparecer um botão quando clicar em "RU" na tela inicial do SIGAA, ja ir direto para a página sobre o RU.
+- Não precisar esconder nem colapsar as opções de campus do cardápio.
+- Tirar as opções de pagamento além do PIX, por ser mais prático e plausível de ser usado.
 
 **4. Como você avalia a sua satisfação geral com a experiência do uso da funcionalidade com o formato disposto no protótipo de papel?**
 
-- Ele gostou de como a funcionalidade foi apresentada e organizada.
+- Achou legal.
 
 **5. Essa funcionalidade ofereceu o suporte adequado para auxiliá-lo em suas tarefas? Ela foi executada e planejada de forma adequada? Se não, como ela pode ser melhorada?**
 
-- Sim, ele acredita que a funcionalidade está intuitiva, uma vez que as informações e os títulos das tarefas transmitem bem a ideia do que cada função ou etapa faz e espera do usuário.
+- Sim, ofereceu o suporte adequado. E foi executada e planejada de forma adequada.
 
 **6. Quais são, na sua opinião, os aspectos mais positivos e negativos da funcionalidade apresentada pelo protótipo?**
 
-- Os pontos positivos:
-   - Os alunos acabam tendo que recorrer a veteranos geralmente para ter essas sugestões mas nem sempre conhecem, então facilita a vida.
+- Os pontos positivos: Poder fazer as operações relacionadas ao RU de forma remota e prática.
+  
+- Ponto negativo: Redundância em alguns passos.
 
 **7.  Você acredita que seus objetivos com a funcionalidade podem ser alcançados da forma que foi apresentado no protótipo de papel? E quais não podem?**
 
-- Sim, o participante afirmou que conseguiu atingir o seu objetivo com efetividade.
+- Sim, o participante afirmou que sim.
 
 **8. Você consegue compreender e utilizar o formato das tarefas que foram apresentadas no protótipo de papel sem dificuldades?**
 
-- Sim, o participante afirmou que conseguiu completar cada etapa sem complicações.
+- Sim, o participante acredita que sim.
 
 **9. Você acredita que consegue realizar as suas tarefas de forma eficiente e sem erros utilizando o formato apresentado o protótipo de papel caso a funcionalidade seja implementada?**
 
-- O participante afirma que consegue realizar as tarefas.
+- O participante acredita que sim.
 
 **10. Quais elementos do protótipo geraram insatisfação para você?**
 
-- O participante afirmou que gostou de todos os elementos e etapas da funcionalidade. Não houve elementos que o desagradou.
+- O participante reiterou o fato de redundâncias em alguns passos.
 
 **11. Que aspectos da interação pelo formato do protótipo podem desmotivar você a explorar essas funcionalidades?**
 
@@ -922,11 +929,11 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **12. Você consegue entender a função de cada elemento presente no protótipo de papel?**
 
-- As funcionalidades estão bem implícitas e cada uma delas indica bem o que significa a etapa ou tarefa.
+- Ele confirmou que sim.
 
 **13. Quais problemas de usabilidade você acredita que um usuário pode enfrentar ao utilizar a funcionalidade como ela foi disposta no protótipo de papel?**
 
-- Se tiver ícones na representação de algumas etapas, o ideal seria utilizar um que o usuário mais conhece e que represente bem o contexto.
+- Encontrar o símbolo de Aba do RU na tela inicial do SIGAA.
 
 **14. Você conseguiu acessar todas as informações necessárias para executar as tarefas no protótipo de papel?**
 
@@ -934,7 +941,7 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **15. Há alguma parte específica que os usuários podem evitar ou achar confusa em relação a como foi disposto no protótipo?**
 
-- O usuário afirmou que não, ele não conseguiu pensar em nenhuma parte que poderia ser retirada ou simplificada.
+- So a parte do cardápio.
 
  </details>
 
@@ -947,7 +954,7 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
 
-- **Mais intuitivo:** A sugestão de grade estar na aba de ensino.
+- Ele não soube responder.
 
 **3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
 
@@ -955,7 +962,7 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **4. Com base na sua experiência, quais sugestões você daria para melhorar a funcionalidade e a experiência de uso?**
 
-- O participante acredita que deveria ter como altera diretamente a grade sugerida sem precisar gerar uma nova.
+- Ter um extrato do saldo que foi gasto.
 
 </details>
 
