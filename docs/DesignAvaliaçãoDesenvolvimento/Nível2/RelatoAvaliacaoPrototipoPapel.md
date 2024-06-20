@@ -215,3 +215,4 @@ A avaliação do protótipo de papel foi bem-sucedida, permitindo identificar po
 | 1.5 | Adição das informações para a funcionalidade de Solicitação de Bolsas| Bruno Araújo | Iago Passaglia | 19/06/2024 |
 | 1.6 | Adição das informações para a funcionalidade de Solicitação de Bolsas| Iago Passaglia| -- | 19/06/2024 |
 | 1.7 | Adição das informações para a funcionalidade da Aba de RU | Breno Alexandre | -- | 19/06/2024 |
+| 1.8 | Adição da Conclusão | Pedro Izarias | -- | 19/06/2024 |
