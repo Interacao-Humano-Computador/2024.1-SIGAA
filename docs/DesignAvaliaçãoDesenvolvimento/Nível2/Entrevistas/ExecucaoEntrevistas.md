@@ -656,16 +656,17 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 <details>
   <summary size="20"><b> Pré-Cadastro de Estágio - Iago Passaglia</b></summary> 
   
-### Funcionalidade: Pré-Cadastro de Estágio
-Uma das funcionalidades criadas é o da Pré-Cadastro de Estágio.
+### Funcionalidade: Solicitação de Bolsas
 
-Com base nisso, a avaliação do protótipo de papel para a Pré-Cadastro de Estágio pode ser visualizado no vídeo 5:
+Uma das funcionalidades criadas é a Solicitação de Bolsas.
+
+Com base nisso, a avaliação do protótipo de papel para a Solicitação de Bolsa pode ser visualizado no vídeo 6:
 
 <center> 
   
-<iframe width="1695" height="677" src="https://www.youtube.com/embed/8qVAFZ3fUrU" title="Entrevista Prototipo de Papel   Pré cadastro de Estágio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1695" height="677" src="https://www.youtube.com/watch?v=JDJd6hyFOuU&feature=youtu.be" title="Entrevista Prototipo de Papel   Solicitação de Bolsa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
- <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+ <b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
 
 </center>
 
@@ -680,13 +681,13 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
   
 **1. Dados Demográficos**:
 
-- **Nome**: Eric Silveira Gomes
+- **Nome**: Laura Yamamoto Melo
 
-- **Idade**: 20 anos
+- **Idade**: 24 anos
 
-- **Gênero**: Masculino
+- **Gênero**: Feminino
 
-- **Curso ou Área de Estudo/Trabalho**: Engenharia de Software na UnB
+- **Curso ou Área de Estudo/Trabalho**: Engenharia Eletrônica na UnB
 
 **2. Com que frequência você usa computadores ou dispositivos móveis?**
 
@@ -698,11 +699,11 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **4. Como você classificaria suas habilidades gerais com a tecnologia?**
 
-- Muito Alta.
+- Alta.
 
 **5. Qual a sua expectativa em relação à funcionalidade?**
 
-- Espera que seja uma funcionalidade simples.
+- Espera que seja uma funcionalidade simples, intuitiva.
 
 **6. Resumidamente, como você espera que a funcionalidade seja?**
 
@@ -716,23 +717,23 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **1. Como você define a sua interação com o protótipo de papel e como ele difere das suas expectativas?**
 
-- Acredita que o protótipo atende bem as expectativas e economiza tempo ao utilizar a funcionalidade.
+- O protótipo é um pouco estranho, mas é bastante intuitivo, fácil de entender.
 
 **2. De que maneira esse protótipo de papel influenciou a sua maneira de realizar essa atividade acadêmica? Você achou mais fácil de realizar do que seria feito presencialmente?**
 
-- O participante acredita que foi mais fácil e que ajuda os estudantes que não tem tanto conhecimento acerca de estágios.
+- Sim, presencialmente teria que preencher mais documentos, e o protótipo de papel é mais direto.
 
 **3. Quanto tempo você acredita que levou para completar as suas tarefas utilizando o protótipo de papel? Achou que demorou ou que foi rápido? Acredita que o tempo possa ser reduzido ao simplificar alguma etapa?**
 
-- Acredita que foi rápido, cerca de 4 minutos.
+- Foi rápido.
 
 **4. Como você avalia a sua satisfação geral com a experiência do uso da funcionalidade com o formato disposto no protótipo de papel?**
 
-- Gostou da experiência.
+- Ficou satisfeita.
 
 **5. Essa funcionalidade ofereceu o suporte adequado para auxiliá-lo em suas tarefas? Ela foi executada e planejada de forma adequada? Se não, como ela pode ser melhorada?**
 
-- Sim.
+- Atendeu sim a expecativa.
 
 **6. Quais são, na sua opinião, os aspectos mais positivos e negativos da funcionalidade apresentada pelo protótipo?**
 
@@ -754,11 +755,11 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **10. Quais elementos do protótipo geraram insatisfação para você?**
 
-- O participante afirmou que gostou de todos os elementos e etapas da funcionalidade. Não houve elementos que o desagradou.
+- A simplicidade dele, com as informações essenciais fica menos poluído.
 
 **11. Que aspectos da interação pelo formato do protótipo podem desmotivar você a explorar essas funcionalidades?**
 
-- O participante não informou como pode desmotivar.
+- Ter muitas subpáginas.
 
 **12. Você consegue entender a função de cada elemento presente no protótipo de papel?**
 
@@ -766,7 +767,7 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **13. Quais problemas de usabilidade você acredita que um usuário pode enfrentar ao utilizar a funcionalidade como ela foi disposta no protótipo de papel?**
 
-- Falta de instruções na aba de gerar links e falta de botão de edição na validação de formulário
+- A quantidade de subpáginas pode dificultar um pouco.
 
 **14. Você conseguiu acessar todas as informações necessárias para executar as tarefas no protótipo de papel?**
 
@@ -774,7 +775,65 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **15. Há alguma parte específica que os usuários podem evitar ou achar confusa em relação a como foi disposto no protótipo?**
 
-- O usuário afirmou que não.
+- Não.
+
+ </details>
+
+<details>
+  <summary size="20"><b> Questionário Pós-Avaliação </b></summary> 
+
+**1. Como você descreveria sua satisfação geral com a experiência de uso observada?**
+
+- Satisfeita.
+
+**2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
+
+- **Mais intuitivo:** Menu de Bolsas.
+- **Menos intuitivo:** Quando abre o portal do discente com o tipo de bolsa.
+
+**3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
+
+- Sim, como só quer acompanhar a solicitação de bolsas, esperava ver menos opções.
+
+**4. Com base na sua experiência, quais sugestões você daria para melhorar a funcionalidade e a experiência de uso?**
+
+- Poderia separar as bolsas e auxílios em categorias diferentes.
+
+</details>
+
+</details>
+
+### Funcionalidade: Aluguel de Sala
+
+- Sim, o participante afirmou que conseguiu completar cada etapa sem complicações.
+
+**9. Você acredita que consegue realizar as suas tarefas de forma eficiente e sem erros utilizando o formato apresentado o protótipo de papel caso a funcionalidade seja implementada?**
+
+- O participante observou que uma coisa que iria atrapalhar os iniciantes seria ele saberem como acessar a funcionalidade, uma vez que não é totalmente intuitivo procurá-la na “aba outros”. No entanto, em relação à funcionalidade em si, ele acredita que ela está intuitiva de ser seguida.
+
+**10. Quais elementos do protótipo geraram insatisfação para você?**
+
+- O participante afirmou que gostou de todos os elementos e etapas da funcionalidade. Não houve elementos que o desagradou.
+
+**11. Que aspectos da interação pelo formato do protótipo podem desmotivar você a explorar essas funcionalidades?**
+
+- Uma situação que poderia desmotivar o usuário, principalmente, se forem iniciantes ou leigos em relação ao SIGAA, seria difícil encontrar a funcionalidade, que está na “aba outros”.
+
+**12. Você consegue entender a função de cada elemento presente no protótipo de papel?**
+
+- As funcionalidades estão bem implícitas e cada uma delas indica bem o que significa a etapa ou tarefa.
+
+**13. Quais problemas de usabilidade você acredita que um usuário pode enfrentar ao utilizar a funcionalidade como ela foi disposta no protótipo de papel?**
+
+- Se tiver ícones na representação de algumas etapas, o ideal seria utilizar um que o usuário mais conhece e que represente bem o contexto.
+
+**14. Você conseguiu acessar todas as informações necessárias para executar as tarefas no protótipo de papel?**
+
+- Sim, o participante afirmou que conseguiu acessar todas as informações que desejava.
+
+**15. Há alguma parte específica que os usuários podem evitar ou achar confusa em relação a como foi disposto no protótipo?**
+
+- O usuário afirmou que não, ele não conseguiu pensar em nenhuma parte que poderia ser retirada ou simplificada.
 
  </details>
 
@@ -787,19 +846,22 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 
 **2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
 
-- **Mais intuitivo:** Enviar o link para a empresa preencher o formulário.
+- **Mais intuitivo:** Ter as opções para diversos caminhos de forma objetiva que deixa claro qual caminho o usuário deve seguir conforme o seu objetivo.
 
 **3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
 
-- Atendeu a expectativa.
+- Ele afirmou que o fluxo é bem intuitivo, ser completo e permite que o usuário tenha liberdade para voltar ou corrigir seus erros. Desse modo, afirmou que a funcionalidade atendeu a sua expectativa inicial.
 
 **4. Com base na sua experiência, quais sugestões você daria para melhorar a funcionalidade e a experiência de uso?**
 
-- Adicionar um aviso na parte do link para a empresa.
+- Ele afirmou que, como a funcionalidade foi apresentada, está ótima e a sugestão seria deixar o encontro dela mais fácil, mesmo quando ele estiver na aba de outros.
 
 </details>
 
 </details>
+
+<details>
+  <summary size="20"><b> Aba de Monitoria - Larissa Stéfane </b></summary> 
 
 ## Conclusão
 
@@ -815,7 +877,8 @@ O processo de avaliação dos protótipos de papel, por meio de entrevistas com 
 | 1.2    | Adicionar entrevista da aba de monitoria                         | Larissa Stéfane | Pedro Izarias   | 30/05/2024 |
 | 1.3    | Adicionar entrevista da funcionalidade de realizar matrícula     | Pedro Izarias   | Iago Passaglia| 17/06/2024 |
 | 1.4    | Adicionar entrevista da funcionalidade de Grade Sugerida         | Luana Medeiros  | Pedro Izarias   | 19/06/2024 |
-| 1.4    | Adicionar entrevista da funcionalidade de pré-cadastro de estágio      | Iago Passaglia | Pedro Izarias   | 19/06/2024 |
+| 1.5    | Adicionar entrevista da funcionalidade de pré-cadastro de estágio      | Iago Passaglia | Pedro Izarias   | 19/06/2024 |[
+| 1.6    | Adicionar entrevista da funcionalidade Solicitação de Bolsas     | Bruno Araújo | -----   | 19/06/2024 |
 
 
 
