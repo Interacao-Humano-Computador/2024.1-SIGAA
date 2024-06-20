@@ -83,3 +83,36 @@ Abaixo se encontrar o roteiro que o integrante do grupo deve seguir durante a en
   - Responder perguntas sobre o que observou.
 
 </details>
+
+## Questionário de Pré-Avaliação
+
+O objetivo do questionário de pré-avaliação é “coletar informações dos participantes que podem influenciar a interação usuário–sistema, tais como: características pessoais, experiências anteriores com tecnologia e conhecimento sobre o domínio;”, segundo o livro de Interação-Humano Computador¹, de Barbosa e Silva (2021, página 275).
+
+
+Desse modo, abaixo, há o questionário de pré-avaliação
+
+<details>
+
+<summary size="20"><b> Questionário de pré-avaliação</b></summary>
+
+1. **Dados Demográficos** (Salientar que o usuário não precisa responder se se sentir desconfortável)
+
+    - **Nome:**
+
+    - **Idade:**
+
+    - **Gênero:**
+
+    - **Curso ou Área de Estudo/Trabalho:**
+
+2. **Com que frequência você usa computadores ou dispositivos móveis?**
+
+3. **Qual o seu nível de familiaridade com o uso de software acadêmico em geral?**
+
+4. **Como você classificaria suas habilidades gerais com a tecnologia?**
+
+5. **Qual a sua expectativa em relação à funcionalidade?**
+
+6. **Resumidamente, como você espera a funcionalidade seja?**
+
+</details>
