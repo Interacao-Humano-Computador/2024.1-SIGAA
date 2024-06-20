@@ -80,7 +80,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 
 ####  Conformidade com os padrões das normas
 
-- A tabela 4 deve mostrar o que o integrante do grupo responsável pela funcionalidade avaliou do seu protótipo em relação à conformidade com as normas espera da funcionalidade antes de interagir com o protótipo de papel.
+- A tabela 4 deve mostrar o que o integrante do grupo responsável pela funcionalidade avaliou do seu protótipo em relação à conformidade com as normas espera da funcionalidade antes de interagir com o protótipo de alta fidelidade.
 
 ** Tabela 4:** Conformidade com os padrões das normas
 
@@ -117,3 +117,77 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |
+
+## Respostas dos Participantes
+#### Experiência do usuário com a acessibilidade
+- A tabela 7 deve mostrar o que participante achou em relação a conformidade com o padrão.
+
+** Tabela 7:** Experiência do usuário com a acessibilidade
+| Entrevistador(a) | Entrevistado(a) | Funcionalidade | Opinião do participante em relação à acessibilidade | 
+| ------------------ | ------------------ | ----------------- | -------- | 
+| ------------------ | ------------------ | ----------------- | -------- | 
+| ------------------ | ------------------ | ----------------- | -------- | 
+| ------------------ | ------------------ | ----------------- | -------- | 
+| ------------------ | ------------------ | ----------------- | -------- | 
+
+#### Experiência do usuário com as normas padrões
+- A tabela 8 deve mostrar o que participante achou em relação a conformidade com o padrão.
+
+** Tabela 8:** Experiência do usuário com as normas padrões
+
+| Entrevistador(a) | Entrevistado(a) | Funcionalidade | Quais pontos os participantes falaram que seguem os padrões | Quais pontos os participantes falaram que não seguem os padrões  | Qual a opinião do usuário em relação às mudanças? |  
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |  
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | 
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |  
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | 
+
+#### Experiência do usuário com a interface no Protótipo de alta fidelidade
+- A tabela 9 deve mostrar como o participante interagiu com o protótipo e como ele se sentiu em relação à interface
+
+** Tabela 9:** Como foi a interação do participante com a interface
+
+| Entrevistador(a) | Entrevistado(a) | Funcionalidade | Quais símbolos do protótipo o participante gostou? | Quais símbolos do protótipo o participante não gostou?  | O integrante encontrou dificuldade na navegação? | Quais elementos o participante entendeu a utilidade? | Quais elementos o participante não entendeu a utilidade? | 
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |  -------- |  -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |  -------- |  -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |  -------- |  -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |  -------- |  -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |  -------- |  -------- |
+
+#### Opinião do Usuário sobre os problemas e soluções
+
+- A tabela 10 mostrará as observações sobre os problemas e as soluções
+
+** Tabela 10:** Problemas e Soluções
+
+| Entrevistador(a) | Entrevistado(a) | Funcionalidade | Os usuários <br> conseguem alcançar <br> seus objetivos? | Elementos que geraram <br> insatisfação | Elementos que geraram <br> desmotivação | Compreensão dos elementos | Problemas encontrados | Sugestão de melhoria |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
+| ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
+
+### Experiência do Usuário com a entrevista
+
+- A tabela 8 mostrará a opinião dos participantes em relação ao processo da avaliação, ou seja, como se sentiram.
+
+** Tabela 8:** Experiência com a avaliação
+
+| Entrevistador(a) | Entrevistado(a) | Funcionalidade | opinião sobre a experiência |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+| ------------------ | ------------------ | ----------------- | -------- |
+
+### Obervações Gerais
+
+- Serão apresentadas as observações gerais sobre os dados coletados e, se possível, haverá a presença de gráficos.
+
+### Conclusão
+
+## Histórico de Versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| ------ | --------------------------------- | --------------- | --------------- | ---------- |
+| 1.0 | Elaboração do documento com suas estruturas | Larissa Stéfane | Bruno Araújo | 18/06/2024 |
