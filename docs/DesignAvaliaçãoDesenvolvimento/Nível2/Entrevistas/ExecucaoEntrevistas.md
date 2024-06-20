@@ -867,9 +867,8 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 <details>
   <summary size="20"><b> Observações sobre a funcionalidade </b></summary> 
 
-- Seria interessante ter a possibilidade de poder alterar diretamente a Grade Sugerida sem precisar gerar uma nova.
-
-- Achou o caminho das funcionalidades bem intuitivo.
+- Tirar as opções de pagamento além do PIX, por ser mais prático e plausível de ser usado.
+- Tirar a função de suporte ao usuário dentro da recarga de crédito, pois é trivial.
 
  </details>
 
@@ -891,7 +890,6 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 - <b>Sugestões:</b>
 - Ao invés de aparecer um botão quando clicar em "RU" na tela inicial do SIGAA, ja ir direto para a página sobre o RU.
 - Não precisar esconder nem colapsar as opções de campus do cardápio.
-- Tirar as opções de pagamento além do PIX, por ser mais prático e plausível de ser usado.
 
 **4. Como você avalia a sua satisfação geral com a experiência do uso da funcionalidade com o formato disposto no protótipo de papel?**
 
