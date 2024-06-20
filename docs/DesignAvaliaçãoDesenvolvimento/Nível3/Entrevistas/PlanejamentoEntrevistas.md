@@ -248,6 +248,32 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 
 **Tabela 2:** Planejamento do teste piloto
 
+| Integrante | tema | Horário | Data| Local |
+| - | - | - | - | - |
+| Breno Alexandre | RU | 15:00 | 25/06/2024 | Casa do integrante |
+| Bruno Araújo | Bolsas | 22:00 | 26/06/2024 | Casa do integrante |
+| Iago Passaglia| Estágio | 22:00 | 26/06/2024 | Casa do integrante |
+| Larissa Stéfane | Aluguel de Sala | 15:00  | 22/06/2024 | Casa da integrante |
+| Larissa Stéfane | Aba de Monitoria | 15:30  | 22/06/2024 | Casa da integrante |
+| Luana Medeiros | Grade Sugerida | 17:00 | 23/06/2024 | Casa do integrante |
+| Pedro Izarias | Aba de Matrículas | 19:00 | 24/06/2024 | Casa do integrante |
 
 <b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane
 
+## Conclusão
+
+Durante o processo de planejamento das entrevistas para avaliação dos protótipos de alta fidelidade, foram levados em consideração vários aspectos essenciais para assegurar a eficácia e a ética do estudo. Foram elaborados questionários que se concentram nos objetivos específicos da avaliação. Além disso, foi desenvolvido um roteiro para as entrevistas, visando aprimorar a organização e manter um padrão consistente entre as oito entrevistas que serão conduzidas pelo grupo.
+
+## Bibliografia
+
+1. Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Disponível em: https://www.google.com.br/books/edition/Engenharia_de_Requisitos/gA7kDAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover. Acesso em: 18 de junho de 2024.
+
+## Referências Bibliográficas
+
+1. Barbosa, S. D. J., & Silva, B. S. (2021). Interação Humano-Computador e Experiência do Usuário. Editora: Câmara Brasileira do Livro, SP, Brasil. Acesso em: 18 de junho de 2024.
+
+## Histórico de Versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | - | 19/06/2024 |
