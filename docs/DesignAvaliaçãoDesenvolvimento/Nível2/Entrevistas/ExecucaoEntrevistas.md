@@ -654,7 +654,7 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 </details>
 
 <details>
-  <summary size="20"><b> Pré-Cadastro de Estágio - Iago Passaglia</b></summary> 
+  <summary size="20"><b> Solicitação de Bolsas - Bruno Araújo</b></summary> 
   
 ### Funcionalidade: Solicitação de Bolsas
 
@@ -802,66 +802,6 @@ Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watc
 </details>
 
 </details>
-
-### Funcionalidade: Aluguel de Sala
-
-- Sim, o participante afirmou que conseguiu completar cada etapa sem complicações.
-
-**9. Você acredita que consegue realizar as suas tarefas de forma eficiente e sem erros utilizando o formato apresentado o protótipo de papel caso a funcionalidade seja implementada?**
-
-- O participante observou que uma coisa que iria atrapalhar os iniciantes seria ele saberem como acessar a funcionalidade, uma vez que não é totalmente intuitivo procurá-la na “aba outros”. No entanto, em relação à funcionalidade em si, ele acredita que ela está intuitiva de ser seguida.
-
-**10. Quais elementos do protótipo geraram insatisfação para você?**
-
-- O participante afirmou que gostou de todos os elementos e etapas da funcionalidade. Não houve elementos que o desagradou.
-
-**11. Que aspectos da interação pelo formato do protótipo podem desmotivar você a explorar essas funcionalidades?**
-
-- Uma situação que poderia desmotivar o usuário, principalmente, se forem iniciantes ou leigos em relação ao SIGAA, seria difícil encontrar a funcionalidade, que está na “aba outros”.
-
-**12. Você consegue entender a função de cada elemento presente no protótipo de papel?**
-
-- As funcionalidades estão bem implícitas e cada uma delas indica bem o que significa a etapa ou tarefa.
-
-**13. Quais problemas de usabilidade você acredita que um usuário pode enfrentar ao utilizar a funcionalidade como ela foi disposta no protótipo de papel?**
-
-- Se tiver ícones na representação de algumas etapas, o ideal seria utilizar um que o usuário mais conhece e que represente bem o contexto.
-
-**14. Você conseguiu acessar todas as informações necessárias para executar as tarefas no protótipo de papel?**
-
-- Sim, o participante afirmou que conseguiu acessar todas as informações que desejava.
-
-**15. Há alguma parte específica que os usuários podem evitar ou achar confusa em relação a como foi disposto no protótipo?**
-
-- O usuário afirmou que não, ele não conseguiu pensar em nenhuma parte que poderia ser retirada ou simplificada.
-
- </details>
-
-<details>
-  <summary size="20"><b> Questionário Pós-Avaliação </b></summary> 
-
-**1. Como você descreveria sua satisfação geral com a experiência de uso observada?**
-
-- O participante afirmou estar satisfeito.
-
-**2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
-
-- **Mais intuitivo:** Ter as opções para diversos caminhos de forma objetiva que deixa claro qual caminho o usuário deve seguir conforme o seu objetivo.
-
-**3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
-
-- Ele afirmou que o fluxo é bem intuitivo, ser completo e permite que o usuário tenha liberdade para voltar ou corrigir seus erros. Desse modo, afirmou que a funcionalidade atendeu a sua expectativa inicial.
-
-**4. Com base na sua experiência, quais sugestões você daria para melhorar a funcionalidade e a experiência de uso?**
-
-- Ele afirmou que, como a funcionalidade foi apresentada, está ótima e a sugestão seria deixar o encontro dela mais fácil, mesmo quando ele estiver na aba de outros.
-
-</details>
-
-</details>
-
-<details>
-  <summary size="20"><b> Aba de Monitoria - Larissa Stéfane </b></summary> 
 
 ## Conclusão
 
