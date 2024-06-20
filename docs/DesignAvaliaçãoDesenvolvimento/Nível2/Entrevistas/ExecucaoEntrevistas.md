@@ -670,7 +670,7 @@ Com base nisso, a avaliação do protótipo de papel para a Solicitação de Bol
 
 </center>
 
-Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watch?v=8qVAFZ3fUrU)
+Caso o vídeo acima não funcione, utilize o [link](https://https://www.youtube.com/watch?v=JDJd6hyFOuU)
 
 
 ### Perguntas Respondidas Durante a Entrevista
