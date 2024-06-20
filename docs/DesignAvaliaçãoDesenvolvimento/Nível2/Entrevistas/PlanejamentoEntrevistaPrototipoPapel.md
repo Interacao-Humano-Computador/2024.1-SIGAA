@@ -368,11 +368,18 @@ Caso o vídeo não funcione, acesse pelo [link](https://www.youtube.com/watch?v=
   <summary size="20"><b> Teste piloto - Protótipo de papel -Solicitação de Bolsas- Bruno Araújo </b></summary> 
 <center> 
 
+**Vídeo 6:** Teste Piloto - Protótipo de papel - Solicitação de Bolsas.
+
 <iframe width="1695" height="677" src="https://www.youtube.com/watch?v=r3mOmCRSKZU&feature=youtu.be" title="Teste piloto prototipo de papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <b> Autor: </b> <a href="https://github.com/brunocva"> Bruno Araújo</a>.
 
-Foto do protótipo de papel
+**Foto do protótipo de papel**
+
+  <div align="center">
+    Imagem: Protótipo Papel de Aluguel de Sala
+    <br>
+      
 ![prototipo](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/2daf8886-885a-408f-80f8-3b35e8610b0e)
 
 
