@@ -33,4 +33,53 @@ Conforme foi definido nas questões práticas do [framework DECIDE para o protó
 
 Para realizar as entrevistas, é fundamental que o integrante do grupo se prepare meticulosamente com antecedência, cuidando de todos os detalhes práticos e tendo um plano de contingência em caso de imprevistos. Isso é essencial para garantir que a avaliação transcorra sem contratempos e de acordo com o planejado.
 
+## Roteiro de Execução
 
+Abaixo se encontrar o roteiro que o integrante do grupo deve seguir durante a entrevista.
+
+**Observação:** No livro de Interação-Humano Computador, de Simone Barbosa, na página 275, há a sugestão de que um participante não pode demorar mais do que 20 minutos em uma etapa/tarefa e que, caso demore um pouco, ou seja, caso a etapa seja muito cansativa, deve-se ter pausas rápidas para evitar fadiga física ou mental. Por isso, no roteiro, há a disposição de três pausas opcionais.
+
+<details>
+
+<summary size="20"><b> Roteiro da Entrevista </b></summary>
+
+1. **Conferir se tem acesso a todos os materiais necessários (60 a 30 minutos antes da reunião):** Garantir que está com o protótipo de alta fidelidade funcionando bem.
+
+2. ** Se preparar para receber o participante (15 minutos antes da reunião):** Se or presencialmente, organizar a sala. E for remotamente, preparar a plataforma de encontro.
+
+3. **Receber o participante:** Encontrar-se com o usuário no local na hora marcada.
+
+4. **Introduzir e explicar (5 a 10 minutos):**
+    - Apresentar-se e explicar o objetivo da entrevista.
+    - Solicitar a assinatura do Termo de Consentimento Livre e Esclarecido (TCLE).
+    - Fornecer visão geral da sessão.
+
+(início da gravação)
+
+5. **Aplicar questionário pré-avaliação (3 a 5 minutos):** Coletar informações sobre o perfil do usuário e suas expectativas.
+
+6. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
+
+7. **Apresentar o protótipo de alta fidelidade (até 20 minutos):**
+    - Explicar como um protótipo funciona.
+    - Realizar a interação do participante com o protótipo de alta fidelidade.
+    - Se o usuário se sentir a vontade, solicitar que ele pense em voz alta (think aloud) enquanto interage com a funcionalidade no computador.
+
+8. **Questionário de avaliação (Até 10 minutos):**
+    - Realizar o questionário de avaliação.
+    - Anotar a opiniões.
+
+9. **Realizar uma pausa (opcional):** Conceder pausas de 2 minutos para evitar fadiga.
+
+10. **Aplicar questionário pós-avaliação (3 a 10 minutos):** Coletar feedback do usuário com a funcionalidade e o protótipo em geral.
+
+15. **Agradecer e encerrar:**
+    - Agradecer ao participante pelo tempo e contribuições.
+    - Reforçar sobre a confidencialidade das respostas.
+  
+(Fim da gravação)
+
+16. **Analisar o que foi observado na entrevista**
+  - Responder perguntas sobre o que observou.
+
+</details>
