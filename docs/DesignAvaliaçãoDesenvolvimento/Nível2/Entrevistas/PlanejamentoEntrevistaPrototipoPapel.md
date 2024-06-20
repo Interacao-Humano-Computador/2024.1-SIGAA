@@ -262,6 +262,7 @@ Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
 | Larissa Stéfane | Aba de Monitoria | 23:30  | 03/06/2024 | Casa da integrante |
 | Pedro Izarias | Aba de Matrículas | 15:00 | 03/06/2024 | Casa do integrante |
 | Luana Medeiros | Grade Sugerida | 18:00 | 17/06/2024 | Casa do integrante |
+|Bruno Araújo | Solicitação de Bolsas | 13:00 | 17/06/2024 | UnB - FGA |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
