@@ -204,4 +204,21 @@ Desse modo, abaixo, há o questionário após a entrevista.
 
 </details>
 
+## Cronograma
+
+Para realizar as entrevistas, há um cronograma planejado com a data em que entrou em contato com o usuário e data marcada para a entrevista. Essas informações podem ser observadas na tabela 1.
+
+**Tabela 1:** Cronograma das reuniões
+
+| Funcionalidade | Entrevistado | Entrevistador | Data que entrou em contato | Data da entrevista | Horário da entrevista| Local da entrevista |
+| - | - | - | - | - | - | - |
+| Aba de Monitoria |  | Larissa Stéfane |  | |  | |
+| Aluguel de Sala | | Larissa Stéfane |  |  |  |  |
+| Pré-cadastro de Estágio |  | Iago Passaglia |  |  |  | |
+| Aba RU |  | Breno Alexandre Soares Garcia |  |  | |  |
+| Matrículas | | Pedro Augusto | 28/05/2024 |  |  |  |
+| Grade Sugerida |  | Luana Medeiros |  |  |  |  |
+| Solicitação de bolsa | - | Bruno Araújo | - | - | - | - |
+
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane
 
