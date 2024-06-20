@@ -169,9 +169,9 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 
 ### Experiência do Usuário com a entrevista
 
-- A tabela 8 mostrará a opinião dos participantes em relação ao processo da avaliação, ou seja, como se sentiram.
+- A tabela 11 mostrará a opinião dos participantes em relação ao processo da avaliação, ou seja, como se sentiram.
 
-**Tabela 8:** Experiência com a avaliação
+**Tabela 11:** Experiência com a avaliação
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | opinião sobre a experiência |
 | ------------------ | ------------------ | ----------------- | -------- |
