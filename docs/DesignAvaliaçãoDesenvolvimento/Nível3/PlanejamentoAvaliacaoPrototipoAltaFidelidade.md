@@ -203,4 +203,4 @@ Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Di
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
-| 1.0 | Criação do documento e elaboração de todos os pontos da avaliação | Larissa Stéfane | - | 19/06/2024 |
+| 1.0 | Criação do documento e elaboração de todos os pontos da avaliação | Larissa Stéfane | Bruno Araújo | 19/06/2024 |
