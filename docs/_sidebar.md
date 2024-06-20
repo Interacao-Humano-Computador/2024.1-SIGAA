@@ -209,6 +209,12 @@
            - [Relato dos Resultados da Avaliação da Análise de Tarefas ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)
            - [Relato dos Resultados do Storyboard ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md)
         * Nível 2
-           - [Relato dos Resultados do Prototipo de Papel ](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos2/Relato_Prototipo_papel.md
-)
-
+           - [Planejamento da avaliação do protótipo de papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoAvaliacaoPrototipoPapel.md)
+           - [Planejamento das Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/PlanejamentoEntrevistaPrototipoPapel.md)
+           - [Execução das Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md)
+           - [Planejamento do Relato](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoRelatoPrototipoPapel.md)
+           - [Relato dos Resultados do Prototipo de Papel ](DesignAvaliaçãoDesenvolvimento/Nível2/RelatoAvaliacaoPrototipoPapel.md)
+        * Nível 3
+           - [Planejamento da avaliação do protótipo Alta Fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoAvaliacaoPrototipoAltaFidelidade.md)
+           - [Planejamento das Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistas.md)
+           - [Planejamento do Relato do prototipo de alta fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoRelatoResultados.md)
