@@ -56,8 +56,9 @@ Inicialmente, para mostrar a organização das entrevistas, a tabela 1 mostra o 
 | Pedro Izarias  | Isabela Garcia | 17:10 | 17:29 | 18/06 | Casa do Entrevistador |
 | Bruno Araújo  | Laura Melo | 13:00 | 13:20| 19/06 | UnB - FGA (UED) |
 | Iago Passaglia  | Eric Silveira | 10:00 | 10:30 | 19/06 | Sala S7 FGA |
+| Breno Alexandre | Victor Moreira Almeida | 18:00 | 18:30 | 07/06 | Casa do entrevistado |
 
-<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>, <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 ### Apresentação dos Usuários
 
@@ -75,9 +76,10 @@ Com base no [perfil dos estudantes](PerfilUsuario/Estudantes/perfilEstudante.md)
 | Pedro Izarias | Isabela Garcia | <li> **Nome**: Isabela Garcia <br> <li> **Idade**: 29 anos <br> <li> **Gênero**: Feminino <br> <li>  **Curso**: Arquitetura <br> <li> **Frequência de uso de computadores:** 	Todo dia. <br> <li>  **Familiaridade com software acadêmico:** Alta. <br> <li> **Habilidades com tecnologia:** Média. | Realizar Matrícula |
 | Bruno Araújo| Laura Melo | <li> **Nome**: Laura Melo <br> <li> **Idade**: 24 anos <br> <li> **Gênero**: Feminino <br> <li>  **Curso**: Engenharia Eletrônica <br> <li> **Frequência de uso de computadores:** 	Todo dia. <br> <li>  **Familiaridade com software acadêmico:** Alta. <br> <li> **Habilidades com tecnologia:** Alta. | Solicitação de Bolsas |
 | Iago Passaglia |  Eric Silveira | <li> **Nome**: Eric Silveira <br> <li> **Idade**: 20 anos <br> <li> **Gênero**: Masculino <br> <li>  **Curso**: Engenharia de Software <br> <li> **Frequência de uso de computadores:** 	Diariamente. <br> <li>  **Familiaridade com software acadêmico:** Alta. <br> <li> **Habilidades com tecnologia:** Alta. | Pré-cadastro de estágio |
+| Breno Alexandre | Victor Moreira Almeida | <li> **Nome**: Victor Moreira Almeida <br> <li> **Idade**: 20 anos <br> <li> **Gênero**: Masculino <br> <li>  **Curso**: Engenharia de Software <br> <li> **Frequência de uso de computadores:** 	Diariamente. <br> <li>  **Familiaridade com software acadêmico:** Alta. <br> <li> **Habilidades com tecnologia:** Alta. | Aba do RU |
 
 
-<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>, <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 ### Descrição da Entrevista
 
@@ -93,8 +95,10 @@ Para se compreender melhor como cada entrevista ou reunião foi realizada, a tab
 | Pedro Izarias | Isabela Garcia | Realizar matrícula | A avaliação foi realizada na sala da casa do entrivstador e foram feitas pausas entre as etapas para posicionar a câmera e não cansar a entrevistada. | Silêncio . | A participante afirmou estar satisfeita. |
 | Bruno Araújo | Laura Yamamoto | Solicitação de Bolsa | A avaliação foi realizada no edifício da UED, nas mesas de estudos, e foram feitas pausas entre as etapas para posicionar a câmera e não cansar a entrevistada. | Silêncio . | A participante afirmou estar satisfeita. |
 | Iago Passaglia | Eric Silveira | Pré-cadastro de estágio | A avaliação foi realizada na sala S7 da Faculdade Gama - UnB | Silêncio . | O participante afirmou estar satisfeito. |
+| Breno Alexandre | Victor Moreira Almeida | Aba do RU | A avaliação foi realizada na casa do entrevistado, no Gama/DF. | Silêncio . | O participante afirmou estar satisfeito. |
 
-<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo,</a>,  <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>, <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 ## Dados Coletados
 
@@ -116,8 +120,9 @@ A tabela 4 mostra o que o participante espera da funcionalidade antes de interag
 | Pedro Izarias | Isabela Garcia | Realizar Matrícula | A participante espera que a funcionalidade seja fácil e simples, sem maiores complicações para ser realizada. |
 | Bruno Araújo| Laura Yamamoto | Solicitação de Bolsa | A participante espera que a funcionalidade seja fácil e intuitiva, sem maiores complicações para ser realizada. |
 | Iago Passaglia | Eric Silveira | Pré-cadastro de estágio | O participante espera que a funcionalidade seja simples. |
+| Breno Alexandre | Victor Moreira Almeida | Aba do RU | O participante espera que seja tranquilo. |
 
-<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo,</a>,  <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>, <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 ### Experiência do Usuário com a Funcionalidade no Protótipo
 
@@ -133,9 +138,9 @@ A tabela 5 mostra como o participante interagiu com o protótipo e como ele se s
 | Pedro Izarias | Isabela Garcia | Realizar Matrícula | O protótipo está um pouco diferente da expectativa da participante, tendo ela considerado difícil de encontrar a opção de matrícula por esta não estar em uma aba separada, mas dentro da aba de Ensino. | A participante acredita que é mais fácil utilizar a funcionalidade e que esta pode ser tranquilamente implementada. | A participante acredita ser mais rápido realizar a matrícula através da funcionalidade do que presencialmente. |
 | Bruno Araújo | Laura Yamamoto | Solicitação de Bolsas | O protótipo está conforme a expectativa do participante e ela considerou a interação amigável e intuitiva. | A participante acredita que é mais fácil utilizar a funcionalidade e que esta pode ser tranquilamente implementada. | A participante acredita ser mais rápido realizar a matrícula através da funcionalidade do que presencialmente. |
 | Iago Passaglia | Eric Silveira |  Pré-cadastro de estágio | Acredita que o protótipo atende bem as expectativas e economiza tempo ao utilizar a funcionalidade. | O participante acredita que é possível implementar a funcionalidade | Acredita que foi rápido, cerca de 4 minutos. Mais rápido que executar presencialmente |
+| Breno Alexandre | Victor Moreira Almeida | Aba do RU | Acredita que o protótipo atende bem, porém tiveram muitos passos em algumas funcionalidades. Ainda assim, acha que fez sentido. | O participante acredita que é possível implementar a funcionalidade. | Acha que em 2 minutos deu pra fazer tudo. Demorou um pouco por pouca familiaridade. |
 
-
-<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo,</a>,  <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>, <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 ### Opinião do Usuário em Relação à Usabilidade
 
@@ -151,9 +156,11 @@ Um dos objetivos principais dessa avaliação é coletar informações sobre a u
 | Pedro Izarias | Isabela Garcia | Realizar Matrícula | A participante afirmou que a funcionalidade pode ser melhorada e deu sugestões. | A participante acredita que o fluxo da funcionalidade não facilitou o uso do sistema e poderia melhorar. | O sistema cumpre sua função. | A dificuldade em encontrar a opção em meio ao site. | Média. A participante conseguiu realizar a matrícula porém com dificuldades para encontrar a opção correta. | A participante não conseguiu encontrar a primeira opção para realizar a tarefa (Aba de Ensino). |
 | Bruno Araújo | Laura Yamamoto | Solicitação de Bolsas |A participante gostou de como a funcionalidade foi apresentada e organizada. | A participante acredita que o fluxo da funcionalidade facilitou o uso do sistema. | O sistema cumpre sua função. | A dificuldade em ter muitas "subpáginas". | Baixa. A participante conseguiu realizar a a solicitação de Bolsa. | O usuário não cometeu denhum erro durante o procedimento. |
 | Iago Passaglia | Eric Silveira | Pré-cadastro de estágio | O participante considerou a funcionalidade útil e fez observações de melhoria. | O participante considerou a funcionalidade intuitiva apesar da falta de avisos na hora de gerar o link | A funcionalidade agiliza muito o processo. | Falta de avisos na hora de gerar o link. | Baixo. | Não foram cometidos erros. |
+| Breno Alexandre | Victor Moreira Almeida | Aba do RU | O participante considerou a funcionalidade legal. | O participante considerou a funcionalidade intuitiva. | Poder fazer as operações relacionadas ao RU de forma remota e prática. | Redundância em alguns passos. | Baixo. | Não foram cometidos erros. |
 
 
-<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo,</a>,  <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>, <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 ### Opinião do Usuário sobre os problemas e soluções
 
@@ -169,8 +176,9 @@ Como durante a avaliação foram discutidos alguns problemas e inconsistências 
 | Pedro Izarias | Isabela Garcia | Realizar Matrícula | Sim, a participante conseguiu atingir seu objetivo porém com dificuldades. | A falta de uma aba clara com as opções de matrícula e a quantidade de opções da aba de Ensino | A procura pela opção de matrícula no site. | A participante compreendeu bem todos os elementos do protótipo. | A falta de destaque para opções de matrícula | Colocar uma aba separada para matrícula e retirar as opções de matrícula da aba de Ensino. |
 | Bruno Araújo | Laura Yamamoto | Solicitação de Bolsas | Sim, a participante conseguiu atingir seu objetivo. | Muitas opções em Abas separadas | Nenhum | Nenhum | Colocar uma aba separada para matrícula e retirar as opções de matrícula da aba de Ensino. |
 | Iago Passaglia |  Eric Silveira | Pré-cadastro de estágio | Sim, o participante conseguiu alcançar o objetivo. | Falta de avisos na hora de gerar o link. |O participante não mencionou elementos que geraram insatisfação. | O participante compreendeu bem todos os elementos do protótipo. |  Falta de avisos na hora de gerar o link. | Inserir avisos de como prosseguir após gerar o link |
+| Breno Alexandre | Victor Moreira Almeida | Aba do RU | Sim, o participante afirmou que sim. | Redundâncias em alguns passos.. | O participante não mencionou elementos que geraram desmotivação. | O participante acredita que sim. | Redundâncias em alguns passos e formas de pagamentos não muito práticas. | <li> Ao invés de aparecer um botão quando clicar em "RU" na tela inicial do SIGAA, ja ir direto para a página sobre o RU. <li> Não precisar esconder nem colapsar as opções de campus do cardápio. <li> Tirar as opções de pagamento além do PIX, por ser mais prático e plausível de ser usado. |
 
-<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo,</a>,  <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>, <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 ## Experiência do Usuário com a entrevista
 
@@ -186,9 +194,11 @@ Outro ponto importante é a equipe saber como foi a experiência pessoal dos par
 | Pedro Izarias | Isabela Garcia | Realizar Matrícula | A participante afirmou estar satisfeita com a experiência. |
 | Bruno Araújo | Laura Yamamoto | Solicitação de Bolsas | A participante afirmou estar satisfeita com a experiência. |
 | Iago Passaglia | Eric Silveira | Pré-cadastro de estágio | O participante afirmou estar satisfeito quanto a experiência com o protótipo apresentado. |
+| Breno Alexandre | Victor Moreira Almeida | Aba do RU | O participante afirmou estar satisfeito quanto a experiência com o protótipo apresentado. |
 
 
-<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo,</a>,  <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>, <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
 ## Obervações gerais
 
@@ -205,6 +215,4 @@ Outro ponto importante é a equipe saber como foi a experiência pessoal dos par
 | 1.4 | Adição das informações para a funcionalidade de Realizar Matrícula | Pedro Izarias | Bruno Araújo | 19/06/2024 |
 | 1.5 | Adição das informações para a funcionalidade de Solicitação de Bolsas| Bruno Araújo | Iago Passaglia | 19/06/2024 |
 | 1.6 | Adição das informações para a funcionalidade de Solicitação de Bolsas| Iago Passaglia| -- | 19/06/2024 |
-
-
-
+| 1.7 | Adição das informações para a funcionalidade da Aba de RU | Breno Alexandre | -- | 19/06/2024 |
