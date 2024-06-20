@@ -40,9 +40,11 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 - Detalhar como as avaliações foram realizadas, ou seja, explicar resumidamente. Para isso, serão utilizadas as tabelas 1, 2 e 3.
   
 #### Entrevistas Executadas
+
 - A tabela 1 irá mostrar o cronograma executado das avaliações:
   
 **Tabela 1:** Cronograma executado das entrevistas.
+
 | Entrevistador(a) | Entrevistad@ | Horário de Início | Horário de Fim | Data | Local |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
@@ -120,6 +122,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 
 ## Respostas dos Participantes
 #### Experiência do usuário com a acessibilidade
+
 - A tabela 7 deve mostrar o que participante achou em relação a conformidade com o padrão.
 
 **Tabela 7:** Experiência do usuário com a acessibilidade
@@ -131,6 +134,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 | ------------------ | ------------------ | ----------------- | -------- | 
 
 #### Experiência do usuário com as normas padrões
+
 - A tabela 8 deve mostrar o que participante achou em relação a conformidade com o padrão.
 
 **Tabela 8:** Experiência do usuário com as normas padrões
@@ -143,6 +147,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | 
 
 #### Experiência do usuário com a interface no Protótipo de alta fidelidade
+
 - A tabela 9 deve mostrar como o participante interagiu com o protótipo e como ele se sentiu em relação à interface
 
 **Tabela 9:** Como foi a interação do participante com a interface
