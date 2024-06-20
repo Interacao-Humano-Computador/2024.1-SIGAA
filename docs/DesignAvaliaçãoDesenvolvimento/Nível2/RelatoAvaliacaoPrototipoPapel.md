@@ -200,9 +200,8 @@ Outro ponto importante é a equipe saber como foi a experiência pessoal dos par
 
 <b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane, </a> Luana Medeiros, <a href="https://github.com/Izarias">Pedro Izarias</a>, <a href="https://github.com/brunocva">Bruno Araújo</a>, <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
-## Obervações gerais
-
 ## Conclusão
+A avaliação do protótipo de papel foi bem-sucedida, permitindo identificar pontos fortes e áreas de melhoria nas funcionalidades propostas para o SIGAA. As entrevistas e observações proporcionaram insights valiosos para aprimorar a usabilidade e a eficiência das funcionalidades antes de sua implementação final. As melhorias sugeridas pelos participantes serão consideradas para garantir que o sistema atenda às necessidades dos usuários e proporcione uma experiência de uso satisfatória.
 
 ## Histórico de Versão
 
