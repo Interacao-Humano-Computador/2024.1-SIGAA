@@ -63,7 +63,7 @@ Os storyboards estão apresentados nas imagens de 1 a 14.
 </details>
 
 <details>
-  <summary size="20"><b> Bruno Cunha: Solicitação de Bolsa e Declaração de Bolsistas </b></summary> 
+  <summary size="20"><b> Bruno Cunha: Solicitação de Bolsa </b></summary> 
 
 <div align="center">
     Imagem 2:    Solicitação de Bolsa e Declaração de Bolsistas
