@@ -222,3 +222,32 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 
 <b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane
 
+
+## Planejamento do Teste Piloto
+
+### Objetivo do Teste Piloto
+O propósito do teste piloto consiste em verificar a eficácia do planejamento da entrevista e da avaliação do protótipo de alta fidelidade ao garantir a adequação no cumprimento dos objetivos iniciais.
+
+### Preparação do Teste Piloto
+
+1. Selecionar os dispositivos eletrônicos necessários, incluindo os que serão utilizados para gravar e para mostrar os artefatos.
+
+2. Conferir a memória do dispositivo que será utilizado para a gravação.
+
+3. Deixar os questionários (pré, pós e avaliação) em fácil acesso.
+
+4. Acessar o termo de consentimento
+
+5. Separar um ambiente para as anotações de observações.
+
+6. Gravar o teste piloto.
+
+### Cronograma do Teste Piloto
+
+Abaixo, a tabela 2 mostra o cronograma para a execução do teste piloto.
+
+**Tabela 2:** Planejamento do teste piloto
+
+
+<b> Autores: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane
+
