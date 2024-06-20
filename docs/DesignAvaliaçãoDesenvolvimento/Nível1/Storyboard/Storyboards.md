@@ -35,7 +35,7 @@ Cada integrante do grupo realizou o storyboard de acordo com as funcionalidades 
 | Integrante | Funcionalidade | data de início | Data de entrega do Storyboard |
 | - | - | - | - |
 | Breno Alexandre | Aba de RU | 09/05/2024 | 15/05/2024 |
-| Bruno Araújo | Solicitação de Bolsa e Declaração de Bolsistas  | 09/05/2024 | 15/05/2024 |
+| Bruno Araújo | Solicitação de Bolsa | 09/05/2024 | 15/05/2024 |
 | Iago Passaglia| Aba de Estágio | 09/05/2024 | 15/05/2024 |
 | Larissa Stéfane | Aba de Monitoria | 09/05/2024 | 15/05/2024 |
 | Larissa Stéfane | Aluguel de Sala | 09/05/2024 | 15/05/2024 |
