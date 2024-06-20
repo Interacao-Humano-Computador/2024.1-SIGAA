@@ -164,3 +164,44 @@ As perguntas foram definidas conforme o [framework DECIDE](DesignAvaliaçãoDese
 
 </details>
 
+## Questionário de Pós-Avaliação
+
+O objetivo do questionário de pós-avaliação é “coletar informações sobre a opinião e os sentimentos dos participantes decorrentes da experiência de uso observada”, segundo o livro de Interação-Humano Computador¹, de Simone Barbosa, na página 275.
+
+Desse modo, abaixo, há o questionário de pós-avaliação
+
+<details>
+<summary size="20"><b> Questionário de pós-avaliação</b></summary>
+
+1. **Como você descreveria sua satisfação geral com a experiência de uso observada?**
+
+2. **Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
+
+3. **As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
+
+4. **Com base na sua experiência, quais sugestões você daria para melhorar a funcionalidade e a experiência de uso?**
+
+</details>
+
+## Questionário Quando a entrevista terminar
+
+O objetivo do questionário dessa etapa é o integrante da equipe anotar as observações que fez enquanto observava o participante interagir com o protótipo de alta fidelidade.
+
+Desse modo, abaixo, há o questionário após a entrevista.
+
+<details>
+<summary size="20"><b> Questionário de após entrevista </b></summary>
+
+1. **O usuário conseguiu operar o protótipo?**
+
+2. **Quanto tempo o participante realizou a atividade?**
+
+3. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
+
+4. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
+
+5. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
+
+</details>
+
+
