@@ -226,7 +226,7 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 | Aba RU | João Antônio Ginuino Carvalho | Breno Alexandre Soares Garcia | 03/06/2024 | 05/06/2024 | 08:30 | Alguma Sala do UAC |
 | Matrículas | Isabela Garcia | Pedro Augusto | 28/05/2024 | 18/06/2024 | 17:00 | Casa do entrevistador |
 | Grade Sugerida | Leonardo Ramiro | Luana Medeiros | 28/05/2024 | 18/06/2024 | 18:00 | Casa do entrevistador |
-| Solicitação de bolsa | - | Bruno Araújo | - | - | - | - |
+| Solicitação de bolsa | Laura Yamamoto | Bruno Araújo | 27/05/2024 | 19/06/2024 | 13:00| UnB - FGA |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
