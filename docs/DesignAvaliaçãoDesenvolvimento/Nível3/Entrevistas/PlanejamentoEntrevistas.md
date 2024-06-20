@@ -276,4 +276,4 @@ Durante o processo de planejamento das entrevistas para avaliação dos protóti
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | - | 19/06/2024 |
+| 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | Iago Passaglia | 19/06/2024 |
