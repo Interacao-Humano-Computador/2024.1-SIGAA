@@ -8,7 +8,7 @@ Neste documento está contido o vídeo de apresentação da sétima entrega da m
 **Apresentação 07**
 
 
-É possível acessar o vídeo por meio deste [link]()
+É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=Nhzn0LmtBSg)
 
 
 
