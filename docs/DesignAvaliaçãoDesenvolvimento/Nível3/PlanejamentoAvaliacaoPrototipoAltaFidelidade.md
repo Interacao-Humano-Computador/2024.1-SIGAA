@@ -66,7 +66,7 @@ Tabela 2: - Perguntas da avaliação direcionadas ao participante.
 |---------------------|----------|----------------------|
 | 1 | Você considera que o protótipo atende aos critérios de acessibilidade necessários para garantir que todos os usuários, incluindo aqueles com necessidades específicas, possam utilizar as funcionalidades sem dificuldades? Na sua opinião. | Verificar conformidade com padrões estabelecidos |
 | 2 | Na sua opinião, a interface do protótipo segue os padrões visuais e de interação esperados para o SIGAA? Ela está alinhada com o formato que você conhece no SIGAA? | Verificar conformidade com padrões estabelecidos |
-| 3 | Você acha que os termos e convenções utilizados no protótipo são compreensíveis e consistentes com o contexto acadêmico e da funcionalidade? | Verificar conformidade com padrões estabelecidos |
+| 3 | Você acha que os termos utilizados no protótipo são compreensíveis e consistentes com o contexto acadêmico e da funcionalidade? | Verificar conformidade com padrões estabelecidos |
 | 4 | Como você avalia o protótipo em comparação com outras funcionalidades parecidas que você já utilizou?  | Verificar conformidade com padrões estabelecidos |
 | 5 | A linguagem e os símbolos no protótipo são adequados para os usuários deste sistema? Você conseguiu entendê-los com facilidade? | Verificar conformidade com padrões estabelecidos |
 | 6 | Você encontrou dificuldades quando navegou nas funcionalidades do protótipo? | Identificar problemas na interação e na interface |
