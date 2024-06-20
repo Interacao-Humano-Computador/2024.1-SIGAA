@@ -116,3 +116,51 @@ Desse modo, abaixo, há o questionário de pré-avaliação
 6. **Resumidamente, como você espera a funcionalidade seja?**
 
 </details>
+
+## Questionário de Avaliação
+
+Durante esta fase, serão utilizadas perguntas específicas com base na análise do protótipo. Essas perguntas foram desenvolvidas com o objetivo de assegurar que o participante compreenda todos os detalhes e também para captar suas opiniões.
+
+As perguntas foram definidas conforme o [framework DECIDE](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoAvaliacaoPrototipoAltaFidelidade.md)
+
+<details>
+<summary size="20"><b> Questionário Avaliação do protótipo de alta fidelidade </b></summary>
+
+#### Perguntas sobre o protótipo de alta fidelidade
+
+1. **Você considera que o protótipo atende aos critérios de acessibilidade necessários para garantir que todos os usuários, incluindo aqueles com necessidades específicas, possam utilizar as funcionalidades sem dificuldades? Na sua opinião.**
+
+2. **Na sua opinião, a interface do protótipo segue os padrões visuais e de interação esperados para o SIGAA? Ela está alinhada com o formato que você conhece no SIGAA?**
+
+3. **Você acha que os termos utilizados no protótipo são compreensíveis e consistentes com o contexto acadêmico e da funcionalidade?**
+
+4. **Como você avalia o protótipo em comparação com outras funcionalidades parecidas que você já utilizou?**
+
+5. **A linguagem e os símbolos no protótipo são adequados para os usuários deste sistema? Você conseguiu entendê-los com facilidade?**
+
+6. **Você encontrou dificuldades quando navegou nas funcionalidades do protótipo?**
+
+7. **Você acha que levou mais tempo que o necessário para realizar as tarefas propostas pelo protótipo ou acha que levou o tempo ideal?**
+
+8. **Quais partes do protótipo você considera menos satisfatórias ou que poderiam ser melhoradas para proporcionar uma experiência mais positiva?**
+
+9. **A interface do protótipo incentivou você a explorar as suas funcionalidades e os recursos do SIGAA?**
+
+10. **Você conseguiu entender claramente o significado e a utilidade de cada elemento da interface do protótipo? **
+
+11. **Você conseguiu entender claramente o significado e a utilidade de cada elemento da funcionalidade do protótipo?**
+
+12. **Você se sentiu orientado sobre quais passos tomar a seguir para completar suas tarefas no protótipo? Se sim, as orientações fornecidas foram claras e úteis?**
+
+13. **Os elementos visuais e de design do protótipo ajudaram você a compreender a hierarquia das informações apresentadas?**
+
+14. **A interface do protótipo mantém uma consistência visual ao longo de todas as telas e elementos?**
+
+15. **Como o protótipo se comporta em diferentes dispositivos e tamanhos de tela?**
+
+16. **Você sentiu que teve o controle sobre a navegação e a interação com o protótipo?**
+
+17. **Como você define a sua satisfação pessoal ao completar tarefas da funcionalidade?**
+
+</details>
+
