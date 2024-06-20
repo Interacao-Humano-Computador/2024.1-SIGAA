@@ -42,7 +42,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 #### Entrevistas Executadas
 - A tabela 1 irá mostrar o cronograma executado das avaliações:
   
-** Tabela 1:** Cronograma executado das entrevistas.
+**Tabela 1:** Cronograma executado das entrevistas.
 | Entrevistador(a) | Entrevistad@ | Horário de Início | Horário de Fim | Data | Local |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------- |
@@ -65,7 +65,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 
 - A tabela 3 deverá mostrar uma descrição breve de como foi cada entrevista.
 
-** Tabela 3:** Execução das entrevistas
+**Tabela 3:** Execução das entrevistas
 
 | Entrevistador(a) | Entrevistad@ | Funcionalidade | Descrição do processo | Descrição do ambiente <br> Nível de barulho: <br> Silêncio completo, barulho ao fundo ou <br> Muito barulho, ou ventania. | Experiência do participante |
 | ---------------------- | ------------------| ---------------------- | -------------------- | ------- | ------ |
@@ -82,7 +82,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 
 - A tabela 4 deve mostrar o que o integrante do grupo responsável pela funcionalidade avaliou do seu protótipo em relação à conformidade com as normas espera da funcionalidade antes de interagir com o protótipo de alta fidelidade.
 
-** Tabela 4:** Conformidade com os padrões das normas
+**Tabela 4:** Conformidade com os padrões das normas
 
 | Integrante | Funcionalidade | Quais tópicos interface segue os padrões do W3C ? | Quais tópicos a interface não segue os padrões do W3C? |
 | ------------------ | ------------------ | ----------------- | -------- |
@@ -96,7 +96,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 
 - A tabela 5 deve  mostrar o que o integrante do grupo responsável pela funcionalidade avaliou do seu protótipo em relação à conformidade com o padrão do SIGAA e da lógica do site.
 
-** Tabela 5:** Conformidade com os padrões do site do SIGAA
+**Tabela 5:** Conformidade com os padrões do site do SIGAA
 
 | Integrante | Funcionalidade | Quais tópicos interface segue os padrões do SIGAA? | Quais tópicos a interface não segue os padrões do SIGAA? |
 | ------------------ | ------------------ | ----------------- | -------- |
@@ -109,7 +109,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 
 - A tabela 6 deve  mostrar o que o integrante do grupo responsável pela funcionalidade avaliou em relação ao participante.
 
-** Tabela 6:** Conformidade com os padrões do site do SIGAA
+**Tabela 6:** Conformidade com os padrões do site do SIGAA
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Como o participante operou o protótipo | Tempo que o participante realizou a atividade | Quantidade de erros do participante | Quantidade de vezes que o participante <br> teve que parar de interagir com o protótipo para tirar dúvidas | Expressões predominantes do participante |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |
@@ -122,7 +122,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 #### Experiência do usuário com a acessibilidade
 - A tabela 7 deve mostrar o que participante achou em relação a conformidade com o padrão.
 
-** Tabela 7:** Experiência do usuário com a acessibilidade
+**Tabela 7:** Experiência do usuário com a acessibilidade
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Opinião do participante em relação à acessibilidade | 
 | ------------------ | ------------------ | ----------------- | -------- | 
 | ------------------ | ------------------ | ----------------- | -------- | 
@@ -133,7 +133,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 #### Experiência do usuário com as normas padrões
 - A tabela 8 deve mostrar o que participante achou em relação a conformidade com o padrão.
 
-** Tabela 8:** Experiência do usuário com as normas padrões
+**Tabela 8:** Experiência do usuário com as normas padrões
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Quais pontos os participantes falaram que seguem os padrões | Quais pontos os participantes falaram que não seguem os padrões  | Qual a opinião do usuário em relação às mudanças? |  
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |  
@@ -145,7 +145,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 #### Experiência do usuário com a interface no Protótipo de alta fidelidade
 - A tabela 9 deve mostrar como o participante interagiu com o protótipo e como ele se sentiu em relação à interface
 
-** Tabela 9:** Como foi a interação do participante com a interface
+**Tabela 9:** Como foi a interação do participante com a interface
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Quais símbolos do protótipo o participante gostou? | Quais símbolos do protótipo o participante não gostou?  | O integrante encontrou dificuldade na navegação? | Quais elementos o participante entendeu a utilidade? | Quais elementos o participante não entendeu a utilidade? | 
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- |  -------- |  -------- |
@@ -158,7 +158,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 
 - A tabela 10 mostrará as observações sobre os problemas e as soluções
 
-** Tabela 10:** Problemas e Soluções
+**Tabela 10:** Problemas e Soluções
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | Os usuários <br> conseguem alcançar <br> seus objetivos? | Elementos que geraram <br> insatisfação | Elementos que geraram <br> desmotivação | Compreensão dos elementos | Problemas encontrados | Sugestão de melhoria |
 | ------------------ | ------------------ | ----------------- | -------- | -------- | -------- | -------- | -------- |-------- |
@@ -171,7 +171,7 @@ Serão pontuados os objetivos definidos no planejamento da avaliação, ou seja,
 
 - A tabela 8 mostrará a opinião dos participantes em relação ao processo da avaliação, ou seja, como se sentiram.
 
-** Tabela 8:** Experiência com a avaliação
+**Tabela 8:** Experiência com a avaliação
 
 | Entrevistador(a) | Entrevistado(a) | Funcionalidade | opinião sobre a experiência |
 | ------------------ | ------------------ | ----------------- | -------- |
