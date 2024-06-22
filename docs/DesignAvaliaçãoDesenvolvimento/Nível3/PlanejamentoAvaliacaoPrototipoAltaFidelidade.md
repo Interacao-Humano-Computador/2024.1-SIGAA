@@ -113,7 +113,7 @@ Para escolher os métodos da avaliação, com base nas reuniões anteriores real
 
 As justificativas, com base no livro, para essas escolhas são:
 
-- **Inspeção**: O método de inspeção permite ao avaliador examinar a solução de IHC para antecipar as possíveis consequências de certas decisões de design nas experiências de uso, identificando problemas potenciais que os usuários podem enfrentar.
+- **Inspeção**: O método de inspeção permite ao avaliador examinar a solução de IHC para antecipar as possíveis consequências de certas decisões de design nas experiências de uso, identificando problemas potenciais que os usuários podem enfrentar. Assim, esse método será utilizado para cada integrante avaliar o próprio protótipo.
 
 - **Investigação:** O método de investigação, como entrevistas e questionários, foram selecionados por sua capacidade de acessar e interpretar as concepções, opiniões e comportamentos dos usuários em relação ao protótipo de alta fidelidade.
 
