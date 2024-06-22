@@ -156,7 +156,7 @@ A avaliação do protótipo de alta fidelidade está estimada para durar entre 1
 
 ### Lista de Materiais Necessários
 
-1. **Ferramenta** : Figma ou Sketch.
+1. **Ferramenta** : [Figma](https://www.figma.com/) ou [Sketch](https://www.sketch.com/)
 2. **Equipamentos Eletrônicos**: Computador para apresentação do protótipo, webcam para gravação das interações do participante, microfone para captura de áudio e gravador para registrar a sessão de avaliação.
 3. **Documentos**: Termo de Consentimento Livre e Esclarecido (TCLE), questionários de pré-avaliação, avaliação e pós-avaliação.
 4. **Roteiro de Acompanhamento**: Impresso para guiar a estrutura da avaliação durante a interação com o protótipo.
