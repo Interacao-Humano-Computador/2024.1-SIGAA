@@ -58,19 +58,19 @@
 | Personas                                                | Larissa e Pedro                            | Bruno Araújo    | Alto       |
 | **ANÁLISE DE REQUISITOS**                               |                                            |                 |            |
 | ***CENÁRIOS***                                          |                                            |                 |            |
-| Bolsas                                                  | Bruno Araújo                               | -               | Alto       |
-| Estágio                                                 | Iago Passaglia                             | -               | Alto       |
-| Histórico                                               | Luana Medeiros                             | -               | Alto       |
-| Matrícula                                               | Pedro Izarias                              | -               | Alto       |
-| Monitoria                                               | Larissa Stéfane                            | -               | Alto       |
-| Restaurante Universitário                               | Breno Alexandre                            | -               | Alto       |
+| Bolsas                                                  | Bruno Araújo                               | Larissa Stéfane | Alto       |
+| Estágio                                                 | Iago Passaglia                             | Luana Medeiros  | Alto       |
+| Histórico                                               | Luana Medeiros                             | Bruno Araújo    | Alto       |
+| Matrícula                                               | Pedro Izarias                              | Iago Passaglia  | Alto       |
+| Monitoria                                               | Larissa Stéfane                            | Breno Alexandre | Alto       |
+| Restaurante Universitário                               | Breno Alexandre                            | Pedro Izarias   | Alto       |
 | ***ANÁLISE DE TAREFAS(Planejamento e Execução)***       |                                            |                 |            |
-| Bolsas                                                  | Bruno Araújo                               | -               | Alto       |
-| Estágio                                                 | Iago Passaglia                             | -               | Alto       |
-| Histórico                                               | Luana Medeiros                             | -               | Alto       |
-| Matrícula                                               | Pedro Izarias                              | -               | Alto       |
-| Monitoria                                               | Larissa Stéfane                            | -               | Alto       |
-| Restaurante Universitário                               | Breno Alexandre                            | -               | Alto       |
+| Bolsas                                                  | Bruno Araújo                               | Larissa Stéfane | Alto       |
+| Estágio                                                 | Iago Passaglia                             | Luana Medeiros  | Alto       |
+| Histórico                                               | Luana Medeiros                             | Bruno Araújo    | Alto       |
+| Matrícula                                               | Pedro Izarias                              | Iago Passaglia  | Alto       |
+| Monitoria                                               | Larissa Stéfane                            | Breno Alexandre | Alto       |
+| Restaurante Universitário                               | Breno Alexandre                            | Pedro Izarias   | Alto       |
 | Características do SIGAA                                | Larissa Stéfane                            | -               | Alto       |
 | ***PRINCÍPIOS GERAIS***                                 |                                            |                 |            |
 | Planejamento                                            | Larissa Stéfane                            | -               | Alto       |
