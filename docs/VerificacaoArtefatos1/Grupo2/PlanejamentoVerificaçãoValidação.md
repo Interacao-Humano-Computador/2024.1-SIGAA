@@ -94,22 +94,22 @@
 | Metas de Usabilidade                                    | Luana e Pedro                              | Larissa Stéfane | Alto       |
 | **DESIGN, AVALIAÇÃO E DESENVOLVIMENTO**                 |                                            |                 |            |
 | ***NÍVEL 1***                                           |                                            |                 |            |
-| Planejamento Avaliação Análise de Tarefas               | Bruno, Iago, Larissa, Luana e Pedro        | -               | Alto       |
-| Planejamento Relato Análise de Tarefas                  | Bruno Araújo                               | -               | Médio      |
-| Storyboards                                             | Larissa e Pedro                            | -               | Alto       |
-| Planejamento Avaliação Storyboard                       | Bruno, Iago, Larissa, Luana e Pedro        | -               | Alto       |
-| Planejamento Relato Storyboard                          | Breno Alexandre                            | -               | Médio      |
-| Planejamento das Entrevistas(HTA e Storyboard)          | Larissa Stéfane                            | -               | Médio      |
+| Planejamento Avaliação Análise de Tarefas               | Bruno, Iago, Larissa, Luana e Pedro        | Larissa Stéfane | Alto       |
+| Planejamento Relato Análise de Tarefas                  | Bruno Araújo                               | Luana Medeiros  | Médio      |
+| Storyboards                                             | Larissa e Pedro                            | Breno Alexandre | Alto       |
+| Planejamento Avaliação Storyboard                       | Bruno, Iago, Larissa, Luana e Pedro        | Breno Alexandre | Alto       |
+| Planejamento Relato Storyboard                          | Breno Alexandre                            | Larissa Stéfane | Médio      |
+| Planejamento das Entrevistas(HTA e Storyboard)          | Larissa Stéfane                            | Iago Passaglia  | Médio      |
 | Execução das Entrevistas(HTA e Storyboard)              | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros  | Alto       |
 | Relato dos Resultados Storyboard                        | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros  | Alto       |
 | Relato dos Resultados HTA                               | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros  | Alto       |
 | ***NÍVEL 2***                                           |                                            |                 |            |
-| Planejamento Avaliação Protótipo de Papel               | Larissa Stéfane                            | -               | Alto       |
-| Planejamento das Entrevistas Protótipo de Papel         | Larissa Stéfane                            | -               | Médio      |
-| Execução das Entrevistas                                | Breno, Bruno, Iago, Larissa, Luana e Pedro | -               | Alto       |
-| Planejamento Relato Protótipo de Papel                  | Larissa Stéfane                            | -               | Médio      |
-| Relato dos Resultados Protótipo de Papel                | Breno, Bruno, Iago, Larissa, Luana e Pedro | -               | Alto       |
+| Planejamento Avaliação Protótipo de Papel               | Larissa Stéfane                            | Pedro Izarias   | Alto       |
+| Planejamento das Entrevistas Protótipo de Papel         | Larissa Stéfane                            | Bruno Araújo    | Médio      |
+| Execução das Entrevistas                                | Breno, Bruno, Iago, Larissa, Luana e Pedro | Bruno Araújo    | Alto       |
+| Planejamento Relato Protótipo de Papel                  | Larissa Stéfane                            | Pedro Izarias   | Médio      |
+| Relato dos Resultados Protótipo de Papel                | Breno, Bruno, Iago, Larissa, Luana e Pedro | Larissa Stéfane | Alto       |
 | ***NÍVEL 3***                                           |                                            |                 |            |
-| Planejamento Avaliação Protótipo Alta Fidelidade        | Larissa Stéfane                            | -               | Alto       |
-| Planejamento das Entrevistas Protótipo Alta Fidelidade  | Larissa Stéfane                            | -               | Médio      |
-| Planejamento Relato Protótipo Alta Fidelidade           | Larissa Stéfane                            | -               | Alto       |
+| Planejamento Avaliação Protótipo Alta Fidelidade        | Larissa Stéfane                            | Iago Passaglia  | Alto       |
+| Planejamento das Entrevistas Protótipo Alta Fidelidade  | Larissa Stéfane                            | Breno Alexandre | Médio      |
+| Planejamento Relato Protótipo Alta Fidelidade           | Larissa Stéfane                            | Pedro Izarias   | Alto       |
