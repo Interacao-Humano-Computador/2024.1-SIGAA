@@ -28,27 +28,27 @@
 | Avaliação Heurística                                    | Larissa Stéfane                            | Breno Alexandre | Alto       |
 | **USUÁRIOS**                                            |                                            |                 |            |
 | ***PROFESSORES***                                       |                                            |                 |            |
-| Planejamento do Questionário                            | Larissa Stéfane                            | -               | Baixo      |
-| Resultados do Questionário                              | Larissa Stéfane                            | -               | Alto       |
-| Planejamento das Entrevistas                            | Larissa Stéfane                            | -               | Baixo      |
-| **Entrevistas Realizadas**                              | Larissa Stéfane                            | -               | Alto       |
-| Análise dos Resultados das Entrevistas                  | Larissa Stéfane                            | -               | Alto       |
-| Análise de Documentos                                   | Larissa Stéfane                            | -               | Alto       |
-| Perfil do Usuário                                       | Larissa Stéfane                            | -               | Alto       |
+| Planejamento do Questionário                            | Larissa Stéfane                            | Luana Medeiros  | Baixo      |
+| Resultados do Questionário                              | Larissa Stéfane                            | Breno Alexandre | Alto       |
+| Planejamento das Entrevistas                            | Larissa Stéfane                            | Iago Passaglia  | Baixo      |
+| **Entrevistas Realizadas**                              | Larissa Stéfane                            | Pedro Izarias   | Alto       |
+| Análise dos Resultados das Entrevistas                  | Larissa Stéfane                            | Bruno Araújo    | Alto       |
+| Análise de Documentos                                   | Larissa Stéfane                            | Breno Alexandre | Alto       |
+| Perfil do Usuário                                       | Larissa Stéfane                            | Pedro Izarias   | Alto       |
 | ***ESTUDANTES***                                        |                                            |                 |            |
-| Planejamento do Questionário                            | Larissa Stéfane                            | -               | Baixo      |
-| Resultados do Questionário                              | Larissa Stéfane                            | -               | Alto       |
-| Planejamento das Entrevistas                            | Larissa Stéfane                            | -               | Baixo      |
-| Entrevistas Realizadas                                  | Larissa Stéfane                            | -               | Alto       |
-| Análise dos Resultados das Entrevistas                  | Larissa Stéfane                            | -               | Alto       |
-| Planejamento de Brainstorming                           | Iago Passaglia                             | -               | Baixo      |
-| Execução do Brainstorming                               | Breno e Bruno                              | -               | Alto       |
-| Planejamento do Estudo de Campo                         | Pedro Izarias                              | -               | Baixo      |
-| Execução do Estudo de Campo                             | Pedro Izarias                              | -               | Alto       |
-| Planejamento da Classificação de Cartões                | Luana e Pedro                              | -               | Baixo      |
-| Resultados da Classificação de Cartões                  | Luana Medeiros                             | -               | Alto       |
-| Análise Documental                                      | Larissa Stéfane                            | -               | Alto       |
-| Perfil do Usuário                                       | Larissa Stéfane                            | -               | Alto       |
+| Planejamento do Questionário                            | Larissa Stéfane                            | Luana Medeiros  | Baixo      |
+| Resultados do Questionário                              | Larissa Stéfane                            | Iago Passaglia  | Alto       |
+| Planejamento das Entrevistas                            | Larissa Stéfane                            | Bruno Araújo    | Baixo      |
+| Entrevistas Realizadas                                  | Larissa Stéfane                            | Breno Alexandre | Alto       |
+| Análise dos Resultados das Entrevistas                  | Larissa Stéfane                            | Pedro Izarias   | Alto       |
+| Planejamento de Brainstorming                           | Iago Passaglia                             | Larissa Stéfane | Baixo      |
+| Execução do Brainstorming                               | Breno e Bruno                              | Larissa Stéfane | Alto       |
+| Planejamento do Estudo de Campo                         | Pedro Izarias                              | Luana Medeiros  | Baixo      |
+| Execução do Estudo de Campo                             | Pedro Izarias                              | Iago Passaglia  | Alto       |
+| Planejamento da Classificação de Cartões                | Luana e Pedro                              | Breno Alexandre | Baixo      |
+| Resultados da Classificação de Cartões                  | Luana Medeiros                             | Bruno Araújo    | Alto       |
+| Análise Documental                                      | Larissa Stéfane                            | Pedro Izarias   | Alto       |
+| Perfil do Usuário                                       | Larissa Stéfane                            | Breno Alexandre | Alto       |
 | ***TÉCNICOS***                                          |                                            |                 |            |
 | Planejamento das Entrevistas                            | Larissa Stéfane                            | -               | Baixo      |
 | Execução da Entrevista (Chiquinho)                      | Breno Alexandre                            | -               | Alto       |
