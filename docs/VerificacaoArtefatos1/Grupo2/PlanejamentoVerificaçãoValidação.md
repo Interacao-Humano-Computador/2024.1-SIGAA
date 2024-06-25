@@ -78,7 +78,38 @@
 | Antecipação                                             | Larissa Stéfane                 | - | |
 | Simplicidade                                            | Bruno Araújo                    | - | |
 | Equilíbrio                                              | Pedro Izarias                   | - | |
-| Consistência e Promoção                                 | Pedro Izarias                   | - | |
-
-
-
+| Consistência                                            | Pedro Izarias                   | - | |
+| Promoção                                                | Pedro Izarias                   | - | |
+| Visibilidade                                            | Luana Medeiros                  | - | |
+| Expressão Adequada                                      | Iago Passaglia                  | - | |
+| Projeto para erros                                      | Breno Alexandre                 | - | |
+| ***GUIA DE ESTILO***                                    |                                 | - | |
+| Planejamento                                            | Larissa Stéfane                 | - | |
+| Introdução                                              | Larissa Stéfane                 | - | |
+| Resultados de Análise                                   | Pedro Izarias                   | - | |
+| Elementos de Interface                                  | Breno Alexandre                 | - | |
+| Elementos de Interação                                  | Bruno Araújo                    | - | |
+| Elementos de Ação                                       | Luana Medeiros                  | - | |
+| Vocabulário                                             | Iago Passaglia                  | - | |
+| Metas de Usabilidade                                    | Luana e Pedro                   | - | |
+| **DESIGN, AVALIAÇÃO E DESENVOLVIMENTO**                 |                                            |  | |
+| ***NÍVEL 1***                                           |                                            |  | |
+| Planejamento Avaliação Análise de Tarefas               | Bruno, Iago, Larissa, Luana e Pedro        | - | |
+| Planejamento Relato Análise de Tarefas                  | Bruno Araújo                               | - | |
+| Storyboards                                             | Larissa e Pedro                            | - | |
+| Planejamento Avaliação Storyboard                       | Bruno, Iago, Larissa, Luana e Pedro        | - | |
+| Planejamento Relato Storyboard                          | Breno Alexandre                            | - | |
+| Planejamento das Entrevistas(HTA e Storyboard)          | Larissa Stéfane                            | - | |
+| Execução das Entrevistas(HTA e Storyboard)              | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros | |
+| Relato dos Resultados Storyboard                        | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros | |
+| Relato dos Resultados HTA                               | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros | |
+| ***NÍVEL 2***                                           |                                            |  | |
+| Planejamento Avaliação Protótipo de Papel               | Larissa Stéfane                            | - | |
+| Planejamento das Entrevistas Protótipo de Papel         | Larissa Stéfane                            | - | |
+| Execução das Entrevistas                                | Breno, Bruno, Iago, Larissa, Luana e Pedro | - | |
+| Planejamento Relato Protótipo de Papel                  | Larissa Stéfane                            | - | |
+| Relato dos Resultados Protótipo de Papel                | Breno, Bruno, Iago, Larissa, Luana e Pedro | - | |
+| ***NÍVEL 3***                                           |                                            |  | |
+| Planejamento Avaliação Protótipo Alta Fidelidade        | Larissa Stéfane                            | - | |
+| Planejamento das Entrevistas Protótipo Alta Fidelidade  | Larissa Stéfane                            | - | |
+| Planejamento Relato Protótipo Alta Fidelidade           | Larissa Stéfane                            | - | |
