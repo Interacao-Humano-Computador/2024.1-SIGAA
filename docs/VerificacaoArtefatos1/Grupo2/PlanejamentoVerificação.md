@@ -74,7 +74,11 @@
 | Características do SIGAA                                | Larissa Stéfane                 | - | |
 | ***PRINCÍPIOS GERAIS***                                 |                                 | - | |
 | Planejamento                                            | Larissa Stéfane                 | - | |
-| Princípios Gerais do Projeto                            | Larissa Stéfane                 | - | |
+| Correspondência                                         | Larissa Stéfane                 | - | |
+| Antecipação                                             | Larissa Stéfane                 | - | |
+| Simplicidade                                            | Bruno Araújo                    | - | |
+| Equilíbrio                                              | Pedro Izarias                   | - | |
+| Consistência e Promoção                                 | Pedro Izarias                   | - | |
 
 
 
