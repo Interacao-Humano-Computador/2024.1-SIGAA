@@ -84,14 +84,14 @@
 | Expressão Adequada                                      | Iago Passaglia                             | Luana Medeiros  | Alto       |
 | Projeto para erros                                      | Breno Alexandre                            | Iago Passaglia  | Alto       |
 | ***GUIA DE ESTILO***                                    |                                            |                 |            |
-| Planejamento                                            | Larissa Stéfane                            | -               | Alto       |
-| Introdução                                              | Larissa Stéfane                            | -               | Alto       |
-| Resultados de Análise                                   | Pedro Izarias                              | -               | Alto       |
-| Elementos de Interface                                  | Breno Alexandre                            | -               | Alto       |
-| Elementos de Interação                                  | Bruno Araújo                               | -               | Alto       |
-| Elementos de Ação                                       | Luana Medeiros                             | -               | Alto       |
-| Vocabulário                                             | Iago Passaglia                             | -               | Alto       |
-| Metas de Usabilidade                                    | Luana e Pedro                              | -               | Alto       |
+| Planejamento                                            | Larissa Stéfane                            | Iago Passaglia  | Alto       |
+| Introdução                                              | Larissa Stéfane                            | Pedro Izarias   | Alto       |
+| Resultados de Análise                                   | Pedro Izarias                              | Breno Alexandre | Alto       |
+| Elementos de Interface                                  | Breno Alexandre                            | Larissa Stéfane | Alto       |
+| Elementos de Interação                                  | Bruno Araújo                               | Luana Medeiros  | Alto       |
+| Elementos de Ação                                       | Luana Medeiros                             | Iago Passaglia  | Alto       |
+| Vocabulário                                             | Iago Passaglia                             | Bruno Araújo    | Alto       |
+| Metas de Usabilidade                                    | Luana e Pedro                              | Larissa Stéfane | Alto       |
 | **DESIGN, AVALIAÇÃO E DESENVOLVIMENTO**                 |                                            |                 |            |
 | ***NÍVEL 1***                                           |                                            |                 |            |
 | Planejamento Avaliação Análise de Tarefas               | Bruno, Iago, Larissa, Luana e Pedro        | -               | Alto       |
