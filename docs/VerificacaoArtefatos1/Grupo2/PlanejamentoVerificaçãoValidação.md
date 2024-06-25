@@ -2,30 +2,30 @@
 
 | Artefato                                                | Autor                               | Verificador     | Prioridade |
 | ------------------------------------------------------- | ----------------------------------- | --------------- | ---------- |
-| README                                                  | Larissa e Pedro                     |                 | Médio      |
+| README                                                  | Larissa e Pedro                     | Iago Passaglia  | Médio      |
 | **EQUIPE**                                              |                                     |                 |            |
-| Quem somos?                                             | Larissa Stéfane                     | -               | Baixo      |
-| Dinâmica da equipe                                      | Larissa Stéfane                     | -               | Baixo      |
+| Quem somos?                                             | Larissa Stéfane                     | Luana Medeiros  | Baixo      |
+| Dinâmica da equipe                                      | Larissa Stéfane                     | Bruno Araújo    | Baixo      |
 | Heatmap                                                 | Bruno Araújo                        | Breno Alexandre | Baixo      |
 | **REUNIÕES**                                            |                                     |                 |            |
-| Atas                                                    | Breno e Larissa                     | -               | Baixo      |
+| Atas                                                    | Breno e Larissa                     | Bruno Araújo    | Baixo      |
 | **APRESENTAÇÕES**                                       |                                     |                 |            |
 | Apresentações                                           | Breno, Bruno, Iago, Larissa e Luana | Pedro Izarias   | Baixo      |
 | **PLANEJAMENTO**                                        |                                     |                 |            |
-| Cronograma                                              | Breno e Luana                       | -               | Alto       |
-| Ferramentas                                             | Larissa Stéfane                     | -               | Baixo      |
-| Processo de Design                                      | Iago e Pedro                        | -               | Médio      |
+| Cronograma                                              | Breno e Luana                       | Larissa Stéfane | Alto       |
+| Ferramentas                                             | Larissa Stéfane                     | Luana Medeiros  | Baixo      |
+| Processo de Design                                      | Iago e Pedro                        | Bruno Araújo    | Médio      |
 | ***SITES AVALIADOS***                                   |                                     |                 |            |
-| Metodologia da analise                                  | Larissa e Pedro                     | -               | Médio      |
-| Avaliação do Site: Inep Enem                            | Breno Alexandre                     | -               | Baixo      |
-| Avaliação do Site: CBM - DF                             | Bruno Araújo                        | -               | Baixo      |
-| Avaliação do Site: SIGAA UnB                            | Iago Passaglia                      | -               | Médio      |
-| Avaliação do Site: SPD - DF                             | Larissa Stéfane                     | -               | Baixo      |
-| Avaliação do Site: Alistamento Militar                  | Luana Medeiros                      | -               | Baixo      |
-| Avaliação do Site: Linux Debian                         | Pedro Izarias                       | -               | Baixo      |
+| Metodologia da analise                                  | Larissa e Pedro                     | Breno Alexandre | Médio      |
+| Avaliação do Site: Inep Enem                            | Breno Alexandre                     | Larissa Stéfane | Baixo      |
+| Avaliação do Site: CBM - DF                             | Bruno Araújo                        | Iago Passaglia  | Baixo      |
+| Avaliação do Site: SIGAA UnB                            | Iago Passaglia                      | Breno Alexandre | Médio      |
+| Avaliação do Site: SPD - DF                             | Larissa Stéfane                     | Pedro Izarias   | Baixo      |
+| Avaliação do Site: Alistamento Militar                  | Luana Medeiros                      | Bruno Araújo    | Baixo      |
+| Avaliação do Site: Linux Debian                         | Pedro Izarias                       | Luana Medeiros  | Baixo      |
 | ***SITE ESCOLHIDO***                                    |                                     |                 |            |
-| O que é o SIGAA?                                        | Larissa Stéfane                     | -               | Alto       |
-| Avaliação Heurística                                    | Larissa Stéfane                     | -               | Alto       |
+| O que é o SIGAA?                                        | Larissa Stéfane                     | Pedro Izarias   | Alto       |
+| Avaliação Heurística                                    | Larissa Stéfane                     | Breno Alexandre | Alto       |
 | **USUÁRIOS**                                            |                                     |                 |            |
 | ***PROFESSORES***                                       |                                     |                 |            |
 | Planejamento do Questionário                            | Larissa Stéfane                     | -               | Baixo      |
