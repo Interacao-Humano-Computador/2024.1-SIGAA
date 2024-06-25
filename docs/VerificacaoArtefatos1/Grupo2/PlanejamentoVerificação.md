@@ -56,13 +56,13 @@
 | Análise Documental                                      | Larissa Stéfane                 | - | |
 | Perfil do Usuário                                       | Larissa Stéfane                 | - | |
 | Personas                                                | Larissa e Pedro                 | - | |
-| **ANÁLISE DE REQUISITOS**                               |                                 |                 | |
-| ***CENÁRIOS***                                          |                                 |                 | |
-| Bolsas                                                  | Bruno Araújo                    |                 | |
-| Estágio                                                 | Iago Passaglia                  |                 | |
-| Histórico                                               | Luana Medeiros                  |                 | |
-| Matrícula                                               | Pedro Izarias                   |                 | |
-| Monitoria                                               | Larissa Stéfane                 |                 | |
-| Restaurante Universitário                               | Breno Alexandre                 |                 | |
+| **ANÁLISE DE REQUISITOS**                               |                                 | - | |
+| ***CENÁRIOS***                                          |                                 | - | |
+| Bolsas                                                  | Bruno Araújo                    | - | |
+| Estágio                                                 | Iago Passaglia                  | - | |
+| Histórico                                               | Luana Medeiros                  | - | |
+| Matrícula                                               | Pedro Izarias                   | - | |
+| Monitoria                                               | Larissa Stéfane                 | - | |
+| Restaurante Universitário                               | Breno Alexandre                 | - | |
 
 
