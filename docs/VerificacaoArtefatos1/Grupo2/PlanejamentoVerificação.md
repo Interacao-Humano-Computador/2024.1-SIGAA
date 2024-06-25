@@ -25,14 +25,16 @@
 | SITE ESCOLHIDO                         |                                     |                 |
 | O que é o SIGAA?                       | Larissa Stéfane                     | - |
 | Avaliação Heurística                   | Larissa Stéfane                     | - |
-| USUÁRIOS                               |                                     |                 |
-| **Professores** Planejamento do Questionário            | Larissa Stéfane                 | - |
-| **Professores** Resultados do Questionário              | Larissa Stéfane                 | - |
-| **Professores** Planejamento das Entrevistas            | Larissa Stéfane                 | - |
-| **Professores Entrevistas Realizadas**                  | Larissa Stéfane                 | - |
+| USUÁRIOS                                                |                                 |                 |
+| PROFESSORES                                             |                                 |                 |
+| Planejamento do Questionário                            | Larissa Stéfane                 | - |
+| Resultados do Questionário                              | Larissa Stéfane                 | - |
+| Planejamento das Entrevistas                            | Larissa Stéfane                 | - |
+| **Entrevistas Realizadas**                              | Larissa Stéfane                 | - |
 | **Professores** Análise dos Resultados das Entrevistas  | Larissa Stéfane                 | - |
 | **Professores** Análise de Documentos                   | Larissa Stéfane                 | - |
 | **Professores** Perfil do Usuário                       | Larissa Stéfane                 | - |
+| ESTUDANTES                                              |                                 |                 |
 | **Estudantes** Planejamento do Questionário             | Larissa Stéfane                 | - |
 | **Estudantes** Resultados do Questionário               | Larissa Stéfane                 | - |
 | **Estudantes** Planejamento das Entrevistas             | Larissa Stéfane                 | - |
@@ -42,4 +44,9 @@
 | **Estudantes** Execução do Brainstorming                | Breno e Bruno                   | - |
 | **Estudantes** Planejamento do Estudo de Campo          | Pedro Izarias                   | - |
 | **Estudantes** Execução do Estudo de Campo              | Pedro Izarias                   | - |
-| **Estudantes** Planejamento da Classificação de Cartões | Pedro Izarias                   | - |
+| **Estudantes** Planejamento da Classificação de Cartões | Luana e Pedro                   | - |
+| **Estudantes** Resultados da Classificação de Cartões   | Luana Medeiros                  | - |
+| **Estudantes** Análise Documental                       | Larissa Stéfane                 | - |
+| **Estudantes** Perfil do Usuário                        | Larissa Stéfane                 | - |
+| TÉCNICOS                                                |                                 |                 |
+| **Técnicos** Planejamento das Entrevistas               | Larissa Stéfane                 | - |
