@@ -50,12 +50,12 @@
 | Análise Documental                                      | Larissa Stéfane                            | Pedro Izarias   | Alto       |
 | Perfil do Usuário                                       | Larissa Stéfane                            | Breno Alexandre | Alto       |
 | ***TÉCNICOS***                                          |                                            |                 |            |
-| Planejamento das Entrevistas                            | Larissa Stéfane                            | -               | Baixo      |
-| Execução da Entrevista (Chiquinho)                      | Breno Alexandre                            | -               | Alto       |
-| Execução da Entrevista (Andressa)                       | Bruno Araújo                               | -               | Alto       |
-| Análise Documental                                      | Larissa Stéfane                            | -               | Alto       |
-| Perfil do Usuário                                       | Larissa Stéfane                            | -               | Alto       |
-| Personas                                                | Larissa e Pedro                            | -               | Alto       |
+| Planejamento das Entrevistas                            | Larissa Stéfane                            | Luana Medeiros  | Baixo      |
+| Execução da Entrevista (Chiquinho)                      | Breno Alexandre                            | Pedro Izarias   | Alto       |
+| Execução da Entrevista (Andressa)                       | Bruno Araújo                               | Larissa Stéfane | Alto       |
+| Análise Documental                                      | Larissa Stéfane                            | Iago Passaglia  | Alto       |
+| Perfil do Usuário                                       | Larissa Stéfane                            | Luana Medeiros  | Alto       |
+| Personas                                                | Larissa e Pedro                            | Bruno Araújo    | Alto       |
 | **ANÁLISE DE REQUISITOS**                               |                                            |                 |            |
 | ***CENÁRIOS***                                          |                                            |                 |            |
 | Bolsas                                                  | Bruno Araújo                               | -               | Alto       |
