@@ -2,6 +2,7 @@
 
 | Artefato                               | Autor                               | Verificador     | Prioridade |
 | -------------------------------------- | ----------------------------------- | --------------- | ---------- |
+| README                                 | Larissa e Pedro                     |                 |            |
 | **EQUIPE**                             |                                     |                 |            |
 | Quem somos?                            | Larissa Stéfane                     | - | |
 | Dinâmica da equipe                     | Larissa Stéfane                     | - | |
@@ -14,7 +15,7 @@
 | Cronograma                             | Breno e Luana | - | |
 | Ferramentas                            | Larissa Stéfane | - | |
 | Processo de Design                     | Iago e Pedro | - | |
-| **SITES AVALIADOS**                    |                                     |                 | |
+| ***SITES AVALIADOS***                  |                                     |                 | |
 | Metodologia da analise                 | Larissa e Pedro                     | - | |
 | Avaliação do Site: Inep Enem           | Breno Alexandre                     | - | |
 | Avaliação do Site: CBM - DF            | Bruno Araújo                        | - | |
@@ -22,11 +23,11 @@
 | Avaliação do Site: SPD - DF            | Larissa Stéfane                     | - | |
 | Avaliação do Site: Alistamento Militar | Luana Medeiros                      | - | |
 | Avaliação do Site: Linux Debian        | Pedro Izarias                       | - | |
-| **SITE ESCOLHIDO**                     |                                     |                 | |
+| ***SITE ESCOLHIDO***                   |                                     |                 | |
 | O que é o SIGAA?                       | Larissa Stéfane                     | - | |
 | Avaliação Heurística                   | Larissa Stéfane                     | - | |
 | **USUÁRIOS**                                            |                                 |                 | |
-| **PROFESSORES**                                         |                                 |                 | |
+| ***PROFESSORES***                                       |                                 |                 | |
 | Planejamento do Questionário                            | Larissa Stéfane                 | - | |
 | Resultados do Questionário                              | Larissa Stéfane                 | - | |
 | Planejamento das Entrevistas                            | Larissa Stéfane                 | - | |
@@ -34,7 +35,7 @@
 | Análise dos Resultados das Entrevistas                  | Larissa Stéfane                 | - | |
 | Análise de Documentos                                   | Larissa Stéfane                 | - | |
 | Perfil do Usuário                                       | Larissa Stéfane                 | - | |
-| **ESTUDANTES**                                          |                                 |                 | |
+| ***ESTUDANTES***                                        |                                 |                 | |
 | Planejamento do Questionário                            | Larissa Stéfane                 | - | |
 | Resultados do Questionário                              | Larissa Stéfane                 | - | |
 | Planejamento das Entrevistas                            | Larissa Stéfane                 | - | |
@@ -48,6 +49,20 @@
 | Resultados da Classificação de Cartões                  | Luana Medeiros                  | - | |
 | Análise Documental                                      | Larissa Stéfane                 | - | |
 | Perfil do Usuário                                       | Larissa Stéfane                 | - | |
-| **TÉCNICOS**                                            |                                 |                 | |
+| ***TÉCNICOS***                                          |                                 |                 | |
 | Planejamento das Entrevistas                            | Larissa Stéfane                 | - | |
-| Execução das Entrevistas                                | Larissa Stéfane                 | - | |
+| Execução da Entrevista (Chiquinho)                      | Breno Alexandre                 | - | |
+| Execução da Entrevista (Andressa)                       | Bruno Araújo                    | - | |
+| Análise Documental                                      | Larissa Stéfane                 | - | |
+| Perfil do Usuário                                       | Larissa Stéfane                 | - | |
+| Personas                                                | Larissa e Pedro                 | - | |
+| **ANÁLISE DE REQUISITOS**                               |                                 |                 | |
+| ***CENÁRIOS***                                          |                                 |                 | |
+| Bolsas                                                  | Bruno Araújo                    |                 | |
+| Estágio                                                 | Iago Passaglia                  |                 | |
+| Histórico                                               | Luana Medeiros                  |                 | |
+| Matrícula                                               | Pedro Izarias                   |                 | |
+| Monitoria                                               | Larissa Stéfane                 |                 | |
+| Restaurante Universitário                               | Breno Alexandre                 |                 | |
+
+
