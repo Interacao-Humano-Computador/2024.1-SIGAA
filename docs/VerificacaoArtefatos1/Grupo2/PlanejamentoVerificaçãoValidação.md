@@ -71,18 +71,18 @@
 | Matrícula                                               | Pedro Izarias                              | Iago Passaglia  | Alto       |
 | Monitoria                                               | Larissa Stéfane                            | Breno Alexandre | Alto       |
 | Restaurante Universitário                               | Breno Alexandre                            | Pedro Izarias   | Alto       |
-| Características do SIGAA                                | Larissa Stéfane                            | -               | Alto       |
+| Características do SIGAA                                | Larissa Stéfane                            | Pedro Izarias   | Alto       |
 | ***PRINCÍPIOS GERAIS***                                 |                                            |                 |            |
-| Planejamento                                            | Larissa Stéfane                            | -               | Alto       |
-| Correspondência                                         | Larissa Stéfane                            | -               | Alto       |
-| Antecipação                                             | Larissa Stéfane                            | -               | Alto       |
-| Simplicidade                                            | Bruno Araújo                               | -               | Alto       |
-| Equilíbrio                                              | Pedro Izarias                              | -               | Alto       |
-| Consistência                                            | Pedro Izarias                              | -               | Alto       |
-| Promoção                                                | Pedro Izarias                              | -               | Alto       |
-| Visibilidade                                            | Luana Medeiros                             | -               | Alto       |
-| Expressão Adequada                                      | Iago Passaglia                             | -               | Alto       |
-| Projeto para erros                                      | Breno Alexandre                            | -               | Alto       |
+| Planejamento                                            | Larissa Stéfane                            | Luana Medeiros  | Alto       |
+| Correspondência                                         | Larissa Stéfane                            | Breno Alexandre | Alto       |
+| Antecipação                                             | Larissa Stéfane                            | Iago Passaglia  | Alto       |
+| Simplicidade                                            | Bruno Araújo                               | Pedro Izarias   | Alto       |
+| Equilíbrio                                              | Pedro Izarias                              | Larissa Stéfane | Alto       |
+| Consistência                                            | Pedro Izarias                              | Bruno Araújo    | Alto       |
+| Promoção                                                | Pedro Izarias                              | Breno Alexandre | Alto       |
+| Visibilidade                                            | Luana Medeiros                             | Larissa Stéfane | Alto       |
+| Expressão Adequada                                      | Iago Passaglia                             | Luana Medeiros  | Alto       |
+| Projeto para erros                                      | Breno Alexandre                            | Iago Passaglia  | Alto       |
 | ***GUIA DE ESTILO***                                    |                                            |                 |            |
 | Planejamento                                            | Larissa Stéfane                            | -               | Alto       |
 | Introdução                                              | Larissa Stéfane                            | -               | Alto       |
