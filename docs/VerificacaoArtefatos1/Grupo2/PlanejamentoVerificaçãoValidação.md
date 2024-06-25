@@ -51,65 +51,65 @@
 | Perfil do Usuário                                       | Larissa Stéfane                     | -               | Alto       |
 | ***TÉCNICOS***                                          |                                     |                 |            |
 | Planejamento das Entrevistas                            | Larissa Stéfane                     | -               | Baixo      |
-| Execução da Entrevista (Chiquinho)                      | Breno Alexandre                     | -               | Alto       |
-| Execução da Entrevista (Andressa)                       | Bruno Araújo                        | -               | Alto       |
-| Análise Documental                                      | Larissa Stéfane                     | -               | Alto       |
-| Perfil do Usuário                                       | Larissa Stéfane                     | -               | Alto       |
-| Personas                                                | Larissa e Pedro                     | -               | Alto       |
-| **ANÁLISE DE REQUISITOS**                               |                                     | -               |            |
-| ***CENÁRIOS***                                          |                                     | -               |            |
-| Bolsas                                                  | Bruno Araújo                        | - | |
-| Estágio                                                 | Iago Passaglia                      | - | |
-| Histórico                                               | Luana Medeiros                      | - | |
-| Matrícula                                               | Pedro Izarias                       | - | |
-| Monitoria                                               | Larissa Stéfane                     | - | |
-| Restaurante Universitário                               | Breno Alexandre                     | - | |
-| ***ANÁLISE DE TAREFAS(Planejamento e Execução)***       |                                     | - | |
-| Bolsas                                                  | Bruno Araújo                        | - | |
-| Estágio                                                 | Iago Passaglia                      | - | |
-| Histórico                                               | Luana Medeiros                      | - | |
-| Matrícula                                               | Pedro Izarias                       | - | |
-| Monitoria                                               | Larissa Stéfane                     | - | |
-| Restaurante Universitário                               | Breno Alexandre                     | - | |
-| Características do SIGAA                                | Larissa Stéfane                     | - | |
-| ***PRINCÍPIOS GERAIS***                                 |                                 | - | |
-| Planejamento                                            | Larissa Stéfane                 | - | |
-| Correspondência                                         | Larissa Stéfane                 | - | |
-| Antecipação                                             | Larissa Stéfane                 | - | |
-| Simplicidade                                            | Bruno Araújo                    | - | |
-| Equilíbrio                                              | Pedro Izarias                   | - | |
-| Consistência                                            | Pedro Izarias                   | - | |
-| Promoção                                                | Pedro Izarias                   | - | |
-| Visibilidade                                            | Luana Medeiros                  | - | |
-| Expressão Adequada                                      | Iago Passaglia                  | - | |
-| Projeto para erros                                      | Breno Alexandre                 | - | |
-| ***GUIA DE ESTILO***                                    |                                 | - | |
-| Planejamento                                            | Larissa Stéfane                 | - | |
-| Introdução                                              | Larissa Stéfane                 | - | |
-| Resultados de Análise                                   | Pedro Izarias                   | - | |
-| Elementos de Interface                                  | Breno Alexandre                 | - | |
-| Elementos de Interação                                  | Bruno Araújo                    | - | |
-| Elementos de Ação                                       | Luana Medeiros                  | - | |
-| Vocabulário                                             | Iago Passaglia                  | - | |
-| Metas de Usabilidade                                    | Luana e Pedro                   | - | |
-| **DESIGN, AVALIAÇÃO E DESENVOLVIMENTO**                 |                                            |  | |
-| ***NÍVEL 1***                                           |                                            |  | |
-| Planejamento Avaliação Análise de Tarefas               | Bruno, Iago, Larissa, Luana e Pedro        | - | |
-| Planejamento Relato Análise de Tarefas                  | Bruno Araújo                               | - | |
-| Storyboards                                             | Larissa e Pedro                            | - | |
-| Planejamento Avaliação Storyboard                       | Bruno, Iago, Larissa, Luana e Pedro        | - | |
-| Planejamento Relato Storyboard                          | Breno Alexandre                            | - | |
-| Planejamento das Entrevistas(HTA e Storyboard)          | Larissa Stéfane                            | - | |
-| Execução das Entrevistas(HTA e Storyboard)              | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros | |
-| Relato dos Resultados Storyboard                        | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros | |
-| Relato dos Resultados HTA                               | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros | |
-| ***NÍVEL 2***                                           |                                            |  | |
-| Planejamento Avaliação Protótipo de Papel               | Larissa Stéfane                            | - | |
-| Planejamento das Entrevistas Protótipo de Papel         | Larissa Stéfane                            | - | |
-| Execução das Entrevistas                                | Breno, Bruno, Iago, Larissa, Luana e Pedro | - | |
-| Planejamento Relato Protótipo de Papel                  | Larissa Stéfane                            | - | |
-| Relato dos Resultados Protótipo de Papel                | Breno, Bruno, Iago, Larissa, Luana e Pedro | - | |
-| ***NÍVEL 3***                                           |                                            |  | |
-| Planejamento Avaliação Protótipo Alta Fidelidade        | Larissa Stéfane                            | - | |
-| Planejamento das Entrevistas Protótipo Alta Fidelidade  | Larissa Stéfane                            | - | |
-| Planejamento Relato Protótipo Alta Fidelidade           | Larissa Stéfane                            | - | |
+| Execução da Entrevista (Chiquinho)                      | Breno Alexandre                            | -               | Alto       |
+| Execução da Entrevista (Andressa)                       | Bruno Araújo                               | -               | Alto       |
+| Análise Documental                                      | Larissa Stéfane                            | -               | Alto       |
+| Perfil do Usuário                                       | Larissa Stéfane                            | -               | Alto       |
+| Personas                                                | Larissa e Pedro                            | -               | Alto       |
+| **ANÁLISE DE REQUISITOS**                               |                                            |                 |            |
+| ***CENÁRIOS***                                          |                                            |                 |            |
+| Bolsas                                                  | Bruno Araújo                               | -               | Alto       |
+| Estágio                                                 | Iago Passaglia                             | -               | Alto       |
+| Histórico                                               | Luana Medeiros                             | -               | Alto       |
+| Matrícula                                               | Pedro Izarias                              | -               | Alto       |
+| Monitoria                                               | Larissa Stéfane                            | -               | Alto       |
+| Restaurante Universitário                               | Breno Alexandre                            | -               | Alto       |
+| ***ANÁLISE DE TAREFAS(Planejamento e Execução)***       |                                            |                 |            |
+| Bolsas                                                  | Bruno Araújo                               | -               | Alto       |
+| Estágio                                                 | Iago Passaglia                             | -               | Alto       |
+| Histórico                                               | Luana Medeiros                             | -               | Alto       |
+| Matrícula                                               | Pedro Izarias                              | -               | Alto       |
+| Monitoria                                               | Larissa Stéfane                            | -               | Alto       |
+| Restaurante Universitário                               | Breno Alexandre                            | -               | Alto       |
+| Características do SIGAA                                | Larissa Stéfane                            | -               | Alto       |
+| ***PRINCÍPIOS GERAIS***                                 |                                            |                 |            |
+| Planejamento                                            | Larissa Stéfane                            | -               | Alto       |
+| Correspondência                                         | Larissa Stéfane                            | -               | Alto       |
+| Antecipação                                             | Larissa Stéfane                            | -               | Alto       |
+| Simplicidade                                            | Bruno Araújo                               | -               | Alto       |
+| Equilíbrio                                              | Pedro Izarias                              | -               | Alto       |
+| Consistência                                            | Pedro Izarias                              | -               | Alto       |
+| Promoção                                                | Pedro Izarias                              | -               | Alto       |
+| Visibilidade                                            | Luana Medeiros                             | -               | Alto       |
+| Expressão Adequada                                      | Iago Passaglia                             | -               | Alto       |
+| Projeto para erros                                      | Breno Alexandre                            | -               | Alto       |
+| ***GUIA DE ESTILO***                                    |                                            |                 |            |
+| Planejamento                                            | Larissa Stéfane                            | -               | Alto       |
+| Introdução                                              | Larissa Stéfane                            | -               | Alto       |
+| Resultados de Análise                                   | Pedro Izarias                              | -               | Alto       |
+| Elementos de Interface                                  | Breno Alexandre                            | -               | Alto       |
+| Elementos de Interação                                  | Bruno Araújo                               | -               | Alto       |
+| Elementos de Ação                                       | Luana Medeiros                             | -               | Alto       |
+| Vocabulário                                             | Iago Passaglia                             | -               | Alto       |
+| Metas de Usabilidade                                    | Luana e Pedro                              | -               | Alto       |
+| **DESIGN, AVALIAÇÃO E DESENVOLVIMENTO**                 |                                            |                 |            |
+| ***NÍVEL 1***                                           |                                            |                 |            |
+| Planejamento Avaliação Análise de Tarefas               | Bruno, Iago, Larissa, Luana e Pedro        | -               | Alto       |
+| Planejamento Relato Análise de Tarefas                  | Bruno Araújo                               | -               | Médio      |
+| Storyboards                                             | Larissa e Pedro                            | -               | Alto       |
+| Planejamento Avaliação Storyboard                       | Bruno, Iago, Larissa, Luana e Pedro        | -               | Alto       |
+| Planejamento Relato Storyboard                          | Breno Alexandre                            | -               | Médio      |
+| Planejamento das Entrevistas(HTA e Storyboard)          | Larissa Stéfane                            | -               | Médio      |
+| Execução das Entrevistas(HTA e Storyboard)              | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros  | Alto       |
+| Relato dos Resultados Storyboard                        | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros  | Alto       |
+| Relato dos Resultados HTA                               | Breno, Bruno, Iago, Larissa e Pedro        | Luana Medeiros  | Alto       |
+| ***NÍVEL 2***                                           |                                            |                 |            |
+| Planejamento Avaliação Protótipo de Papel               | Larissa Stéfane                            | -               | Alto       |
+| Planejamento das Entrevistas Protótipo de Papel         | Larissa Stéfane                            | -               | Médio      |
+| Execução das Entrevistas                                | Breno, Bruno, Iago, Larissa, Luana e Pedro | -               | Alto       |
+| Planejamento Relato Protótipo de Papel                  | Larissa Stéfane                            | -               | Médio      |
+| Relato dos Resultados Protótipo de Papel                | Breno, Bruno, Iago, Larissa, Luana e Pedro | -               | Alto       |
+| ***NÍVEL 3***                                           |                                            |                 |            |
+| Planejamento Avaliação Protótipo Alta Fidelidade        | Larissa Stéfane                            | -               | Alto       |
+| Planejamento das Entrevistas Protótipo Alta Fidelidade  | Larissa Stéfane                            | -               | Médio      |
+| Planejamento Relato Protótipo Alta Fidelidade           | Larissa Stéfane                            | -               | Alto       |
