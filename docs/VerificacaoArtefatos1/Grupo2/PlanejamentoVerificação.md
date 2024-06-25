@@ -64,5 +64,17 @@
 | Matrícula                                               | Pedro Izarias                   | - | |
 | Monitoria                                               | Larissa Stéfane                 | - | |
 | Restaurante Universitário                               | Breno Alexandre                 | - | |
+| ***ANÁLISE DE TAREFAS(Planejamento e Execução)***       |                                 | - | |
+| Bolsas                                                  | Bruno Araújo                    | - | |
+| Estágio                                                 | Iago Passaglia                  | - | |
+| Histórico                                               | Luana Medeiros                  | - | |
+| Matrícula                                               | Pedro Izarias                   | - | |
+| Monitoria                                               | Larissa Stéfane                 | - | |
+| Restaurante Universitário                               | Breno Alexandre                 | - | |
+| Características do SIGAA                                | Larissa Stéfane                 | - | |
+| ***PRINCÍPIOS GERAIS***                                 |                                 | - | |
+| Planejamento                                            | Larissa Stéfane                 | - | |
+| Princípios Gerais do Projeto                            | Larissa Stéfane                 | - | |
+
 
 
