@@ -3,9 +3,11 @@
 ## Sumário
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
+* [Lista de Verificação](#Lista-de-Verificação)
 * [Inspeção](#Inspeção)
+* [Vídeo da Inspeção](#Vídeo-da-Inspeção)
 * [Erros Encontrados](#Erros-Encontrados)
-* [Referências Bibliográficas](#Referências-Bibliográficas)
+* [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
@@ -16,7 +18,7 @@ O seguinte documento possui o intuito de criar uma lista de verificação para o
 
 Será criada uma lista de verificação com várias perguntas acerca do artefato e conteúdo de Guia de Estilo. As perguntas foram inferidas o livro "Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário".
 
-## Lista de verifição
+## Lista de Verifição
 
 A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Guia de Estilo, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
@@ -62,9 +64,11 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Guia de 
 | -- | ---------------------- |
 | | |
 
-## Vídeo da inspeção
+## Vídeo da Inspeção
 
 ## Bibliografia
+
+1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 
 ## Histórico de versão
 
