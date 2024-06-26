@@ -44,6 +44,17 @@ A tabela 1 mostra o cronograma da análise de cada uma das funcionalidades:
 O planejamento da execução da análise hierárquica de tarefas e da GOMS para a aba de Grade Sugerida apresenta uma estrutura sólida e abrangente para o desenvolvimento e aprimoramento desta funcionalidade no sistema do SIGAA. Essa abordagem permitirá identificar áreas críticas e oportunidades de melhoria, garantindo uma experiência mais intuitiva e eficiente para os usuários.
 
  ## Bibliografia
+ 
+1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário.
+
+2. Projeto do Banco Central do Brasil. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas>. Acessado em 28 de abril de 2024.
+   
+3. Projeto BCE. Disponível em: <https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_2/analise_tarefas>. Acessado em 28 de abril de 2024.
+
+4. Projeto Domínio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/>. Acessado em 28 de abril de 2024.
+   
+5. Projeto Lichess. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/analise_tarefas/>. Acessado em 28 de abril de 2024.
+
 
  ## Histórico de Versão
 | Versão | Alteração                         | Responsável    | Revisor         | Data       |
