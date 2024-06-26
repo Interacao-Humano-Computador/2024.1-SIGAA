@@ -28,7 +28,7 @@
 
 ## Vídeo da inspeção
 
-## Referências Bibliográficas
+## Bibliografia
 
 ## Histórico de versão
 
