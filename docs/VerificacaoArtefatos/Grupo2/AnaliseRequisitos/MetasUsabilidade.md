@@ -59,15 +59,19 @@ A tabela 2 mostra a avaliação das Metas de Usabilidade com base na lista de ve
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias
 
-<details>
 ## Inspeção
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+| -- | ----------| ---------- |
 
 ## Erros Encontrados
 
 | ID |  Sugestões de melhoria | 
 | -- | ----------- | 
 
-## Vídeo de verificação
+## Vídeo da inspeção
+
+
 
 ## Referência
 
