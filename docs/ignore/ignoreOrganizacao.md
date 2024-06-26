@@ -42,7 +42,9 @@
 | Relato dos Resultados avaliação HTA   | Breno Alexandre | Incompleto     |            |            |
 | Planejamento Avaliação protótipo papel| -               | Não            |            |            |
 | Relato dos Resultados protótipo papel | -               | Não            |            |            | 
-| Planejamento Avaliação protótipo Alta | -               | Não            |            |            |
-| Relato dos Resultados protótipo Alta  | -               | Não            |            |            |   
+| Planejamento Avaliaçãoprotótipo Alta  | -               | Não            |            |            |
+| Relato dos Resultados protótipo Alta  | -               | Não            |            |            |  
+
+
 
 
