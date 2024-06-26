@@ -22,7 +22,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Guia de
 
 <center>
 
-**Tabela 1:** Lista de verificação para guia de Estilo.
+<b>Tabela 1:</b> Lista de verificação para Guia de Estilo.
 
 | ID  | Pergunta   | Rastreabilidade | Captura de tela |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------|
@@ -45,13 +45,22 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Guia de
 
 ## Inspeção
 
+A tabela a seguir mostra a inspeção feita a cerca do artefato Guia de Estilo.
+
+<b>Tabela 2:</b> Resposta da lista de verificação para Guia de Estilo.
+
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | ----------| ---------- |
+| -- | ----------| ------------------------------------------------ |
 
 ## Erros Encontrados
 
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Guia de Estilo.
+
+<b>Tabela 3:</b> Sugestões de melhoria para o Guia de Estilo.
+
 | ID |  Sugestões de melhoria | 
-| -- | ----------- | 
+| -- | ---------------------- |
+| | |
 
 ## Vídeo da inspeção
 
