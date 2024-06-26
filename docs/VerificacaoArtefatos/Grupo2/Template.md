@@ -16,8 +16,8 @@
 
 ## Inspeção
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
-| -- | ----------| ---------- | --------------- | 
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+| -- | ----------| ---------- |
 
 ## Erros Encontrados
 
