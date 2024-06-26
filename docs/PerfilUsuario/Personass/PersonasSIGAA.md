@@ -65,7 +65,17 @@ Figura 5: Persona Ana
 
  </center>
 
+Figura 6: Persona Juliana Moraes
+
+![Juliana Moraes(2)](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/2868ad98-c0f5-4672-9c73-77e905855b2a)
+
+
+<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+
+ </center>
+
 ## Histórico de versão
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do formato do documento     | Larissa Stéfane | Pedro Izarias      | 10/06/2024 |
+| 1.1    | Realocação de Persona Juliana para a documentação  | Bruno Araújo | --      | 25/06/2024 |
