@@ -17,6 +17,7 @@ A criação inicial de um cenário de análise implica em desenvolver uma narrat
 A tabela 1 mostra os elementos em relação ao cenário de efetuar o pré-cadastro de estágio.
 
 **Tabela 1**: Elementos do cenário
+
 | Elemento | Descrição |
 | - | - | 
 | **Atores** | Estudante dedicada do último ano da universidade. |
