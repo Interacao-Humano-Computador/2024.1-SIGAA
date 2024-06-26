@@ -19,6 +19,16 @@ Foi criada uma lista de verificação contendo perguntas e respostas, baseada na
 
 ## Inspeção
 
+<details>
+  <summary size="20"><b> Rastrear encomendas - Luana Medeiros </b></summary> 
+
+<br>
+A tabela X mostra as verificações e observações realizadas para o HTA - Rastrear encomendas.
+
+Tabela X: Rastrear encomendas
+
+<br>
+
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | ----------| ---------- |
 | 1 | O título do cenário representa explicitamente o tema? | ---------- |
@@ -33,6 +43,10 @@ Foi criada uma lista de verificação contendo perguntas e respostas, baseada na
 | 10 | O cenário está escrito em linguagem natural simples? | ---------- |
 | 11 | Há a descrição do que o sistema e os atores esperam quando o cenário se finalizar? | ---------- |
 | 12 | Cada cenário Em outras palavras, cada cenário descreve apenas um dos caminhos descritos em um caso de uso? | ---------- |
+
+ **Autora:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</details>
 
 ## Erros Encontrados
 
