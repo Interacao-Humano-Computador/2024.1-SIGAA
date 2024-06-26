@@ -113,5 +113,5 @@ A tabela 4 mostra a avaliação das Metas de Eficiência com base na lista de ve
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo | 12/06/2024 |
-| 1.1 | Adição utilidade | Bruno Araújo | - | 12/06/2024 |
-| 1.2 | Adição inspeção Eficiência | Luana Medeiros | - | 12/06/2024 |
+| 1.1 | Adição utilidade | Bruno Araújo | Bruno Araújo | 12/06/2024 |
+| 1.2 | Adição inspeção Eficiência | Luana Medeiros | Bruno Araújo | 12/06/2024 |
