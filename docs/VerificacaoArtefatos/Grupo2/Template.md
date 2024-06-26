@@ -14,6 +14,8 @@
 
 ## Metodologia
 
+## Lista de verifiçaão
+
 ## Inspeção
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
@@ -21,7 +23,7 @@
 
 ## Erros Encontrados
 
-| ID |  Observação | 
+| ID |  Sugestões de melhoria | 
 | -- | ----------- | 
 
 ## Conclusão
