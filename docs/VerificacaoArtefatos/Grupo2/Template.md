@@ -14,7 +14,7 @@
 
 ## Metodologia
 
-## Lista de verifiçaão
+## Lista de verifição
 
 ## Inspeção
 
