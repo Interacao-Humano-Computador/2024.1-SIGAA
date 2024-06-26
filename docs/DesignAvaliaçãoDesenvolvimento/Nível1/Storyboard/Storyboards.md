@@ -191,7 +191,7 @@ Os storyboards estão apresentados nas imagens de 1 a 14.
 <div align="center">
     Imagem 13:  Grade Sugerida – Storyboard
     <br>
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/storyluana1.jpeg">
+     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/storyluana2.jpeg">
     <br>
      Fonte:  Luana Medeiros
     <br>
@@ -200,7 +200,7 @@ Os storyboards estão apresentados nas imagens de 1 a 14.
 <div align="center">
     Imagem 14:  Grade Sugerida – Análise Textual
     <br>
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/storyluana2.jpeg">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/storyboard/storyluana1.jpeg">
     <br>
      Fonte:  Luana Medeiros
     <br>
