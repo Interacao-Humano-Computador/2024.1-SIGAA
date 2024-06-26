@@ -55,7 +55,9 @@ Tabela 1: Lista de Verificação do Storyboard
 ## Erros Encontrados
 
 | ID |  Sugestões de melhoria | 
-| -- | ----------- | -----|
+| -- | ----------- | 
+|-|-|
+|-|-|
 
 ## Vídeo da inspeção
 
