@@ -61,6 +61,11 @@ Tabela 1: Lista de Verificação do Storyboard
 ## Vídeo da inspeção
 
 ## Bibliografia
+1. How to storyboard: Step-by-step storyboarding guide (2024). Disponível em: <https://boords.com/how-to-storyboard>. Acesso em: 12 jun. 2024.
+2. O que é um storyboard e como faço para criar um? Disponível em: <https://experience.dropbox.com/pt-br/resources/what-is-a-storyboard>. Acesso em: 12 jun. 2024.
+3. Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-storyboards>. Acesso em: 12 jun. 2024.
+4. ALVES, R. O que é um Storyboard? Disponível em: <https://www.movavi.com/pt/learning-portal/how-to-make-storyboard.html?utm_campaign=188554434&utm_campaignid=188554434&utm_adgroupid=76780755018&gad_source=1&gclid=CjwKCAjwjqWzBhAqEiwAQmtgTzP625uOxKTA6_7g--XhGX_Hjh6MktPeFbZvAYGRM9HPo4jjFTuH5hoCcbUQAvD_BwE>. Acesso em: 12 jun. 2024.
+
 
 ## Histórico de versão
 
