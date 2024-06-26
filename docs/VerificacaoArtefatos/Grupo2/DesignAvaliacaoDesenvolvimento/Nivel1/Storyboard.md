@@ -11,8 +11,10 @@
 
 
 ## Introdução
+O seguinte documento possui o intuito de criar uma lista de verificação para o artefato do StoryBoard criado pelo grupo 03 do aplicativo dos correios da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a criação dos Storyboards, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 ## Metodologia
+Após a construção do artefato do Storyboard, será criada uma lista de verificação contendo perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
 ## Lista de verifição
 <center>
@@ -39,7 +41,15 @@ Tabela 1: Lista de Verificação do Storyboard
 ## Inspeção
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | ----------| ---------- |
+| 01 | Apresenta uma sequência lógica de cenas? | ---------- |
+| 02 | Inclui descrições detalhadas de cada cena? | ---------- |
+| 03 | Indica movimentos de câmera (zoom, panorâmica, etc.)? | ---------- |
+| 04 | Apresenta os personagens principais em cada cena? | ---------- |
+| 05 | Mostra mudanças de cenário ou ambiente? | ---------- |
+| 06 | Inclui notas sobre áudio ou diálogo? | ---------- |
+| 07 | Apresenta variações de enquadramento? | ---------- |
+| 08 | Existe uma descrição das ações do usuário e as respostas do sistema em cada etapa?  | ---------- |
+| 09 | O storyboard permite a identificação de potenciais problemas de usabilidade ou pontos de confusão para o usuário? | ---------- |
 
 ## Erros Encontrados
 
@@ -53,4 +63,4 @@ Tabela 1: Lista de Verificação do Storyboard
 ## Histórico de versão
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
-| ------ | ----------------------------------- | --------------- | --------------- | ---------- |
+| 1.0 | Criação do documento | Pedro Izarias | - | 26/06/2024 |
