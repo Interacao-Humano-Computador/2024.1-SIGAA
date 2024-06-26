@@ -44,8 +44,7 @@ Optamos pela utilização da Análise Hierárquica de Tarefas devido à sua habi
 | **2. Selecionar matérias a serem trancadas** | **Input:** Seleção das matérias a serem trancadas por checkbox.<br>**Feedback:** As caixa de seleção de cada matéria deve ficar com um check dentro.<br>**Plano:** Confirmar as matérias escolhidas. |
 | **2.1. Informar justificativa para o trancamento** | **Input:** Informar a justificativa para trancamento das matérias escolhidas.<br>**Feedback:** O sistema deve exibir um "check" dentro do elemento escolhido.<br>**Plano:** Informar ao sistema a justificativa para a ação. |
 | **3. Inserir CPF e senha 1+2** | **Input:** Preenchimento de CPF e senha de usuário.<br>**Feedback:** Os dados aparecem no campo de texto.<br>**Plano:** Tornar mais intuitiva a confirmação de identidade. |
-| **3.1. Selecionar a opção de Confirmar solicitação** | **Input:** Seleção da opção de Confirmar solicitaç
-ão.<br>**Feedback:** O comprovante de matrícula aparecerá em outra página na tela.<br>**Plano:** Assegurar a escolha do usuário. |
+| **3.1. Selecionar a opção de Confirmar solicitação** | **Input:** Seleção da opção de Confirmar solicitação.<br>**Feedback:** O comprovante de matrícula aparecerá em outra página na tela.<br>**Plano:** Assegurar a escolha do usuário. |
 </details>
 
 ## Diagrama de Atividades
