@@ -41,6 +41,7 @@ Tabela 1: Lista de Verificação do Storyboard
 ## Inspeção
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+|----|-----|--------|
 | 01 | Apresenta uma sequência lógica de cenas? | ---------- |
 | 02 | Inclui descrições detalhadas de cada cena? | ---------- |
 | 03 | Indica movimentos de câmera (zoom, panorâmica, etc.)? | ---------- |
@@ -54,7 +55,7 @@ Tabela 1: Lista de Verificação do Storyboard
 ## Erros Encontrados
 
 | ID |  Sugestões de melhoria | 
-| -- | ----------- | 
+| -- | ----------- | -----|
 
 ## Vídeo da inspeção
 
@@ -63,4 +64,5 @@ Tabela 1: Lista de Verificação do Storyboard
 ## Histórico de versão
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
+|----|-------|------|-------|------|
 | 1.0 | Criação do documento | Pedro Izarias | - | 26/06/2024 |
