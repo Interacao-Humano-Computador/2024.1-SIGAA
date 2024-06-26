@@ -1,4 +1,4 @@
-#### Entrega 1
+#### Entrega 1 - Tabela de qual artefato cada um vai avaliar
 
 | Artefato                                                | Autor                                      | Verificador     | Prioridade |
 | ------------------------------------------------------- | ------------------------------------------ | --------------- | ---------- |
