@@ -1,22 +1,22 @@
 
-| Lista de Verificação                  | Responsável     | Já foi criada? | Revisor    | Data    | 
-| ------------------------------------- | --------------- | -------------- | ---------- | ------- |
-| README                                | -               | Não            |            |         | 
-| Equipe                                | -               | Não            |            |         |
-| Quem Somos?                           | -               | Não            |            |         |
-| Dinâmica da equipe                    | -               | Não            |            |         |
-| Heatmap                               | -               | Não            |            |         |
-| Atas                                  | -               | Não            |            |         |
-| Apresentações                         | -               | Não            |            |         |
-| Cronograma                            | -               | Não            |            |         |
-| Ferramentas                           | -               | Não            |            |         |
-| Processo de Design                    | -               | Não            |            |         |
-| Metodologia da analise                | -               | Não            |            |         |
-| Avaliação dos sites                   | -               | Não            |            |         |
-| O que é o SIGAA                       | -               | Não            |            |         |
-| Avaliação Heurística                  | -               | Não            |            |         |
-| Planejamento de questionários(geral)  | -               | Não            |            |         |
-| Resultado dos questionários (geral)   | -               | Não            |            |         |
+| Lista de Verificação                  | Responsável     | Já foi criada? | Revisor    | Data       | 
+| ------------------------------------- | --------------- | -------------- | ---------- | ---------- |
+| README                                | -               | Não            |            |            | 
+| Equipe                                | -               | Não            |            |            |
+| Quem Somos?                           | -               | Não            |            |            |
+| Dinâmica da equipe                    | -               | Não            |            |            |
+| Heatmap                               | -               | Não            |            |            |
+| Atas                                  | -               | Não            |            |            |
+| Apresentações                         | -               | Não            |            |            |
+| Cronograma                            | -               | Não            |            |            |
+| Ferramentas                           | -               | Não            |            |            |
+| Processo de Design                    | -               | Não            |            |            |
+| Metodologia da analise                | -               | Não            |            |            |
+| Avaliação dos sites                   | -               | Não            |            |            |
+| O que é o SIGAA                       | -               | Não            |            |            |
+| Avaliação Heurística                  | -               | Não            |            |            |
+| Planejamento de questionários(geral)  | -               | Não            |            |            |
+| Resultado dos questionários (geral)   | Larissa Stéfane | Sim            |            | 12/06/2024 |
 | Planejamento das Entrevistas (geral)  | -               | Não            |            |         |
 | Entrevistas realizadas (geral)        | -               | Não            |            |         |
 | Resultados das Entrevistas (geral)    | -               | Não            |            |         |
