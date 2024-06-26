@@ -49,6 +49,8 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Guia de
 
 A tabela a seguir mostra a inspeção feita a cerca do artefato Guia de Estilo.
 
+<center>
+
 <b>Tabela 2:</b> Resposta da lista de verificação para Guia de Estilo.
 
 | ID |  Pergunta                                                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
@@ -66,9 +68,13 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Guia de Estilo.
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
+</center>
+
 ## Erros Encontrados
 
 A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Guia de Estilo.
+
+<center>
 
 <b>Tabela 3:</b> Sugestões de melhoria para o Guia de Estilo.
 
@@ -78,11 +84,21 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Guia de 
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0">Breno Alexandre</a>.
 
+</center>
+
 ## Vídeo da Inspeção
 
 O vídeo a seguir a inspeção gravada sobre o artefato Guia de Estilo.
 
+<center>
+
 <b>Vídeo 1:</b> Gravação da inséção do Guia de Estilo.
+
+<iframe width="400" height="800" src="" title="Inspeção de Guia de Estilo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+É possível acessar o vídeo por meio deste [link](https://youtu.be/Bnvix3p7I00).
+
+</center>
 
 
 ## Bibliografia
