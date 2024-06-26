@@ -5,21 +5,18 @@
 * [Metodologia](#Metodologia)
 * [Inspeção](#Inspeção)
 * [Erros Encontrados](#Erros-Encontrados)
-* [Conclusão](#Conclusão)
+* [Vídeo da verificação](#Vídeo-de-verificação)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
 
 ## Introdução
 
-Este documento tem como objetivo avaliar o documento de perfil de usuário do projeto do SIGAA. A avaliação será realizada com base na tabela 1 com a lista de verificação para este artefato
-visando identificar pontos fortes, fraquezas e oportunidades de melhoria no perfil de usuário descrito. Esta análise é essencial para garantir que o perfil de usuário atenda às necessidades e expectativas dos usuários finais,
-proporcionando uma experiência mais eficiente e intuitiva na utilização do SIGAA.
+Este documento tem como objetivo apresentar a lista de verificação e a avaliação do perfil de usuário elaborado para analisar e avaliar o projeto dos SIGAA, desenvolvido pelo grupo 2 de Interação Humano Computador deste semestre, 2024.1. Sendo assim, a lista de verificação apresentada abaixo oferece um conjunto de critérios e diretrizes para assegurar a qualidade do perfil de usuário, enquanto a lista de avaliação proporciona uma análise sistemática e crítica do documento, visando identificar áreas de melhoria.
 
-## Metodologia
+## Metodologia 
 
-A metodologia adotada para esta avaliação consiste na verificação detalhada do documento de perfil de usuário, utilizando uma tabela de verificação desenvolvida em uma etapa anterior do projeto. Esta tabela contém critérios específicos
-e métricas que serão aplicadas para garantir uma análise rigorosa e sistemática.
+A metodologia para análise do perfil de usuários do projeto dos SIGAA será conduzida em duas etapas. Inicialmente, será elaborada uma lista de verificação composta por tópicos essenciais, os quais servirão como base para a avaliação do documento. Desse modo, esses tópicos abrangerão os dados principais dos usuários, desde os seus dados demográficos até as suas características específicas, como estilo e preferência de aprendizado. Em seguida, utilizando-se dessa lista de verificação como guia, será realizada uma avaliação detalhada do perfil de usuários, examinando cada aspecto individualmente e identificando pontos fortes, áreas de melhoria e eventuais lacunas no documento.
 
 ## Lista de verificação
 
@@ -57,8 +54,29 @@ e métricas que serão aplicadas para garantir uma análise rigorosa e sistemát
 
 ## Inspeção
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | ----------| ---------- |
+| ID  | Pergunta                                                                                          | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+|-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| 1   | Apresenta o intervalo de faixa etária dos usuários no geral?                                      |                                                  |
+| 2   | Apresenta qual intervalo de idades é mais frequente?                                              |                                                  |
+| 3   | Especifica o gênero dos usuários com uma estipulação de porcentagem?                              |                                                  |
+| 4   | Descreve a localização geográfica (país, cidade) dos usuários?                                    |                                                  |
+| 5   | Indica o nível de escolaridade dos usuários?                                                      |                                                  |
+| 6   | Inclui informações sobre o nível de alfabetismo dos usuários?                                     |                                                  |
+| 7   | Apresenta a forma de aprendizado do usuário?                                                      |                                                  |
+| 8   | Inclui informações sobre a ocupação ou profissão dos usuários?                                    |                                                  |
+| 9   | Indica a experiência no cargo que ocupa?                                                          |                                                  |
+| 10  | Descreve a experiência dos usuários com tecnologia (leigo, intermediário, especialista)?          |                                                  |
+| 11  | Detalha a atitude dos usuários em relação à tecnologia (tecnófilos, tecnófobos)?                  |                                                  |
+| 12  | Descreve a frequência de uso da tecnologia pelos usuários?                                        |                                                  |
+| 13  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto?    |                                                  |
+| 14  | Indica os comportamentos dos usuários em relação às suas atitudes e valores?                      |                                                  |
+| 15  | Indica o tipo de aprendizado do usuário?                                                          |                                                  |
+| 16  | Inclui informações sobre necessidades especiais (deficiência visual, auditiva, motora)?           |                                                  |
+| 17  | Descreve as preferências de interface dos usuários (tamanho de fonte, contraste de cores)?        |                                                  |
+| 18  | Indica quais são os idiomas que os usuários falam?                                                |                                                  |
+| 19  | Indicação quais são as classes de jargões que os usuários utilizam no cotidiano?                  |                                                  |
+| 20  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto?    |                                                  |
+
 
 ## Erros Encontrados
 
