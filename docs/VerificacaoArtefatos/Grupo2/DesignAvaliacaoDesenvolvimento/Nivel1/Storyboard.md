@@ -10,10 +10,10 @@
 
 
 ## Introdução
-O seguinte documento possui o intuito de criar uma lista de verificação para o artefato do StoryBoard criado pelo grupo 03 do aplicativo dos correios da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a criação dos Storyboards, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato do StoryBoard criado para o grupo 03 do aplicativo dos correios da disciplina de IHC, para verificar o mesmo artefato do grupo 02 (SIGAA). O documento apresenta uma tabela com perguntas a serem feitas sobre a criação dos Storyboards, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 ## Metodologia
-Após a construção do artefato do Storyboard, será criada uma lista de verificação contendo perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
+Após a construção do artefato do Storyboard, foi criada uma lista de verificação contendo perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
 ## Lista de verifição
 <center>
