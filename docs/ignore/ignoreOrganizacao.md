@@ -28,17 +28,17 @@
 | Execução Estudo de Campo              | -               | Não            |            |            |
 | Planejamento Classificações cartões   | -               | Não            |            |            |
 | Execução Classificações cartões       | -               | Não            |            |            |
-| Perfil do Usuário                     | Larissa Stéfane | Sim            |            |            |
-| Personas                              | Pedro Izarias   | Sim            |            |            |
-| Aspectos Éticos                       | Larissa Stéfane | Sim            |            |            |
+| Perfil do Usuário                     | Larissa Stéfane | Sim            |            | 12/06/2024 |
+| Personas                              | Pedro Izarias   | Sim            |            | 12/06/2024 |
+| Aspectos Éticos                       | Larissa Stéfane | Sim            |            | 12/06/2024 |
 | Cenários                              | Larissa Stéfane | Sim            |            |            |
 | Análise de tarefas                    | -               | Não            |            |            |
 | Princípios Gerais (completo)          | -               | Não            |            |            | 
-| Guia de estilo                        | Iago Passaglia  | Sim            |            |            |
-| Metas de usabilidade                  | Pedro Izarias   | Sim            |            |            |
-| Planejamento Avaliação HTA            | Iago Passaglia  | Sim            |            |            |
-| Storyboard                            | Iago Passaglia  | Sim            |            |            |
-| Planejamento Avaliação Storyboard     | Iago Passaglia  | Sim            |            |            |
+| Guia de estilo                        | Iago Passaglia  | Sim            |            | 12/06/2024 |
+| Metas de usabilidade                  | Pedro Izarias   | Sim            |            | 12/06/2024 |
+| Planejamento Avaliação HTA            | Iago Passaglia  | Sim            |            | 12/06/2024 |
+| Storyboard                            | Iago Passaglia  | Sim            |            | 12/06/2024 |
+| Planejamento Avaliação Storyboard     | Iago Passaglia  | Sim            |            | 12/06/2024 |
 | Relato dos Resultados avaliação HTA   | Breno Alexandre | Incompleto     |            |            |
 | Planejamento Avaliação protótipo papel| -               | Não            |            |            |
 | Relato dos Resultados protótipo papel | -               | Não            |            |            | 
