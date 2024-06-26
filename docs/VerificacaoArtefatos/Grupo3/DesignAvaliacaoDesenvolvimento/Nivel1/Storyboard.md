@@ -104,7 +104,7 @@ Tabela 4: Avaliação para Storyboard.
 ## Conclusão e Observações
 
 
-## Referências Bibliográficas
+## Bibliografia
 
 1. How to storyboard: Step-by-step storyboarding guide (2024). Disponível em: <https://boords.com/how-to-storyboard>. Acesso em: 12 jun. 2024.
 2. O que é um storyboard e como faço para criar um? Disponível em: <https://experience.dropbox.com/pt-br/resources/what-is-a-storyboard>. Acesso em: 12 jun. 2024.
