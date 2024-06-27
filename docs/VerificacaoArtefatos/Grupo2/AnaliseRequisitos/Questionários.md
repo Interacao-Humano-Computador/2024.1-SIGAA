@@ -15,7 +15,7 @@ O seguinte documento possui o intuito de utilizar a lista de verificação para 
 ## Metodologia
 Após a construção do artefato de Questionários, foi criada uma lista de verificação contendo perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
-## Lista de verifição
+## Lista de verificação
 <center>
 
 Tabela 1: Lista de Verificação dos Questionários
