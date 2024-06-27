@@ -10,7 +10,14 @@
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
-O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de Metas de Usabilidade da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a criação das personas, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+Este documento tem como objetivo apresentar a lista de verificação e a 
+avaliação das metas de usabilidade elaborado para analisar e avaliar o 
+projeto dos SIGAA, desenvolvido pelo grupo 2 de Interação Humano 
+Computador deste semestre, 2024.1. Sendo assim, a lista de verificação 
+apresentada abaixo oferece um conjunto de critérios e diretrizes para 
+assegurar a qualidade das metas de usabilidade, enquanto a lista de 
+avaliação proporciona uma análise sistemática e crítica do documento, 
+visando identificar áreas de melhoria.
 
 ## Metodologia 
 Após a construção do artefato de Metas de Usabilidade, será criada uma lista de verificação contendo perguntas e respostas sobre o artefato, baseada na literatura da disciplina. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
