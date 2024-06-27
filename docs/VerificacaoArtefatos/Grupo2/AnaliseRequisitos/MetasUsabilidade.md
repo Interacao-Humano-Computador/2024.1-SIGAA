@@ -1,13 +1,16 @@
 # Verificação para as Metas de Usabilidade.
 
 ## Sumário
-* [Introdução](#Introdução)
-* [Metodologia](#Metodologia)
-* [Lista de Verificação](#Lista-de-Verificação)
-* [Avaliação](#Avaliação)
-* [Conclusão e Observações](#Conclusão-e-Observações)
-* [Bibliografia](#Bibliografia)
-* [Histórico de versão](#Histórico-de-versão)
+
+* [Introdução](#introdução)
+* [Metodologia](#metodologia)
+* [Lista de Verificação](#lista-de-verificação)
+* [Inspeção](#inspeção)
+* [Erros Encontrados](#erros-encontrados)
+* [Vídeo da Inspeção](#vídeo-da-inspeção)
+* [Bibliografia](#bibliografia)
+* [Histórico de Versão](#histórico-de-versão)
+
 
 ## Introdução
 Este documento tem como objetivo apresentar a lista de verificação e a 
