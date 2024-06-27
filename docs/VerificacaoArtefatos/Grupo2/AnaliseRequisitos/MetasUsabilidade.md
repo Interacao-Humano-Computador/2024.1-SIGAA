@@ -40,7 +40,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Meta
 </center>
 
 
-## Avaliação
+## Inspeção
 
 A tabela 2 mostra a avaliação das Metas de Usabilidade com base na lista de verificação.
 
@@ -58,11 +58,6 @@ A tabela 2 mostra a avaliação das Metas de Usabilidade com base na lista de ve
 | 8 |As decisões de design foram documentadas de forma clara e justificadas?|||
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias
-
-## Inspeção
-
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | ----------| ---------- |
 
 ## Erros Encontrados
 
