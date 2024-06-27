@@ -28,10 +28,19 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Planeja
 
 | ID  | Pergunta   | Rastreabilidade | Captura de tela |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------|
+| 01 | Os objetivos da análise de tarefas estão claramente definidos? | A pergunta verifica se os objetivos da análise foram estabelecidos de forma clara, indicando o que se espera alcançar com a análise de tarefas. | https://sacod.ufpr.br//ppgdesign/wp-content/uploads/sites/6/2015/06/SI_PADOVANI_SMYTHE.pdf | [Captura de tela do trecho](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Midia/PlanejamentoDeAvalia%C3%A7%C3%A3oDaAn%C3%A1liseDeTarefas/WhatsApp%20Image%202024-06-12%20at%2018.25.07.jpeg) |
+| 02 | Os métodos de avaliação foram escolhidos de forma adequada para responder às perguntas e atingir os objetivos esperados? | Verificar se os métodos selecionados são apropriados, considerando diversos fatores como prazo, orçamento e equipamentos disponíveis. | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Página 313 | [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AvaliacaoStoryCapturaTela/story1.png) |
+| 03 | As questões práticas da avaliação foram identificadas e gerenciadas? | Avaliar se o avaliador considerou questões práticas como recrutamento de participantes, preparação de equipamentos, prazos e orçamento disponíveis. | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Página 313 | [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AvaliacaoStoryCapturaTela/story1.png) |
+| 04 | Foram tomados cuidados éticos necessários durante a avaliação? | Verificar se foram tomadas precauções éticas para garantir o respeito e a segurança dos participantes da avaliação. | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Página 313 | [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AvaliacaoStoryCapturaTela/story1.png) |
+| 05 | Os dados foram avaliados, interpretados e apresentados considerando aspectos como confiabilidade, validade interna e validade externa? | Verificar se o avaliador considerou a confiabilidade e a validade dos dados antes de tirar conclusões e divulgar resultados. | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Página 313 | [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AvaliacaoStoryCapturaTela/story1.png) |
+| 06 | Os envolvidos/stakeholders foram definidos? |Avalia se todos os stakeholders relevantes foram identificados e envolvidos no processo de avaliação, assegurando que todas as perspectivas e necessidades importantes foram consideradas.  | https://brasil.uxdesign.cc/d-e-c-i-d-e-framework-para-avalia%C3%A7%C3%A3o-de-interfaces-que-serve-para-guiar-seu-discovery-e3dee628d26b | [Captura de tela do trecho](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Midia/PlanejamentoDeAvalia%C3%A7%C3%A3oDaAn%C3%A1liseDeTarefas/WhatsApp%20Image%202024-06-12%20at%2020.01.19.jpeg) |
+| 07 | Os detalhes dos métodos escolhidos foram definidos? | Verifica se os métodos selecionados para a avaliação foram detalhadamente definidos, incluindo procedimentos, ferramentas e técnicas utilizadas, garantindo a clareza e replicabilidade do processo. | https://brasil.uxdesign.cc/d-e-c-i-d-e-framework-para-avalia%C3%A7%C3%A3o-de-interfaces-que-serve-para-guiar-seu-discovery-e3dee628d26b | [Captura de tela do trecho](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Midia/PlanejamentoDeAvalia%C3%A7%C3%A3oDaAn%C3%A1liseDeTarefas/WhatsApp%20Image%202024-06-12%20at%2020.05.05.jpeg) |
+| 08 | As questões de segurança de dados foram definidas? | Avalia se as questões relacionadas à segurança e privacidade dos dados coletados durante a avaliação foram adequadamente definidas e abordadas, garantindo a proteção das informações dos usuários. | https://brasil.uxdesign.cc/d-e-c-i-d-e-framework-para-avalia%C3%A7%C3%A3o-de-interfaces-que-serve-para-guiar-seu-discovery-e3dee628d26b | [Captura de tela do trecho](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Midia/PlanejamentoDeAvalia%C3%A7%C3%A3oDaAn%C3%A1liseDeTarefas/WhatsApp%20Image%202024-06-12%20at%2020.07.06.jpeg) |
+| 09 | Os objetivos foram atingidos? | Verifica se os objetivos estabelecidos no início do processo de avaliação foram atingidos com sucesso, indicando a eficácia e relevância da análise realizada. | https://brasil.uxdesign.cc/d-e-c-i-d-e-framework-para-avalia%C3%A7%C3%A3o-de-interfaces-que-serve-para-guiar-seu-discovery-e3dee628d26b | [Captura de tela do trecho](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Midia/PlanejamentoDeAvalia%C3%A7%C3%A3oDaAn%C3%A1liseDeTarefas/WhatsApp%20Image%202024-06-12%20at%2020.09.35.jpeg) |
 
-<b>Fonte:</b> [analiseGuiaDeEstilo](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/VerificacaoArtefatos/Grupo3/AnaliseRequisitos2/analiseGuiaDeEstilo.md).
+<b>Fonte:</b> [PlanejamentoDeAvaliaçãoDaAnáliseDeTarefas](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoDeAvalia%C3%A7%C3%A3oDaAn%C3%A1liseDeTarefas.md).
 
-<b>Autor:</b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
+<b>Autora:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
 </center>
 
@@ -43,9 +52,17 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Planejamento de 
 
 <b>Tabela 2:</b> Resposta da lista de verificação para Planejamento de Avaliação da Análise de Tarefas
 
-| ID |  Pergunta                                                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
-| -- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-
+| ID |  Pergunta                                                                                                                              | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+| -- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 01 | Os objetivos da análise de tarefas estão claramente definidos?                                                                         | |
+| 02 | Os métodos de avaliação foram escolhidos de forma adequada para responder às perguntas e atingir os objetivos esperados?               | |
+| 03 | As questões práticas da avaliação foram identificadas e gerenciadas?                                                                   | |
+| 04 | Foram tomados cuidados éticos necessários durante a avaliação?                                                                         | |
+| 05 | Os dados foram avaliados, interpretados e apresentados considerando aspectos como confiabilidade, validade interna e validade externa? | |
+| 06 | Os envolvidos/stakeholders foram definidos?                                                                                            | |
+| 07 | Os detalhes dos métodos escolhidos foram definidos?                                                                                    | |
+| 08 | As questões de segurança de dados foram definidas?                                                                                     | |
+| 09 | Os objetivos foram atingidos?                                                                                                          | |
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
