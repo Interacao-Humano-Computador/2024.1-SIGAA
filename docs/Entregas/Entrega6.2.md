@@ -7,6 +7,7 @@ Neste documento está contido o vídeo de apresentação da entrega 6.2 da maté
 
 **Apresentação 6.2**
 
+<iframe width="866" height="487" src="https://www.youtube.com/embed/O6hdGPQHiFc" title="Verificação Grupo 2 - Interação Humano Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 É possível acessar o vídeo por meio deste [link](https://www.youtube.com/embed/O6hdGPQHiFc)
 
