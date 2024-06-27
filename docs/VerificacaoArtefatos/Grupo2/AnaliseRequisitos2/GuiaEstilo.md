@@ -58,11 +58,11 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Guia de Estilo.
 | 3  | O guia inclui uma descrição detalhada do ambiente de trabalho do usuário?                                  | |
 | 4  | As diretrizes para o uso de tipografia, símbolos não tipográficos e cores são claras e detalhadas?         | |
 | 5  | As diretrizes incluem o uso de aceleradores, como teclas de atalho, para melhorar a eficiência do usuário? | |
-| 5  | Existe um vocabulário padronizado definido no guia para garantir a consistência na interface?              | |
-| 6  | As sequências de diálogos e tipos de tela para tarefas comuns são claramente especificadas?                | |
-| 7  | Há um plano claro para a manutenção e atualização contínua do guia de estilo?                              | |
-| 8  | O guia de estilo aborda a conformidade com leis e regulamentos relevantes, como a LGPD no Brasil?          | |
-| 9  | São propostas estratégias de treinamento para garantir que os membros da equipe entendam como usar o guia? | |
+| 6  | Existe um vocabulário padronizado definido no guia para garantir a consistência na interface?              | |
+| 7  | As sequências de diálogos e tipos de tela para tarefas comuns são claramente especificadas?                | |
+| 8  | Há um plano claro para a manutenção e atualização contínua do guia de estilo?                              | |
+| 9  | O guia de estilo aborda a conformidade com leis e regulamentos relevantes, como a LGPD no Brasil?          | |
+| 10  | São propostas estratégias de treinamento para garantir que os membros da equipe entendam como usar o guia? | |
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
