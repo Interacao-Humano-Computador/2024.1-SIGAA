@@ -197,11 +197,11 @@
     * Análise de Requisitos
        - [Aspectos Éticos](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/AspectosEticos.md)
        - [Cánarios](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Cenarios.md)
-    <!-- - [Grupo de Foco](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/GrupoFoco.md) -->
-    <!--   - [Análise HTA](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/HTA.md) -->
+    <!-- - [Grupo de Foco](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/GrupoFoco.md) -->
+    <!--   - [Análise HTA](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/HTA.md) -->
        - [Perfil de Usuário](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/ValidacaoPerfilDeUsuario.md)
        - [Personas](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/VerificacaoPersonas.md)
-    <!--   - [Questionário](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/Questionario.md) -->
+    <!--   - [Questionário](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/Questionario.md) -->
      * Análise de Requisitos II
        - [Metas de Usabilidade](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/MetasUsabilidade.md)
        - [Guia de Estilo](VerificacaoArtefatos/Grupo2/AnaliseRequisitos2/GuiaEstilo.md)
@@ -212,31 +212,31 @@
            - [Storyboard ](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md)
            - [Planejamento da Avaliação da Análise de Tarefas](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoHTA.md) 
            - [Planejamento da Avaliação Storyboard](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) 
-        <!--  - [Relato dos Resultados da Avaliação da Análise de Tarefas](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)  -->
-        <!--  - [Relato dos Resultados do Storyboard](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md)  -->
+        <!--  - [Relato dos Resultados da Avaliação da Análise de Tarefas](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)  -->
+        <!--  - [Relato dos Resultados do Storyboard](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md)  -->
        
   * Grupo 3
-    * [Planejamento da Verificação](VerificacaoArtefatos1/Grupo3/PlanejamentoVerificação.md)
+    * [Planejamento da Verificação](VerificacaoArtefatos/Grupo3/PlanejamentoVerificação.md)
     * Análise de Requisitos
-       - [Aspectos Éticos](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/AspectosEticos.md)
-       - [Cánarios](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/Cenario.md)
-       - [Grupo de Foco](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/GrupoFoco.md)
-       - [Análise HTA](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/HTA.md)
-       - [Perfil de Usuário](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/PerfilUsuário.md)
-       - [Personas](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/Personas.md)
-       - [Questionário](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/Questionario.md)
+       - [Aspectos Éticos](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/AspectosEticos.md)
+       - [Cánarios](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/Cenario.md)
+       - [Grupo de Foco](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/GrupoFoco.md)
+       - [Análise HTA](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/HTA.md)
+       - [Perfil de Usuário](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/PerfilUsuário.md)
+       - [Personas](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/Personas.md)
+       - [Questionário](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/Questionario.md)
      * Análise de Requisitos II
-       - [Metas de Usabilidade](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos2/MetasUsabilidade.md)
-       - [Guia de Estilo](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos2/analiseGuiaDeEstilo.md)
+       - [Metas de Usabilidade](VerificacaoArtefatos/Grupo3/AnaliseRequisitos2/MetasUsabilidade.md)
+       - [Guia de Estilo](VerificacaoArtefatos/Grupo3/AnaliseRequisitos2/analiseGuiaDeEstilo.md)
      * Análise de Tarefas
-       - [CMN-GOMS](VerificacaoArtefatos1/Grupo3/AnaliseTarefas/avaliacaoGoms.md)
+       - [CMN-GOMS](VerificacaoArtefatos/Grupo3/AnaliseTarefas/avaliacaoGoms.md)
      * Design Avaliacao Desenvolvimento
         * Nível 1
-           - [Storyboard ](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md)
-           - [Planejamento da Avaliação da Análise de Tarefas](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoDeAvaliaçãoDaAnáliseDeTarefas.md)
-           - [Planejamento da Avaliação Storyboard](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md)
-           - [Relato dos Resultados da Avaliação da Análise de Tarefas](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)
-           - [Relato dos Resultados do Storyboard](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md)
+           - [Storyboard ](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md)
+           - [Planejamento da Avaliação da Análise de Tarefas](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoDeAvaliaçãoDaAnáliseDeTarefas.md)
+           - [Planejamento da Avaliação Storyboard](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md)
+           - [Relato dos Resultados da Avaliação da Análise de Tarefas](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)
+           - [Relato dos Resultados do Storyboard](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md)
        
 
 
