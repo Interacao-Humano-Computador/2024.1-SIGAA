@@ -11,7 +11,7 @@
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
-O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de Planejamento da Avaliação do Storyboard criado pelo grupo 03 do aplicativo dos correios da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a criação das personas, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de Planejamento da Avaliação do Storyboard criado pelo grupo 02 do SIGAA da disciplina de IHC, semestre 2024.1, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 ## Metodologia 
 Após a construção do artefato de Planejamento da Avaliação do Storyboard, será criada uma lista de verificação contendo perguntas e respostas sobre o artefato, baseada na literatura da disciplina. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
@@ -33,6 +33,21 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Plan
 | 6   | Os dados foram avaliados, interpretados e apresentados considerando aspectos como confiabilidade, validade interna e validade externa? | Verificar se o avaliador considerou a confiabilidade e a validade dos dados antes de tirar conclusões e divulgar resultados. | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Página 313 | [Captura de tela do trecho](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/AvaliacaoStoryCapturaTela/story1.png) |
 
 
+## Inspeção
+
+Tabela 2: inspeção.
+
+**Tabela 2:** Avaliação para Planejamento da Avaliação do Storyboard.
+
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+|-----|------|------|
+| 1 | Os objetivos da avaliação de IHC foram determinados? |Sim | 
+| 2 | Foram elaboradas perguntas específicas para cada objetivo definido? |Sim| É necessário formular perguntas específicas para cada objetivo para garantir que todos os aspectos da avaliação sejam abordados de maneira detalhada e focada. |
+| 3 | Os métodos de avaliação foram escolhidos de forma adequada para responder às perguntas e atingir os objetivos esperados? | Sim | Escolher métodos adequados é crucial para garantir que a avaliação seja eficaz e que os resultados obtenham respostas precisas às perguntas formuladas. |
+| 4 | As questões práticas da avaliação foram identificadas e gerenciadas? | Sim | 
+| 5 | Foram tomados cuidados éticos necessários durante a avaliação? |Sim | 
+| 6 | Os dados foram avaliados, interpretados e apresentados considerando aspectos como confiabilidade, validade interna e validade externa? | Sim | 
+
 
 ## Erros Encontrados
 
@@ -40,12 +55,8 @@ Tabela 3: Erros Encontrados
 
 | ID | Sugestões de melhoria                                                                              |
 |----|--------------------------------------------------------------------------------------------------- |
-| 3  | Estabelecer faixa devalores.                       |
-| 4 | Estabelecer  ROI.                                    |
-| 5  | Incluir método de design.                              |
-| 6 |Incluir os protótipos desenvolvidos.                  |
-| 7 | Realizar a avaliação.                                        |
-| 8 |Justificar  as decisões de forma clara e objetiva.                      |
+| -  | Não foram identificadas melhorias.                       |
+
 
 <br>
 <b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
@@ -53,7 +64,7 @@ Tabela 3: Erros Encontrados
 
 ## Vídeo da inspeção
 
-https://youtu.be/hdEmNSLV5F8
+https://youtu.be/_idCNOt85pk
 
 ## Histórico de versão
 
