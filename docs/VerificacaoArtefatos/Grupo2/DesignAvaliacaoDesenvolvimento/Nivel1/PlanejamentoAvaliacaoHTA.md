@@ -70,7 +70,7 @@ Tabela 3: Erros Encontrados
 
 https://youtu.be/5J9tR7cos1Y
 
-## Referências Bibliográficas
+## Bibliografia
 
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Acesso em 12 de Junho de 2024.
 
