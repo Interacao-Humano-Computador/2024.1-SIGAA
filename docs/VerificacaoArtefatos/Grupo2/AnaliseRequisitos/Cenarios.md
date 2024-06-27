@@ -219,18 +219,18 @@ Tabela 6: Bolsas
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | ----------| ---------- |
-| 1 | O título do cenário representa explicitamente o tema? | ---------- |
-| 2 | O objetivo do cenário está claramente definido? | ---------- |
-| 3 | O contexto do cenário está bem descrito, incluindo as pré-condições, o local e o tempo? | ---------- |
-| 4 | Os recursos envolvidos no cenário estão identificados? | ---------- |
-| 5 | Os atores envolvidos no cenário estão definidos? | ---------- |
-| 6 | Os atores estão sendo representados por personas? | ---------- |
-| 7 | As ações dos atores estão descritas de forma observável? | ---------- |
-| 8 | O cenário mostra o que as pessoas tentam fazer com o site e quais são os procedimentos adotados na situação? | ---------- |
-| 9 | O ambiente ou contexto do cenário está detalhado? | ---------- |
-| 10 | O cenário está escrito em linguagem natural simples? | ---------- |
-| 11 | Há a descrição do que o sistema e os atores esperam quando o cenário se finalizar? | ---------- |
-| 12 | Cada cenário Em outras palavras, cada cenário descreve apenas um dos caminhos descritos em um caso de uso? | ---------- |
+| 1 | O título do cenário representa explicitamente o tema? | Sim |
+| 2 | O objetivo do cenário está claramente definido? | Incompleto |
+| 3 | O contexto do cenário está bem descrito, incluindo as pré-condições, o local e o tempo? | Incompleto |
+| 4 | Os recursos envolvidos no cenário estão identificados? | Incompleto |
+| 5 | Os atores envolvidos no cenário estão definidos? | Sim |
+| 6 | Os atores estão sendo representados por personas? | Sim |
+| 7 | As ações dos atores estão descritas de forma observável? | Sim |
+| 8 | O cenário mostra o que as pessoas tentam fazer com o site e quais são os procedimentos adotados na situação? | Sim |
+| 9 | O ambiente ou contexto do cenário está detalhado? | Incompleto |
+| 10 | O cenário está escrito em linguagem natural simples? | Sim |
+| 11 | Há a descrição do que o sistema e os atores esperam quando o cenário se finalizar? | Sim |
+| 12 | Cada cenário Em outras palavras, cada cenário descreve apenas um dos caminhos descritos em um caso de uso? | Sim |
 
  **Autora:** [Luana Medeiros](https://github.com/LuaMedeiros)
 
@@ -238,8 +238,14 @@ Tabela 6: Bolsas
 
 | ID |  Sugestões de Melhoria | 
 | -- | ----------- |
+| 2  | Adicionar tabela de definição dos elementos para ficar claramente definido |
+| 3  | Adicionar contexto bem descrito |
+| 4  | Adicionar tabela de definição dos elementos para ficar claramente definido |
+| 9  | Adicionar contexto bem descrito |
 
 ### Vídeo da inspeção
+
+<iframe width="866" height="487" src="https://www.youtube.com/embed/wY0KDFzS1h4" title="Inspeção Cenário Bolsas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
@@ -262,3 +268,4 @@ Tabela 6: Bolsas
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 |  1.0   | Criação do documento                | Luana Medeiros  | --------------- | 26/06/2024 |
+|  1.1   | Realização das Inspeções            | Luana Medeiros  | --------------- | 26/06/2024 |
