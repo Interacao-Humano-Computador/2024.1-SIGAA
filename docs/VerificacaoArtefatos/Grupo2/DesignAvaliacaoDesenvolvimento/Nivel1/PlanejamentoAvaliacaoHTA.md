@@ -44,12 +44,12 @@ A tabela 2 mostra a avaliação do Planejamento da Avaliação da Análise de ta
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 |-----|------|------|
-| 1 | Os objetivos da avaliação de IHC foram determinados? ||
-| 2 | Foram elaboradas perguntas específicas para cada objetivo definido? ||
-| 3 | Os métodos de avaliação foram escolhidos de forma adequada para responder às perguntas e atingir os objetivos esperados? ||
-| 4 | As questões práticas da avaliação foram identificadas e gerenciadas? ||
-| 5 | Foram tomados cuidados éticos necessários durante o planejamento da avaliação? ||
-| 6 | A avaliação, interpretação e apresentação dos dados foram planejadas considerando aspectos como confiabilidade, validade interna e validade externa? ||
+| 1 | Os objetivos da avaliação de IHC foram determinados? |Sim |
+| 2 | Foram elaboradas perguntas específicas para cada objetivo definido? |Sim |
+| 3 | Os métodos de avaliação foram escolhidos de forma adequada para responder às perguntas e atingir os objetivos esperados? |Sim |
+| 4 | As questões práticas da avaliação foram identificadas e gerenciadas? | Sim|
+| 5 | Foram tomados cuidados éticos necessários durante o planejamento da avaliação? |Sim|
+| 6 | A avaliação, interpretação e apresentação dos dados foram planejadas considerando aspectos como confiabilidade, validade interna e validade externa? | Sim|
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
@@ -59,18 +59,19 @@ Tabela 3: Erros Encontrados
 
 | ID | Sugestões de melhoria                                                                              |
 |----|--------------------------------------------------------------------------------------------------- |
-| 3  | Estabelecer faixa devalores.                       |
-| 4 | Estabelecer  ROI.                                    |
-| 5  | Incluir método de design.                              |
-| 6 |Incluir os protótipos desenvolvidos.                  |
-| 7 | Realizar a avaliação.                                        |
-| 8 |Justificar  as decisões de forma clara e objetiva.                      |
+| X.1  | Não foram detectadas melhorias.                       |
+
 
 <br>
 <b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
 
 
+## Vídeo da inspeção
+
+https://youtu.be/5J9tR7cos1Y
+
 ## Referências Bibliográficas
+
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Acesso em 12 de Junho de 2024.
 
    
