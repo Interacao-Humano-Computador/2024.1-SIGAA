@@ -5,7 +5,7 @@
 * [Metodologia](#Metodologia)
 * [Inspeção](#Inspeção)
 * [Erros Encontrados](#Erros-Encontrados)
-* [Conclusão](#Conclusão)
+* [Vídeo da inspeção](#Vídeo-da-inspeção)
 * [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -62,18 +62,18 @@ Tabela 2: Estagio
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | ----------| ---------- |
-| 1 | O título do cenário representa explicitamente o tema? | ---------- |
-| 2 | O objetivo do cenário está claramente definido? | ---------- |
-| 3 | O contexto do cenário está bem descrito, incluindo as pré-condições, o local e o tempo? | ---------- |
-| 4 | Os recursos envolvidos no cenário estão identificados? | ---------- |
-| 5 | Os atores envolvidos no cenário estão definidos? | ---------- |
-| 6 | Os atores estão sendo representados por personas? | ---------- |
-| 7 | As ações dos atores estão descritas de forma observável? | ---------- |
-| 8 | O cenário mostra o que as pessoas tentam fazer com o site e quais são os procedimentos adotados na situação? | ---------- |
-| 9 | O ambiente ou contexto do cenário está detalhado? | ---------- |
-| 10 | O cenário está escrito em linguagem natural simples? | ---------- |
-| 11 | Há a descrição do que o sistema e os atores esperam quando o cenário se finalizar? | ---------- |
-| 12 | Cada cenário Em outras palavras, cada cenário descreve apenas um dos caminhos descritos em um caso de uso? | ---------- |
+| 1 | O título do cenário representa explicitamente o tema? | Incompleto |
+| 2 | O objetivo do cenário está claramente definido? | Sim |
+| 3 | O contexto do cenário está bem descrito, incluindo as pré-condições, o local e o tempo? | Sim |
+| 4 | Os recursos envolvidos no cenário estão identificados? | Sim |
+| 5 | Os atores envolvidos no cenário estão definidos? | Sim |
+| 6 | Os atores estão sendo representados por personas? | Sim |
+| 7 | As ações dos atores estão descritas de forma observável? | Sim |
+| 8 | O cenário mostra o que as pessoas tentam fazer com o site e quais são os procedimentos adotados na situação? | Sim |
+| 9 | O ambiente ou contexto do cenário está detalhado? | Sim |
+| 10 | O cenário está escrito em linguagem natural simples? | Sim |
+| 11 | Há a descrição do que o sistema e os atores esperam quando o cenário se finalizar? | Sim |
+| 12 | Cada cenário em outras palavras, cada cenário descreve apenas um dos caminhos descritos em um caso de uso? | Sim |
 
  **Autora:** [Luana Medeiros](https://github.com/LuaMedeiros)
 
@@ -81,6 +81,11 @@ Tabela 2: Estagio
 
 | ID |  Sugestões de Melhoria | 
 | -- | ----------- |
+| 1  | Adicionar um título que deixe explícito o tema |
+
+### Vídeo da inspeção
+
+<iframe width="866" height="487" src="https://www.youtube.com/embed/Gt0Ia4luMUc" title="Inspeção Cenário Estágio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
@@ -96,18 +101,18 @@ Tabela 3: Matrícula
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | ----------| ---------- |
-| 1 | O título do cenário representa explicitamente o tema? | ---------- |
-| 2 | O objetivo do cenário está claramente definido? | ---------- |
-| 3 | O contexto do cenário está bem descrito, incluindo as pré-condições, o local e o tempo? | ---------- |
-| 4 | Os recursos envolvidos no cenário estão identificados? | ---------- |
-| 5 | Os atores envolvidos no cenário estão definidos? | ---------- |
-| 6 | Os atores estão sendo representados por personas? | ---------- |
-| 7 | As ações dos atores estão descritas de forma observável? | ---------- |
-| 8 | O cenário mostra o que as pessoas tentam fazer com o site e quais são os procedimentos adotados na situação? | ---------- |
-| 9 | O ambiente ou contexto do cenário está detalhado? | ---------- |
-| 10 | O cenário está escrito em linguagem natural simples? | ---------- |
-| 11 | Há a descrição do que o sistema e os atores esperam quando o cenário se finalizar? | ---------- |
-| 12 | Cada cenário Em outras palavras, cada cenário descreve apenas um dos caminhos descritos em um caso de uso? | ---------- |
+| 1 | O título do cenário representa explicitamente o tema? | Incompleto |
+| 2 | O objetivo do cenário está claramente definido? | Sim |
+| 3 | O contexto do cenário está bem descrito, incluindo as pré-condições, o local e o tempo? | Sim |
+| 4 | Os recursos envolvidos no cenário estão identificados? | Sim |
+| 5 | Os atores envolvidos no cenário estão definidos? | Sim |
+| 6 | Os atores estão sendo representados por personas? | Sim |
+| 7 | As ações dos atores estão descritas de forma observável? | Sim |
+| 8 | O cenário mostra o que as pessoas tentam fazer com o site e quais são os procedimentos adotados na situação? | Sim |
+| 9 | O ambiente ou contexto do cenário está detalhado? | Sim |
+| 10 | O cenário está escrito em linguagem natural simples? | Sim |
+| 11 | Há a descrição do que o sistema e os atores esperam quando o cenário se finalizar? | Sim |
+| 12 | Cada cenário Em outras palavras, cada cenário descreve apenas um dos caminhos descritos em um caso de uso? | Sim |
 
  **Autora:** [Luana Medeiros](https://github.com/LuaMedeiros)
 
@@ -115,6 +120,9 @@ Tabela 3: Matrícula
 
 | ID |  Sugestões de Melhoria | 
 | -- | ----------- |
+| 1  | Adicionar um título que deixe explícito o tema |
+
+### Vídeo da inspeção
 
 </details>
 
@@ -150,6 +158,8 @@ Tabela 4: Grade Sugerida
 | ID |  Sugestões de Melhoria | 
 | -- | ----------- |
 
+### Vídeo da inspeção
+
 </details>
 
 <details>
@@ -183,6 +193,8 @@ Tabela 5: Monitoria
 
 | ID |  Sugestões de Melhoria | 
 | -- | ----------- |
+
+### Vídeo da inspeção
 
 </details>
 
@@ -218,9 +230,10 @@ Tabela 6: Bolsas
 | ID |  Sugestões de Melhoria | 
 | -- | ----------- |
 
+### Vídeo da inspeção
+
 </details>
 
-## Conclusão
 
 ## Referências Bibliográficas
 
