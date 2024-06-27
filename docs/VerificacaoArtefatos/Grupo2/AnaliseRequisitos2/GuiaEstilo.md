@@ -94,8 +94,9 @@ O vídeo a seguir a inspeção gravada sobre o artefato Guia de Estilo.
 
 <b>Vídeo 1:</b> Gravação da inséção do Guia de Estilo.
 
+<iframe width="1124" height="632" src="https://www.youtube.com/embed/kyu59FczIQA" title="Verificação do artefato de Guia de Estilo - Grupo 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-É possível acessar o vídeo por meio deste [link]().
+É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=kyu59FczIQA).
 
 </center>
 
@@ -111,3 +112,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato Guia de Estilo.
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                 | Breno Alexandre | Pedro Izarias               | 26/06/2024 |
 | 1.1    | Mudanças no artefato                 | Pedro Izarias |  -               | 26/06/2024 |
+| 1.2    | Adição das respostas                | Pedro Izarias |  -               | 26/06/2024 |
