@@ -47,7 +47,7 @@ A tabela 2 mostra a avaliação das Metas de Usabilidade com base na lista de ve
 **Tabela 2:** Avaliação para Metas de Usabilidade.
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | 
-|-----|------|------|---------|
+|-----|------|------|
 | 1 |As metas de usabilidade foram claramente definidas para o projeto em questão?||
 | 2 |Os indicadores de desempenho escolhidos são relevantes e mensuráveis?||
 | 3 |Foram estabelecidas faixas de valores para os indicadores de usabilidade?|||
