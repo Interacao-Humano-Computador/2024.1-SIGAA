@@ -10,7 +10,7 @@
 
 
 ## Introdução
-O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de Questionários criado para o grupo 03 do aplicativo dos correios da disciplina de IHC, para verificar o mesmo artefato do grupo 02 (SIGAA). O documento apresenta uma tabela com perguntas a serem feitas sobre a criação dos Questionários, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de [Questionários](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/PerfilUsuario/Estudantes/Questionarios/An%C3%A1liseResultados.md) criado para o grupo 03 do aplicativo dos correios da disciplina de IHC, para verificar o mesmo artefato do grupo 02 (SIGAA). O documento apresenta uma tabela com perguntas a serem feitas sobre a criação dos Questionários, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 ## Metodologia
 Após a construção do artefato de Questionários, foi criada uma lista de verificação contendo perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
@@ -60,26 +60,27 @@ Tabela 1: Lista de Verificação dos Questionários
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 |----|-----|--------|
 | 01 | Há e uma prévia exposição sobre o projeto e explicação sobre os motivos da pesquisa antes de os participantes responderem as pesguntas?  | - |
-| 02 |   | - |
-| 03 |   | - |
-| 04 |   | - |
-| 05 |   | - |
-| 06 |   | - |
-| 07 |   | - |
-| 08 |   | - |
-| 09 |   | - |
-| 10 |   | - |
-| 11 |   | - |
-| 12 |   | - |
-| 13 |   | - |
-| 14 |   | - |
-| 15 |   | - |
-| 16 |   | - |
-| 16 |   | - |
-| 17 |   | - |
-| 18 |   | - |
-| 19 |   | - |
-| 20 |   | - |
+| 02 |  Há um planejamento mostrando a preparação/ metodologia do questionário que mostra uma explicação/ligação sobre os objetivos da pesquisa, as hipóteses e qual a população/grupo o qual o questionário será enviado? | - |
+| 03 | O questionário foi testado antes de ser distribuído?  | - |
+| 04 | O questionário busca identificar quais são os objetivos dos usuários?  | - |
+| 05 |  O questionário busca identificar a faixa etária do público alvo do site? | - |
+| 06 |  O questionário busca identificar as porcentagens de gênero que acesam o site? | - |
+| 07 | O questionário busca identificar o nível de instrução do público alvo do site?  | - |
+| 08 | O questionário busca identificar o tipo de aprendizado do público alvo do site?  | - |
+| 09 |  O questionário busca identificar as atividades principais dos usuários no site?  | - |
+| 10 | O questionário busca identificar o tipo de experiência do público alvo do site?  | - |
+| 11 |  O questionário busca identificar a relação do público alvo com a tecnologia?  | - |
+| 12 | O questionário busca identificar os dialétos/ jargões do público alvo?  | - |
+| 13 |  O questionário busca identificar os idiomas que o usuários falam? | - |
+| 14 |  O questionário é formado por um conjunto razoável de perguntas elaboradas de acordo com o objetivos? | - |
+| 15 | O questionário foi elaborado para identificar padrões de ação e de comportamentos?  | - |
+| 16 |  O questionário utiliza apenas um assunto/tema por pergunta. | - |
+| 16 |  Não há abreviações de termos ou expressões pouco conhecidos pelos participantes. | - |
+| 17 |  As perguntas foram elaboradas de maneira que elas têm a informação necessária para responder as perguntas? | - |
+| 18 |  As alternativas das questões são coletivamente exaustivas e mutuamente exclusivas? | - |
+| 19 |  O questionário foi elaborado de forma breve simples? | - |
+| 20 | Não houve ambiguidade no questionário?  | - |
+| 21 |  O questionário foi testado antes de ser distribuído?  | - |
 
 
 <b> Autor: </b> <a href="https://github.com/LuaMedeiros">Pedro Izarias</a>.
