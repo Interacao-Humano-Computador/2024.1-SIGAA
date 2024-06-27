@@ -23,7 +23,10 @@
   - [Apresentação 02](Entregas/Entrega02.md)
   - [Apresentação 03](Entregas/Entrega03.md)
   - [Apresentação 04](Entregas/Entrega04.md)
-  - [Apresentação 05](Entregas/Entrega5.md)
+  - [Apresentação 05](Entregas/Entrega05.md)
+  - [Apresentação 6.1](Entregas/Entrega06.1.md)
+  - [Apresentação 07](Entregas/Entrega07.md)
+  - [Apresentação 6.2](Entregas/Entrega6.2.md)
     
 * Planejamento 
   - [Cronograma](planejamento/Cronograma.md)
