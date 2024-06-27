@@ -64,7 +64,7 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Story
 
 <center>
 
-<b>Tabela 3:</b> Sugestões de melhoria para o Guia de Estilo.
+<b>Tabela 3:</b> Sugestões de melhoria para o Storyboard.
 
 | ID |  Sugestões de melhoria | 
 | -- | ----------- | 
