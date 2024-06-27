@@ -47,7 +47,7 @@ Tabela 1: Lista de Verificação dos Questionários
 
 
 
-<b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
+<b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
