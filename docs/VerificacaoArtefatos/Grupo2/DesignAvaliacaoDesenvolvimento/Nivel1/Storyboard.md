@@ -84,6 +84,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato de Storyboard.
 <b>Vídeo 1:</b> Gravação da inséção do Guia de Estilo.
 <iframe width="1124" height="632" src="https://www.youtube.com/embed/bxL_Sbv4A_4" title="Verificação do artefato de Storyboard - Grupo 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=bxL_Sbv4A_4).
 
 </center>
