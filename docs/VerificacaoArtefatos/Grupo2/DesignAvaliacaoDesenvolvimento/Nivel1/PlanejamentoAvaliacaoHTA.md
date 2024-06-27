@@ -12,7 +12,7 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de Planejamento de Avaliação da Análise de Tarefas criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura dos Planejamento de Avaliação da Análise de Tarefas, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de [Planejamento de Avaliação da Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel1/An%C3%A1liseTarefas/PlanejamentoAvalia%C3%A7%C3%A3oAn%C3%A1liseTarefas.md) criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura dos Planejamento de Avaliação da Análise de Tarefas, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 ## Metodologia
 
