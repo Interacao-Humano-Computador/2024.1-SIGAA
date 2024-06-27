@@ -1,4 +1,4 @@
-# Lista de verificação do Guia de Estilo
+# Verificação do Guia de Estilo
 
 ## Sumário
 * [Introdução](#Introdução)
