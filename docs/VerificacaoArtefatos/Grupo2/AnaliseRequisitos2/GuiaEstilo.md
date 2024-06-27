@@ -53,16 +53,16 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Guia de Estilo.
 
 | ID |  Pergunta                                                                                                  | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 | -- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1  | O guia de estilo define claramente seu objetivo e propósito?                                               | |
-| 2  | A introdução especifica como o guia deve ser utilizado durante a produção e manutenção dos projetos?       | |
-| 3  | O guia inclui uma descrição detalhada do ambiente de trabalho do usuário?                                  | |
-| 4  | As diretrizes para o uso de tipografia, símbolos não tipográficos e cores são claras e detalhadas?         | |
-| 5  | As diretrizes incluem o uso de aceleradores, como teclas de atalho, para melhorar a eficiência do usuário? | |
-| 6  | Existe um vocabulário padronizado definido no guia para garantir a consistência na interface?              | |
-| 7  | As sequências de diálogos e tipos de tela para tarefas comuns são claramente especificadas?                | |
-| 8  | Há um plano claro para a manutenção e atualização contínua do guia de estilo?                              | |
-| 9  | O guia de estilo aborda a conformidade com leis e regulamentos relevantes, como a LGPD no Brasil?          | |
-| 10  | São propostas estratégias de treinamento para garantir que os membros da equipe entendam como usar o guia? | |
+| 1  | O guia de estilo define claramente seu objetivo e propósito?                                               | Sim |
+| 2  | A introdução especifica como o guia deve ser utilizado durante a produção e manutenção dos projetos?       | Sim |
+| 3  | O guia inclui uma descrição detalhada do ambiente de trabalho do usuário?                                  | Sim |
+| 4  | As diretrizes para o uso de tipografia, símbolos não tipográficos e cores são claras e detalhadas?         | Incompleto |
+| 5  | As diretrizes incluem o uso de aceleradores, como teclas de atalho, para melhorar a eficiência do usuário? | Sim |
+| 6  | Existe um vocabulário padronizado definido no guia para garantir a consistência na interface?              | Sim |
+| 7  | As sequências de diálogos e tipos de tela para tarefas comuns são claramente especificadas?                | Incompleto |
+| 8  | Há um plano claro para a manutenção e atualização contínua do guia de estilo?                              | Sim |
+| 9  | O guia de estilo aborda a conformidade com leis e regulamentos relevantes, como a LGPD no Brasil?          | Não |
+| 10  | São propostas estratégias de treinamento para garantir que os membros da equipe entendam como usar o guia? | Sim |
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
@@ -78,7 +78,9 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Guia de 
 
 | ID |  Sugestões de melhoria | 
 | -- | ---------------------- |
-| | |
+| 01 | As diretrizes de uso de tipografia e cores estão presentes no link externo do Figma mas não no artefato. |
+|02|Abordar a conformidade com leis e regulamentos relevantes, como a LGPD no Brasil.|
+|03|Especificar claramente as sequências de diálogos e tipos de tela para tarefas comuns.|
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
