@@ -73,7 +73,7 @@ Tabela 1: Lista de Verificação dos Questionários
 | 12 | O questionário busca identificar os dialétos/ jargões do público alvo?  | Sim |
 | 13 |  O questionário busca identificar os idiomas que o usuários falam? | Sim |
 | 14 |  O questionário é formado por um conjunto razoável de perguntas elaboradas de acordo com o objetivos? | Sim |
-| 15 | O questionário foi elaborado para identificar padrões de ação e de comportamentos?  | -Sim |
+| 15 | O questionário foi elaborado para identificar padrões de ação e de comportamentos?  | Sim |
 | 16 |  O questionário utiliza apenas um assunto/tema por pergunta. | Sim |
 | 16 |  Não há abreviações de termos ou expressões pouco conhecidos pelos participantes. | Sim |
 | 17 |  As perguntas foram elaboradas de maneira que elas têm a informação necessária para responder as perguntas? | Sim |
