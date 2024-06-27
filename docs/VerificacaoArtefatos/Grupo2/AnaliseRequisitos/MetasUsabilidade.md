@@ -48,25 +48,31 @@ A tabela 2 mostra a avaliação das Metas de Usabilidade com base na lista de ve
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | 
 |-----|------|------|
-| 1 |As metas de usabilidade foram claramente definidas para o projeto em questão?||
-| 2 |Os indicadores de desempenho escolhidos são relevantes e mensuráveis?||
-| 3 |Foram estabelecidas faixas de valores para os indicadores de usabilidade?|||
-| 4 |O trabalho considerou o retorno de investimento (ROI) relacionado à usabilidade do sistema?||
-| 5 |O método de design utilizado (como design paralelo ou design participativo) foi adequado às necessidades do projeto?||
-| 6 |Os protótipos desenvolvidos foram eficazes para testar e validar as soluções de design propostas?||
-| 7 |Foi realizada uma avaliação empírica da usabilidade do sistema durante o desenvolvimento?||
-| 8 |As decisões de design foram documentadas de forma clara e justificadas?||
+| 1 |As metas de usabilidade foram claramente definidas para o projeto em questão?| Sim|
+| 2 |Os indicadores de desempenho escolhidos são relevantes e mensuráveis?|Sim|
+| 3 |Foram estabelecidas faixas de valores para os indicadores de usabilidade?|Não|
+| 4 |O trabalho considerou o retorno de investimento (ROI) relacionado à usabilidade do sistema?| Não|
+| 5 |O método de design utilizado (como design paralelo ou design participativo) foi adequado às necessidades do projeto?| Não|
+| 6 |Os protótipos desenvolvidos foram eficazes para testar e validar as soluções de design propostas?| Não|
+| 7 |Foi realizada uma avaliação empírica da usabilidade do sistema durante o desenvolvimento?|Não|
+| 8 |As decisões de design foram documentadas de forma clara e justificadas?|Incompleto|
 
 **Autor:** [Pedro Izarias](https://github.com/Izarias
 
 ## Erros Encontrados
 
 | ID |  Sugestões de melhoria | 
-| -- | ----------- | 
+| 3 | Estabelecer faixa devalores | 
+| 4 | Estabelecer ROI | 
+| 5 | Não possuí | 
+| 6 | Não possuí | 
+| 7 | Não possuí | 
+| 8 | Justificar as decisões do design | 
+
 
 ## Vídeo da inspeção
 
-
+https://youtu.be/hdEmNSLV5F8
 
 ## Referência
 
