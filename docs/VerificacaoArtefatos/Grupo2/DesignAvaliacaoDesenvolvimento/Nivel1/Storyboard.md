@@ -39,6 +39,10 @@ Tabela 1: Lista de Verificação do Storyboard
 
 ## Inspeção
 
+<center>
+  
+<b>Tabela 2:</b> Resposta da lista de verificação para Storyboard.
+
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 |----|-----|--------|
 | 01 | Apresenta uma sequência lógica de cenas? | Sim |
@@ -51,12 +55,25 @@ Tabela 1: Lista de Verificação do Storyboard
 | 08 | Existe uma descrição das ações do usuário e as respostas do sistema em cada etapa?  | Incompleto |
 | 09 | O storyboard permite a identificação de potenciais problemas de usabilidade ou pontos de confusão para o usuário? | Sim |
 
+<b> Autor: </b> <a href="https://github.com/LuaMedeiros">Pedro Izarias</a>.
+
+</center>
+
 ## Erros Encontrados
+A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Storyboard.
+
+<center>
+
+<b>Tabela 3:</b> Sugestões de melhoria para o Guia de Estilo.
 
 | ID |  Sugestões de melhoria | 
 | -- | ----------- | 
 | 01 |  As imagens 1 e 7 estão com o hiperlink quebrado. |
 | 02 |  Nem todos os storyboard tem a descrição de cada etapa do sistema de acordo com a funcionalidade analisada. |
+
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
+
+</center>
 
 ## Vídeo da inspeção
 <iframe width="1124" height="632" src="https://www.youtube.com/embed/bxL_Sbv4A_4" title="Verificação do artefato de Storyboard - Grupo 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -73,3 +90,4 @@ Tabela 1: Lista de Verificação do Storyboard
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 |----|-------|------|-------|------|
 | 1.0 | Criação do documento | Pedro Izarias | - | 26/06/2024 |
+| 1.1 | Adição das respostas | Pedro Izarias | - | 26/06/2024 |
