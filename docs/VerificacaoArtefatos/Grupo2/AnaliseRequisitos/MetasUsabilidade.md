@@ -61,13 +61,19 @@ A tabela 2 mostra a avaliação das Metas de Usabilidade com base na lista de ve
 
 ## Erros Encontrados
 
-| ID |  Sugestões de melhoria | 
-| 3 | Estabelecer faixa devalores | 
-| 4 | Estabelecer ROI | 
-| 5 | Não possuí | 
-| 6 | Não possuí | 
-| 7 | Não possuí | 
-| 8 | Justificar as decisões do design | 
+Tabela 3: Erros Encontrados
+
+| ID | Sugestões de melhoria                                                                              |
+|----|--------------------------------------------------------------------------------------------------- |
+| 3  | Estabelecer faixa devalores.                       |
+| 4 | Estabelecer  ROI.                                    |
+| 5  | Incluir método de design.                              |
+| 6 |Incluir os protótipos desenvolvidos.                  |
+| 7 | Realizar a avaliação.                                        |
+| 8 |Justificar  as decisões de forma clara e objetiva.                      |
+
+<br>
+<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
 
 
 ## Vídeo da inspeção
