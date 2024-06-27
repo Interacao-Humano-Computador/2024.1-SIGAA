@@ -16,7 +16,6 @@ O seguinte documento possui o intuito de utilizar a lista de verificação para 
 Após a construção do artefato de Questionários, foi criada uma lista de verificação contendo perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
 ## Lista de verificação
-<center>
 
 Tabela 1: Lista de Verificação dos Questionários
 
@@ -49,12 +48,8 @@ Tabela 1: Lista de Verificação dos Questionários
 
 <b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-</center>
-
 ## Inspeção
 
-<center>
-  
 <b>Tabela 2:</b> Resposta da lista de verificação para Questionários.
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
@@ -85,12 +80,10 @@ Tabela 1: Lista de Verificação dos Questionários
 
 <b> Autor: </b> <a href="https://github.com/PedroIzarias">Pedro Izarias</a>.
 
-</center>
 
 ## Erros Encontrados
 A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Questionários.
 
-<center>
 
 <b>Tabela 3:</b> Sugestões de melhoria para os Questionários.
 
@@ -102,13 +95,11 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Quest
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-</center>
 
 ## Vídeo da inspeção
 
 O vídeo a seguir a inspeção gravada sobre o artefato de Questionários.
 
-<center>
 
 <b>Vídeo 1:</b> Gravação da inspeção de questionários.
 
@@ -116,19 +107,15 @@ O vídeo a seguir a inspeção gravada sobre o artefato de Questionários.
 
 É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=c72tezMVwCY).
 
-</center>
-
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 
 ## Bibliografia
 1. Barbosa, S. D. J., Silva, B. S., Silveira, M. S., Gasparini, I., Darin, T., Barbosa, G. D. J. (2021). **Interação Humano-Computador e Experiência do Usuário**. 03 de maio de 2021. Acesso em 11 de junho de 2024.
 
-2.Chagas, Naivaldo T. R. **O questionário na pesquisa científica** . Universidade Católica de Campinas. Disponível em <https://d1wqtxts1xzle7.cloudfront.net/38538199/questionarios-libre.pdf?1440207654=&response-content-disposition=inline%3B+filename%3DO_QUESTIONARIO_NA_PESQUISA_CIENTIFICA_An.pdf&Expires=1718220573&Signature=NBtVy5a6RY1qw-1KNuA62UyD-uTIXvJA5WkDoUlAlBoXYutdEC2NaewGnD0MxabYyc9lBLz4YJgzGw6Tbsle5g7kcJC8Qg~b8fMuYodfdt3OqlYXZPMBZieVTZUCggniSV4fRcOe~iE0NuxVw~5nAFuXz~A0zq3Ijl0HOGaEFqxvYv7Ni21lB8aRPMOWITTBvdVYYZwkmbFvoLZg3jNg50dJvPFkXvcbWFqlqM2f01reVzJs2l1ndacX1DfxVhuVO8FGOjLYOYza-QT20VzAjrAssoAnLkStsTE5011OUieTGxbJge-wey1b7jY0rgtfgGBE8enWxCy9Q-dm9FU7Tw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA> Acesso em 11 de junho de 2024.
+2. Manzato, A. J., & Santos, A. B. **A elaboração de questionários na pesquisa quantitativa** . Departamento de Ciência de Computação e Estatística, IBILCE, UNESP.
 
-3. Manzato, A. J., & Santos, A. B. **A elaboração de questionários na pesquisa quantitativa** . Departamento de Ciência de Computação e Estatística, IBILCE, UNESP.
-
-4. Vazquez, Carlos Eduardo Simões, Guilherme Siqueira de. **Engenharia de Software de Requisitos – Software Orientado ao Negócio**. Editoras FATTOS e Brasport. Disponível em: <https://analisederequisitos.com.br/wp-content/uploads/2023/06/engenharia-de-requisitos-software-orientado-ao-negocio.pdf> Acessado em 10 de junho de 2024.
+3. Vazquez, Carlos Eduardo Simões, Guilherme Siqueira de. **Engenharia de Software de Requisitos – Software Orientado ao Negócio**. Editoras FATTOS e Brasport. Disponível em: <https://analisederequisitos.com.br/wp-content/uploads/2023/06/engenharia-de-requisitos-software-orientado-ao-negocio.pdf> Acessado em 10 de junho de 2024.
 
 ## Histórico de versão
 
