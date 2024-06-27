@@ -112,4 +112,4 @@ O vídeo a seguir a inspeção gravada sobre o artefato Planejamento de Avaliaç
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Breno Alexandre | -               | 26/06/2024 |
+| 1.0    | Criação do artefato                 | Breno Alexandre e Bruno Araújo| -               | 26/06/2024 |
