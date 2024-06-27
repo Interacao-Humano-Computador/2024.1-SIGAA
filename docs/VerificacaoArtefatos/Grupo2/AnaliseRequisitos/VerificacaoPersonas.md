@@ -64,12 +64,18 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 | 13  | A foto da persona parece natural e não obviamente posada? | Sim |
 | 14  | A foto da persona apresenta um sujeito que parece uma pessoa comum e não um modelo? | Sim |
 
+
+**Autor:** [Iago Passaglia](https://github.com/Paxxaglia)
+
 ## Erros Encontrados
 
 **Tabela 3:** Erros Encontrados.
 
 | ID |  Sugestões de melhoria | 
 | 9 | Talvez remover a persona "Ana" por não seguir o padrão | 
+
+**Autor:** [Iago Passaglia](https://github.com/Paxxaglia)
+
 
 ## Vídeo da inspeção
 
