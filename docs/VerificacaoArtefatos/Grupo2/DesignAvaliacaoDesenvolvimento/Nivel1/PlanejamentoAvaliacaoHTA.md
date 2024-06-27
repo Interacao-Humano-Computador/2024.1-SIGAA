@@ -38,7 +38,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Plan
 
 ## Inspeção
 
-A tabela 2 mostra a avaliação do Planejamento da Avaliação da Análise de tarefas com base na lista de veriicação.
+A tabela 2 mostra a avaliação do Planejamento da Avaliação da Análise de tarefas com base na lista de verificação.
 
 **Tabela 2:** Avaliação para Planejamento da Análise de tarefas.
 
