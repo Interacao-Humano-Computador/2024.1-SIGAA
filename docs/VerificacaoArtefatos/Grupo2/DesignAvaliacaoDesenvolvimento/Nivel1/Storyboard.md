@@ -49,13 +49,14 @@ Tabela 1: Lista de Verificação do Storyboard
 | 06 | Inclui notas sobre áudio ou diálogo? | Sim |
 | 07 | Apresenta variações de enquadramento? | Sim |
 | 08 | Existe uma descrição das ações do usuário e as respostas do sistema em cada etapa?  | Incompleto |
-| 09 | O storyboard permite a identificação de potenciais problemas de usabilidade ou pontos de confusão para o usuário? | Incompleto |
+| 09 | O storyboard permite a identificação de potenciais problemas de usabilidade ou pontos de confusão para o usuário? | Sim |
 
 ## Erros Encontrados
 
 | ID |  Sugestões de melhoria | 
 | -- | ----------- | 
 | 01 |  As imagens 1 e 7 estão com o hiperlink quebrado. |
+| 02 |  Nem todos os storyboard tem a descrição de cada etapa do sistema de acordo com a funcionalidade analisada. |
 
 ## Vídeo da inspeção
 <iframe width="1124" height="632" src="https://www.youtube.com/embed/bxL_Sbv4A_4" title="Verificação do artefato de Storyboard - Grupo 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
