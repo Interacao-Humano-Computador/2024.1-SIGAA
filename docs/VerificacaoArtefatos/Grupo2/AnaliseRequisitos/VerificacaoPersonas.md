@@ -1,4 +1,4 @@
-# Verificação do
+# Verificação de Personas
 
 ## Sumário
 * [Introdução](#Introdução)
@@ -78,6 +78,9 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 
 
 ## Vídeo da inspeção
+
+Vídeo 1: Inspeção
+
 
 ## Bibliografia
 1. COOPER, A.; REIMANN, R.; CRONIN, D.; NOESSEL, C. About face: The essentials of interaction design. 4. ed. Indianapolis: John Wiley & Sons, 2014. <https://fall14se.wordpress.com/wp-content/uploads/2017/04/alan-cooper-robert-reimann-david-cronin-christopher-noessel-about-face_-the-essentials-of-interaction-design-wiley-2014.pdf> Acesso em 09 de Junho de 2024.
