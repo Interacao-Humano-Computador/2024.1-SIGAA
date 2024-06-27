@@ -69,8 +69,7 @@ Tabela 1: Lista de Verificação dos Aspectos Éticos
 
 ## Erros Encontrados
 
-| ID |  Sugestões de melhoria | 
-| -- | ----------- | 
+Não foram encontrados erros.
 
 ## Vídeo da inspeção
 
