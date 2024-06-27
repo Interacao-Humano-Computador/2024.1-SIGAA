@@ -54,6 +54,8 @@ A metodologia para análise do perfil de usuários do projeto dos SIGAA será co
 
 ## Inspeção
 
+Tabela 2: inspeção
+
 | ID  | Pergunta                                                                                          | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | 1   | Apresenta o intervalo de faixa etária dos usuários no geral?                                      | Sim |
@@ -76,9 +78,13 @@ A metodologia para análise do perfil de usuários do projeto dos SIGAA será co
 | 18  | Indica quais são os idiomas que os usuários falam?                                                | Sim |
 | 19  | Indicação quais são as classes de jargões que os usuários utilizam no cotidiano?                  | Não |
 | 20  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto?    | Sim |
+<br>
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 
 ## Erros Encontrados
+
+Tabela 3: Erros Encontrados
 
 | ID | Sugestões de melhoria                                                                              |
 |----|--------------------------------------------------------------------------------------------------- |
@@ -91,7 +97,8 @@ A metodologia para análise do perfil de usuários do projeto dos SIGAA será co
 | 16 | Incluir informações sobre necessidades especiais (deficiência visual, auditiva, motora).           |
 | 17 | Descrever as preferências de interface dos usuários (tamanho de fonte, contraste de cores).        |
 | 19 | Indicar as classes de jargões que os usuários utilizam no cotidiano.                               |
-
+<br>
+<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 ## Vídeo de verificação
 
