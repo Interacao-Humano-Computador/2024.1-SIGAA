@@ -39,8 +39,6 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Guia de
 | 8  | O guia de estilo aborda a conformidade com leis e regulamentos relevantes, como a LGPD no Brasil? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Página 257 | [Captura de tela do trecho](https://prnt.sc/bVTI31Y6-65w) |
 | 9  | São propostas estratégias de treinamento para garantir que os membros da equipe entendam como usar o guia? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Página 259 | [Captura de tela do trecho](https://prnt.sc/LdEpHd7mmoZO) |
 
-<b>Fonte:</b> [analiseGuiaDeEstilo](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/VerificacaoArtefatos/Grupo3/AnaliseRequisitos2/analiseGuiaDeEstilo.md).
-
 <b>Autor:</b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
 </center>
@@ -66,7 +64,7 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Guia de Estilo.
 | 8  | O guia de estilo aborda a conformidade com leis e regulamentos relevantes, como a LGPD no Brasil?          | |
 | 9  | São propostas estratégias de treinamento para garantir que os membros da equipe entendam como usar o guia? | |
 
-<b>Autor:</b> <a href="https://github.com/Nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -82,7 +80,7 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Guia de 
 | -- | ---------------------- |
 | | |
 
-<b>Autor:</b> <a href="https://github.com/Nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 </center>
 
@@ -94,13 +92,12 @@ O vídeo a seguir a inspeção gravada sobre o artefato Guia de Estilo.
 
 <b>Vídeo 1:</b> Gravação da inséção do Guia de Estilo.
 
-<iframe width="400" height="800" src="" title="Inspeção de Guia de Estilo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 É possível acessar o vídeo por meio deste [link]().
 
 </center>
 
-<b>Autor:</b> <a href="https://github.com/Nome">Nome</a>.
+<b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
 ## Bibliografia
 
@@ -110,4 +107,5 @@ O vídeo a seguir a inspeção gravada sobre o artefato Guia de Estilo.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do artefato                 | Breno Alexandre | -               | 26/06/2024 |
+| 1.0    | Criação do artefato                 | Breno Alexandre | Pedro Izarias               | 26/06/2024 |
+| 1.1    | Mudanças no artefato                 | Pedro Izarias |  -               | 26/06/2024 |
