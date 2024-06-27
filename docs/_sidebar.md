@@ -196,7 +196,7 @@
   * Grupo 2
     * Análise de Requisitos
        - [Aspectos Éticos](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/AspectosEticos.md)
-       - [Cánarios](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Cenarios.md)
+       - [Cenários](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Cenarios.md)
     <!-- - [Grupo de Foco](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/GrupoFoco.md) -->
     <!--   - [Análise HTA](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/HTA.md) -->
        - [Perfil de Usuário](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/ValidacaoPerfilDeUsuario.md)
@@ -219,7 +219,7 @@
     * [Planejamento da Verificação](VerificacaoArtefatos/Grupo3/PlanejamentoVerificação.md)
     * Análise de Requisitos
        - [Aspectos Éticos](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/AspectosEticos.md)
-       - [Cánarios](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/Cenario.md)
+       - [Cenários](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/Cenario.md)
        - [Grupo de Foco](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/GrupoFoco.md)
        - [Análise HTA](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/HTA.md)
        - [Perfil de Usuário](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/PerfilUsuário.md)
