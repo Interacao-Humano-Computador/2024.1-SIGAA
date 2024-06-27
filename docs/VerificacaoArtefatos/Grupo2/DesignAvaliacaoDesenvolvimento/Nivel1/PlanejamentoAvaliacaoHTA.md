@@ -17,7 +17,7 @@ O seguinte documento possui o intuito de criar uma lista de verificação para o
 Após a construção do artefato de Planejamento da Avaliação da Análise de tarefas, será criada uma lista de verificação contendo perguntas e respostas sobre o artefato, baseada na literatura da disciplina. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
 ## Lista de Verificação
-A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Planejamento da Avaliação do Storyboard, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
+A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Planejamento da Avaliação da análise de tarefas, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
 <center>
 
