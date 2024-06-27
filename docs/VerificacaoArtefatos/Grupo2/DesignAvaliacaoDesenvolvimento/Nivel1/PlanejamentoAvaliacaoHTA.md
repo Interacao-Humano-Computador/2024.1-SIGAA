@@ -2,13 +2,16 @@
 # Verificação para o Planejamento da Avaliação da Análise de tarefas.
 
 ## Sumário
-* [Introdução](#Introdução)
-* [Metodologia](#Metodologia)
-* [Lista de Verificação](#Lista-de-Verificação)
-* [Avaliação](#Avaliação)
-* [Conclusão e Observações](#Conclusão-e-Observações)
-* [Bibliografia](#Bibliografia)
-* [Histórico de versão](#Histórico-de-versão)
+
+* [Introdução](#introdução)
+* [Metodologia](#metodologia)
+* [Lista de Verificação](#lista-de-verificação)
+* [Inspeção](#inspeção)
+* [Erros Encontrados](#erros-encontrados)
+* [Vídeo da Inspeção](#vídeo-da-inspeção)
+* [Bibliografia](#bibliografia)
+* [Histórico de Versão](#histórico-de-versão)
+
 
 ## Introdução
 O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de Planejamento da Avaliação da Análise de tarefas criado pelo grupo 02 do SIGAA da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre o Planejamento da Avaliação da Análise de tarefas, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
