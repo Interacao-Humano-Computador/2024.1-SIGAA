@@ -56,36 +56,48 @@ A metodologia para análise do perfil de usuários do projeto dos SIGAA será co
 
 | ID  | Pergunta                                                                                          | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 |-----|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| 1   | Apresenta o intervalo de faixa etária dos usuários no geral?                                      |                                                  |
-| 2   | Apresenta qual intervalo de idades é mais frequente?                                              |                                                  |
-| 3   | Especifica o gênero dos usuários com uma estipulação de porcentagem?                              |                                                  |
-| 4   | Descreve a localização geográfica (país, cidade) dos usuários?                                    |                                                  |
-| 5   | Indica o nível de escolaridade dos usuários?                                                      |                                                  |
-| 6   | Inclui informações sobre o nível de alfabetismo dos usuários?                                     |                                                  |
-| 7   | Apresenta a forma de aprendizado do usuário?                                                      |                                                  |
-| 8   | Inclui informações sobre a ocupação ou profissão dos usuários?                                    |                                                  |
-| 9   | Indica a experiência no cargo que ocupa?                                                          |                                                  |
-| 10  | Descreve a experiência dos usuários com tecnologia (leigo, intermediário, especialista)?          |                                                  |
-| 11  | Detalha a atitude dos usuários em relação à tecnologia (tecnófilos, tecnófobos)?                  |                                                  |
-| 12  | Descreve a frequência de uso da tecnologia pelos usuários?                                        |                                                  |
-| 13  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto?    |                                                  |
-| 14  | Indica os comportamentos dos usuários em relação às suas atitudes e valores?                      |                                                  |
-| 15  | Indica o tipo de aprendizado do usuário?                                                          |                                                  |
-| 16  | Inclui informações sobre necessidades especiais (deficiência visual, auditiva, motora)?           |                                                  |
-| 17  | Descreve as preferências de interface dos usuários (tamanho de fonte, contraste de cores)?        |                                                  |
-| 18  | Indica quais são os idiomas que os usuários falam?                                                |                                                  |
-| 19  | Indicação quais são as classes de jargões que os usuários utilizam no cotidiano?                  |                                                  |
-| 20  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto?    |                                                  |
+| 1   | Apresenta o intervalo de faixa etária dos usuários no geral?                                      | Sim |
+| 2   | Apresenta qual intervalo de idades é mais frequente?                                              | Sim|
+| 3   | Especifica o gênero dos usuários com uma estipulação de porcentagem?                              | Sim |
+| 4   | Descreve a localização geográfica (país, cidade) dos usuários?                                    | Não|
+| 5   | Indica o nível de escolaridade dos usuários?                                                      | Não |
+| 6   | Inclui informações sobre o nível de alfabetismo dos usuários?                                     | Sim |
+| 7   | Apresenta a forma de aprendizado do usuário?                                                      | Sim |
+| 8   | Inclui informações sobre a ocupação ou profissão dos usuários?                                    | Sim |
+| 9   | Indica a experiência no cargo que ocupa?                                                          | Incompleto |
+| 10  | Descreve a experiência dos usuários com tecnologia (leigo, intermediário, especialista)?          | Sim |
+| 11  | Detalha a atitude dos usuários em relação à tecnologia (tecnófilos, tecnófobos)?                  | Não |
+| 12  | Descreve a frequência de uso da tecnologia pelos usuários?                                        | Não |
+| 13  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto?    | Sim |
+| 14  | Indica os comportamentos dos usuários em relação às suas atitudes e valores?                      | Não |
+| 15  | Indica o tipo de aprendizado do usuário?                                                          | Sim |
+| 16  | Inclui informações sobre necessidades especiais (deficiência visual, auditiva, motora)?           | Não |
+| 17  | Descreve as preferências de interface dos usuários (tamanho de fonte, contraste de cores)?        | Não |
+| 18  | Indica quais são os idiomas que os usuários falam?                                                | Sim |
+| 19  | Indicação quais são as classes de jargões que os usuários utilizam no cotidiano?                  | Não |
+| 20  | Inclui informações sobre os principais objetivos e tarefas dos usuários ao utilizar o produto?    | Sim |
 
 
 ## Erros Encontrados
 
-| ID |  Sugestões de melhoria | 
-| -- | ----------- | 
+| ID | Sugestões de melhoria                                                                              |
+|----|--------------------------------------------------------------------------------------------------- |
+| 4  | Adicionar a descrição da localização geográfica (país, cidade) dos usuários.                       |
+| 5  | Incluir informações sobre o nível de escolaridade dos usuários.                                    |
+| 9  | Completar a descrição da experiência no cargo ocupado pelos usuários.                              |
+| 11 | Detalhar a atitude dos usuários em relação à tecnologia (tecnófilos, tecnófobos).                  |
+| 12 | Descrever a frequência de uso da tecnologia pelos usuários.                                        |
+| 14 | Indicar os comportamentos dos usuários em relação às suas atitudes e valores.                      |
+| 16 | Incluir informações sobre necessidades especiais (deficiência visual, auditiva, motora).           |
+| 17 | Descrever as preferências de interface dos usuários (tamanho de fonte, contraste de cores).        |
+| 19 | Indicar as classes de jargões que os usuários utilizam no cotidiano.                               |
+
 
 ## Vídeo de verificação
 
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/7bA9CFv_hug" title="Verificação Perfil do usuário - grupo 2 SIGAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[link do vídeo.](https://www.youtube.com/embed/7bA9CFv_hug)
 
 ## Bibliografia
 1. COOPER, A.; REIMANN, R.; CRONIN, D.; NOESSEL, C. About face: The essentials of interaction design. 4. ed. Indianapolis: John Wiley & Sons, 2014. <https://fall14se.wordpress.com/wp-content/uploads/2017/04/alan-cooper-robert-reimann-david-cronin-christopher-noessel-about-face_-the-essentials-of-interaction-design-wiley-2014.pdf> Acesso em 09 de Junho de 2024.
@@ -95,3 +107,4 @@ A metodologia para análise do perfil de usuários do projeto dos SIGAA será co
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | -| - | - | --------------- | - |
 | 1.0 | Criação do documento | Iago Passaglia | --------------- | 26/06/2024 |
+| 1.1 | Adição da análise | Iago Passaglia | --------------- | 26/06/2024 |
