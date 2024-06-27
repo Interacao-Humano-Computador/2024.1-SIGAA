@@ -42,14 +42,14 @@ A tabela 2 mostra a avaliação do Planejamento da Avaliação da Análise de ta
 
 **Tabela 2:** Avaliação para Planejamento da Análise de tarefas.
 
-| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
-|-----|------|------|---------|
-| 1 | Os objetivos da avaliação de IHC foram determinados? |||
-| 2 | Foram elaboradas perguntas específicas para cada objetivo definido? |||
-| 3 | Os métodos de avaliação foram escolhidos de forma adequada para responder às perguntas e atingir os objetivos esperados? |||
-| 4 | As questões práticas da avaliação foram identificadas e gerenciadas? |||
-| 5 | Foram tomados cuidados éticos necessários durante o planejamento da avaliação? |||
-| 6 | A avaliação, interpretação e apresentação dos dados foram planejadas considerando aspectos como confiabilidade, validade interna e validade externa? |||
+| ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
+|-----|------|------|
+| 1 | Os objetivos da avaliação de IHC foram determinados? ||
+| 2 | Foram elaboradas perguntas específicas para cada objetivo definido? ||
+| 3 | Os métodos de avaliação foram escolhidos de forma adequada para responder às perguntas e atingir os objetivos esperados? ||
+| 4 | As questões práticas da avaliação foram identificadas e gerenciadas? ||
+| 5 | Foram tomados cuidados éticos necessários durante o planejamento da avaliação? ||
+| 6 | A avaliação, interpretação e apresentação dos dados foram planejadas considerando aspectos como confiabilidade, validade interna e validade externa? ||
 
 **Autor:** [Bruno Araújo](https://github.com/brunocva)
 
