@@ -195,7 +195,7 @@
 * Verificação
   * Grupo 2
     * Análise de Requisitos
-       - [Aspectos Éticos](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/AnaliseRequisitos.md)
+       - [Aspectos Éticos](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/AspectosEticos.md)
        - [Cánarios](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Cenarios.md)
     <!-- - [Grupo de Foco](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/GrupoFoco.md) -->
     <!--   - [Análise HTA](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/HTA.md) -->
@@ -210,9 +210,9 @@
      * Design Avaliacao Desenvolvimento
         * Nível 1
            - [Storyboard ](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md)
-           - [Planejamento da Avaliação da Análise de Tarefas](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) 
-           - [Planejamento da Avaliação Storyboard](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) 
-        <!--   - [Relato dos Resultados da Avaliação da Análise de Tarefas](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)  -->
+           - [Planejamento da Avaliação da Análise de Tarefas](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoHTA.md) 
+           - [Planejamento da Avaliação Storyboard](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) 
+        <!--  - [Relato dos Resultados da Avaliação da Análise de Tarefas](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)  -->
         <!--  - [Relato dos Resultados do Storyboard](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md)  -->
        
   * Grupo 3
