@@ -7,7 +7,7 @@
 * [Inspeção](#Inspeção)
 * [Vídeo da Inspeção](#Vídeo-da-Inspeção)
 * [Erros Encontrados](#Erros-Encontrados)
-* [Bibliografia](#Bibliografia)
+* [Referências Bibliográficas](#Referências-Bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
@@ -100,7 +100,7 @@ O vídeo a seguir a inspeção gravada sobre o artefato Planejamento de Avaliaç
 
 <b>Autor:</b> <a href="https://github.com/nome">Nome</a>.
 
-## Bibliografia
+## Referências Bibliográficas
 
 1. PADOVANI, S.; SMYTHE, K. C. A. PROPOSTA DE MÉTODO DE ANÁLISE DA TAREFA PARA ENSINO EM CURSOS DE GRADUAÇÃO EM DESIGN GRÁFICO. Disponível em: https://sacod.ufpr.br//ppgdesign/wp-content/uploads/sites/6/2015/06/SI_PADOVANI_SMYTHE.pdf. Acesso em: 12 jun. 2024.
 
