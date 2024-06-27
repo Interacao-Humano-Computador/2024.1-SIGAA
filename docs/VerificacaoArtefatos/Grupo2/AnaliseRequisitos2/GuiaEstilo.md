@@ -12,11 +12,11 @@
 
 ## Introdução
 
-O seguinte documento possui o intuito de criar uma lista de verificação para o artefato de [Guia de Estilo](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Requisitos2/GuiaEstilo/GuiaEstilo.md) criado pelo grupo 2 do aplicativo dos Carteira de Trabalho Digital da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura dos Guia de Estilo, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
+O seguinte documento possui o intuito de utilizar a lista de verificação para o artefato de [Guia de Estilo](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Requisitos2/GuiaEstilo/GuiaEstilo.md) criado pelo grupo 2 do aplicativo SIGAA da disciplina de IHC, semestre 2024.1. O documento apresenta uma tabela com perguntas a serem feitas sobre a estrutura do Guia de Estilo, a fim de garantir que o mesmo siga diretrizes e mantenha o padrão definido pela literatura da disciplina, visando a melhoria do artefato.
 
 ## Metodologia
 
-Será criada uma lista de verificação com várias perguntas acerca do artefato e conteúdo de Guia de Estilo. As perguntas foram inferidas o livro "Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário".
+Utilizaremos uma lista de verificação com várias perguntas acerca do artefato e conteúdo de Guia de Estilo. As perguntas foram inferidas o livro "Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário".
 
 ## Lista de Verifição
 
