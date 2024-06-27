@@ -204,7 +204,7 @@
     <!--   - [Análise HTA](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/HTA.md) -->
        - [Perfil de Usuário](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/ValidacaoPerfilDeUsuario.md)
        - [Personas](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/VerificacaoPersonas.md)
-       - [Questionário](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/Questionario.md) 
+       - [Questionário](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Questionario.md) 
      * Análise de Requisitos II
        - [Metas de Usabilidade](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/MetasUsabilidade.md)
        - [Guia de Estilo](VerificacaoArtefatos/Grupo2/AnaliseRequisitos2/GuiaEstilo.md)
