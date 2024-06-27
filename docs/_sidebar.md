@@ -193,6 +193,28 @@
        - [Planejamento do Relato do prototipo de alta fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoRelatoResultados.md)
 
 * Verificação
+  * Grupo 2
+    * Análise de Requisitos
+       - [Aspectos Éticos](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/AnaliseRequisitos.md)
+       - [Cánarios](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Cenarios.md)
+    <!-- - [Grupo de Foco](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/GrupoFoco.md) -->
+    <!--   - [Análise HTA](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/HTA.md) -->
+       - [Perfil de Usuário](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/ValidacaoPerfilDeUsuario.md)
+       - [Personas](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/VerificacaoPersonas.md)
+    <!--   - [Questionário](VerificacaoArtefatos1/Grupo3/AnaliseRequisitos/Questionario.md) -->
+     * Análise de Requisitos II
+       - [Metas de Usabilidade](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/MetasUsabilidade.md)
+       - [Guia de Estilo](VerificacaoArtefatos/Grupo2/AnaliseRequisitos2/GuiaEstilo.md)
+     * Análise de Tarefas
+       - [Análise HTA](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoHTA.md)
+     * Design Avaliacao Desenvolvimento
+        * Nível 1
+           - [Storyboard ](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md)
+           - [Planejamento da Avaliação da Análise de Tarefas](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) 
+           - [Planejamento da Avaliação Storyboard](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) 
+        <!--   - [Relato dos Resultados da Avaliação da Análise de Tarefas](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)  -->
+        <!--  - [Relato dos Resultados do Storyboard](VerificacaoArtefatos1/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md)  -->
+       
   * Grupo 3
     * [Planejamento da Verificação](VerificacaoArtefatos1/Grupo3/PlanejamentoVerificação.md)
     * Análise de Requisitos
