@@ -41,22 +41,21 @@ Tabela 1: Lista de Verificação do Storyboard
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 |----|-----|--------|
-| 01 | Apresenta uma sequência lógica de cenas? | ---------- |
-| 02 | Inclui descrições detalhadas de cada cena? | ---------- |
-| 03 | Indica movimentos de câmera (zoom, panorâmica, etc.)? | ---------- |
-| 04 | Apresenta os personagens principais em cada cena? | ---------- |
-| 05 | Mostra mudanças de cenário ou ambiente? | ---------- |
-| 06 | Inclui notas sobre áudio ou diálogo? | ---------- |
-| 07 | Apresenta variações de enquadramento? | ---------- |
-| 08 | Existe uma descrição das ações do usuário e as respostas do sistema em cada etapa?  | ---------- |
-| 09 | O storyboard permite a identificação de potenciais problemas de usabilidade ou pontos de confusão para o usuário? | ---------- |
+| 01 | Apresenta uma sequência lógica de cenas? | Sim |
+| 02 | Inclui descrições detalhadas de cada cena? | Sim |
+| 03 | Indica movimentos de câmera (zoom, panorâmica, etc.)? | Sim |
+| 04 | Apresenta os personagens principais em cada cena? | Sim |
+| 05 | Mostra mudanças de cenário ou ambiente? | Incompleto |
+| 06 | Inclui notas sobre áudio ou diálogo? | Sim |
+| 07 | Apresenta variações de enquadramento? | Sim |
+| 08 | Existe uma descrição das ações do usuário e as respostas do sistema em cada etapa?  | Incompleto |
+| 09 | O storyboard permite a identificação de potenciais problemas de usabilidade ou pontos de confusão para o usuário? | Incompleto |
 
 ## Erros Encontrados
 
 | ID |  Sugestões de melhoria | 
 | -- | ----------- | 
-|-|-|
-|-|-|
+| 01 |  As imagens 1 e 7 estão com o hiperlink quebrado. |
 
 ## Vídeo da inspeção
 
