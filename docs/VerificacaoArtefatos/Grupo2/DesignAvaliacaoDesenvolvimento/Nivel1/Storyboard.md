@@ -58,6 +58,7 @@ Tabela 1: Lista de Verificação do Storyboard
 | 01 |  As imagens 1 e 7 estão com o hiperlink quebrado. |
 
 ## Vídeo da inspeção
+<iframe width="1124" height="632" src="https://www.youtube.com/embed/bxL_Sbv4A_4" title="Verificação do artefato de Storyboard - Grupo 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 1. How to storyboard: Step-by-step storyboarding guide (2024). Disponível em: <https://boords.com/how-to-storyboard>. Acesso em: 12 jun. 2024.
