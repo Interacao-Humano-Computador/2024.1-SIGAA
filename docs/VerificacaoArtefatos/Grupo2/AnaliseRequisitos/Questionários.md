@@ -59,7 +59,27 @@ Tabela 1: Lista de Verificação dos Questionários
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica |
 |----|-----|--------|
-| 01 | Apresenta uma sequência lógica de cenas? | Sim |
+| 01 | Há e uma prévia exposição sobre o projeto e explicação sobre os motivos da pesquisa antes de os participantes responderem as pesguntas?  | - |
+| 02 |   | - |
+| 03 |   | - |
+| 04 |   | - |
+| 05 |   | - |
+| 06 |   | - |
+| 07 |   | - |
+| 08 |   | - |
+| 09 |   | - |
+| 10 |   | - |
+| 11 |   | - |
+| 12 |   | - |
+| 13 |   | - |
+| 14 |   | - |
+| 15 |   | - |
+| 16 |   | - |
+| 16 |   | - |
+| 17 |   | - |
+| 18 |   | - |
+| 19 |   | - |
+| 20 |   | - |
 
 
 <b> Autor: </b> <a href="https://github.com/LuaMedeiros">Pedro Izarias</a>.
