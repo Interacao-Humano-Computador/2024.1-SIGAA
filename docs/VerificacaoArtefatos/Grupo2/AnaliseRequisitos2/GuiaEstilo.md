@@ -22,7 +22,6 @@ Utilizaremos uma lista de verificação com várias perguntas acerca do artefato
 
 A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Guia de Estilo, assim como observações sobre cada pergunta e sua rastreabilidade, com a referencia bibliográfica de onde cada pergunta veio.
 
-<center>
 
 <b>Tabela 1:</b> Lista de verificação para Guia de Estilo.
 
@@ -41,13 +40,11 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato Guia de
 
 <b>Autor:</b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
-</center>
 
 ## Inspeção
 
 A tabela a seguir mostra a inspeção feita a cerca do artefato Guia de Estilo.
 
-<center>
 
 <b>Tabela 2:</b> Resposta da lista de verificação para Guia de Estilo.
 
@@ -66,13 +63,11 @@ A tabela a seguir mostra a inspeção feita a cerca do artefato Guia de Estilo.
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-</center>
 
 ## Erros Encontrados
 
 A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Guia de Estilo.
 
-<center>
 
 <b>Tabela 3:</b> Sugestões de melhoria para o Guia de Estilo.
 
@@ -84,21 +79,17 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato Guia de 
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-</center>
 
 ## Vídeo da Inspeção
 
 O vídeo a seguir a inspeção gravada sobre o artefato Guia de Estilo.
 
-<center>
 
 <b>Vídeo 1:</b> Gravação da inséção do Guia de Estilo.
 
 <iframe width="1124" height="632" src="https://www.youtube.com/embed/kyu59FczIQA" title="Verificação do artefato de Guia de Estilo - Grupo 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=kyu59FczIQA).
-
-</center>
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
