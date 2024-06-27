@@ -69,14 +69,11 @@ Tabela 3: Erros Encontrados
 <b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
 
 
-## Vídeo da inspeção
-
+## Vídeo da Inspeção
 
 <iframe width="1120" height="630" src="https://youtu.be/5J9tR7cos1Y" title="Verificação Perfil do usuário - grupo 2 SIGAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
-Caso não funcione, click aqui: [link do vídeo.](https://youtu.be/5J9tR7cos1Y)
+Caso não funcione, clique aqui: [link do vídeo](https://youtu.be/5J9tR7cos1Y).
 
 
 ## Bibliografia
