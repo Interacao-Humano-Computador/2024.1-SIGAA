@@ -121,6 +121,9 @@
         - [Cenário avaliar monitor](Requisitos1/Cenarios/Monitoria/AvaliarMonitor.md)
           
       * Restaurante Universitário
+     
+      * Grade Sugerida
+        - [Cenário Grade Sugerida](Requisitos1/Cenarios/GradeSugerida.md)
         
     * Análise de Tarefas
       * Bolsas
