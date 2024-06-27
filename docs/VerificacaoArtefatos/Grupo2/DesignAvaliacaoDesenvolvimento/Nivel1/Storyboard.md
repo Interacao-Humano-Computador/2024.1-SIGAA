@@ -16,7 +16,6 @@ O seguinte documento possui o intuito de utilizar a lista de verificação para 
 Após a construção do artefato do Storyboard, foi criada uma lista de verificação contendo perguntas e respostas sobre o artefato. Com a conclusão das respostas, o grupo avaliado poderá realizar alterações e melhorias para assegurar que o artefato esteja em conformidade com as diretrizes estabelecidas.
 
 ## Lista de verifição
-<center>
 
 Tabela 1: Lista de Verificação do Storyboard
 
@@ -35,11 +34,9 @@ Tabela 1: Lista de Verificação do Storyboard
 
 <b> Autora: </b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>.
 
-</center>
 
 ## Inspeção
 
-<center>
   
 <b>Tabela 2:</b> Resposta da lista de verificação para Storyboard.
 
@@ -57,12 +54,10 @@ Tabela 1: Lista de Verificação do Storyboard
 
 <b> Autor: </b> <a href="https://github.com/LuaMedeiros">Pedro Izarias</a>.
 
-</center>
 
 ## Erros Encontrados
 A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Storyboard.
 
-<center>
 
 <b>Tabela 3:</b> Sugestões de melhoria para o Storyboard.
 
@@ -73,13 +68,11 @@ A tabela a seguir mostra as sugestões de melhorias a cerca do artefato de Story
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-</center>
 
 ## Vídeo da inspeção
 
 O vídeo a seguir a inspeção gravada sobre o artefato de Storyboard.
 
-<center>
 
 <b>Vídeo 1:</b> Gravação da inséção do Guia de Estilo.
 <iframe width="1124" height="632" src="https://www.youtube.com/embed/bxL_Sbv4A_4" title="Verificação do artefato de Storyboard - Grupo 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -87,7 +80,6 @@ O vídeo a seguir a inspeção gravada sobre o artefato de Storyboard.
 
 É possível acessar o vídeo por meio deste [link](https://www.youtube.com/watch?v=bxL_Sbv4A_4).
 
-</center>
 
 <b>Autor:</b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
