@@ -43,6 +43,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 **Autor:** [Pedro Izarias](https://github.com/Izarias)
 
 </center>
+
 ## Inspeção
 
 **Tabela 2:** Verificação.
