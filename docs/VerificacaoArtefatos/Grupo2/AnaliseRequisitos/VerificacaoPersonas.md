@@ -73,6 +73,7 @@ A tabela a seguir mostra as perguntas a serem feitas a cerca do artefato de Pers
 **Tabela 3:** Erros Encontrados.
 
 | ID |  Sugestões de melhoria | 
+| --- | --- |
 | 9 | Talvez remover a persona "Ana" por não seguir o padrão | 
 
 **Autor:** [Iago Passaglia](https://github.com/Paxxaglia)
