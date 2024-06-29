@@ -91,6 +91,7 @@ Abaixo, após o processo de treinamento, foi criado um roteiro das perguntas que
   - Consulta de resultado da Avaliação Institucional
   - Realização de matrícula
   - Retirada e trancamento de matrícula
+
 - Na sua opinião, quais são os maiores desafios enfrentados pelos estudantes no uso do SIGAA?
 - Você acredita que serial ideal ter um manual disponibilizado aos estudantes sobre o SIGAA?
 - Você acredita que o SIGAA poderia ser aprimorado de alguma forma para melhor atender às demandas acadêmicas? Se sim, como?
