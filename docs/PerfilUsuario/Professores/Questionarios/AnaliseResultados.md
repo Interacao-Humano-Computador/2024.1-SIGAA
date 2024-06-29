@@ -274,7 +274,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
 
   <details>
-  <summary size="20"><b> Pergunta 11: Como você classifica a sua experiência com jargões acadêmicos e técnicos? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 11: Como você classifica a sua experiência com jargões acadêmicos e técnicos? </b></summary> 
 
 <div align="center">
     Figura 21: Porcentagem da resposta.
@@ -298,7 +298,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 12: Você recebeu algum treinamento ou manual antes de utilizar o SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 12: Você recebeu algum treinamento ou manual antes de utilizar o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 23: Porcentagem da resposta.
@@ -323,7 +323,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 13:Você julga necessário ter o auxílio de algum manual para acessar as funcionalidades do SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 13:Você julga necessário ter o auxílio de algum manual para acessar as funcionalidades do SIGAA? </b></summary> 
 
 <div align="center">
     Figura 25: Porcentagem da resposta.
@@ -347,7 +347,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 14: Você já lecionou em outras instituições além da UnB? Se sim, escreva no espaço: </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 14: Você já lecionou em outras instituições além da UnB? Se sim, escreva no espaço: </b></summary> 
 
 
 <div align="center">
@@ -384,7 +384,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 15: Além do SIGAA, você tem ou teve familiaridade com outros sistemas acadêmicos? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 15: Além do SIGAA, você tem ou teve familiaridade com outros sistemas acadêmicos? </b></summary> 
 
 <div align="center">
     Figura 29: Porcentagem da resposta.
@@ -409,7 +409,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 16: Em relação à disposição para explorar novas tecnologias, você está </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 16: Em relação à disposição para explorar novas tecnologias, você está </b></summary> 
 
 <div align="center">
     Figura 31: Porcentagem da resposta.
@@ -435,7 +435,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
  
   
   <details>
-  <summary size="20"><b> Pergunta 17: Com que frequência você acessa o SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 17: Com que frequência você acessa o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 33: Porcentagem da resposta.
@@ -460,7 +460,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 18: Qual dispositivo você mais utiliza para acessar o SIGAA </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 18: Qual dispositivo você mais utiliza para acessar o SIGAA </b></summary> 
 
 <div align="center">
     Figura 35: Porcentagem da resposta.
