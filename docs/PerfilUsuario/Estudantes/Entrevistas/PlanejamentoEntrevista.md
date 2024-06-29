@@ -48,9 +48,9 @@ A tabela 1 mostra o cronograma, em ordem alfabética por entrevistado, realizado
 
 **Tabela 1**: Cronograma
 
-| Entrevistado | Entrevistador | Data que entrou em contato | Data da entrevista | Horário da entrevista|
-| - | - | - | - | - |
-| Bruno Martins | Larissa Stéfane | 17/04/2024 | 20/04/2024 | 15:30 |
+| Entrevistado   | Entrevistador   | Data que entrou em contato | Data da entrevista | Horário da entrevista |
+| -------------- | --------------- | -------------------------- | ------------------ | --------------------- |
+| Bruno Martins  | Larissa Stéfane | 17/04/2024                 | 20/04/2024         | 15:30                 |
 | Caio Braga | Larissa Stéfane | 20/04/2024 | 20/04/2024 | 19:30 |
 | Carlos Gabriel | Larissa Stéfane | 20/04/2024 | 20/04/2024 | 20:00 |
 | Cecília Alves | Larissa Stéfane | 20/04/2024 | 23/04/2024 | 19:30 |
