@@ -151,7 +151,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 6: Qual é a sua etnia </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 6: Qual é a sua etnia </b></summary> 
 
 <div align="center">
     Figura 11: Porcentagem da resposta.
@@ -174,7 +174,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 7: Há quanto tempo você utiliza o SIGAA? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 7: Há quanto tempo você utiliza o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 13: Porcentagem da resposta.
@@ -198,7 +198,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 8: Como você classifica a sua habilidade de leitura? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 8: Como você classifica a sua habilidade de leitura? </b></summary> 
 
 <div align="center">
     Figura 15: Porcentagem da resposta.
@@ -223,7 +223,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 9: Qual a sua preferência de aprendizado? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 9: Qual a sua preferência de aprendizado? </b></summary> 
 
 
 <div align="center">
@@ -248,7 +248,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 10: Qual o seu nível de alfabetismo computacional? (Suas habilidades com informática) </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 10: Qual o seu nível de alfabetismo computacional? (Suas habilidades com informática) </b></summary> 
 
 
 <div align="center">
