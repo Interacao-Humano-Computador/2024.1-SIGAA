@@ -21,11 +21,13 @@ Diante da baixa participação, os membros do grupo adotaram uma abordagem mais 
 
 **Tabela 1**: Cronograma do processo de coleta de dados.
 
-| Acontecimento | Data | Horário |
-| - | - | - |
-| Criação do questionário| 16/04/2024 | 23:40 |
-| Abertura ao público | 19/04/2024 | 16:00 |
-| Fechamento para respostas| 05/05/2024 | 15:45 |
+| Acontecimento             | Data       | Horário |
+| ------------------------- | ---------- | ------- |
+| Criação do questionário   | 16/04/2024 | 23:40   |
+| Abertura ao público       | 19/04/2024 | 16:00   |
+| Fechamento para respostas | 05/05/2024 | 15:45   |
+
+
 
 ## Resultados 
 Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questionário. Ao clicar nas perguntas, os resultados são mostrados. As figuras de 1 até 65 mostram os gráficos e as porcentagens das respostas.
