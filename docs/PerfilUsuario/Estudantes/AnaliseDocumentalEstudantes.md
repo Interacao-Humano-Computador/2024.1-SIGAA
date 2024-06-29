@@ -192,7 +192,7 @@ Ainda conforme a pesquisa, quanto ao uso de biblioteca:
 
 De acordo com [INEP: Censo da educação superior 2022]( https://download.inep.gov.br/educacao_superior/censo_superior/documentos/2022/apresentacao_censo_da_educacao_superior_2022.pdf)⁴:
 
--13,2% dos estudantes citaram participar de atividades de pesquisa,;
+- 13,2% dos estudantes citaram participar de atividades de pesquisa,;
 - 13,1% de estágio não obrigatório;
 - 8,7% de extensão (8,7%);
 - 8,3% de monitorias em disciplinas (8,3%).;
