@@ -393,7 +393,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes15.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -402,7 +402,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes15.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -418,7 +418,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes16.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -427,7 +427,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes16.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -444,7 +444,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes17.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -453,7 +453,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes17.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -469,7 +469,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes18.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -478,7 +478,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes18.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -493,7 +493,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes19.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -502,7 +502,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes19.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -517,7 +517,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/SlideDocentes20.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -526,7 +526,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestion%C3%A1riosDocentes/ResultadosDocentes20.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
