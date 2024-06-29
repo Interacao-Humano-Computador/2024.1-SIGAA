@@ -370,7 +370,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 14: Além do SIGAA, você tem ou teve familiaridade com outros sistemas acadêmicos? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 14: Além do SIGAA, você tem ou teve familiaridade com outros sistemas acadêmicos? </b></summary> 
 
 
 <div align="center">
@@ -395,7 +395,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 15: Em relação à disposição para explorar novas tecnologias, você está: </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 15: Em relação à disposição para explorar novas tecnologias, você está: </b></summary> 
 
 <div align="center">
     Figura 29: Porcentagem da resposta.
@@ -420,7 +420,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 16: Com que frequência você acessa o SIGAA? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 16: Com que frequência você acessa o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 31: Porcentagem da resposta.
@@ -446,7 +446,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
  
   
   <details>
-  <summary size="20"><b> Resposta da Pergunta 17: Qual dispositivo você mais utiliza para acessar o SIGAA? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 17: Qual dispositivo você mais utiliza para acessar o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 33: Porcentagem da resposta.
@@ -471,7 +471,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 18: Qual é o principal motivo para acessar o SIGAA? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 18: Qual é o principal motivo para acessar o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 35: Porcentagem da resposta.
@@ -495,7 +495,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 19: Como você avalia a usabilidade do SIGAA? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 19: Como você avalia a usabilidade do SIGAA? </b></summary> 
 
 <div align="center">
     Figura 37: Porcentagem da resposta.
@@ -519,7 +519,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 20: Com que frequência você utiliza as funcionalidades de comunicação do SIGAA (mensagens, fóruns, etc.)? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 20: Com que frequência você utiliza as funcionalidades de comunicação do SIGAA (mensagens, fóruns, etc.)? </b></summary> 
 
   <div align="center">
     Figura 39: Porcentagem da resposta.
@@ -542,7 +542,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 21: Qual é o seu nível de satisfação geral com o SIGAA? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 21: Qual é o seu nível de satisfação geral com o SIGAA? </b></summary> 
 
   <div align="center">
     Figura 41: Porcentagem da resposta.
@@ -564,7 +564,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 22: Você utiliza outras plataformas ou sistemas semelhantes ao SIGAA?</b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 22: Você utiliza outras plataformas ou sistemas semelhantes ao SIGAA?</b></summary> 
 
  <div align="center">
     Figura 43: Porcentagem da resposta.
@@ -587,7 +587,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 23: Você considera que o SIGAA facilita o acesso a informações acadêmicas e administrativas? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 23: Você considera que o SIGAA facilita o acesso a informações acadêmicas e administrativas? </b></summary> 
 
 <div align="center">
     Figura 45: Porcentagem da resposta.
@@ -611,7 +611,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 24: Como você classificaria a qualidade das informações disponibilizadas no SIGAA? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 24: Como você classificaria a qualidade das informações disponibilizadas no SIGAA? </b></summary> 
 
 <div align="center">
     Figura 47: Porcentagem da resposta.
@@ -635,7 +635,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 25: Qual é o principal benefício que você enxerga no uso do SIGAA? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 25: Qual é o principal benefício que você enxerga no uso do SIGAA? </b></summary> 
 
 <div align="center">
     Figura 49: Porcentagem da resposta.
@@ -659,7 +659,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 26: Em sua opinião, a organização das informações no SIGAA é: </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 26: Em sua opinião, a organização das informações no SIGAA é: </b></summary> 
 
 <div align="center">
     Figura 51: Porcentagem da resposta.
@@ -683,7 +683,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 27: Você acha que as informações apresentadas no SIGAA são suficientemente detalhadas e abrangentes? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 27: Você acha que as informações apresentadas no SIGAA são suficientemente detalhadas e abrangentes? </b></summary> 
 
 <div align="center">
     Figura 53: Porcentagem da resposta.
