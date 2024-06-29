@@ -596,7 +596,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide24.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -605,7 +605,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado23.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -620,7 +620,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide25.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -629,7 +629,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado24.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -644,7 +644,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide26.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -653,7 +653,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado25.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -668,7 +668,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide27.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -677,7 +677,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado27.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -692,7 +692,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudanteSlide29.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -701,7 +701,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/ResultadosQuestionarioAlunos/EstudantesResultado27.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
