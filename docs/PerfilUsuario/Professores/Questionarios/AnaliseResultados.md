@@ -33,7 +33,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 **Observação:** Nem todas as respostas eram obrigatórias, então, apesar de 118 pessoas terem respondido, algumas perguntas possuem uma quantidade menor de respostas.
 
 <details>
-  <summary size="20"><b> Pergunta 1: Qual é a sua faixa etária? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 1: Qual é a sua faixa etária? </b></summary> 
 
 <div align="center">
     Figura 1: Porcentagem da resposta.
@@ -56,7 +56,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
 <details>
-  <summary size="20"><b> Pergunta 2: Qual é o seu gênero? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 2: Qual é o seu gênero? </b></summary> 
 <div align="center">
     Figura 3: Porcentagem da resposta.
     <br>
@@ -79,7 +79,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 3: Qual é o seu status acadêmico atual? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 3: Qual é o seu status acadêmico atual? </b></summary> 
 
 <div align="center">
     Figura 5: Porcentagem da resposta.
@@ -103,7 +103,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
    <details>
-  <summary size="20"><b> Pergunta 4:Quais são as suas principais metas acadêmicas? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 4:Quais são as suas principais metas acadêmicas? </b></summary> 
 
 <div align="center">
     Figura 7: Porcentagem da resposta.
@@ -126,7 +126,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Pergunta 5: Você pretende realizar mais algum curso de especialização na sua área? </b></summary> 
+  <summary size="20"><b> Resposta da Pergunta 5: Você pretende realizar mais algum curso de especialização na sua área? </b></summary> 
 
 <div align="center">
     Figura 9: Porcentagem da resposta.
