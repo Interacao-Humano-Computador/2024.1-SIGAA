@@ -709,7 +709,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
   
   <details>
-  <summary size="20"><b> Resposta da Pergunta 28: O design visual do SIGAA é: </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 28: O design visual do SIGAA é: </b></summary> 
 
 <div align="center">
     Figura 55: Porcentagem da resposta.
@@ -735,7 +735,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
   
   <details>
-  <summary size="20"><b> Resposta da Pergunta 29: Como você avalia a acessibilidade do SIGAA para usuários com necessidades especiais (por exemplo, usuários com deficiência visual)? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 29: Como você avalia a acessibilidade do SIGAA para usuários com necessidades especiais (por exemplo, usuários com deficiência visual)? </b></summary> 
 
 <div align="center">
     Figura 57: Porcentagem da resposta.
@@ -760,7 +760,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
   
   <details>
-  <summary size="20"><b> Resposta da Pergunta 30: Quão fácil é encontrar as funcionalidades específicas que você precisa no SIGAA? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 30: Quão fácil é encontrar as funcionalidades específicas que você precisa no SIGAA? </b></summary> 
     
 <div align="center">
     Figura 59: Porcentagem da resposta.
@@ -783,7 +783,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 31: Em quais linguas você consegue se comunicar? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 31: Em quais linguas você consegue se comunicar? </b></summary> 
 
 **Observação:** Como as respostas não eram obrigatórias, têm se a opção do "português" com o intúito de saber quantos responderam essa pergunta, por exemplo 112 responderam, desses, 85 falam ingês fluentemente.
 
