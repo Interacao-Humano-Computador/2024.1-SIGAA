@@ -21,11 +21,11 @@ A tabela 1 mostra o cronograma do processo.
 
 **Tabela 1**: Cronograma do processo de coleta de dados.
 
-| Acontecimento | Data | Horário |
-| - | - | - |
-| Criação do questionário| 16/04/2024 | 23:40 |
-| Abertura ao público | 19/04/2024 | 16:00 |
-| Fechamento para respostas| 05/05/2024 | 15:42 |
+| Acontecimento             | Data       | Horário |
+| ------------------------- | ---------- | ------- |
+| Criação do questionário   | 16/04/2024 | 23:40   |
+| Abertura ao público       | 19/04/2024 | 16:00   |
+| Fechamento para respostas | 05/05/2024 | 15:42   |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
