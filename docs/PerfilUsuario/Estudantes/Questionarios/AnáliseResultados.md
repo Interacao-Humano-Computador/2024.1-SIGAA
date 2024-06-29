@@ -1,4 +1,4 @@
-# Resultados do questionário para estudandes
+# Resultados do questionário para estudantes
 
 ## Sumário
 * [Introdução](#Introdução)
