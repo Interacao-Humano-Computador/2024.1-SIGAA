@@ -175,11 +175,14 @@ O que é possível observar também na pesquisa realizada no projeto, em que a m
 
 Na pesquisa [V Pesquisa Nacional de Perfil Socioeconômico e Cultural dos(as) Graduandos(as) das IFES – 2018](https://www.andifes.org.br/wp-content/uploads/2019/05/V-Pesquisa-Nacional-de-Perfil-Socioeconomico-e-Cultural-dos-as-Graduandos-as-das-IFES-2018.pdf)¹”, quando perguntados em relação ao tempo médio, em horas por semana, que dedicavam aos estudos fora da sala de aula:
 
+
 - 36,3% declararam estudar de cinco até 10 horas;
 - 32,2% disseram estudar menos de cinco horas por semana;
 - 13,4% estudavam de 10 horas a 15 horas;
 - 5,9% de 15 a 20 horas;
-- 4,4% de 20 horas a 25 horas. 
+- 4,4% de 20 horas a 25 horas.
+
+
 
 Ainda conforme a pesquisa, quanto ao uso de biblioteca:
 
