@@ -27,7 +27,7 @@ Diante da baixa participação, os membros do grupo adotaram uma abordagem mais 
 | Abertura ao público       | 19/04/2024 | 16:00   |
 | Fechamento para respostas | 05/05/2024 | 15:45   |
 
-
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ## Resultados 
 Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questionário. Ao clicar nas perguntas, os resultados são mostrados. As figuras de 1 até 65 mostram os gráficos e as porcentagens das respostas.
