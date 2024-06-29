@@ -33,7 +33,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 **Observação:** Nem todas as respostas eram obrigatórias, então, apesar de 118 pessoas terem respondido, algumas perguntas possuem uma quantidade menor de respostas.
 
 <details>
-  <summary size="20"><b> Resposta da Pergunta 1: Qual é a sua faixa etária? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 1: Qual é a sua faixa etária? </b></summary> 
 
 <div align="center">
     Figura 1: Porcentagem da resposta.
@@ -56,7 +56,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
 <details>
-  <summary size="20"><b> Resposta da Pergunta 2: Qual é o seu gênero? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 2: Qual é o seu gênero? </b></summary> 
 <div align="center">
     Figura 3: Porcentagem da resposta.
     <br>
@@ -79,7 +79,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 3: Qual é o seu status acadêmico atual? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 3: Qual é o seu status acadêmico atual? </b></summary> 
 
 <div align="center">
     Figura 5: Porcentagem da resposta.
@@ -103,7 +103,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
    <details>
-  <summary size="20"><b> Resposta da Pergunta 4:Quais são as suas principais metas acadêmicas? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 4:Quais são as suas principais metas acadêmicas? </b></summary> 
 
 <div align="center">
     Figura 7: Porcentagem da resposta.
@@ -126,7 +126,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 5: Qual é a sua etnia? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 5: Qual é a sua etnia? </b></summary> 
 
 <div align="center">
     Figura 9: Porcentagem da resposta.
@@ -151,7 +151,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 6: Qual o seu status socioeconômico? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 6: Qual o seu status socioeconômico? </b></summary> 
 
 <div align="center">
     Figura 11: Porcentagem da resposta.
@@ -174,7 +174,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 7: Há quanto tempo você utiliza o SIGAA? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 7: Há quanto tempo você utiliza o SIGAA? </b></summary> 
 
 <div align="center">
     Figura 13: Porcentagem da resposta.
