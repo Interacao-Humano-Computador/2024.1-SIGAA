@@ -64,7 +64,7 @@ A tabela 1 mostra o cronograma, em ordem alfabética por entrevistado, realizado
 **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 
-## Perguntas Realizadas
+## Perguntas que serão utilizadas
 Abaixo, após o processo de treinamento, foi criado um roteiro das perguntas que serão realizadas durantes as entrevistas, ele foidesenvolvido com o intuito de manter um padrão para todos os entrevistados:
 
 **Código 1**: Roteiro das entrevistas
