@@ -198,7 +198,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b>  Resposta da Pergunta 8: Como você classifica a sua habilidade de leitura? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 8: Como você classifica a sua habilidade de leitura? </b></summary> 
 
 <div align="center">
     Figura 15: Porcentagem da resposta.
@@ -223,7 +223,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 9: Qual a sua preferência de aprendizado? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 9: Qual a sua preferência de aprendizado? </b></summary> 
 
 
 <div align="center">
@@ -248,7 +248,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 10: Qual o seu nível de alfabetismo computacional? (Suas habilidades com informática) </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 10: Qual o seu nível de alfabetismo computacional? (Suas habilidades com informática) </b></summary> 
 
 
 <div align="center">
@@ -274,7 +274,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
 
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 11: Como você classifica a sua experiência com jargões acadêmicos e técnicos? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 11: Como você classifica a sua experiência com jargões acadêmicos e técnicos? </b></summary> 
 
 <div align="center">
     Figura 21: Porcentagem da resposta.
@@ -298,7 +298,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 12: Você julga necessário ter o auxílio de algum manual para acessar as funcionalidades do SIGAA? </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 12: Você julga necessário ter o auxílio de algum manual para acessar as funcionalidades do SIGAA? </b></summary> 
 
 <div align="center">
     Figura 23: Porcentagem da resposta.
@@ -323,7 +323,7 @@ Abaixo há os gráficos e porcentagem relativos a cada resposta obtida no questi
   </details>
 
   <details>
-  <summary size="20"><b> Resposta da Pergunta 13: Você cursou outros cursos em outras instituições além da UnB? Se sim, escreva no espaço: </b></summary> 
+  <summary size="20"><b> A Resposta da Pergunta 13: Você cursou outros cursos em outras instituições além da UnB? Se sim, escreva no espaço: </b></summary> 
 
 <div align="center">
     Figura 25: Porcentagem da resposta.
