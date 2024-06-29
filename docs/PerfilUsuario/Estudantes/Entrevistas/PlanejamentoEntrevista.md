@@ -56,8 +56,8 @@ A tabela 1 mostra o cronograma, em ordem alfabética por entrevistado, realizado
 | Cecília Alves   | Larissa Stéfane | 20/04/2024                 | 23/04/2024         | 19:30                 |
 | Gabriel Lopes   | Larissa Stéfane | 16/04/2024                 | 20/04/2024         | 16:30                 |
 | Gabriel Rodrigo | Larissa Stéfane | 16/04/2024                 | 20/04/2024         | 17:30                 |
-| Isaque Santos | Larissa Stéfane | 18/04/2024 | 20/04/2024 | 16:00 |
-| Lavínia Inácia | Larissa Stéfane | 16/04/2024 | 20/04/2024 | 17:00 |
+| Isaque Santos   | Larissa Stéfane | 18/04/2024                 | 20/04/2024         | 16:00                 |
+| Lavínia Inácia  | Larissa Stéfane | 16/04/2024                 | 20/04/2024         | 17:00                 |
 | Leonardo Machado | Larissa Stéfane | 18/04/2024 | 20/04/2024 | 09:00 |
 | Rodrigo Vaz | Larissa Stéfane | 20/04/2024 | 22/04/2024 | 14:30 |
 
