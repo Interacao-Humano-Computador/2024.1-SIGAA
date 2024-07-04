@@ -216,7 +216,7 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 | Aluguel de Sala | Bruno  | Larissa Stéfane | 17/06/2024 | 22/06/2024 | 20:00 | teams|
 | Pré-cadastro de Estágio | Ana Caroline | Iago Passaglia | 18/06/2024 |  24/06/2024 | 21:30 | teams |
 | Aba RU | João Antônio | Breno Alexandre  | 18/06/2024 | 22/06/2024 | 11:00 | teams |
-| Matrículas | Narla El Hafi | Pedro Augusto | 28/05/2024 | 18/06/2024 | 13:00 | teams |
+| Matrículas | Erika Iwakiri | Pedro Augusto | 28/05/2024 | 18/06/2024 | 13:00 | teams |
 | Grade Sugerida | Leonardo Ramiro | Luana Medeiros | 18/06/2024 | 23/06/2024 | 21:00 | teams |
 | Solicitação de bolsa | Laura Melo | Bruno Araújo | 18/06/2024 | 24/06/2024 | 10:00 | Teams |
 
