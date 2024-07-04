@@ -101,11 +101,11 @@ questões de usabilidade sejam resolvidas, garantindo uma experiência do usuár
 
 |ID|Pergunta|Resposta|
 |--|---|---|
-|01|Houve algum momento em que você se sentiu perdido ou confuso navegando pelo site?||
-|02|Há algo que te impediu ou dificultou completar esta tarefa?||
-|03|Há algo na interface que você achou desnecessário ou confuso?||
-|04|O que você mais gostou e o que menos gostou no site?| |
-|05|Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo?||
+|01|Houve algum momento em que você se sentiu perdido ou confuso navegando pelo site?|Não, achei tudo bem intuitivo e bem fácil de achar e bem setorizadas as informações. |
+|02|Há algo que te impediu ou dificultou completar esta tarefa?|Não.|
+|03|Há algo na interface que você achou desnecessário ou confuso?|Não|
+|04|O que você mais gostou e o que menos gostou no site?| Gostei que ele estava bem simplificado, intuitivo e com as caixar separadas com cada assunto e não teve nada que não gostei. |
+|05|Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo?|9 ou 10 porque sou uma pessoa que costuma ter dificuldades com sites e achei bem fácil, só ter tempo para ler as informações.|
 
 <b> Autores: </b> <a href="https://github.com/brunocva">Iago Passaglia e Bruno Araújo
 
