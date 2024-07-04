@@ -63,11 +63,11 @@ Os métodos selecionados são:
 
 No livro ["Don't Make Me Think, Revisited"](docs/Midia/dontmake.png) de Steve Krug, o autor discute a quantidade ideal de participantes para testes de usabilidade de protótipos de alta fidelidade. Ele menciona que o número ideal de participantes para cada rodada de testes do tipo "faça você mesmo" é de três pessoas. Krug explica que, embora algumas pessoas possam considerar esse número pequeno, o objetivo desse tipo de teste qualitativo não é provar algo estatisticamente, mas sim identificar e corrigir problemas de usabilidade para melhorar o que está sendo desenvolvido. Portanto, o foco está em obter insights acionáveis, não em obter provas estatísticas. Abaixo teremos os tópicos mais importantes das questões práticas da avaliação:
 
-**Participantes**: Três participantes, conforme recomendado por Krug.
-**Ferramentas**: Figma ou Sketch para desenvolvimento do protótipo.
-**Modalidade**: Avaliação remota ou presencial.
-**Duração**: 15 a 40 minutos por participante.
-**Materiais Necessários**: Computador, webcam, microfone, TCLE, questionários.
+**Participantes**: Três participantes, conforme recomendado por Krug.<br>
+**Ferramentas**: Figma ou Sketch para desenvolvimento do protótipo.<br>
+**Modalidade**: Avaliação remota ou presencial.<br>
+**Duração**: 15 a 40 minutos por participante.<br>
+**Materiais Necessários**: Computador, webcam, microfone, TCLE, questionários.<br>
 
 ## D Decidir como lidar com as questões éticas
 
