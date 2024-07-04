@@ -41,7 +41,13 @@ questões de usabilidade sejam resolvidas, garantindo uma experiência do usuár
 <center>
 Protótipo SIGAA
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/3Qt3vMB1AUpiALPp5dQCLG/Prototipo-SIGAA?node-id=7-862&t=NHlvUf3lQt5PYAXn-0&scaling=min-zoom&content-scaling=fixed&page-id=7%3A860&starting-point-node-id=7%3A862&show-proto-sidebar=1" allowfullscreen></iframe>
+<iframe
+        width="800"
+        height="600"
+        src="https://www.figma.com/proto/3Qt3vMB1AUpiALPp5dQCLG/Prototipo-SIGAA?node-id=7-862&t=xobtamRuuTa4jGEU-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A860&starting-point-node-id=7%3A862"
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
 
 </center>
 
