@@ -60,6 +60,8 @@ Os métodos selecionados são:
 
 ## I Identificar e administrar as questões práticas da avaliação
 
+No livro "Don't Make Me Think, Revisited" de Steve Krug, o autor discute a quantidade ideal de participantes para testes de usabilidade de protótipos de alta fidelidade. Ele menciona que o número ideal de participantes para cada rodada de testes do tipo "faça você mesmo" é de três pessoas. Krug explica que, embora algumas pessoas possam considerar esse número pequeno, o objetivo desse tipo de teste qualitativo não é provar algo estatisticamente, mas sim identificar e corrigir problemas de usabilidade para melhorar o que está sendo desenvolvido. Portanto, o foco está em obter insights acionáveis, não em obter provas estatísticas. Abaixo teremos os tópicos mais importantes das questões práticas da avaliação:
+
 **Participantes**: Três participantes, conforme recomendado por Krug.
 **Ferramentas**: Figma ou Sketch para desenvolvimento do protótipo.
 **Modalidade**: Avaliação remota ou presencial.
@@ -68,8 +70,8 @@ Os métodos selecionados são:
 
 ## D Decidir como lidar com as questões éticas
 
-**Termo de Consentimento**: Informar os participantes sobre os objetivos e procedimentos da avaliação e obter seu consentimento por meio do TCLE.
-
+**Termo de Consentimento**: 
+Termo de Consentimento Livre e Esclarecido (TCLE): Informar detalhadamente os participantes sobre os objetivos, procedimentos e possíveis impactos da avaliação do protótipo de alta fidelidade do SIGAA. Garantir que os participantes estejam cientes de que sua participação é voluntária, que eles podem desistir a qualquer momento sem qualquer penalização, e que suas respostas serão mantidas em sigilo e utilizadas exclusivamente para fins acadêmicos. Obter o consentimento informado dos participantes por meio do TCLE, que deverá ser lido e assinado por cada um antes do início das atividades de avaliação. Este termo deve abordar aspectos como a descrição do estudo, a confidencialidade dos dados, os direitos dos participantes e os contatos para esclarecimentos adicionais.
 ## E Avaliar, interpretar e apresentar os dados
 
 **Revisão de Gravações**: Observar expressões faciais e gestos.
