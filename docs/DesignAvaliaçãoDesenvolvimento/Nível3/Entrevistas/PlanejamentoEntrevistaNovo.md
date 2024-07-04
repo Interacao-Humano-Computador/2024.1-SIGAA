@@ -80,6 +80,7 @@ O planejamento detalhado da avaliação dos protótipos de alta fidelidade asseg
 
 1. KRUG, S. Don't make me think, revisited: A common sense approach to web usability. 3. ed. Berkeley: New Riders, 2014. Acesso em 03/06/2024.
 2. Barbosa, S. D. J., & Silva, B. S. (2021). Interação Humano-Computador e Experiência do Usuário. Editora: Câmara Brasileira do Livro, SP, Brasil. Acesso em: 19 de maio de 2024.
+3. Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Disponível em: https://www.google.com.br/books/edition/Engenharia_de_Requisitos/gA7kDAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover. Acesso em: 18 de maio de 2024.
 
 ## Histórico de Versão
 
