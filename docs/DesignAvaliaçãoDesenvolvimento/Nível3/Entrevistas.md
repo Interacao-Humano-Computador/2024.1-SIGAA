@@ -97,11 +97,11 @@ A metodologia para a avaliação do protótipo de alta fidelidade do site acadê
 
 **Autores:** [Iago Passaglia](https://github.com/brunocva) e [Bruno Araújo](https://github.com/brunocva)
 
-**Vídeo 3:** Avaliação feita com Marina
+**Vídeo 4:** Avaliação feita com Marina
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/kz3BlI5lY-0" title="Entrevista Marina Lara - Prototipo de alta fidelidade - Grupo 2  IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Tabela 4:** Respostas para avaliação com Marina
+**Tabela 5:** Respostas para avaliação com Marina
 
 | ID | Pergunta | Resposta |
 |----|----------|----------|
