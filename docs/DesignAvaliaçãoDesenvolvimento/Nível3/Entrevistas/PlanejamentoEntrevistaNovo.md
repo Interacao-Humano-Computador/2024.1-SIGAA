@@ -75,7 +75,7 @@ No livro "Don't Make Me Think, Revisited" de Steve Krug, o autor discute a quant
 Termo de Consentimento Livre e Esclarecido (TCLE): Informar detalhadamente os participantes sobre os objetivos, procedimentos e possíveis impactos da avaliação do protótipo de alta fidelidade do SIGAA. Garantir que os participantes estejam cientes de que sua participação é voluntária, que eles podem desistir a qualquer momento sem qualquer penalização, e que suas respostas serão mantidas em sigilo e utilizadas exclusivamente para fins acadêmicos. Obter o consentimento informado dos participantes por meio do TCLE, que deverá ser lido e assinado por cada um antes do início das atividades de avaliação. Este termo deve abordar aspectos como a descrição do estudo, a confidencialidade dos dados, os direitos dos participantes e os contatos para esclarecimentos adicionais.
 ## E Avaliar, interpretar e apresentar os dados
 
-**Revisão de Gravações**: Observar expressões faciais e gestos.
+**Revisão de Gravações**: Observar expressões faciais e gestos. <br>
 **Organização dos Dados**: Documentar relatos e feedbacks dos usuários.
 
 ## Teste Piloto
