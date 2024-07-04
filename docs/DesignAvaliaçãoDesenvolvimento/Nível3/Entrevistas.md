@@ -77,7 +77,7 @@ Protótipo SIGAA
 </details>
 
 <details>
-<summary size="20"><b> Funcionalidade de Estágio e Bolsas: Iago e Bruno </b></summary> 
+<summary size="20"><b> Funcionalidades de Estágio e Bolsas: Iago e Bruno </b></summary> 
 
 **Video 2:** Avaliação feita com Elder
 
