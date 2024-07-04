@@ -6,6 +6,7 @@
 * [Perguntas a serem feitas](#Perguntas-a-serem-feitas)
 * [Protótipo](#Protótipo)
 * [Entrevistas](#Entrevistas)
+* [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
