@@ -194,6 +194,7 @@
        - [Planejamento da avaliação do protótipo Alta Fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoAvaliacaoPrototipoAltaFidelidade.md)
        - [Planejamento das Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistas.md)
        - [Planejamento do Relato do prototipo de alta fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoRelatoResultados.md)
+       - [Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas.md)
 
 * Verificação
   * Grupo 2
