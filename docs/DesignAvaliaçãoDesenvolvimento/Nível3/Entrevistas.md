@@ -79,7 +79,25 @@ questões de usabilidade sejam resolvidas, garantindo uma experiência do usuár
 
 <b> Autores: </b> <a href="https://github.com/brunocva">Iago Passaglia e Bruno Araújo
 
-**Tabela 3:** Respostas para avaliação
+**Tabela 3:** Respostas para avaliação com Elder
+
+|ID|Pergunta|Resposta|
+|--|---|---|
+|01|Houve algum momento em que você se sentiu perdido ou confuso navegando pelo site?||
+|02|Há algo que te impediu ou dificultou completar esta tarefa?||
+|03|Há algo na interface que você achou desnecessário ou confuso?||
+|04|O que você mais gostou e o que menos gostou no site?| |
+|05|Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo?||
+
+<b> Autores: </b> <a href="https://github.com/brunocva">Iago Passaglia e Bruno Araújo
+
+**Video 3:** Avaliação feita com Melina
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/Pk0LIAXK87U" title="Entrevista Melina - Prototipo de alta fidelidade IHC - grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b> Autores: </b> <a href="https://github.com/brunocva">Iago Passaglia e Bruno Araújo
+
+**Tabela 4:** Respostas para avaliação com Melina
 
 |ID|Pergunta|Resposta|
 |--|---|---|
