@@ -97,6 +97,22 @@ A metodologia para a avaliação do protótipo de alta fidelidade do site acadê
 
 **Autores:** [Iago Passaglia](https://github.com/brunocva) e [Bruno Araújo](https://github.com/brunocva)
 
+**Vídeo 3:** Avaliação feita com Marina
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/kz3BlI5lY-0" title="Entrevista Marina Lara - Prototipo de alta fidelidade - Grupo 2  IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Tabela 4:** Respostas para avaliação com Marina
+
+| ID | Pergunta | Resposta |
+|----|----------|----------|
+| 01 | Houve algum momento em que você se sentiu perdido ou confuso navegando pelo site? | Não, achou intuitivo |
+| 02 | Há algo que te impediu ou dificultou completar esta tarefa? | Não. |
+| 03 | Há algo na interface que você achou desnecessário ou confuso? | Não. |
+| 04 | O que você mais gostou e o que menos gostou no site? | Gostou do design do site e não gostou que tinha mais de uma aba com a palavra "acompanhamento" e ficou confuso. |
+| 05 | Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo? | 9 ou 10 porque sou uma pessoa que costuma ter dificuldades com sites e achei bem fácil, só ter tempo para ler as informações. |
+
+**Autores:** [Iago Passaglia](https://github.com/brunocva) e [Bruno Araújo](https://github.com/brunocva)
+
 </details>
 
 ## Conclusão
