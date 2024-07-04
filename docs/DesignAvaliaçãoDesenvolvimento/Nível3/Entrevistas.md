@@ -26,6 +26,7 @@ questões de usabilidade sejam resolvidas, garantindo uma experiência do usuár
 ## Perguntas a serem feitas
 
 **Tabela 1:** Perguntas para avaliação
+
 |ID|Pergunta|
 |--|---|
 |01|Houve algum momento em que você se sentiu perdido ou confuso navegando pelo site?|
@@ -38,12 +39,11 @@ questões de usabilidade sejam resolvidas, garantindo uma experiência do usuár
 
 ## Protótipo 
 
-<center>
-Protótipo SIGAA
+**Protótipo 1:**  Protótipo SIGAA
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3Qt3vMB1AUpiALPp5dQCLG%2FPrototipo-SIGAA%3Fnode-id%3D7-862%26t%3DxobtamRuuTa4jGEU-1%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D7%253A860%26starting-point-node-id%3D7%253A862" allowfullscreen></iframe>
 
-</center>
+<b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias
 
 ## Entrevistas
 
