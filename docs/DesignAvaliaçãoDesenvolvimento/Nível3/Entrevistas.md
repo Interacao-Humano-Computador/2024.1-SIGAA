@@ -83,7 +83,7 @@ Protótipo SIGAA
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/TX6qV-nLwuQ" title="Entrevista prototipo alta fidelidade - SIGAA  - IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<b> Autores: </b> <a href="https://github.com/Izarias">Iago Passaglia e Bruno Araújo
+<b> Autores: </b> <a href="https://github.com/brunocva">Iago Passaglia e Bruno Araújo
 
 **Tabela 3:** Respostas para avaliação
 
@@ -95,7 +95,7 @@ Protótipo SIGAA
 |04|O que você mais gostou e o que menos gostou no site?| |
 |05|Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo?||
 
-<b> Autores: </b> <a href="https://github.com/Izarias">Iago Passaglia e Bruno Araújo
+<b> Autores: </b> <a href="https://github.com/brunocva">Iago Passaglia e Bruno Araújo
 
 </details>
 
