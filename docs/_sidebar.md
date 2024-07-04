@@ -191,9 +191,7 @@
       - [Planejamento do Relato](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoRelatoPrototipoPapel.md)
       - [Relato dos Resultados do Prototipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/RelatoAvaliacaoPrototipoPapel.md)
    * Nível 3
-       - [Planejamento da avaliação do protótipo Alta Fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoAvaliacaoPrototipoAltaFidelidade.md)
-       - [Planejamento das Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistas.md)
-       - [Planejamento do Relato do prototipo de alta fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoRelatoResultados.md)
+       - [Planejamento](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistaNovo.md)
        - [Entrevistas](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas.md)
 
 * Verificação
