@@ -20,11 +20,10 @@ Para organizar a avaliação de modo eficaz, este documento apresenta o planejam
 
 ## Metodologia
 
-O protótipo com as funcionalidades foi feito utilizando o FIGMA. A entrevista será feita por um observador e um avaliador, com a participação de 3 entrevistados, que utilizarão as funcionalidades trabalhadas pela equipe.
+O protótipo com as funcionalidades foi feito utilizando o FIGMA. A entrevista será feita por um observador e um avaliador, com a participação de 3 entrevistados, que responderão ainda cinco perguntas ao final da entrevista, os entrevistados utilizarão as funcionalidades trabalhadas pela equipe.
 
 A metodologia seguirá ainda norteada pelo framework DECIDE:
 
-A metodologia seguirá o framework DECIDE:
 1. **Determinar os objetivos da avaliação**: Verificar conformidade com padrões e identificar problemas na interação e interface.
 2. **Explorar perguntas a serem respondidas**: Usar perguntas específicas para orientar a avaliação.
 3. **Escolher métodos de avaliação**: Entrevistas, testes de usabilidade e questionários.
@@ -104,4 +103,4 @@ O planejamento detalhado da avaliação dos protótipos de alta fidelidade asseg
 
 | Versão | Alteração                                           | Responsável     | Revisor       | Data       |
 |--------|-----------------------------------------------------|-----------------|---------------|------------|
-| 1.0    | Criação do documento e elaboração dos pontos        | Pedro Izarias   | Bruno Araújo  | 19/06/2024 |
+| 1.0    | Criação do documento e elaboração dos pontos        | Pedro Izarias   | Bruno Araújo  | 03/07/2024 |
