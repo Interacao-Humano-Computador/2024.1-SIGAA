@@ -12,6 +12,7 @@
 * [E Avaliar, interpretar e apresentar os dados](#e-avaliar-interpretar-e-apresentar-os-dados)
 * [Conclusão](#conclusão)
 * [Bibliografia](#bibliografia)
+* [Referências Bibliográficas](#Referências-Biblliográficas)
 * [Histórico de versão](#histórico-de-versão)
 
 ## Introdução
@@ -99,6 +100,10 @@ O planejamento detalhado da avaliação dos protótipos de alta fidelidade asseg
 
 1. KRUG, S. Don't make me think, revisited: A common sense approach to web usability. 3. ed. Berkeley: New Riders, 2014. Acesso em 03/06/2024.
 2. Barbosa, S. D. J., & Silva, B. S. (2021). Interação Humano-Computador e Experiência do Usuário. Editora: Câmara Brasileira do Livro, SP, Brasil. Acesso em: 19 de maio de 2024.
+
+## Referências Bibliográficas
+
+1. Barbosa, S. D. J., & Silva, B. S. (2021). Interação Humano-Computador e Experiência do Usuário. Editora: Câmara Brasileira do Livro, SP, Brasil. Acesso em: 19 de maio de 2024.
 
 ## Histórico de Versão
 
