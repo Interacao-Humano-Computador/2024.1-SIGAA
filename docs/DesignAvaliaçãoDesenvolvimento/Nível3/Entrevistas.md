@@ -57,6 +57,18 @@ Protótipo SIGAA
 
 </details>
 
+**Tabela 2:** Respostas para avaliação
+
+|ID|Pergunta|Resposta|
+|--|---|---|
+|01|Houve algum momento em que você se sentiu perdido ou confuso navegando pelo site?|Não, foi bem fácil de navegar e não precisei buscar ajuda.|
+|02|Há algo que te impediu ou dificultou completar esta tarefa?|Não, não teve nada que me impediu ou dificultou.|
+|03|Há algo na interface que você achou desnecessário ou confuso?|Não, tudo o que estava na interface era o que precisava estar e as informações foram diretas e essênciais.|
+|04|O que você mais gostou e o que menos gostou no site?|O site está bem moderno, as palhetas de cores estão boas e não tem nenhum código confuso na interface, por exemplo o código das aulas que no sigaa seria 2M34, não preciso buscar ajuda para interpretar, já está no formato normal de horas. |
+|05|Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo?|Acho que 10 porque nós precisamos de uma mudança no SIGAA e essa interface é uma mudança nova mais bem moderna e fácil de navegar.|
+
+<b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias
+
 ## Bibliografia
 
 1. KRUG, S. Don't make me think, revisited: A common sense approach to web usability. 3. ed. Berkeley: New Riders, 2014.
