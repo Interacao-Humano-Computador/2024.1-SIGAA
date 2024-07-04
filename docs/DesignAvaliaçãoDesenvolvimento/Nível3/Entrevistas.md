@@ -71,7 +71,7 @@ Protótipo SIGAA
 
 ## Bibliografia
 
-1. KRUG, S. Don't make me think, revisited: A common sense approach to web usability. 3. ed. Berkeley: New Riders, 2014.
+1. KRUG, S. Don't make me think, revisited: A common sense approach to web usability. 3. ed. Berkeley: New Riders, 2014. Acesso feito em 03/06/2024.
 
 ## Histórico de Versão
 
