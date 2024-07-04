@@ -1,0 +1,88 @@
+# Planejamento da Avaliação do Protótipo de Alta Fidelidade
+
+## Sumário
+
+* [Introdução](#introdução)
+* [Metodologia](#metodologia)
+* [D Determinar os objetivos](#d-determinar-os-objetivos)
+* [E Explorar perguntas a serem respondidas](#e-explorar-perguntas-a-serem-respondidas)
+* [C Escolher os Métodos de Avaliação](#c-escolher-os-métodos-de-avaliação)
+* [I Identificar e administrar as questões práticas da avaliação](#i-identificar-e-administrar-as-questões-práticas-da-avaliação)
+* [D Decidir como lidar com as questões éticas](#d-decidir-como-lidar-com-as-questões-éticas)
+* [E Avaliar, interpretar e apresentar os dados](#e-avaliar-interpretar-e-apresentar-os-dados)
+* [Conclusão](#conclusão)
+* [Bibliografia](#bibliografia)
+* [Histórico de versão](#histórico-de-versão)
+
+## Introdução
+
+Para organizar a avaliação de modo eficaz, este documento apresenta o planejamento da avaliação dos protótipos de alta fidelidade das funcionalidades do SIGAA. O objetivo é validar e aprimorar as funcionalidades desenvolvidas pela equipe com base nas opiniões dos usuários. Será utilizado o framework DECIDE, que abrange desde a definição dos objetivos até a interpretação dos resultados.
+
+## Metodologia
+
+A metodologia seguirá o framework DECIDE:
+1. **Determinar os objetivos da avaliação**: Verificar conformidade com padrões e identificar problemas na interação e interface.
+2. **Explorar perguntas a serem respondidas**: Usar perguntas específicas para orientar a avaliação.
+3. **Escolher métodos de avaliação**: Entrevistas, testes de usabilidade e questionários.
+4. **Identificar e administrar questões práticas**: Preparação do ambiente, seleção de participantes e organização do cronograma.
+5. **Decidir como lidar com questões éticas**: Garantir consentimento informado e minimizar riscos.
+6. **Avaliar, interpretar e apresentar os dados**: Coletar e analisar dados para melhoria contínua.
+
+## D Determinar os objetivos
+
+Os objetivos principais são:
+- **Verificar conformidade com padrões estabelecidos**: Garantir acessibilidade e consistência.
+- **Identificar problemas na interação e interface**: Melhorar a qualidade de uso e experiência do usuário.
+
+## E Explorar perguntas a serem respondidas
+
+**Tabela 1: Perguntas para avaliação**
+
+| ID  | Pergunta                                                                                               |
+|-----|--------------------------------------------------------------------------------------------------------|
+| 01  | Houve algum momento em que você se sentiu perdido ou confuso navegando pelo site?                      |
+| 02  | Há algo que te impediu ou dificultou completar esta tarefa?                                            |
+| 03  | Há algo na interface que você achou desnecessário ou confuso?                                          |
+| 04  | O que você mais gostou e o que menos gostou no site?                                                   |
+| 05  | Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo?              |
+
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
+
+## C Escolher os Métodos de Avaliação
+
+Os métodos selecionados são:
+- **Inspeção**: Avaliação pelo próprio integrante da equipe para verificar conformidade com padrões.
+- **Investigação**: Entrevistas e questionários para obter feedback dos usuários.
+- **Observação**: Registro das interações dos usuários para identificar problemas reais.
+
+## I Identificar e administrar as questões práticas da avaliação
+
+**Participantes**: Três participantes, conforme recomendado por Krug.
+**Ferramentas**: Figma ou Sketch para desenvolvimento do protótipo.
+**Modalidade**: Avaliação remota ou presencial.
+**Duração**: 15 a 40 minutos por participante.
+**Materiais Necessários**: Computador, webcam, microfone, TCLE, questionários.
+
+## D Decidir como lidar com as questões éticas
+
+**Termo de Consentimento**: Informar os participantes sobre os objetivos e procedimentos da avaliação e obter seu consentimento por meio do TCLE.
+
+## E Avaliar, interpretar e apresentar os dados
+
+**Revisão de Gravações**: Observar expressões faciais e gestos.
+**Organização dos Dados**: Documentar relatos e feedbacks dos usuários.
+
+## Conclusão
+
+O planejamento detalhado da avaliação dos protótipos de alta fidelidade assegura uma abordagem estruturada para coletar dados significativos, identificar problemas e melhorar as funcionalidades do projeto.
+
+## Bibliografia
+
+1. KRUG, S. Don't make me think, revisited: A common sense approach to web usability. 3. ed. Berkeley: New Riders, 2014. Acesso em 03/06/2024.
+2. Barbosa, S. D. J., & Silva, B. S. (2021). Interação Humano-Computador e Experiência do Usuário. Editora: Câmara Brasileira do Livro, SP, Brasil. Acesso em: 19 de maio de 2024.
+
+## Histórico de Versão
+
+| Versão | Alteração                                           | Responsável     | Revisor       | Data       |
+|--------|-----------------------------------------------------|-----------------|---------------|------------|
+| 1.0    | Criação do documento e elaboração dos pontos        | Pedro Izarias   | Bruno Araújo  | 19/06/2024 |
