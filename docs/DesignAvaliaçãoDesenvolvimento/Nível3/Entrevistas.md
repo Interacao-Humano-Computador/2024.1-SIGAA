@@ -83,11 +83,11 @@ questões de usabilidade sejam resolvidas, garantindo uma experiência do usuár
 
 |ID|Pergunta|Resposta|
 |--|---|---|
-|01|Houve algum momento em que você se sentiu perdido ou confuso navegando pelo site?||
-|02|Há algo que te impediu ou dificultou completar esta tarefa?||
-|03|Há algo na interface que você achou desnecessário ou confuso?||
-|04|O que você mais gostou e o que menos gostou no site?| |
-|05|Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo?||
+|01|Houve algum momento em que você se sentiu perdido ou confuso navegando pelo site?|Não, o site está bem ergonomico e deu para encontrar tudo bem fácil e rápido e bem sinalizado.|
+|02|Há algo que te impediu ou dificultou completar esta tarefa?|Não.|
+|03|Há algo na interface que você achou desnecessário ou confuso?|Não, achei bem tranquilo de mexer.|
+|04|O que você mais gostou e o que menos gostou no site?|O que mais gostei foi a facilidade de acesso que era o que eu queria, pelo próprio menu, conseguir navegar e chegar onde eu queria e talvez o que menos gostei foi ter que usar muitos cliques. |
+|05|Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo?| Eu acho que um 8 ou 9. |
 
 <b> Autores: </b> <a href="https://github.com/brunocva">Iago Passaglia e Bruno Araújo
 
