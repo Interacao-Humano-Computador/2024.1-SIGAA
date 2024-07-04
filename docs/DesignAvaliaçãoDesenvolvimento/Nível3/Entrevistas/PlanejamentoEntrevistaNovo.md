@@ -74,12 +74,17 @@ Os métodos selecionados são:
 
 ## Teste Piloto
 
-Video 1: Teste piloto das entrevistas
+Video 1: Teste piloto das entrevistas - Bruno e Iago
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/WMbgEdj9DGc" title="Teste piloto prototipo de alta fidelidade - Bolsas e Estágio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Link](https://www.youtube.com/embed/WMbgEdj9DGc).
 
+Video 2: Teste piloto das entrevistas - Pedro Izarias
+
+<iframe width="848" height="480" src="https://www.youtube.com/embed/vC3psmKwLUY" title="Teste piloto - Avaliação do Protótipo de Alta Fidelidade - Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Link](https://www.youtube.com/embed/vC3psmKwLUY).
 
 ## Conclusão
 
