@@ -55,8 +55,6 @@ Protótipo SIGAA
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias
 
-</details>
-
 **Tabela 2:** Respostas para avaliação
 
 |ID|Pergunta|Resposta|
@@ -68,6 +66,8 @@ Protótipo SIGAA
 |05|Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo?|Acho que 10 porque nós precisamos de uma mudança no SIGAA e essa interface é uma mudança nova mais bem moderna e fácil de navegar.|
 
 <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias
+
+</details>
 
 ## Bibliografia
 
