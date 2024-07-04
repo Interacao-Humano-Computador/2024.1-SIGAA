@@ -101,6 +101,8 @@ A metodologia para a avaliação do protótipo de alta fidelidade do site acadê
 
 ## Conclusão
 
+A avaliação do protótipo de alta fidelidade das funcionalidades do SIGAA, através das entrevistas conduzidas com os usuários, revelou insights valiosos sobre a usabilidade e a eficácia do sistema proposto. As entrevistas destacaram pontos positivos, como a clareza de navegação e a melhoria na interface gráfica, mas também apontaram áreas que necessitam de ajustes, como a personalização de funcionalidades e a otimização de certos processos. Os feedbacks coletados foram essenciais para identificar padrões e compreender as necessidades dos diferentes perfis de usuários. Com base nessa análise, é possível priorizar as melhorias mais críticas, garantindo que o sistema atenda às expectativas e facilite as atividades acadêmicas de maneira eficiente. Como próximos passos, recomenda-se implementar as sugestões de melhoria identificadas, realizando testes contínuos para assegurar que as alterações atendam às necessidades dos usuários.
+
 ## Bibliografia
 
 1. KRUG, S. Don't make me think, revisited: A common sense approach to web usability. 3. ed. Berkeley: New Riders, 2014. Acesso feito em 03/06/2024.
