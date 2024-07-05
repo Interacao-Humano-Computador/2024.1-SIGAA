@@ -1129,5 +1129,5 @@ O processo de avaliação dos protótipos de papel, por meio de entrevistas com 
 | 1.3    | Adicionar entrevista da funcionalidade de realizar matrícula      | Pedro Izarias   | Iago Passaglia  | 17/06/2024 |
 | 1.4    | Adicionar entrevista da funcionalidade de Grade Sugerida          | Luana Medeiros  | Pedro Izarias   | 19/06/2024 |
 | 1.5    | Adicionar entrevista da funcionalidade de pré-cadastro de estágio | Iago Passaglia  | Pedro Izarias   | 19/06/2024 |
-| 1.6    | Adicionar entrevista da funcionalidade Solicitação de Bolsas      | Bruno Araújo    | -----   | 19/06/2024 |
-| 1.7    | Adicionar entrevista da funcionalidade Aba RU                     | Breno Alexandre | -----   | 19/06/2024 |
+| 1.6    | Adicionar entrevista da funcionalidade Solicitação de Bolsas      | Bruno Araújo    | Luana Medeiros  | 19/06/2024 |
+| 1.7    | Adicionar entrevista da funcionalidade Aba RU                     | Breno Alexandre | Luana Medeiros  | 19/06/2024 |
