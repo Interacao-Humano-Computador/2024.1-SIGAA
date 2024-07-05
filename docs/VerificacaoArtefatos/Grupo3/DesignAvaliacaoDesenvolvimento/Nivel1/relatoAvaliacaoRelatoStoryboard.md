@@ -65,4 +65,4 @@ A tabela 2 mostra a avaliação do Relato dos resultados da Avaliação do Story
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento |  [Iago Passaglia](https://github.com/Paxxaglia) | - | 12/06/2024 |
+| 1.0 | Criação do documento |  [Iago Passaglia](https://github.com/Paxxaglia) | Luana Medeiros | 12/06/2024 |
