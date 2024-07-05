@@ -9,6 +9,8 @@
 * [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
+## Observação
+A aluna Luana Medeiros que estava trabalhando com essa funcionalidade durante o projeto, decidiu alterar a funcionalidade trabalhada, portanto a funcionalidade de Histórico não será mais trabalhada.
 
 ## Introdução 
 Como foi falado no documento de planejamento das análises de histórico, a ferramenta de emitir histórico oferecerá aos alunos a possibilidade de ter um documento oficial sobre o histórico acadêmico. Com base nisso, este documento pretende realizar uma análise detalhada das tarefas envolvidas na funcionalidade de emitir histórico por meio dos métodos de análise hierárquica de tarefas e GOMS (Goals, Operators, Methods, Selection Rules).
