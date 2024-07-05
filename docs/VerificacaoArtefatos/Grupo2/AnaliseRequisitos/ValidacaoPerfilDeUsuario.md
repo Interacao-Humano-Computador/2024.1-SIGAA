@@ -114,4 +114,5 @@ Tabela 3: Erros Encontrados
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | -| - | - | --------------- | - |
 | 1.0 | Criação do documento | Iago Passaglia | Luana Medeiros | 26/06/2024 |
-| 1.1 | Adição da análise | Iago Passaglia | Luana Medeiros | 26/06/2024 |
+| 1.1 | Criação da Lista de Verificação | Larissa Stéfane | Luana Medeiros | 26/06/2024 |
+| 1.2 | Adição da análise | Iago Passaglia | Luana Medeiros | 26/06/2024 |
