@@ -90,4 +90,4 @@ Finalmente, considerando que a atividade visa validar o artefato com o auxílio 
 ## Histórico de Versão
 | Versão | Alteração                         | Responsável     | Revisor         | Data       |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento              | Breno Alexandre | -               | 01/06/2024 |
+| 1.0    | Criação do documento              | Breno Alexandre | Luana Medeiros | 01/06/2024 |
