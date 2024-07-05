@@ -104,4 +104,4 @@ Por fim, considerando que a atividade visa validar o artefato com o auxílio de 
 | Versão | Data       | Descrição                               | Autor(es)    | Revisor(es) |
 |--------|------------|-----------------------------------------|--------------|-------------|
 | 1.0  | 22/05/2024 | Criação do Relato Análise de Tarefas           | Bruno Araújo | Larissa  Stéfane |
- 1.1  | 28/05/2024 | Correção ortográfica  | Bruno Araújo   | -- |
+ 1.1  | 28/05/2024 | Correção ortográfica  | Bruno Araújo   | Luana Medeiros |
