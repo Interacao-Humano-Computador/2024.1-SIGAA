@@ -103,4 +103,4 @@ Caso não funcione, clique aqui: [link do vídeo](https://youtu.be/hdEmNSLV5F8).
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Bruno Araújo | -- | 26/06/2024 |
+| 1.0 | Criação do documento | Bruno Araújo | Luana Medeiros | 26/06/2024 |
