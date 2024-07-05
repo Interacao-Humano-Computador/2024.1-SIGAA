@@ -81,5 +81,5 @@ Caso não funcione, clique aqui: [link do vídeo](https://youtu.be/_idCNOt85pk).
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Bruno Araújo | -- | 26/06/2024 |
+| 1.0 | Criação do documento | Bruno Araújo | Luana Medeiros | 26/06/2024 |
 
