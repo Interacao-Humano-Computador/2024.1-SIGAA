@@ -68,4 +68,4 @@ Tabela 2: Realizar compras online
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento e adição da lista de verificação | Iago Passaglia | Bruno Araújo | 12/06/2024 |
-| 1.1 | Inclusão de avaliação Realizar compras online | Bruno Araújo | -- | 12/06/2024 |
+| 1.1 | Inclusão de avaliação Realizar compras online | Bruno Araújo | Luana Medeiros | 12/06/2024 |
