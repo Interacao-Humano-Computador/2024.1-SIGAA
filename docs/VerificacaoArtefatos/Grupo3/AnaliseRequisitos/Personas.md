@@ -78,4 +78,4 @@ A tabela 2 mostra a avaliação das personas com base na lista de veriicação.
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Pedro Izarias | - | 12/06/2024 |
+| 1.0 | Criação do documento | Pedro Izarias | Luana Medeiros | 12/06/2024 |
