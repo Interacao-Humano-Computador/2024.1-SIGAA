@@ -102,5 +102,5 @@ O vídeo a seguir a inspeção gravada sobre o artefato Guia de Estilo.
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do artefato                 | Breno Alexandre | Pedro Izarias               | 26/06/2024 |
-| 1.1    | Mudanças no artefato                 | Pedro Izarias |  -               | 26/06/2024 |
-| 1.2    | Adição das respostas                | Pedro Izarias |  -               | 26/06/2024 |
+| 1.1    | Mudanças no artefato                 | Pedro Izarias | Luana Medeiros | 26/06/2024 |
+| 1.2    | Adição das respostas                | Pedro Izarias |  Luana Medeiros | 26/06/2024 |
