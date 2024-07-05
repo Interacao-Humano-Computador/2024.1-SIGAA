@@ -78,4 +78,4 @@ Figura 6: Persona Juliana Moraes
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do formato do documento     | Larissa Stéfane | Pedro Izarias      | 10/06/2024 |
-| 1.1    | Realocação de Persona Juliana para a documentação  | Bruno Araújo | --      | 25/06/2024 |
+| 1.1    | Realocação de Persona Juliana para a documentação  | Bruno Araújo | Luana Medeiros  | 25/06/2024 |
