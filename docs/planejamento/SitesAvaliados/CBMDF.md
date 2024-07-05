@@ -199,4 +199,4 @@ CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL. Página inicial. Disponível em:
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Bruno Araújo| Luana Medeiros | 05/04/2024 |
-| 1.1 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
+| 1.1 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Luana Medeiros | 11/04/2024 |
