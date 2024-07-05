@@ -112,5 +112,5 @@ Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível 
 | 1.2    |Adição do sumário | Pedro Augusto | Bruno Araújo | 07/04/2024 |
 | 1.3    |Adição dos demais modelos | Pedro Augusto | Bruno Araújo | 07/04/2024 |
 | 1.4    |Padronização e adição de citação da legenda de Figuras no texto | Luana Medeiros | Iago Passaglia | 11/04/2024 |
-| 1.5 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | - | 11/04/2024 |
+| 1.5 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Luana Medeiros | 11/04/2024 |
 
