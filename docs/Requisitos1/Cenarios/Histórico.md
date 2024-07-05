@@ -8,6 +8,10 @@
 * [Bibliografia](#Bibliografia)
 * [Histórico de versões](#Histórico-de-versões)
 
+## Observação
+A aluna Luana Medeiros que estava trabalhando com essa funcionalidade durante o projeto, decidiu alterar a funcionalidade trabalhada, portanto a funcionalidade de Histórico não será mais trabalhada.
+
+
 ## Introdução
 
 A criação inicial de um cenário de análise implica em desenvolver uma narrativa que descreva indivíduos participando de uma atividade específica. Essa narrativa pode ser apresentada textualmente ou por meio de imagens, com um contexto detalhado. O cenário ilustra uma situação de uso de uma aplicação, incluindo usuários, processos e dados relevantes. Em nossa disciplina, o objetivo principal ao usar cenários é avaliar a satisfação do usuário com o produto em questão, além de facilitar a compreensão da atividade em foco.
