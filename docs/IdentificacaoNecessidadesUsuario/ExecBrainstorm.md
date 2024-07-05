@@ -81,4 +81,4 @@ Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-.
 | Versão | Alteração                                                 | Responsável      | Revisor          | Data       |
 | ------ | --------------------------------------------------------- | ---------------- | ---------------- | ---------- |
 | 1.0    | Criação e desenvolvimento do documento                    | Iago Passaglia   | Bruno Araújo     | 04/05/2024 |
-| 1.1    | Correção de nome do revisor e remoção de texto incompleto | Breno Alexandre  | -                | 09/05/2024 |
+| 1.1    | Correção de nome do revisor e remoção de texto incompleto | Breno Alexandre  | Luana Medeiros   | 09/05/2024 |
