@@ -8,6 +8,9 @@
 * [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
+## Observação
+A aluna Luana Medeiros que estava trabalhando com essa funcionalidade durante o projeto, decidiu alterar a funcionalidade trabalhada, portanto a funcionalidade de Histórico não será mais trabalhada.
+
 ## Introdução
 Durante as entrevistas foi comentado pelo estudantes sobre a dificuldade de acompanhar o fluxograma na hora de realizar matrícula nas turmas, pois o histórico existente no momento não é possível visualizar os pré-requisitos nem as possíveis matérias optativas. A figura 1 nos mostra como emitir o histórico existente no momento no site do SIGAA para os estudantes.
 <center>
