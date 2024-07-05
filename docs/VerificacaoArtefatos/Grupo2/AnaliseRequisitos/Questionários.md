@@ -121,5 +121,5 @@ O vídeo a seguir a inspeção gravada sobre o artefato de Questionários.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 |----|-------|------|-------|------|
-| 1.0 | Criação do documento | Pedro Izarias | - | 26/06/2024 |
-| 1.1 | Adição das respostas | Pedro Izarias | - | 26/06/2024 |
+| 1.0 | Criação do documento | Pedro Izarias | Luana Medeiros | 26/06/2024 |
+| 1.1 | Adição das respostas | Pedro Izarias | Luana Medeiros | 26/06/2024 |
