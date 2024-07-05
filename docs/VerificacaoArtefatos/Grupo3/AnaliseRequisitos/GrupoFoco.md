@@ -85,4 +85,4 @@ Tabela 3: Inspeção da técnica de grupo de foco.
 
 | Versão | Alteração                                                  | Responsável     | Revisor         | Data       |
 | ------ | ---------------------------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento  e elaboração da lista de verificação | Breno Alexandre | -               | 12/06/2024 |
+| 1.0    | Criação do documento  e elaboração da lista de verificação | Breno Alexandre | Luana Medeiros | 12/06/2024 |
