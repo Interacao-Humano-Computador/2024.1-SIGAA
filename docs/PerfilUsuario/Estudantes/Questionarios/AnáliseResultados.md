@@ -855,4 +855,4 @@ Os resultados do questionário revelaram informações importantes sobre o perfi
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e realização do documento. | Larissa Stéfane | Breno Alexandre | 05/05/2024 |
-| 1.1 | Correção da forma de apresentação das respostas | Larissa Stéfane | -  | 21/05/2024 |
+| 1.1 | Correção da forma de apresentação das respostas | Larissa Stéfane | Luana Medeiros | 21/05/2024 |
