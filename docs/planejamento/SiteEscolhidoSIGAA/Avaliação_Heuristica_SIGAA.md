@@ -198,4 +198,4 @@ A avaliação revelou diferentes níveis de severidade em relação aos problema
 | 1.1 | Adição de mais informações | Larissa Stéfane | Luana Medeiros | 07/04/2024 |
 | 1.2 | Adição de citação da legenda de Figuras no texto | Luana Medeiros | Larissa Stéfane | 11/04/2024 |
 | 1.3 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Larissa Stéfane | 11/04/2024 |
-| 1.4 | Adição de mais informações | Larissa Stéfane | - | 11/05/2024 |
+| 1.4 | Adição de mais informações | Larissa Stéfane |Luana Medeiros | 11/05/2024 |
