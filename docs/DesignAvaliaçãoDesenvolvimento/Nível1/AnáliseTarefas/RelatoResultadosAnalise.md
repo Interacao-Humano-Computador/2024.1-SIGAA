@@ -258,4 +258,4 @@ Autor: Breno Alexandre.
 | 1.3 | Adição dos resultados da análise de pré-cadastro de estágio. | Iago Passaglia | Pedro Izarias | 02/06/2024 |
 | 1.4 | Adição dos resultados da análise aba do RU.                | Breno Alexandre | Bruno Araújo | 03/06/2024 |
 | 1.5 | Adição dos resultados da análise aba Declaração de Bolsa. | Bruno Araújo| Pedro Izarias | 03/06/2024 |
-| 1.6 | Adição do HTA da Aba do RU reformulado. | Breno Alexandre| -    | 19/06/2024 |
+| 1.6 | Adição do HTA da Aba do RU reformulado. | Breno Alexandre| Luana Medeiros| 19/06/2024 |
