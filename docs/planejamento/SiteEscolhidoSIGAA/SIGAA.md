@@ -213,6 +213,6 @@ No entanto, para maximizar sua utilidade e promover uma experiência mais fluida
 | 1.8    | Altera funcionalidade que será estudada por Breno Alexandre     | Breno Alexandre | Larissa Stéfane | 03/05/2024 |
 | 1.9    | Padronização e adição de citação da legenda de Figuras no texto | Luana Medeiros | Iago Passaglia | 11/04/2024 |
 | 1.10    | Correção das legendas das figuras para norma ABNT | Iago Passaglia | Larissa Stéfane | 11/04/2024 |
-| 1.11 | Correção do documento em relação às imagens e figuras | Larissa Stéfane | - | 12/05/2024 |
-| 1.12 | Alteração das funcionalidades que serão estudadas por Larissa Stéfane | Larissa Stéfane | - | 12/05/2024 |
+| 1.11 | Correção do documento em relação às imagens e figuras | Larissa Stéfane | Luana Medeiros | 12/05/2024 |
+| 1.12 | Alteração das funcionalidades que serão estudadas por Larissa Stéfane | Larissa Stéfane | Luana Medeiros | 12/05/2024 |
 
