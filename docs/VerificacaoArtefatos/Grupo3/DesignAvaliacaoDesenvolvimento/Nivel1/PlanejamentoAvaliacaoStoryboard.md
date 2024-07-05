@@ -63,5 +63,5 @@ A tabela 2 mostra a avaliação do Planejamento da Avaliação do Storyboard com
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Pedro Izarias | - | 12/06/2024 |
+| 1.0 | Criação do documento | Pedro Izarias | Luana Medeiros | 12/06/2024 |
 | 1.1 | Inspeção | Luana Medeiros | - | 12/06/2024 |
