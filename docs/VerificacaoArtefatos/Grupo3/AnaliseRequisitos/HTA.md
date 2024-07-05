@@ -130,4 +130,4 @@ A tabela 4 mostra a avaliação da Análise HTA com base na lista de verificaç�
 | - | - | - | - | - |
 | 1.0 | Criação do documento | Pedro Izarias | Bruno Araújo| 12/06/2024 |
 | 1.1 | Avaliação do Rastrear encomendas | Luana Medeiros | - | 12/06/2024 |
-| 1.2 | Avaliação de Realizar compras na loja online| Bruno Araújo| - | 12/06/2024 |
+| 1.2 | Avaliação de Realizar compras na loja online| Bruno Araújo| Luana Medeiros | 12/06/2024 |
