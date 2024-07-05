@@ -43,20 +43,8 @@ Tabela 1: Lista de Verificação do Storyboard
 
 ## Inspeção
 
-<center>
 
-Tabela 2: Identificação do artefato avaliado
- 
-| Entrega | Nome | Versão | Data de desenvolvimento | Autor(es) | Revisor |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
-| ------- | ---- | ------ | ----------------------- | --------- | ------- |
-
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
-
-</center>
-
-
-Tabela 3: Inspeção dos Storyboards
+Tabela 2: Inspeção dos Storyboards
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
 | -- | -- | -- | -- |
@@ -78,9 +66,9 @@ Tabela 3: Inspeção dos Storyboards
 <details>
   <summary size="20"><b> Loja Online </b></summary> 
 <center>
-A tabela 4 mostra a avaliação da Análise HTA com base na lista de verificação
+A tabela 3 mostra a avaliação da Análise HTA com base na lista de verificação
 
-Tabela 4: Avaliação para Storyboard.
+Tabela 3: Avaliação para Storyboard.
 
 | ID |  Pergunta | Resposta <br> Sim/Não/ Incompleto/ Não se aplica | Observação | 
 | -- | -- | -- | -- |
@@ -117,4 +105,4 @@ Tabela 4: Avaliação para Storyboard.
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento e elaboração da lista de verificação              | Luana Medeiros | - | 12/06/2024 |
-| 1.1    | Adição avaliação storyboard Loja Online            | Bruno Araújo | - | 12/06/2024 |
+| 1.1    | Adição avaliação storyboard Loja Online            | Bruno Araújo | Luana Medeiros | 12/06/2024 |
