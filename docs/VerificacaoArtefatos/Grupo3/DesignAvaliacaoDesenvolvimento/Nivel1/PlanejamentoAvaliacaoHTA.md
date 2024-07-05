@@ -63,4 +63,4 @@ A tabela 2 mostra a avaliação do Planejamento da Avaliação da Análise de ta
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento | Iago Passaglia | - | 12/06/2024 |
+| 1.0 | Criação do documento | Iago Passaglia | Luana Medeiros | 12/06/2024 |
