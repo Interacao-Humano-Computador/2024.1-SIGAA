@@ -76,6 +76,6 @@
  
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação do documento| Pedro Izarias | - | 06/07/2024|
+| 1.0 | Criação do documento| Pedro Izarias | Iago Passaglia | 06/07/2024|
 
   
