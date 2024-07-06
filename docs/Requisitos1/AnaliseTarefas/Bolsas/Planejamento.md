@@ -64,4 +64,4 @@ Será incluída após a revisão final das fontes utilizadas.
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e planejamento do documento | Bruno Araújo | -] | 06/05/2024 |
+| 1.0 | Criação e planejamento do documento | Bruno Araújo | Iago Passaglia | 06/05/2024 |
