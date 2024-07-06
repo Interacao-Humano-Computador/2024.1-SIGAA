@@ -29,9 +29,7 @@ Contudo, a medida em que esse projeto for desenvolvido novas ferramentas podem s
 
 Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas. A **tabela 1** apresenta uma lista de sites e ferramentas online, as quais englobam plataformas de colaboração, softwares de design e outros sistemas, que podem ser sites ou aplicativos. Já a **tabela 2** detalha os objetos e os equipamentos necessários para as atividades presenciais, incluindo equipamentos de escritório e materiais de vídeo para a gravação de entrevistas. 
 
-## Ferramentas utilizadas
-
-  Serão apresentadas a seguir as nossas ferramentas alvo: 
+## Ferramentas online utilizadas
 
   A Tabela 1 contém o logo das ferramentas, a sua apresentação, a sua finalidade no projeto.
   
