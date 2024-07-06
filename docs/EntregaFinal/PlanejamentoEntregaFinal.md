@@ -16,7 +16,7 @@ Este documento tem como objetivo definir qual aluno será responsável por cada 
 | Artefato                                 | Autor | Data       |
 |------------------------------------------|-------|------------|
 | Site selecionado para o projeto          | Bruno Araújo      |    06/07/2024        |
-| Ciclo de vida utilizado                  |       |            |
+| Ciclo de vida utilizado                  |    Pedro Izarias   |      06/07/2024      |
 | Planejamento dos recursos e das entregas |       |            |
 | Execução do projeto                      | Bruno Araújo      |  06/07/2024           |
 | Resultado(s) alcançado(s)                |       |            |
