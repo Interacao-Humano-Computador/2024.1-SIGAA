@@ -267,5 +267,5 @@ Tabela 6: Bolsas
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-|  1.0   | Criação do documento                | Luana Medeiros  | --------------- | 26/06/2024 |
-|  1.1   | Realização das Inspeções            | Luana Medeiros  | --------------- | 26/06/2024 |
+|  1.0   | Criação do documento                | Luana Medeiros  | Iago Passaglia | 26/06/2024 |
+|  1.1   | Realização das Inspeções            | Luana Medeiros  | Iago Passaglia | 26/06/2024 |
