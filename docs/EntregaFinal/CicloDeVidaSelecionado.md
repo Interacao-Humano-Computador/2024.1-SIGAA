@@ -2,19 +2,15 @@
 
 ## Sumário 
 * [Introdução](#Introdução)
-* [Sobre o estudo](#Sobre-o-estudo)
 * [Modelos](#Modelos)
 * [Da metodologia](#Da-metodologia)
-* [Análise de Requisitos](#Análise-de-Requisitos)
-* [Design, Avaliação e Desenvolvimento](#Design-Avaliação-e-Desenvolvimento)
-* [Instalação](#Instalação)
 * [Motivos para a escolha](#Motivos-para-a-escolha) 
 * [Bibliografia](#Bibliografia)
 * [Histórico de versões](#Histórico-de-versões)
 
 ## Introdução
 
-O processo de design é um conjunto de atividades metodológicas e sistemáticas focadas em criar e melhorar a interação entre usuários e sistemas computacionais, tendo como objetivo desenvolver produtos que sejam não apenas funcionais e eficientes, mas também acessíveis, fáceis de usar e proporcionem experiências positivas aos usuários. Este processo envolve compreender profundamente as necessidades, comportamentos e contextos dos usuários, para então traduzir esses insights em soluções de design inovadoras e eficazes.
+
 
 ## Sobre o estudo
 
@@ -61,34 +57,10 @@ De acordo com as palavras de Nielsen (1993), a engenharia de usabilidade compree
 
 <font size="2"><p>Fonte: BARBOSA e SILVA, 2011, p.105.</p></font>
 
-## Da metodologia
+## Método escolhido
 
 Foi escolhido como método a engenharia de usabilidade proposta por Deborah Mayhew, cujo objetivo visa melhorar a experiência do usuário ao interagir com produtos digitais, garantindo que sejam fáceis de aprender, eficientes de usar, e que satisfaçam suas necessidades e expectativas. Se trata de uma abordagem sistemática para o desenvolvimento de interfaces de usuário com foco na usabilidade e é dividido em três fases principais:
 
-### Análise de Requisitos
-
-Esta fase envolve a compreensão profunda dos usuários, suas necessidades, objetivos e o contexto de uso do sistema. Inclui atividades como:
-- Análise de tarefas
-- Definição de perfis dos usuários (personas)
-- A estipulação de metas de usabilidade objetivas e mensuráveis
-
-### Design, Avaliação e Desenvolvimento
-
-Nesta fase, o foco é no design da interface do usuário, considerando os requisitos levantados anteriormente. Envolve:
-- Criação de protótipos de design em diferentes níveis de fidelidade, desde esboços iniciais até protótipos interativos
-- Avaliação de cada protótipo em termos de usabilidade, que pode incluir testes com usuários, avaliação heurística por especialistas e outros métodos de avaliação de usabilidade
-- Utilização do feedback dessas avaliações para refinar o design
-
-### Instalação
-
-A última fase do ciclo de vida abrange a implementação final do sistema e a sua entrega aos usuários. Inclui:
-- Avaliação pós-implementação, que coleta feedback dos usuários reais para identificar áreas para melhorias futuras ou para informar o desenvolvimento de novos sistemas
-
-A Engenharia de Usabilidade de Mayhew destaca a importância de um processo iterativo e centrado no usuário, onde a avaliação contínua e o refinamento do design são fundamentais para atingir altos níveis de usabilidade. Essa abordagem ajuda a garantir que os produtos finais sejam não apenas funcionais, mas também intuitivos, eficientes e agradáveis de usar.
-
-<font size="2"><p>Figura 3: Ciclo de Mayhew.</p></font>
-![Ciclo de Mayhew](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/109971590/92f6c7a8-26f8-440a-81db-9957343fd000)
-  <font size="2"><p>Fonte: [SlidePlayer](https://slideplayer.com.br/slide/13462698/).</p></font>
 
 ## Motivos para a escolha
 
@@ -97,6 +69,8 @@ Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível 
 
 ## Bibliografia
 
+1. Fonte: Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
+2. Moodle EAD UNIPAR. Desenvolvendo Interfaces: 'O ciclo de vida em Estrela'. Disponível em < https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/unidade-ii.html#:~:text=O%20ciclo%20de%20vida%20em%20Estrela%20%C3%A9%20iterativo%20e%2C%20assim,verificar%20se%20ela%20%C3%A9%20satisfat%C3%B3ria > Acessado em 6 e 7 de abril de 2024.
 
 ## Histórico de versões
 
