@@ -25,6 +25,9 @@ Inicialmente, as ferramentas utilizadas serão feitas com base em alguns projeto
 
 Contudo, a medida em que esse projeto for desenvolvido novas ferramentas podem ser utilizadas. Por isso será utilizda uma metodologia também incremental, onde novas ferramentas serão adicionadas nas tabelas abaixo.
 
+### Estrutura
+
+
 ## Ferramentas utilizadas
 
   Serão apresentadas a seguir as nossas ferramentas alvo: 
