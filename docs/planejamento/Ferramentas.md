@@ -2,6 +2,7 @@
 
 ## Sumário 
 * [Introdução](#Introdução)
+* [Organização da Estrutura](Organização-da-Estrutura)
 * [Ferramentas online utilizadas](#Ferramentas-utilizadas)
 * [Ferramentas necessárias para uso presencial](Ferramentas-necessárias-para-uso-presencial)
 * [Conclusão](#Conclusão)
@@ -13,6 +14,8 @@
 
 Este documento apresenta as ferramentas essenciais que serão utilizadas ao longo do projeto. Desse modo, a seleção dessas ferramentas visa garantir a eficiência e a eficácia em todas as etapas do desenvolvimento, uma vez que cada ferramenta foi escolhida para atender a necessidades específicas do projeto com base no cronograma da disciplína e nas experiências observadas ao analisar alguns projetos de semestres anteriores. 
 
+
+## 
 ## Ferramentas utilizadas
 
   Serão apresentadas a seguir as nossas ferramentas alvo: 
