@@ -45,4 +45,4 @@ Através deste cenário, é possível perceber a importância de uma interface c
 
 | Versão | Data     | Descrição                       | Autor(es)      | Revisor(es) |
 |--------|----------|---------------------------------|----------------|-------------|
-| 1.0    | 06/05/2024 | Criação da documentação de cenário | Bruno Araújo   | -           |
+| 1.0    | 06/05/2024 | Criação da documentação de cenário | Bruno Araújo   | Iago Passaglia |
