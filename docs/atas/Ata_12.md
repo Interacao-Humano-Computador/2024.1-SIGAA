@@ -73,4 +73,4 @@ Dessa forma, estão descritas na Tabela 3 as issues para a Sprint atual, onde ca
 
 | Versão | Alteração                                                                  | Responsável     | Revisor         | Data       |
 | ------ | -------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação da base da Ata da Reunião                                          | Breno Alexandre | -               | 18/06/2024 |
+| 1.0    | Criação da base da Ata da Reunião                                          | Breno Alexandre | Iago Passaglia | 18/06/2024 |
