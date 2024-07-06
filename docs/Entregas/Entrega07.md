@@ -16,4 +16,4 @@ Neste documento está contido o vídeo de apresentação da sétima entrega da m
 
 | Versão | Alteração                  | Responsável      | Revisor         | Data       |
 | ------ | -------------------------- | ---------------- | --------------- | ---------- |
-| 1.0    | Criação do documento       | Luana Medeiros  | - | 19/06/2024 |
+| 1.0    | Criação do documento       | Luana Medeiros  | Pedro Izarias | 19/06/2024 |
