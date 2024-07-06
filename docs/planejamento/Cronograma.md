@@ -361,6 +361,10 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta en
 
 ### Executado
 
+<details>
+
+<summary size="20"><b> Entrega 6.1 - Cronograma Executado </b></summary>
+
 Na Tabela 12, está explicitado o cronograma executado das atividades da sexta entrega parte 1.
 
 <p align="center"> Tabela 12. Verificação dos Artefatos 1 </p>
@@ -369,6 +373,8 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da sexta e
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+
+</details>
 
 ## Entrega 6.2 - Verificação dos Artefatos 2
 
@@ -396,6 +402,10 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta en
 
 ### Executado
 
+<details>
+
+<summary size="20"><b> Entrega 6.2 - Cronograma Executado </b></summary>
+
 Na Tabela 14, está explicitado o cronograma executado das atividades da sexta entrega parte 1.
 
 <p align="center"> Tabela 14. Verificação dos Artefatos 2 </p>
@@ -405,9 +415,15 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da sexta e
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
+</details>
+
 ## Entrega 7 - Relato do Protótipo de Papel
 
 ### Planejado
+
+<details>
+
+<summary size="20"><b> Entrega 7 - Cronograma Planejado </b></summary>
 
 Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
@@ -423,7 +439,13 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima 
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
+</details>
+
 ### Executado
+
+<details>
+
+<summary size="20"><b> Entrega 7 - Cronograma Executado </b></summary>
 
 Na Tabela 16, está explicitado o cronograma executado das atividades da sétima entrega.
 
@@ -434,7 +456,13 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da sétima
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
+</details>
+
 ## Entrega 8 - Relato dos resultados da avaliação do protótipo de alta fidelidade
+
+<details>
+
+<summary size="20"><b> Entrega 8 - Cronograma Planejado </b></summary>
 
 ### Planejado
 
@@ -445,13 +473,19 @@ Na Tabela 17, tem-se o cronograma planejado para todas as atividades da oitava e
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
 | Relato dos resultados da avaliação do protótipo de alta fidelidade| Início: 08/06 <br> Fim: 12/06 |       -        | Início: 13/06 <br> Fim: 13/06 |      -     |
-| Verificação e Ajustes de artefatos     | Início: 12/06 <br> Fim: 16/06 | -          | Início: 17/06 <br> Fim: 17/06 | -         |
+| Verificação e Ajustes de artefatos     | Início: 12/06 <br> Fim: 16/06 | -              | Início: 17/06 <br> Fim: 17/06 | -         |
 | Gravar apresentação                | Início: 17/06 <br> Fim: 17/06 | Todos              | Início: 18/06 <br> Fim: 18/06 | Todos            |
 | Correção pós apresentação          | Início: 20/06 <br> Fim: 23/06 | Todos              | Início: 23/06 <br> Fim: 23/06 | Todos            |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
+</details>
+
 ### Executado
+
+<details>
+
+<summary size="20"><b> Entrega 8 - Cronograma Executado </b></summary>
 
 Na Tabela 18, está explicitado o cronograma executado das atividades da oitava entrega.
 
@@ -461,6 +495,8 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+
+</details>
 
 ## Histórico de versão
 
@@ -473,11 +509,12 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 1.4    | Alteração da data da atividade "Correção pós-apresentação" e atualização do cronograma executado da etapa 1 | Breno Alexandre       | Larissa Stéfane | 07/04/2024 |
 | 1.5    | Padronização das legendas das tabelas                                                                       | Luana Medeiros        | Iago Passaglia  | 11/04/2024 |
 | 1.6    | Correção das legendas das figuras para norma ABNT                                                           | Iago Passaglia        | Breno Alexandre | 11/04/2024 |
-| 1.7    | Preechimento do planejado para a entrega 2 e 3, e do executado para a entrega 2                             | Breno Alexandre       | -               | 09/05/2024 |
-| 1.8    | Preechimento do executado para a entrega 2                                                                  | Breno Alexandre       | -               | 10/05/2024 |
-| 1.9    | Preechimento do executado para a entrega 3                                                                  | Breno Alexandre       | -               | 13/05/2024 |
-| 2.0    | Correção da padronização dos nomes da entrega 1                                                             | Breno Alexandre       | -               | 16/05/2024 |
-| 2.1    | Adição da "Correção pós apresentação" no cronograma executado da 3                                          | Breno Alexandre       | -               | 20/05/2024 |
-| 2.2    | Preechimento do executado para a entrega 4                                        | Luana Medeiros      | -               | 22/05/2024 |
-| 2.3    | Correção de alguns erros                                       | Larissa Stéfane      | -               | 03/06/2024 |
-| 2.4    | Adição do cronograma executado da entrega 5                                      | Larissa Stéfane      | -               | 03/06/2024 |
+| 1.7    | Preechimento do planejado para a entrega 2 e 3, e do executado para a entrega 2                             | Breno Alexandre       | Iago Passaglia| 09/05/2024 |
+| 1.8    | Preechimento do executado para a entrega 2                                                                  | Breno Alexandre       | Iago Passaglia | 10/05/2024 |
+| 1.9    | Preechimento do executado para a entrega 3                                                                  | Breno Alexandre       | Iago Passaglia | 13/05/2024 |
+| 2.0    | Correção da padronização dos nomes da entrega 1                                                             | Breno Alexandre       | Iago Passaglia | 16/05/2024 |
+| 2.1    | Adição da "Correção pós apresentação" no cronograma executado da 3                                          | Breno Alexandre       | Iago Passaglia | 20/05/2024 |
+| 2.2    | Preechimento do executado para a entrega 4                                        | Luana Medeiros      | Iago Passaglia | 22/05/2024 |
+| 2.3    | Correção de alguns erros                                       | Larissa Stéfane      | Iago Passaglia | 03/06/2024 |
+| 2.4    | Adição do cronograma executado da entrega 5                                      | Larissa Stéfane      | Iago Passaglia | 03/06/2024 |
+| 2.4    | Correção dos cronogramas                                   | Iago Passaglia     | Pedro Izarias | 06/07/2024 |
