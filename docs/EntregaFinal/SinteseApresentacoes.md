@@ -20,6 +20,10 @@ Chegamda a etapa final do projeto, este documento foi criado para reunir todas a
 
 ## Apresentação 1
 
+<details>
+
+<summary size="20"><b> Apresentação 1 </b></summary>
+
 **Vídeo 1: Apresentação 1**
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/3o5_myfI2X4" title="IHC - guardiões da saúde, reunião (07/04/2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -37,7 +41,15 @@ Fonte: [Bruno Araujo](https://www.youtube.com/watch?v=3o5_myfI2X4)
 | Luana Medeiros |
 | Pedro Izarias |
 
+</details>
+
+
 ## Apresentação 2
+
+<details>
+
+<summary size="20"><b> Apresentação 2 </b></summary>
+
 
 **Vídeo 2: Apresentação 2**
 
@@ -57,7 +69,14 @@ Fonte: [Bruno Araujo](https://www.youtube.com/watch?v=yA5WSMVG1vs)
 | Luana Medeiros |
 | Pedro Izarias |
 
+</details>
+
 ## Apresentação 3
+
+<details>
+
+<summary size="20"><b> Apresentação 3 </b></summary>
+
 
 **Vídeo 3: Apresentação 3**
 
@@ -77,7 +96,14 @@ Fonte: [Breno Alexandre](https://www.youtube.com/embed/X9Jlr7RH0as)
 | Luana Medeiros |
 | Pedro Izarias |
 
+</details>
+
 ## Apresentação 4
+
+<details>
+
+<summary size="20"><b> Apresentação 4 </b></summary>
+
 
 **Vídeo 4: Apresentação 4**
 
@@ -97,7 +123,14 @@ Fonte: [Iago Passaglia]((https://www.youtube.com/watch?v=qwyXyeaKul8)
 | Luana Medeiros |
 | Pedro Izarias |
 
+</details>
+
 ## Apresentação 5
+
+<details>
+
+<summary size="20"><b> Apresentação 5 </b></summary>
+
 
 **Vídeo 5: Apresentação 5**
 
@@ -117,7 +150,14 @@ Fonte: [Iago Passaglia](https://www.youtube.com/embed/Bnvix3p7I00)
 | Larissa Stéfane |
 | Pedro Izarias |
 
+</details>
+
 ## Apresentação 6.1
+
+<details>
+
+<summary size="20"><b> Apresentação 6.1 </b></summary>
+
 
 **Vídeo 6.1: Apresentação 6.1**
 
@@ -138,7 +178,14 @@ Fonte: [Iago Passaglia](https://www.youtube.com/embed/WdTnRNad9YQ)
 | Luana Medeiros |
 | Pedro Izarias |
 
+</details>
+
 ## Apresentação 7
+
+<details>
+
+<summary size="20"><b> Apresentação 7 </b></summary>
+
 
 **Vídeo 7: Apresentação 7**
 
@@ -159,7 +206,14 @@ Fonte: [Iago Passaglia](https://www.youtube.com/embed/Nhzn0LmtBSg)
 | Luana Medeiros |
 | Pedro Izarias |
 
+</details>
+
 ## Apresentação 6.2
+
+<details>
+
+<summary size="20"><b> Apresentação 6.2 </b></summary>
+
 
 **Vídeo 8: Apresentação 6.2**
 
@@ -177,7 +231,13 @@ Fonte: [Luana Medeiros](https://youtu.be/O6hdGPQHiFc)
 | Luana Medeiros |
 | Pedro Izarias |
 
+</details>
+
 ## Apresentação 8
+
+<details>
+
+<summary size="20"><b> Apresentação 8 </b></summary>
 
 **Vídeo 9: Apresentação 8**
 
@@ -194,8 +254,14 @@ Fonte: [Iago Passaglia](https://youtu.be/0qwj1Z5Y-Bs)
 | Iago Passaglia |
 | Pedro Izarias |
 
+</details>
 
 ## Apresentação 9
+
+<details>
+
+<summary size="20"><b> Apresentação 9 </b></summary>
+
 
 **Vídeo 10: Apresentação 9**
 
@@ -217,6 +283,7 @@ Fonte: []()
 | Luana Medeiros |
 | Pedro Izarias |
 
+</details>
 
 ## Histórico de Versão
 
