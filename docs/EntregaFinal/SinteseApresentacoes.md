@@ -43,6 +43,7 @@ Fonte: [Bruno Araujo](https://www.youtube.com/watch?v=3o5_myfI2X4)
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/yA5WSMVG1vs" title="Entrega2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
+
 Fonte: [Bruno Araujo](https://www.youtube.com/watch?v=yA5WSMVG1vs)
 
 **Tabela 2: Participantes**
@@ -69,6 +70,7 @@ Fonte: [Bruno Araujo](https://www.youtube.com/watch?v=yA5WSMVG1vs)
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/X9Jlr7RH0as" title="IHC /Grupo 2/SIGAA - Apresentação 3/Análise de Requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
+
 Fonte: [Breno Alexandre](https://www.youtube.com/embed/X9Jlr7RH0as)
 
 **Tabela 3: Participantes**
@@ -94,7 +96,8 @@ Fonte: [Breno Alexandre](https://www.youtube.com/embed/X9Jlr7RH0as)
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/qwyXyeaKul8" title="Entrega 4 - SIGAA (Grupo 2) IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
-Fonte: [Iago Passaglia]((https://www.youtube.com/watch?v=qwyXyeaKul8)
+
+Fonte: [Iago Passaglia](https://www.youtube.com/watch?v=qwyXyeaKul8)
 
 
 **Tabela 4: Participantes**
@@ -119,6 +122,7 @@ Fonte: [Iago Passaglia]((https://www.youtube.com/watch?v=qwyXyeaKul8)
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Bnvix3p7I00" title="Entrega 5 - IHC Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
+
 Fonte: [Iago Passaglia](https://www.youtube.com/embed/Bnvix3p7I00)
 
 
@@ -144,6 +148,7 @@ Fonte: [Iago Passaglia](https://www.youtube.com/embed/Bnvix3p7I00)
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/WdTnRNad9YQ" title="Entrega 6.1 - IHC Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
+
 Fonte: [Iago Passaglia](https://www.youtube.com/embed/WdTnRNad9YQ)
 
 
@@ -170,6 +175,7 @@ Fonte: [Iago Passaglia](https://www.youtube.com/embed/WdTnRNad9YQ)
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Nhzn0LmtBSg" title="Entrega 7 - IHC - Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
+
 Fonte: [Iago Passaglia](https://www.youtube.com/embed/Nhzn0LmtBSg)
 
 
@@ -196,6 +202,7 @@ Fonte: [Iago Passaglia](https://www.youtube.com/embed/Nhzn0LmtBSg)
 
 <iframe width="1383" height="485" src="https://www.youtube.com/embed/O6hdGPQHiFc" title="Verificação Grupo 2 - Interação Humano Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
+
 Fonte: [Luana Medeiros](https://youtu.be/O6hdGPQHiFc)
 
 **Tabela 8: Participantes**
@@ -218,6 +225,7 @@ Fonte: [Luana Medeiros](https://youtu.be/O6hdGPQHiFc)
 
 <iframe width="1383" height="628" src="https://www.youtube.com/embed/0qwj1Z5Y-Bs" title="Entrega 8 - Protótipo de alta fidelidade - Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
+
 Fonte: [Iago Passaglia](https://youtu.be/0qwj1Z5Y-Bs)
 
 **Tabela 9: Participantes**
@@ -241,6 +249,7 @@ Fonte: [Iago Passaglia](https://youtu.be/0qwj1Z5Y-Bs)
 
 VIDEO!
 <br>
+
 Fonte: []()
 
 
