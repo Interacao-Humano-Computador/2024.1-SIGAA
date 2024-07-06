@@ -1,11 +1,11 @@
 
-# Ferramentas:
+# Ferramentas
 
 ## Sumário 
 * [Introdução](#Introdução)
 * [Ferramentas utilizadas](#Ferramentas-utilizadas)
 * [Conclusão](#Conclusão)
-* [Referências bibliográficas](#Referências-bibliográficas)
+* [Bibliografia](#Bibliografia)
 * [Histórico de versão](#Histórico-de-versão)
 
 
@@ -52,7 +52,7 @@
 
   É posível observar a diversidade de ferramentas, desde as voltadas para gerenciamento de projetos até as de design e prototipação. Consequentemente, isso reflete o comprometimento da equipe em adotar abordagens e técnicas modernas e eficazes. 
 
-## Referências bibliográficas:
+## Bibliografia
 
    1. GitHub. Disponível em: [Github](https://github.com/explore). Acesso em: 
    2. WhatsApp. Disponível em: [Whatsapp](https://www.whatsapp.com/?lang=pt_BR) . Acesso em: 27 de março 2024.
