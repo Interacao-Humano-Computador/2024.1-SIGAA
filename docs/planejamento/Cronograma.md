@@ -517,4 +517,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | 2.2    | Preechimento do executado para a entrega 4                                        | Luana Medeiros      | Iago Passaglia | 22/05/2024 |
 | 2.3    | Correção de alguns erros                                       | Larissa Stéfane      | Iago Passaglia | 03/06/2024 |
 | 2.4    | Adição do cronograma executado da entrega 5                                      | Larissa Stéfane      | Iago Passaglia | 03/06/2024 |
-| 2.4    | Correção dos cronogramas                                   | Iago Passaglia     | Pedro Izarias | 06/07/2024 |
+| 2.5    | Correção dos cronogramas                                   | Iago Passaglia     | Pedro Izarias | 06/07/2024 |
