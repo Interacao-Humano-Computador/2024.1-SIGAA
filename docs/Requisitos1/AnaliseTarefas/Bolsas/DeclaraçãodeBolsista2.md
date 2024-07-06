@@ -175,5 +175,5 @@ Esta análise GOMS revela áreas chave onde melhorias podem ser feitas para torn
 | Versão | Data     | Descrição                           | Autor(es)              | Revisor(es)         |
 | ------ | -------- | ----------------------------------- | ---------------------- | ------------------- |
 | 1.0    | 05/05/2024 | Criação do documento | Bruno Araújo | -    |
-| 1.1 | 06/05/2024 | Reorganização da estrutura e adição da imagem | Bruno Araújo | ------------------- |
+| 1.1 | 06/05/2024 | Reorganização da estrutura e adição da imagem | Bruno Araújo | Iago Passaglia |
 
