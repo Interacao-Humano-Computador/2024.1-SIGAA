@@ -78,10 +78,6 @@
  
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.1 | Criação do documento| Larissa Stéfane | Luana Medeiros | 28/03/2024|
-| 1.2 | Adição e modificação de algumas ferramentas| Larissa Stéfane | Luana Medeiros | 31/03/2024|
-| 1.3 | Correçao de versionamento | Iago Passaglia | Larissa Stéfane| 02/04/2024 |
-| 1.4 | Adição de sumário e conclusão| Larissa Stéfane | Pedro Augusto | 05/04/2024 |
-| 1.5 | Adição de mais ferramentas| Larissa Stéfane | Pedro Augusto | 05/04/2024 |
-| 1.6 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Bruno Araújo | 11/04/2024 |
+| 1.0 | Criação do documento| Pedro Izarias | - | 06/07/2024|
+
   
