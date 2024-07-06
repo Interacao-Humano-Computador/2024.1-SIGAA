@@ -29,8 +29,8 @@ Este modelo segue uma abordagem iterativa e flexível, sem uma sequência fixa d
 
 
   <font size="2"><p>Figura 2: Ciclo de vida em estrela</p></font>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/Estrela.png">
-  <font size="2"><p  ">Fonte: [SlidePlayer](https://slideplayer.com.br/slide/13462698/).</p></font>
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/estrela.png">
+  <font size="2"><p>Fonte: [SlidePlayer](https://slideplayer.com.br/slide/13462698/).</p></font>
 
 
 ### Engenharia de Usabilidade de Nielsen:
