@@ -86,6 +86,7 @@ Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas.
    15. Kdenlive. Disponível em:  [Kdenlive](https://kdenlive.org/) . Acesso em: 28 de março 2024.
    16. Uxpressia. Disponível em: [Uxpressia](https://uxpressia.com/?gs2id=CjsaCQiAqsitBhDlARIsAGMR1RixghUQjuWARa8LoLw9WNnE2i9HzhshG2-dyV_IS3ok6UH048kqGIMaAlbLEALw_wcB&ource=vaneadssgaolpo&edium=vasasdneraukilop2&ampaign=ganikolopare3da&ontent=ikoloete&via=sergei&erm=bananaterjikulop&gad_source=1&gclid=EAIaIQobChMIluCI_buXhQMVPQ2tBh15zwUgEAAYASAAEgKV__D_BwE) . Acesso em: 28 de março 2024.
    17. DesignEvo. Disponível em <https://www.designevo.com/>. Acesso em: 05 de abril 2024.
+   18. Artbreeder. Disponível em <https://www.artbreeder.com/create>. Acesso em: 05 de julho de 2024.
 
  ## Histórico de versão:
  
