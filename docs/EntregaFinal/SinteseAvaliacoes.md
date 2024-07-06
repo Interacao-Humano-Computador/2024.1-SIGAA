@@ -20,6 +20,7 @@ Com a conclusão do projeto, foi realizada uma síntese das avaliações para fa
 | Avaliação da Análise de Tarefas | 6 | Larissa Stéfane, Iago Passaglia, Bruno Araújo e Pedro Izarias | Entrevistas |
 | Avaliação do Protótipo de Papel | 7 | Larissa Stéfane, Iago Passaglia, Bruno Araújo, Breno Alexandre, Luana Medeiros e Pedro Izarias | Entrevistas |
 | Avaliação do Protótipo de Alta Fidelidade | 4 | Iago Passaglia, Bruno Araújo e Pedro Izarias | Teste de Usabilidade |
+
 <br>
 
 Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
