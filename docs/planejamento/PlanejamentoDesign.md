@@ -9,7 +9,7 @@
 * [Design, Avaliação e Desenvolvimento](#Design-Avaliação-e-Desenvolvimento)
 * [Instalação](#Instalação)
 * [Motivos para a escolha](#Motivos-para-a-escolha) 
-* [Referências bibliográficas](#Referências)
+* [Bibliografia](#Bibliografia)
 * [Histórico de versões](#Histórico-de-versões)
 
 ## Introdução
@@ -95,7 +95,7 @@ A Engenharia de Usabilidade de Mayhew destaca a importância de um processo iter
 O método de Mayhew é adequado para a avaliação de sistemas complexos, como o SIGAA, pois como demonstra a Figura 3 o método oferece uma abordagem estruturada que abrange desde a análise de requisitos até a instalação e avaliação pós-implementação.
 Utilizando o framework DECIDE em conjunto com o método de Mayhew, é possível realizar uma avaliação detalhada que identifica não apenas os problemas de usabilidade, mas também fornece insights para melhorias contínuas no sistema.
 
-## Referências
+## Bibliografia
 
 1. Fonte: Barbosa, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
 2. Moodle EAD UNIPAR. Desenvolvendo Interfaces: 'O ciclo de vida em Estrela'. Disponível em < https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/unidade-ii.html#:~:text=O%20ciclo%20de%20vida%20em%20Estrela%20%C3%A9%20iterativo%20e%2C%20assim,verificar%20se%20ela%20%C3%A9%20satisfat%C3%B3ria > Acessado em 6 e 7 de abril de 2024.
