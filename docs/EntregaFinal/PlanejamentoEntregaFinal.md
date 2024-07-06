@@ -22,7 +22,7 @@ Este documento tem como objetivo definir qual aluno será responsável por cada 
 | Resultado(s) alcançado(s)                |       |            |
 | Síntese de ferramentas                   |   Pedro Izarias    |      06/07/2024      |
 | Síntese de técnicas                      |       |            |
-| Síntese dos artefatos                    |       |            |
+| Síntese dos artefatos                    |  Larissa Stéfane     |    07/07/2024        |
 | Síntese das avaliações                   | Iago Passaglia | 06/07/2024 |
 | Síntese das verificações                 |       |            |
 | Síntese das apresentações                | Iago Passaglia | 06/07/2024 |
