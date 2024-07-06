@@ -4,19 +4,6 @@
   - [Quem somos](Equipe/QuemSomos.md)
   - [Dinâmica da equipe](Equipe/DinamicaEquipe.md)
   - [Heatmap](Equipe/Heatmap.md)
-
-* Entrega Final
-  - [Site Selecionado para o Projeto](EntregaFinal/SiteSelecionado.md)
-  - [Ciclo de Vida Utilizado](EntregaFinal/CicloDeVidaSelecionado.md)
-  - [Planejamento dos Recursos e das Entregas](EntregaFinal/Cronogramas.md)
-  - [Execução do Projeto](EntregaFinal/ExecucaoProjeto.md)
-  - [Resultado(s) Alcançado(s)](EntregaFinal/ResultadosAlcancados.md)
-  - [Síntese de Ferramentas](EntregaFinal/FerramentasUtilizadas.md)
-  - [Síntese de Técnicas](EntregaFinal/TecnicasUtilizadas.md)
-  - [Síntese dos Artefatos](EntregaFinal/ArtefatosCriados.md)
-  - [Síntese das Avaliações](EntregaFinal/SinteseAvaliacoes.md)
-  - [Síntese das Verificações](EntregaFinal/SinteseVerificações.md)
-  - [Síntese das Apresentações](EntregaFinal/SinteseApresentacoes.md)
   
 * Reuniões
   - [Ata 1](atas/Ata_01.md)
@@ -254,5 +241,16 @@
            - [Relato dos Resultados da Avaliação da Análise de Tarefas](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)
            - [Relato dos Resultados do Storyboard](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md)
        
-
+   * Entrega Final
+     - [Site Selecionado para o Projeto](EntregaFinal/SiteSelecionado.md)
+     - [Ciclo de Vida Utilizado](EntregaFinal/CicloDeVidaSelecionado.md)
+     - [Planejamento dos Recursos e das Entregas](EntregaFinal/Cronogramas.md)
+     - [Execução do Projeto](EntregaFinal/ExecucaoProjeto.md)
+     - [Resultado(s) Alcançado(s)](EntregaFinal/ResultadosAlcancados.md)
+     - [Síntese de Ferramentas](EntregaFinal/FerramentasUtilizadas.md)
+     - [Síntese de Técnicas](EntregaFinal/TecnicasUtilizadas.md)
+     - [Síntese dos Artefatos](EntregaFinal/ArtefatosCriados.md)
+     - [Síntese das Avaliações](EntregaFinal/SinteseAvaliacoes.md)
+     - [Síntese das Verificações](EntregaFinal/SinteseVerificações.md)
+     - [Síntese das Apresentações](EntregaFinal/SinteseApresentacoes.md)
 
