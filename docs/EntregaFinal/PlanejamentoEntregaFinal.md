@@ -9,7 +9,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo definir qual aluno será responsável por cada artefato da entrega final do projeto. Quatro integrantes ficarão com dois artefatos cada um, enquanto os outros dois integrantes ficarão com um artefato cada um. Abaixo, a tabela 1 apresenta os artefatos, seus respectivos autores e as datas de entrega.
+Este documento tem como objetivo definir qual aluno será responsável por cada artefato da entrega final do projeto. Cinco integrantes ficarão com dois artefatos cada um, enquanto um integrantes ficará com um artefato. Abaixo, a tabela 1 apresenta os artefatos, seus respectivos autores e as datas de entrega.
 
 ## Distribuição de Artefatos
 
