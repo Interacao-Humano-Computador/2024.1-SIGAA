@@ -2,7 +2,8 @@
 
 ## Sumário 
 * [Introdução](#Introdução)
-* [Ferramentas utilizadas](#Ferramentas-utilizadas)
+* [Ferramentas online utilizadas](#Ferramentas-utilizadas)
+* [Ferramentas necessárias para uso presencial](Ferramentas-necessárias-para-uso-presencial)
 * [Conclusão](#Conclusão)
 * [Referências bibliográficas](#Referências-bibliográficas)
 * [Histórico de versão](#Histórico-de-versão)
