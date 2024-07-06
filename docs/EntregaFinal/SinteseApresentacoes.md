@@ -12,6 +12,7 @@
 - [Apresentação 6.2](#apresentação-62)
 - [Apresentação 8](#apresentação-8)
 - [Apresentação 9](#apresentação-9)
+- [Histórico de Versão](#histórico-de-versão)
 
 ## Introdução
 Chegamda a etapa final do projeto, este documento foi criado para reunir todas as apresentações realizadas ao longo do processo. Nosso objetivo é facilitar a consulta e o estudo dos conteúdos apresentados, proporcionando uma visão consolidada e organizada das informações compartilhadas.
@@ -215,3 +216,10 @@ Fonte: []()
 | Larissa Stéfane |
 | Luana Medeiros |
 | Pedro Izarias |
+
+
+## Histórico de Versão
+
+| Descrição                    | Autor | Revisor | Data       |
+|------------------------------|-------|---------|------------|
+| Criação e elaboração do documento | Iago Passaglia | Pedro Izarias | 06/07/2024 |
