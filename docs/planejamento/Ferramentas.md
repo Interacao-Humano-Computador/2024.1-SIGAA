@@ -27,6 +27,7 @@ Contudo, a medida em que esse projeto for desenvolvido novas ferramentas podem s
 
 ### Estrutura
 
+Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas. A **tabela 1** apresenta uma lista de sites e ferramentas online, as quais englobam plataformas de colaboração, softwares de design e outros sistemas, que podem ser sites ou aplicativos. 
 
 ## Ferramentas utilizadas
 
