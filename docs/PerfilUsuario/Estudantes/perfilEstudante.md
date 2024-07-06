@@ -127,22 +127,23 @@ Com isso, os resultados dessas três técnicas foram analisados e condensados e 
 
 ### Em relação ao SIGAA
 #### Funcionalidades mais utilizadas
+
 - Segundo as entrevistas, as funcionalidades mais utilizadas são:
 Realização de matrículas.
-    • Acompanhar notícias que os professores colocam no portal da turma.
-    • Verificar horário das turmas.
-    • Verificar local das aulas.
-    • Verificar nota.
-    • Verificar frequência.
-    • Verificar menção.
-    • Emitir Histórico.
-    • Realizar cadastro único.
-    • Visualizar a estrutura curricular.
-    • Alteração de dados.
-    • Realizar cadastro na DACES.
-    • Cadastro de Estágio.
-    • Consultar datas das provas.
-    • Consultar saldo do RU.
+  - Acompanhar notícias que os professores colocam no portal da turma.
+  - Verificar horário das turmas.
+  - Verificar local das aulas.
+  - Verificar nota.
+  - Verificar frequência.
+  - Verificar menção.
+  - Emitir Histórico.
+  - Realizar cadastro único.
+  - Visualizar a estrutura curricular.
+  - Alteração de dados.
+  - Realizar cadastro na DACES.
+  - Cadastro de Estágio.
+  - Consultar datas das provas.
+  - Consultar saldo do RU.
 
 ## Tipos De Perfis 
 
