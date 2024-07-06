@@ -17,6 +17,8 @@ Este documento apresenta as ferramentas essenciais que serão utilizadas ao long
 
 ## Organização da Estrutura
 
+Inicialmente, as ferramentas utilizadas serão feitas com base em alguns projeto passados, uma vez que eles já indicaram quais as ferramentas que utilizaram em todas as fases do projeto. Desse modo os projetos anteriores que serviram como um guia para este projeto sobre o SIGAA são:
+
 ## Ferramentas utilizadas
 
   Serão apresentadas a seguir as nossas ferramentas alvo: 
