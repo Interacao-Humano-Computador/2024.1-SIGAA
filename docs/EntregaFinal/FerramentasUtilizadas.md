@@ -24,7 +24,7 @@
   
   **Observação:** Para ser direcionado ao link das plataformas, basta clicar em seu nome. 
 
-  Tabela 1. 
+  Tabela 1:
 
   | Logo | Ferramenta | Apresentação | Finalidade |
   | -----| ---------- | ------------ | ---------- | 
