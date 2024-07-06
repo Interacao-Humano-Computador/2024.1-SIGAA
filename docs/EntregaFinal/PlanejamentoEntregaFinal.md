@@ -26,7 +26,6 @@ Este documento tem como objetivo definir qual aluno será responsável por cada 
 | Síntese das avaliações                   | Iago Passaglia | 06/07/2024 |
 | Síntese das verificações                 |       |            |
 | Síntese das apresentações                | Iago Passaglia | 06/07/2024 |
-| Síntese dos artefatos                    |       |            |
 
 ## Histórico de Versão
 
