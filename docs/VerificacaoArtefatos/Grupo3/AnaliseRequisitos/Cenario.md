@@ -129,4 +129,4 @@ Tabela X: Rastreamento de encomendas
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
 | 1.0    | Criação do documento  e elaboração da lista de verificação              | Larissa Stéfane |  Bruno Araújo        | 12/06/2024 |
-| 1.1    | Inspeção do cenário de Rastreamento de encomendas | Luana Medeiros |  -       | 12/06/2024 |
+| 1.1    | Inspeção do cenário de Rastreamento de encomendas | Luana Medeiros |  Iago Passaglia | 12/06/2024 |
