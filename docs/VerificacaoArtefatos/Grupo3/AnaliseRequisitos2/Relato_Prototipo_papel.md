@@ -53,5 +53,5 @@ Tabela 1:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 02/06/2024 | Criação do documento |Bruno Araújo | -- |
+| `1.0`  | 02/06/2024 | Criação do documento |Bruno Araújo | Iago Passaglia |
 
