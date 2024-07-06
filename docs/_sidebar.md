@@ -241,7 +241,7 @@
            - [Relato dos Resultados da Avaliação da Análise de Tarefas](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA.md)
            - [Relato dos Resultados do Storyboard](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md)
        
-   * Entrega Final
+  * Entrega Final
      - [Site Selecionado para o Projeto](EntregaFinal/SiteSelecionado.md)
      - [Ciclo de Vida Utilizado](EntregaFinal/CicloDeVidaSelecionado.md)
      - [Planejamento dos Recursos e das Entregas](EntregaFinal/Cronogramas.md)
