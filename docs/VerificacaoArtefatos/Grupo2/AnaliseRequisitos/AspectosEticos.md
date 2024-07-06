@@ -83,5 +83,5 @@ Não foram encontrados erros.
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do Documento                | Luana Medeiros  | --------------- | 26/06/2024 |
-| 1.1    | Adição da Inspeção                  | Luana Medeiros  | --------------- | 26/06/2024 |
+| 1.0    | Criação do Documento                | Luana Medeiros  | Iago Passaglia | 26/06/2024 |
+| 1.1    | Adição da Inspeção                  | Luana Medeiros  | Iago Passaglia | 26/06/2024 |
