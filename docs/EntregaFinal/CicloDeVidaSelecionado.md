@@ -10,15 +10,7 @@
 
 ## Introdução
 
-
-
-## Sobre o estudo
-
-O estudo foi orientado pelo livro de Barbosa e Silva (2010). Segundo os autores, o processo de design pode ser dividido em três atividades básicas:
-
-1. **Análise da Situação Atual:** É o estudo e interpretação da situação atual na qual o sistema será inserido, isso inclui compreender as necessidades, características e restrições dos usuários, bem como identificar problemas e oportunidades de melhoria.
-2. **Síntese de uma Intervenção:** Nesta etapa, é planejado e executada uma intervenção no sistema para melhorar a interação entre os usuários e o computador. Isso pode envolver a criação de protótipos, o desenvolvimento de novas funcionalidades ou a reformulação de aspectos existentes do sistema.
-3. **Avaliação da Nova Situação:** Por fim, realizar uma avaliação para verificar o impacto da intervenção realizada, comparando a situação anterior à intervenção com a nova situação. Isso permite aos designers avaliar se as mudanças implementadas alcançaram os objetivos desejados e atenderam às necessidades dos usuários de forma satisfatória.
+Este artefato tem o objetivo de apresentar o ciclo de vida selecionado para orientar a realização de todas as etapas do projeto, assim como suas características e pontos decisivos para sua escolha. A seguir, teremos também uma breve explicação dos ciclos de vida considerados para a avaliação mas que não foram escolhidos.
 
 ## Modelos
 
@@ -28,7 +20,7 @@ O estudo foi orientado pelo livro de Barbosa e Silva (2010). Segundo os autores,
 Em um ciclo de vida simples, como podemos ver na Figura 1, a análise inicial é realizada para compreender os requisitos do usuário e as necessidades do sistema. Em seguida, o design é elaborado com base nessas informações, criando interfaces e funcionalidades que atendam aos objetivos estabelecidos. Após o design, a implementação ocorre, na qual o sistema é desenvolvido de acordo com as especificações do design. Finalmente, a avaliação é conduzida para verificar se o sistema atende aos requisitos e expectativas do usuário, identificando possíveis melhorias e ajustes.
 
   <font size="2"><p>Figura 1: Ciclo de vida simples</p></font>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/Simples.png">
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/simples.png">
   <font size="2"><p>Fonte: [SlidePlayer](https://slideplayer.com.br/slide/13462698/).</p></font>
 
 ### Ciclo de vida em Estrela:
