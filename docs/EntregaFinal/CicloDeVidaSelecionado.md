@@ -53,7 +53,7 @@ De acordo com as palavras de Nielsen (1993), a engenharia de usabilidade compree
 
 Foi escolhido como método a engenharia de usabilidade proposta por Deborah Mayhew, cujo objetivo visa melhorar a experiência do usuário ao interagir com produtos digitais, garantindo que sejam fáceis de aprender, eficientes de usar, e que satisfaçam suas necessidades e expectativas. Se trata de uma abordagem sistemática para o desenvolvimento de interfaces de usuário com foco na usabilidade e é dividido em três fases principais:
 
-<font size="2"><p>Figura 3: Enegnharia de Usabilidade de Mayhew</p></font>
+<font size="2"><p>Figura 3: Engenharia de Usabilidade de Mayhew</p></font>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/may.png">
 <font size="2"><p>Fonte: [SlidePlayer](https://slideplayer.com.br/slide/13462698/)</p></font>
 
