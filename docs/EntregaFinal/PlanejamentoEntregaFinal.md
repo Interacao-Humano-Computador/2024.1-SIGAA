@@ -20,7 +20,7 @@ Este documento tem como objetivo definir qual aluno será responsável por cada 
 | Planejamento dos recursos e das entregas |       |            |
 | Execução do projeto                      | Bruno Araújo      |  06/07/2024           |
 | Resultado(s) alcançado(s)                |       |            |
-| Síntese de ferramentas                   |       |            |
+| Síntese de ferramentas                   |   Pedro Izarias    |      06/07/2024      |
 | Síntese de técnicas                      |       |            |
 | Síntese dos artefatos                    |       |            |
 | Síntese das avaliações                   | Iago Passaglia | 06/07/2024 |
