@@ -89,4 +89,4 @@ Tabela 3: Inspeção dos Storyboards
 
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
 | ------ | ----------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento e elaboração da lista de verificação  | Luana Medeiros | - | 12/06/2024 |
+| 1.0    | Criação do documento e elaboração da lista de verificação  | Luana Medeiros | Iago Passaglia | 12/06/2024 |
