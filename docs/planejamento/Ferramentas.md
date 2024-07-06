@@ -23,6 +23,8 @@ Inicialmente, as ferramentas utilizadas serão feitas com base em alguns projeto
 - [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/ferramentas)
 - [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)
 
+Contudo, a medida em que esse projeto for desenvolvido novas ferramentas podem ser utilizadas. Por isso será utilizda uma metodologia também incremental, onde novas ferramentas serão adicionadas nas tabelas abaixo.
+
 ## Ferramentas utilizadas
 
   Serão apresentadas a seguir as nossas ferramentas alvo: 
