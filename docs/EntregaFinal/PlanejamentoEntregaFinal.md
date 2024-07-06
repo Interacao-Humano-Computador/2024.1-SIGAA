@@ -17,14 +17,14 @@ Este documento tem como objetivo definir qual aluno será responsável por cada 
 |------------------------------------------|-------|------------|
 | Site selecionado para o projeto          | Bruno Araújo      |    06/07/2024        |
 | Ciclo de vida utilizado                  |    Pedro Izarias   |      06/07/2024      |
-| Planejamento dos recursos e das entregas |       |            |
+| Planejamento dos recursos e das entregas | Luana Medeiros |  06/07/2024  |
 | Execução do projeto                      | Bruno Araújo      |  06/07/2024           |
-| Resultado(s) alcançado(s)                |       |            |
+| Resultado(s) alcançado(s)                | Luana Medeiros | 06/07/2024  |
 | Síntese de ferramentas                   |   Pedro Izarias    |      06/07/2024      |
-| Síntese de técnicas                      |       |            |
+| Síntese de técnicas                      | Breno Alexandre| 06/07/2024 |
 | Síntese dos artefatos                    |  Larissa Stéfane     |    07/07/2024        |
 | Síntese das avaliações                   | Iago Passaglia | 06/07/2024 |
-| Síntese das verificações                 |       |            |
+| Síntese das verificações                 | Breno Alexandre |06/07/2024 |
 | Síntese das apresentações                | Iago Passaglia | 06/07/2024 |
 
 ## Histórico de Versão
