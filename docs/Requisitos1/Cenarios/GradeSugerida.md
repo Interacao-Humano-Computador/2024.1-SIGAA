@@ -59,4 +59,4 @@ Os cenários demonstram como João, um estudante universitário, utiliza a funci
 
 | Versão | Alteração                     | Responsável    | Revisor         | Data       |
 | ------ | ----------------------------- | -------------- | --------------- | ---------- |
-| 1.0    | Criação do documento          | Luana Medeiros | -               | 20/06/2024 |
+| 1.0    | Criação do documento          | Luana Medeiros | Iago Passaglia | 20/06/2024 |
