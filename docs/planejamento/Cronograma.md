@@ -322,15 +322,15 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da quinta 
 
 <p align="center"> Tabela 10. Relato dos resultados do Story Board e da Análise de tarefas </p>
 
-| Atividade                          | Período de desenvolvimento    | Autor(es)          | Data                       | Revisor(es)      |
-| ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
+| Atividade                          | Autor(es)          | Data                       | Revisor(es)      |
+| ---------------------------------- | ------------------ | ----------------------------- | ---------------- |
 | Realizar a entrevista para a avaliação do storyboard e da análise de tarefas | Breno, Bruno, Iago, Larissa | 30/05/2024 - 03/06/2024 | Breno, Bruno e Iago |
 | Criar o documento dos relatos dos resultados do storyboard | Larissa Stéfane | 02/06/2024 | Iago Passaglia |
 | Criar o documento dos relatos dos resultados da análise de tarefas | Larissa Stéfane | 02/06/2024 | Bruno Araújo |
 | Preencher os resultados do storyboard (Vai ter uma sessão para cada funcionalidade) | Breno, Bruno, Iago, Larissa e Pedro. | 30/05/2024 - 03/06/2024 | Breno, Bruno e Iago |
 | Preencher os resultados da análise de tarefas (Vai ter uma sessão para cada funcionalidade | Breno, Bruno, Iago, Larissa e Pedro. | 30/05/2024 - 03/06/2024 | Breno, Bruno e Iago |
-| Planejamento da avaliação avaliação do Protótipo de Papel | Larissa Stéfane | 02/06/2024 | - |
-| Planejamento da entrevista da avaliação do Protótipo de Papel | Larissa Stéfane | 02/06/2024 | - |
+| Planejamento da avaliação avaliação do Protótipo de Papel | Larissa Stéfane | 02/06/2024 | Breno Alexandre	 |
+| Planejamento da entrevista da avaliação do Protótipo de Papel | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia | 02/06/2024 | Pedro Izarias, Larissa Stéfane e Iago Passaglia |
 
 <font size="3"><p style="text-align: center">Fonte: [[Larissa Stéfane](https://github.com/SkywalkerSupreme)).</p></font>
 
@@ -350,17 +350,14 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta en
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-| Vericação e relato de artefatos        | Início: 22/05 <br> Fim: 23/05 |       -        | Início: 24/05 <br> Fim: 24/05 |      -     |
-| Ajustes de artefatos        | Início: 23/05 <br> Fim: 25/05 |       -        | Início: 25/05 <br> Fim: 25/05 |      -     |
-| Gravar apresentação                | Início: 25/05 <br> Fim: 25/05 | Todos              | Início: 26/05 <br> Fim: 26/05 | Todos            |
-| Correção pós apresentação          | Início: 28/05 <br> Fim: 29/05 | Todos              | Início: 29/05 <br> Fim: 30/05 | Todos            |
+| Vericação e relato de artefatos        | Início: 22/05 <br> Fim: 23/05 | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia | Início: 24/05 <br> Fim: 24/05 | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia |
+| Gravar apresentação                | Início: 25/05 <br> Fim: 25/05 | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia  | Início: 26/05 <br> Fim: 26/05 | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia   |
 
 <font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
 
 </details>
 
 ### Executado
-
 <details>
 
 <summary size="20"><b> Entrega 6.1 - Cronograma Executado </b></summary>
@@ -371,8 +368,10 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da sexta e
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
+| Vericação e relato de artefatos        | Início: 10/06 <br> Fim: 12/06 | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia | Início: 11/06 <br> Fim: 12/06 | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia |
+| Gravar apresentação                | Início: 12/06 <br> Fim: 12/06 | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia  |  Início: 12/06 <br> Fim: 12/06 | Iago Passaglia   |
 
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Iago Passaglia](https://github.com/Paxxaglia).</p></font>
 
 </details>
 
@@ -391,12 +390,11 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta en
 
 | Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
 | ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
-| Vericação e relato de artefatos        | Início: 07/06 <br> Fim: 07/06 |       -        | Início: 08/06 <br> Fim: 08/06 |      -     |
-| Ajustes de artefatos        | Início: 08/06 <br> Fim: 09/06 |       -        | Início: 09/06 <br> Fim: 09/06 |      -     |
-| Gravar apresentação                | Início: 10/06 <br> Fim: 10/06 | Todos              | Início: 11/06 <br> Fim: 11/06 | Todos            |
-| Correção pós apresentação          | Início: 13/06 <br> Fim: 14/06 | Todos              | Início: 15/06 <br> Fim: 16/06 | Todos            |
+| Vericação e relato de artefatos        | Início: 26/06/2024  <br> Fim: 26/06/2024  | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia   | Início: 26/06/2024  <br> Fim: 26/06/2024  | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia |
+| Ajustes de artefatos        | Início: 04/07/2024  <br> Fim: 08/07/2024  | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia | Início: 04/06/2024  <br> Fim: 08/06/2024  | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia |
+| Gravar apresentação                | Início: 26/06/2024 <br> Fim: 26/06/2024  |  Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia |Início: 26/06/2024  <br> Fim: 26/06/2024  |  Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia  |
 
-<font size="3"><p style="text-align: center">Fonte: [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Iago Passaglia](https://github.com/Paxxaglia).</p></font>
 
 </details>
 
