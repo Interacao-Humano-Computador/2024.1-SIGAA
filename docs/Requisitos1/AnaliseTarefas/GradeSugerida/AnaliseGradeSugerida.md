@@ -115,4 +115,4 @@ Nessa tarefa, o objetivo do usuário é gerar uma grade horária sugerida.
 ## Histórico de Versão
 | Versão | Alteração                                   | Responsável    | Revisor         | Data       |
 | ------ | ------------------------------------------- | -------------- | --------------- | ---------- |
-| 1.0    | Criação do documento                        | Luana Medeiros | -               | 20/06/2024 |
+| 1.0    | Criação do documento                        | Luana Medeiros | Iago Passaglia | 20/06/2024 |
