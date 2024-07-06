@@ -140,4 +140,4 @@ Esta análise GOMS revela áreas chave onde melhorias podem ser feitas para torn
 
 | Versão | Data     | Descrição                           | Autor(es)              | Revisor(es)         |
 | ------ | -------- | ----------------------------------- | ---------------------- | ------------------- |
-| 1.0    | 05/05/24 | Criação do documento GOMS para SIGAA | Bruno Araújo | -     |
+| 1.0    | 05/05/24 | Criação do documento GOMS para SIGAA | Bruno Araújo | Iago Passaglia |
