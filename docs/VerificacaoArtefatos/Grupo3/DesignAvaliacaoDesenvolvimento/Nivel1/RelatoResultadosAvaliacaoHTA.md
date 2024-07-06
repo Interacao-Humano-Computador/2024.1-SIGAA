@@ -274,4 +274,4 @@ Tabela 3: Inspeção dos relatos dos resultados.
 
 | Versão | Alteração                                                  | Responsável     | Revisor         | Data       |
 | ------ | ---------------------------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação do documento  e elaboração da lista de verificação | Breno Alexandre | -               | 12/06/2024 |
+| 1.0    | Criação do documento  e elaboração da lista de verificação | Breno Alexandre | Iago Passaglia  | 12/06/2024 |
