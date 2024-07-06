@@ -207,5 +207,5 @@ Como é possível observar, a análise hierárquica e a aplicação do método G
 ## Histórico de Versão
 | Versão | Alteração                                   | Responsável     | Revisor         | Data       |
 | ------ | ------------------------------------------- | --------------- | --------------- | ---------- |
-| 1.0    | Criação e realização da análise hierárquica | Breno Alexandre | -               | 09/05/2024 |
-| 1.1    | Refatoração da análise hierárquica          | Breno Alexandre | -               | 11/05/2024 |
+| 1.0    | Criação e realização da análise hierárquica | Breno Alexandre | Iago Passaglia | 09/05/2024 |
+| 1.1    | Refatoração da análise hierárquica          | Breno Alexandre | Iago Passaglia | 11/05/2024 |
