@@ -69,8 +69,8 @@
    13. Moodle. Aprender. Disponível em: [MoodleAprender](https://aprender3.unb.br) . Acesso em: 28 de março 2024.
    14. Kdenlive. Disponível em:  [Kdenlive](https://kdenlive.org/) . Acesso em: 28 de março 2024.
    15. Uxpressia. Disponível em: [Uxpressia](https://uxpressia.com/?gs2id=CjsaCQiAqsitBhDlARIsAGMR1RixghUQjuWARa8LoLw9WNnE2i9HzhshG2-dyV_IS3ok6UH048kqGIMaAlbLEALw_wcB&ource=vaneadssgaolpo&edium=vasasdneraukilop2&ampaign=ganikolopare3da&ontent=ikoloete&via=sergei&erm=bananaterjikulop&gad_source=1&gclid=EAIaIQobChMIluCI_buXhQMVPQ2tBh15zwUgEAAYASAAEgKV__D_BwE) . Acesso em: 28 de março 2024.
-   16. DesignEvo. Disponível em <https://www.designevo.com/>. Acesso em: 05 de abril 2024.
-   17. GoogleDocs. Disponível em <https://docs.google.com/document/u/0/>. Acesso em: 06 de Julho de 2024.
+   16. DesignEvo. Disponível em [DesignerEvo](https://www.designevo.com/). Acesso em: 05 de abril 2024.
+   17. GoogleDocs. Disponível em [Google Docs](https://docs.google.com/document/u/0/). Acesso em: 06 de Julho de 2024.
 
  ## Histórico de versão:
  
