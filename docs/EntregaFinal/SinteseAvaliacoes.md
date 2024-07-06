@@ -30,5 +30,5 @@ Fonte: [Iago Passaglia](https://github.com/Paxxaglia)
 
 | Versão | Alteração                                                                                                   | Responsável           | Revisor         | Data       |
 | ------ | ----------------------------------------------------------------------------------------------------------- | --------------------- | --------------- | ---------- |
-| 1.0    | Criação e elaboração do documento                                                                           | Iago Passaglia        | Pedro Izarias | 28/03/2024 |
+| 1.0    | Criação e elaboração do documento                                                                           | Iago Passaglia        | Pedro Izarias | 06/07/2024 |
 
