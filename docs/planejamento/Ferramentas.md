@@ -55,7 +55,8 @@ Contudo, a medida em que esse projeto for desenvolvido novas ferramentas podem s
   |     <img src="https://mir-s3-cdn-cf.behance.net/user/276/62942e1055160197.61249c3dd0fe7.png" style="width:25vw"/>    | [Uxpressia](https://uxpressia.com/?gs2id=CjsaCQiAqsitBhDlARIsAGMR1RixghUQjuWARa8LoLw9WNnE2i9HzhshG2-dyV_IS3ok6UH048kqGIMaAlbLEALw_wcB&ource=vaneadssgaolpo&edium=vasasdneraukilop2&ampaign=ganikolopare3da&ontent=ikoloete&via=sergei&erm=bananaterjikulop&gad_source=1&gclid=EAIaIQobChMIluCI_buXhQMVPQ2tBh15zwUgEAAYASAAEgKV__D_BwE) | É uma plataforma online para entender as necessidades dos usuários ao criar mapas de empatia, personas e jornadas do usuário. | Será utilizada pela equipe no processo de criação de personas e de encenação. | 
   |   <img src="https://macsources.com/wp-content/uploads/2019/04/featured-DesignEvo.jpg" style="width:25vw"/>  |  [DesignEvo](https://www.designevo.com/) | Plataforma que permite a criação de logotipos | Utilizada para criar a logotipo da equipe.|
 
-**Fonte** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+ <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
 
 ## Conclusão
 
