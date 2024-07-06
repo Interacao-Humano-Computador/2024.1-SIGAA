@@ -2,21 +2,13 @@
 
 ## Sumário
 - [Introdução](#introdução)
-- [Apresentação 1](#apresentação-1)
-- [Apresentação 2](#apresentação-2)
-- [Apresentação 3](#apresentação-3)
-- [Apresentação 4](#apresentação-4)
-- [Apresentação 5](#apresentação-5)
-- [Apresentação 6.1](#apresentação-61)
-- [Apresentação 7](#apresentação-7)
-- [Apresentação 6.2](#apresentação-62)
-- [Apresentação 8](#apresentação-8)
-- [Apresentação 9](#apresentação-9)
+- [Apresentações](#apresentações)
 - [Histórico de Versão](#histórico-de-versão)
 
 ## Introdução
-Chegamda a etapa final do projeto, este documento foi criado para reunir todas as apresentações realizadas ao longo do processo. Nosso objetivo é facilitar a consulta e o estudo dos conteúdos apresentados, proporcionando uma visão consolidada e organizada das informações compartilhadas.
+Chegada a etapa final do projeto, este documento foi criado para reunir todas as apresentações realizadas ao longo do processo. Nosso objetivo é facilitar a consulta e o estudo dos conteúdos apresentados, proporcionando uma visão consolidada e organizada das informações compartilhadas.
 
+## Apresentações
 
 <details>
 
