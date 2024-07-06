@@ -18,8 +18,6 @@
 Chegamda a etapa final do projeto, este documento foi criado para reunir todas as apresentações realizadas ao longo do processo. Nosso objetivo é facilitar a consulta e o estudo dos conteúdos apresentados, proporcionando uma visão consolidada e organizada das informações compartilhadas.
 
 
-## Apresentação 1
-
 <details>
 
 <summary size="20"><b> Apresentação 1 </b></summary>
@@ -43,8 +41,6 @@ Fonte: [Bruno Araujo](https://www.youtube.com/watch?v=3o5_myfI2X4)
 
 </details>
 
-
-## Apresentação 2
 
 <details>
 
@@ -71,7 +67,6 @@ Fonte: [Bruno Araujo](https://www.youtube.com/watch?v=yA5WSMVG1vs)
 
 </details>
 
-## Apresentação 3
 
 <details>
 
@@ -98,8 +93,6 @@ Fonte: [Breno Alexandre](https://www.youtube.com/embed/X9Jlr7RH0as)
 
 </details>
 
-## Apresentação 4
-
 <details>
 
 <summary size="20"><b> Apresentação 4 </b></summary>
@@ -125,8 +118,6 @@ Fonte: [Iago Passaglia]((https://www.youtube.com/watch?v=qwyXyeaKul8)
 
 </details>
 
-## Apresentação 5
-
 <details>
 
 <summary size="20"><b> Apresentação 5 </b></summary>
@@ -151,8 +142,6 @@ Fonte: [Iago Passaglia](https://www.youtube.com/embed/Bnvix3p7I00)
 | Pedro Izarias |
 
 </details>
-
-## Apresentação 6.1
 
 <details>
 
@@ -180,8 +169,6 @@ Fonte: [Iago Passaglia](https://www.youtube.com/embed/WdTnRNad9YQ)
 
 </details>
 
-## Apresentação 7
-
 <details>
 
 <summary size="20"><b> Apresentação 7 </b></summary>
@@ -208,8 +195,6 @@ Fonte: [Iago Passaglia](https://www.youtube.com/embed/Nhzn0LmtBSg)
 
 </details>
 
-## Apresentação 6.2
-
 <details>
 
 <summary size="20"><b> Apresentação 6.2 </b></summary>
@@ -233,8 +218,6 @@ Fonte: [Luana Medeiros](https://youtu.be/O6hdGPQHiFc)
 
 </details>
 
-## Apresentação 8
-
 <details>
 
 <summary size="20"><b> Apresentação 8 </b></summary>
@@ -255,8 +238,6 @@ Fonte: [Iago Passaglia](https://youtu.be/0qwj1Z5Y-Bs)
 | Pedro Izarias |
 
 </details>
-
-## Apresentação 9
 
 <details>
 
