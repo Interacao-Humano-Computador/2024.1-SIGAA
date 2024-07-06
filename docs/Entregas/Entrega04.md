@@ -39,4 +39,4 @@ A git page possui?                     | Sim/Não/Incompleto
 
 | Versão | Alteração                  | Responsável      | Revisor         | Data       |
 | ------ | -------------------------- | ---------------- | --------------- | ---------- |
-| 1.0    | Criação do documento       | Luana Medeiros   | -               | 22/05/2024 |
+| 1.0    | Criação do documento       | Luana Medeiros   | Pedro Izarias               | 22/05/2024 |
