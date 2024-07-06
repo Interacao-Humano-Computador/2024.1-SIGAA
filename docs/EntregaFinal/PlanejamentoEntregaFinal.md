@@ -15,10 +15,10 @@ Este documento tem como objetivo definir qual aluno será responsável por cada 
 
 | Artefato                                 | Autor | Data       |
 |------------------------------------------|-------|------------|
-| Site selecionado para o projeto          |       |            |
+| Site selecionado para o projeto          | Bruno Araújo      |    06/07/2024        |
 | Ciclo de vida utilizado                  |       |            |
 | Planejamento dos recursos e das entregas |       |            |
-| Execução do projeto                      |       |            |
+| Execução do projeto                      | Bruno Araújo      |  06/07/2024           |
 | Resultado(s) alcançado(s)                |       |            |
 | Síntese de ferramentas                   |       |            |
 | Síntese de técnicas                      |       |            |
