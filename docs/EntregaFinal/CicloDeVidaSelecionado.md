@@ -57,6 +57,7 @@ Foi escolhido como método a engenharia de usabilidade proposta por Deborah Mayh
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/may.png">
 <font size="2"><p>Fonte: [SlidePlayer](https://slideplayer.com.br/slide/13462698/)</p></font>
 
+A primeira fase é a análise de requisitos, onde são identificadas as necessidades e expectativas dos usuários, assim como os requisitos funcionais e não funcionais do sistema. Essa fase inclui a realização de pesquisas com usuários, entrevistas, e a análise de documentos existentes para coletar informações detalhadas. A segunda fase é o design de interface, que envolve a criação de esboços, wireframes e protótipos de baixa fidelidade para explorar diferentes soluções de design. Durante essa fase, o feedback dos usuários é continuamente coletado para refinar e melhorar o design. A terceira e última fase é a avaliação de usabilidade, onde protótipos de alta fidelidade são testados com usuários reais para identificar problemas de usabilidade e oportunidades de melhoria. O framework DECIDE é frequentemente utilizado nesta fase para estruturar o processo de avaliação, garantindo uma análise abrangente e sistemática da usabilidade do sistema.
 
 ## Motivos para a escolha
 
