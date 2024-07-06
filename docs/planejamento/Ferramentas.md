@@ -21,7 +21,7 @@ Inicialmente, as ferramentas utilizadas serão feitas com base em alguns projeto
 
 - [BCE - Biblioteca Central da UnB](https://interacao-humano-computador.github.io/2020.1-BCE/#/?id=equipe)
 - [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/ferramentas)
-
+- [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)
 
 ## Ferramentas utilizadas
 
