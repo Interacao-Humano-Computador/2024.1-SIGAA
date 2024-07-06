@@ -15,7 +15,8 @@
 Este documento apresenta as ferramentas essenciais que serão utilizadas ao longo do projeto. Desse modo, a seleção dessas ferramentas visa garantir a eficiência e a eficácia em todas as etapas do desenvolvimento, uma vez que cada ferramenta foi escolhida para atender a necessidades específicas do projeto com base no cronograma da disciplína e nas experiências observadas ao analisar alguns projetos de semestres anteriores. 
 
 
-## 
+## Organização da Estrutura
+
 ## Ferramentas utilizadas
 
   Serão apresentadas a seguir as nossas ferramentas alvo: 
