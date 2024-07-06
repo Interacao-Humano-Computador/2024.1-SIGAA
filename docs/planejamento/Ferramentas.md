@@ -11,12 +11,7 @@
 
 ## Introdução: 
 
-   <p align="justify">
-   Bem-vindos à apresentação das ferramentas que serão utilizadas no nosso projeto!
-
-   Para alcançar o nosso objetivo, é crucial contar com ferramentas eficientes que nos auxiliem em todas as etapas do processo, desde a concepção até a implementação e análise de resultados.
-
-   </p>
+Este documento apresenta as ferramentas essenciais que serão utilizadas ao longo do projeto. Desse modo, a seleção dessas ferramentas visa garantir a eficiência e a eficácia em todas as etapas do desenvolvimento, uma vez que cada ferramenta foi escolhida para atender a necessidades específicas do projeto com base no cronograma da disciplína e nas experiências observadas ao analisar alguns projetos de semestres anteriores. 
 
 ## Ferramentas utilizadas
 
