@@ -77,7 +77,7 @@ Com personas bem definidas, como Juliana e Lucas, o SIGAA pode desenvolver inter
 
 | Versão |    Data    | Descrição                         | Autor(es)              | Revisor(es) |
 | ------ | :--------: | --------------------------------- | ---------------------- | ----------- |
-| 1.0    | 06/05/2024 | Criação do documento de personas  | Bruno Araújo            | - |
+| 1.0    | 06/05/2024 | Criação do documento de personas  | Bruno Araújo            | Iago Passaglia |
 
 
 
