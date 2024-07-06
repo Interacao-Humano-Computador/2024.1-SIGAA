@@ -75,4 +75,4 @@ Como é possível observar, a análise hierárquica e a aplicação do método G
 ## Histórico de Versão
 | Versão | Alteração                                   | Responsável  | Revisor         | Data       |
 | ------ | ------------------------------------------- | ------------ | --------------- | ---------- |
-| 1.0    | Criação e realização da análise hierárquica | Bruno Araújo | - | 04/05/2024 |
+| 1.0    | Criação e realização da análise hierárquica | Bruno Araújo | Iago Passaglia | 04/05/2024 |
