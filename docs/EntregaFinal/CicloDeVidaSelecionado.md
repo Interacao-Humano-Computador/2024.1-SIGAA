@@ -3,7 +3,7 @@
 ## Sumário 
 * [Introdução](#Introdução)
 * [Modelos](#Modelos)
-* [Da metodologia](#Da-metodologia)
+* [Método escolhido](#Método-escolhido)
 * [Motivos para a escolha](#Motivos-para-a-escolha) 
 * [Bibliografia](#Bibliografia)
 * [Histórico de versões](#Histórico-de-versões)
