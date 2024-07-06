@@ -20,6 +20,7 @@ Este documento apresenta as ferramentas essenciais que serão utilizadas ao long
 Inicialmente, as ferramentas utilizadas serão feitas com base em alguns projeto passados, uma vez que eles já indicaram quais as ferramentas que utilizaram em todas as fases do projeto. Desse modo os projetos anteriores que serviram como um guia para este projeto sobre o SIGAA são:
 
 - [BCE - Biblioteca Central da UnB](https://interacao-humano-computador.github.io/2020.1-BCE/#/?id=equipe)
+- [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/ferramentas)
 
 
 ## Ferramentas utilizadas
