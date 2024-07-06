@@ -12,15 +12,13 @@
 ## Introdução: 
 
    <p align="justify">
-   Bem-vindos à apresentação das ferramentas que serão utilizadas no nosso projeto!
-
-   Para alcançar o nosso objetivo, é crucial contar com ferramentas eficientes que nos auxiliem em todas as etapas do processo, desde a concepção até a implementação e análise de resultados.
+   Este artefato tem o objetivo de apresentar todas as ferramentas de software utilizadas para gerar os artefatos do projeto, tanto de geração de imagens, de videoconferências ou de documentação. Abaixo teremos todas as ferramentas organizadas em linhas da tabela com seu respectivo link de acesso:
 
    </p>
 
 ## Ferramentas utilizadas
 
-  Serão apresentadas a seguir as nossas ferramentas alvo: 
+  Serão apresentadas a seguir as nossas ferramentas: 
 
   A Tabela 1 contém o logo das ferramentas, a sua apresentação, a sua finalidade no projeto.
   
