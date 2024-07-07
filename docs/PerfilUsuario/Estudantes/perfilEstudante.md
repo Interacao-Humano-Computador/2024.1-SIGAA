@@ -22,8 +22,9 @@ A metodologia adotada para a análise do perfil baseia-se na utilização dos re
 Como foi citado na introdução, para definir o perfil dos usuários de maneira mais precisa possível, foram empregadas três técnicas principais: [entrevistas](PerfilUsuario/Estudantes/Entrevistas/ResultadoEntrevista.md), [análise documental](PerfilUsuario/Estudantes/AnaliseDocumentalEstudantes.md) e [questionários](PerfilUsuario/Estudantes/Questionarios/AnáliseResultados.md). 
 
 - As [entrevistas](PerfilUsuario/Estudantes/Entrevistas/ResultadoEntrevista.md) foram conduzidas por 11 usuários que são estudnates e utilizam o SIGAA, o que permitiu  a coleta de **dados qualitativos** sobre suas experiências, as suas necessidades e as suas expectativas com o site educacional.
+
 <details>
- <summary size="20"><b> Explicação sobre dados **Qualitativos** </b></summary> 
+ <summary size="20"><b> Explicação sobre dados Qualitativos </b></summary> 
 Segundo o vídeo [O que são dados qualitativos? - Pesquisa na Prática](https://www.youtube.com/watch?v=fi8v6v7P8GY), dados qualitativos poem ser resumidos em:
 
 - Natureza: são dados descritivos.
@@ -33,13 +34,16 @@ Segundo o vídeo [O que são dados qualitativos? - Pesquisa na Prática](https:/
 - Objetivo: explorar e compreender fenômenos complexos, descrevendo "como" e "por que" algo ocorre.
 - Vantagem: fornecem uma compreensão profunda e contextualizada do fenômeno estudado.
 - Análise: uso de técnicas de codificação, categorização e interpretação para identificar temas, padrões e significados.
-  </details>
+
+</details>
   
  - A [análise documental](PerfilUsuario/Estudantes/AnaliseDocumentalEstudantes.md) envolveu o estudo de pesquisas e de relatórios sobre a população de estudandes de nível superior, o que permitiu a identificação de padrões e tendências e possibilitou um panorama histórico sobre a população de estudantes ao longo do tempo.
 
 - Os questionários foram aplicados a uma amostra representativa de usuários, no total foram obtidas 118 respostas de estudantes que utilizam o SIGAA, o que possibilitou a coleta de **dados quantitativos** sobre características demográficas, sobre preferências e sobre comportamentos.
-- <details>
- <summary size="20"><b> Explicação sobre dados **Quantitativos** </b></summary> 
+
+ <details>
+  
+ <summary size="20"><b> Explicação sobre dados Quantitativos </b></summary> 
 Segundo o vídeo [Método quantitativo – O que é e como fazer?](https://www.youtube.com/watch?v=I6Ju5hp-M08), dados qualitativos podem ser resumidos em:
 - **Natureza:** são dados numéricos.
 - **Medida:** podem ser medidos e expressos em números, permitindo cálculos estatísticos e análises matemáticas.
@@ -48,7 +52,9 @@ Segundo o vídeo [Método quantitativo – O que é e como fazer?](https://www.y
 - **Objetivo:** quantificar o problema, descrevendo "quanto", "quantos" ou "com que frequência" algo ocorre.
 - **Vantagem:** fornecem uma visão ampla e generalizável do fenômeno estudado.
 - **Análise:** uso de técnicas estatísticas para identificar padrões, correlações e tendências.
-  </details>
+
+</details>
+
 Com isso, os resultados dessas três técnicas foram analisados e condensados e serão apresentados abaixo. Posteriormente, esses dados serão organizados em tabelas que indicam os perfis-alvo de forma clara e estruturada. Sendo assim, as tabelas destacam as principais características de cada perfil formado, o que facilitará a visualização e a compreensão de diferentes tipos de usuários. 
 
 ## Dados Coletados
