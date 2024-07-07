@@ -106,6 +106,8 @@ Reorganização:
 11. LibreOffice. Disponível em: [LibraOficie](https://pt-br.libreoffice.org/) . Acesso em: 27 de março 2024.
 12. LucidChart. Disponível em <https://www.lucidchart.com/pages/pt>. Acesso em: 05 de julho de 2024.
 13. Microsoft Teams. Disponível em: [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in) . Acesso em: 27 de março 2024.
+14. MkDocs. Disponível em: [MkDocks](https://www.mkdocs.org/) . Acesso em: 27 de março 2024.
+15. Moodle. Aprender. Disponível em: [MoodleAprender](https://aprender3.unb.br) . Acesso em: 28 de março 2024.
 
 
 
