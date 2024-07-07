@@ -56,7 +56,7 @@ Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, h
                   3.1.2 Editar Avaliação, se Necessário
               3.2 Confirmar Envio da Avaliação
       
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </details>
 
@@ -69,7 +69,7 @@ Para facilitar a visualização de tarefas, a figura 1 mostra o diagrama:
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/AnaliseAvaliarMonitor.drawio.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -108,7 +108,7 @@ A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcional
 | 3.1.2 Editar Avaliação, se Necessário              |      | **Plano**: O usuário edita as respostas conforme necessário antes de enviar a avaliação. <br> **Recomendação**: Permitir edições simples e rápidas para corrigir quaisquer erros identificados pelo usuário.                                                                                         |
 | 3.2 Confirmar Envio da Avaliação                   |      |  **Plano**: O usuário clica em um botão de confirmação após revisar e editar a avaliação, se necessário. <br> **Recomendação**: Destacar visualmente o botão de confirmação para facilitar sua identificação e uso pelo usuário. |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </details>
 
