@@ -6,7 +6,6 @@
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/Equipe2IHC.png">
     <br>
       <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
-
     <br>
 </div>
 
