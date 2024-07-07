@@ -24,8 +24,6 @@ Com base nesses critérios, o site [SIGAA](https://sigaa.unb.br/) foi o escolhid
 * **Uso interdisciplinar:** A possibilidade de usar o site na disciplina de Requisitos, aproveitando a interdisciplinaridade das matérias.
 * **Complexidade média:** O site não é puramente informativo e apresenta funcionalidades como sistema de cadastro, busca de informações e gestão acadêmica, adequado ao escopo da disciplina e habilidade dos integrantes.
 
-Inicialmente, o grupo havia escolhido o site do [IFB (Instituto Federal de Brasília)](https://www.ifb.edu.br). Contudo, após orientação do professor André, a escolha mudou para o [SIGAA](https://sigaa.ifb.edu.br) devido à simplicidade excessiva do primeiro para o escopo da disciplina.
-
 ## Pontos Positivos e Negativos
 
 ### Pontos Positivos
