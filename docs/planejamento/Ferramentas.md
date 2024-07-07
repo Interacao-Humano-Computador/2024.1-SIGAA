@@ -63,8 +63,14 @@ Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas.
 
  <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
- 
+## Ferramentas necessárias para uso presencial
 
+  A Tabela 2 as ferramentas necessárias para uso de atividades presenciais.
+
+  **Tabela 2**: Ferramenta utilizadas de modo presencial.
+
+| Logo | Ferramenta | Apresentação | Finalidade |
+| -----| ---------- | ------------ | ---------- | 
 
 ## Conclusão
 
