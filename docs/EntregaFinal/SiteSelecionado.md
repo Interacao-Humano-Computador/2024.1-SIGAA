@@ -47,5 +47,5 @@ A escolha do site para o projeto é uma etapa imprescindível na disciplina de I
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- 1.0 | 07/07/2024 | Criação do documento | Bruno Araújo1| -- )
+ 1.0 | 07/07/2024 | Criação do documento | Bruno Araújo1| Luana Medeiros |
  
