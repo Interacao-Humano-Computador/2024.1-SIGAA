@@ -91,6 +91,12 @@ Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas.
    19. Random Face Gnerator (This Person Does Not Exist). Disponível em <https://this-person-does-not-exist.com/en>. Acesso em: 05 de julho de 2024.
    20. LucidChart. Disponível em <https://www.lucidchart.com/pages/pt>. Acesso em: 05 de julho de 2024.
 
+Reorganização:
+
+1. Artbreeder. Disponível em [Artbreender](https://www.artbreeder.com/create). Acesso em: 05 de julho de 2024.
+2. DesignEvo. Disponível em [DesignEvo](https://www.designevo.com/). Acesso em: 05 de abril 2024.
+3. Draw.io. Disponível em: [Drawio](https://www.drawio.com/) . Acesso em: 27 de março 2024.
+4. Figma. Disponível em:  [Figma](https://www.figma.com/) . Acesso em: 27 de março 2024.
 
 
 
