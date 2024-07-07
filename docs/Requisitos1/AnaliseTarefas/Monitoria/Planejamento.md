@@ -17,7 +17,7 @@ Durante as entrevistas com os estudantes, um assunto discutido foi a necessidade
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/iMAGENSsIGAA/Screenshot%20from%202024-05-05%2017-07-53.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -28,7 +28,7 @@ A imagem 2 mostra que até há um módulo para a monitoria, mas ele está inativ
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/iMAGENSsIGAA/Screenshot%20from%202024-05-05%2017-08-35.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -87,7 +87,7 @@ A tabela 1 mostra o cronograma da análise de cada uma das funcionalidades:
 | Executar análise da funcionalidade de avaliar monitor | 03/04/2024 | 02/05/2024 |
 | Executar análise GOMS da funcionalidade de avaliar monitor| 02/04/2024 | 03/05/2024 |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ## Conclusão
 O planejamento da execução da análise hierárquica de tarefas e da GOMS para a aba de monitoria apresenta uma estrutura sólida e abrangente para o desenvolvimento e aprimoramento desta funcionalidade que será criada no sistema do SIGAA.
