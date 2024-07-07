@@ -136,13 +136,16 @@ Tabela 3: Perguntas da avaliação para o Integrante
 
 | Ordem das Perguntas | Pergunta | Objetivo da Pergunta |
 |---------------------|----------|----------------------|
-| 1 | A interface está de acordo com os padrões de acessibilidade do W3C? | Verificar conformidade com padrões estabelecidos |
-| 2 | A interface segue o padrão da interface do SIGAA e a lógica do site também? | Verificar conformidade com padrões estabelecidos |
-| 3 | O usuário conseguiu operar o protótipo? | Identificar problemas na interação e na interface |
-| 4 | Quanto tempo o participante realizou a atividade? | Identificar problemas na interação e na interface |
-| 5 | Quantos erros o participante cometeu enquanto estava interagindo com o protótipo? | Identificar problemas na interação e na interface |
-| 6 | Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas? | Identificar problemas na interação e na interface |
-| 7 | No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante? | Identificar problemas na interação e na interface |
+| 1 | Como os usuários iteragiram com o protótipo? | Analisar a apropriação da tecnologia |
+| 2 | Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não) | Analisar a apropriação da tecnologia |
+| 3 | A interface está de acordo com os padrões de acessibilidade do W3C? | Verificar conformidade com padrões estabelecidos |
+| 4 | A interface segue o padrão da interface do SIGAA e a lógica do site também? | Verificar conformidade com padrões estabelecidos |
+| 5 | O usuário conseguiu operar o protótipo? | Identificar problemas na interação e na interface |
+| 6 | O usuário pareceu confuso quando estava executando as tarefas? | Identificar problemas na interação e na interface |
+| 7 | Quantos erros o participante cometeu enquanto estava interagindo com o protótipo? | Identificar problemas na interação e na interface |
+| 8 | Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas? | Identificar problemas na interação e na interface |
+| 9 | No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante? | Identificar problemas na interação e na interface |
+| 10 | Qual foi o erro/problema mais recorrênte no protótipo? Qual a sua solução? | Identificar problemas na interação e na interface |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
