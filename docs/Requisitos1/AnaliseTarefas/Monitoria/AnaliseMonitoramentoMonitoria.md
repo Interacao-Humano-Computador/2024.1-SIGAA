@@ -104,7 +104,7 @@ Para facilitar a visualização de tarefas, a imagem 1 mostra o diagrama:
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/AnaliseMonitoramentoMonitoria.drawio.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -146,7 +146,7 @@ A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcional
 | 2.2 Visualização dos Dados Anteriores sem Possibilidade de Modificação | | **Plano:** Implementar sistema de visualização de dados seguro e eficiente. <br> **Recomendação:** Garantir acesso apenas a usuários autorizados. |
 | 2.3 Consultar Relatórios, Avaliações e Feedback de Monitorias Passadas | | **Plano:** Integrar relatórios, avaliações e feedback ao sistema de visualização de dados. <br> **Recomendação:** Disponibilizar ferramentas de análise para extrair insights dos dados anteriores. |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </details>
 
