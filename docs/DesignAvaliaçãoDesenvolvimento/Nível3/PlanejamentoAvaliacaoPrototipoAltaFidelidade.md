@@ -24,7 +24,10 @@ Para organizar a avaliação de modo que ela seja eficaz, é necessário que se 
 
 ## Metodologia
 
-A organização do planejamento da avaliação será formada em etapas. Primeiramente, serão determinados os objetivos da avaliação ao focar em aspectos como usabilidade, eficiência e satisfação do usuário. Em seguida, serão exploradas as perguntas-chave que guiarão a avaliação, tais como a adequação das funcionalidades às tarefas dos usuários e a facilidade de uso. Então, serão escolhidos os métodos de avaliação mais adequados, que incluem entrevistas com usuários, testes de usabilidade e questionários. Para realizar isso, serão definidas as questões práticas, como a organização do ambiente e dos materiais, e a seleção dos participantes com um cronograma planejado. Além disso, também serão levadas em consideração as questões éticas, uma vez que as reuniões serão realizadas diretamente com usuários. Por fim, será apresentado um plano para avaliar, interpretar e apresentar os dados coletados.
+Para o planejamento da avaliação de usabilidade dos protótipos de alta fidelidade das funcionalidades do SIGAA, será utilizado o método DECIDE, que, segundo o livro “Interação Humano-Computador e Experiência do Usuário”, de Barbosa e Silva, divide a organização em um conjunto de etapas, como é possível observar na tabela 1. Assim, primeiramente, os objetivos da avaliação serão estabelecidos, com ênfase em critérios como usabilidade, eficiência e satisfação do usuário. Em seguida, as perguntas principais que orientarão a avaliação serão formuladas, incluindo a adequação das funcionalidades às tarefas dos usuários e a facilidade de uso. 
+
+A próxima etapa envolverá a seleção dos métodos de avaliação mais apropriados, como entrevistas com usuários e questionários. Além disso, para a execução, as questões práticas serão abordadas, como a organização do ambiente, a preparação dos materiais e a seleção dos participantes, tudo dentro de um cronograma definido. Além disso, as questões éticas serão consideradas para garantir o consentimento informado e o respeito aos participantes durante as reuniões. 
+
 
 A metodologia foi baseada com base na organização do framework DECIDE, que pode ser observada na tabela 1.
 
@@ -45,6 +48,7 @@ Tabela 1 - Letras da palavra DECIDE com os seus significados.
 
 </center>
 
+Como a avaliação será um teste de usabilidade, também será levado em consideração os pontos explicados no livro “Avaliação e Projeto no Design de Interfaces”. Desse modo, a estrutura e o estilo do teste também será planejado de acordo com o pesquisador definido no planejamento.
 
 ## D Determinar os objetivos
 
