@@ -128,4 +128,4 @@ Reorganização:
 | 1.4 | Adição de sumário e conclusão| Larissa Stéfane | Pedro Augusto | 05/04/2024 |
 | 1.5 | Adição de mais ferramentas| Larissa Stéfane | Pedro Augusto | 05/04/2024 |
 | 1.6 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Bruno Araújo | 11/04/2024 |
-  
+| 1.7 | Adição de mais ferramentas e reorganização do artefato | Larissa Stéfane | - | 06/07/2024 |
