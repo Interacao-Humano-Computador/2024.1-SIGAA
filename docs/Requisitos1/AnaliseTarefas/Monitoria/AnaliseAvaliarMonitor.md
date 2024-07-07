@@ -216,7 +216,7 @@ Abaixo, no algoritmo 2, há a execução do método GOMS
            - *OPERATOR 9.A.2*: Retornar à página inicial da plataforma.
              - SELECTION RULE 9.A.2: Garantir que o usuário seja redirecionado automaticamente para a página inicial após concluir o processo de avaliação.
 
-  **Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+  <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </details>
 
