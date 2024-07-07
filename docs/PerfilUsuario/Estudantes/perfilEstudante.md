@@ -25,14 +25,21 @@ Como foi citado na introdução, para definir o perfil dos usuários de maneira 
 
 <details>
  <summary size="20"><b> Explicação sobre dados Qualitativos </b></summary> 
+ 
 Segundo o vídeo [O que são dados qualitativos? - Pesquisa na Prática](https://www.youtube.com/watch?v=fi8v6v7P8GY), dados qualitativos poem ser resumidos em:
 
 - Natureza: são dados descritivos.
+  
 - Medida: são expressos em palavras, imagens ou objetos e não podem ser medidos numericamente de maneira direta.
+  
 - Exemplos: entrevistas, transcrições de conversas, notas de campo, fotografias e vídeos.
+  
 - Métodos de Coleta: entrevistas abertas, grupos focais, observações e análise de documentos.
+  
 - Objetivo: explorar e compreender fenômenos complexos, descrevendo "como" e "por que" algo ocorre.
+  
 - Vantagem: fornecem uma compreensão profunda e contextualizada do fenômeno estudado.
+  
 - Análise: uso de técnicas de codificação, categorização e interpretação para identificar temas, padrões e significados.
 
 </details>
@@ -45,12 +52,19 @@ Segundo o vídeo [O que são dados qualitativos? - Pesquisa na Prática](https:/
   
  <summary size="20"><b> Explicação sobre dados Quantitativos </b></summary> 
 Segundo o vídeo [Método quantitativo – O que é e como fazer?](https://www.youtube.com/watch?v=I6Ju5hp-M08), dados qualitativos podem ser resumidos em:
+
 - **Natureza:** são dados numéricos.
+  
 - **Medida:** podem ser medidos e expressos em números, permitindo cálculos estatísticos e análises matemáticas.
+  
 - **Exemplos:** percentuais, contagens, médias e desvios padrão.
+  
 - **Métodos de Coleta:** questionários com respostas fechadas e testes padronizados.
+  
 - **Objetivo:** quantificar o problema, descrevendo "quanto", "quantos" ou "com que frequência" algo ocorre.
+  
 - **Vantagem:** fornecem uma visão ampla e generalizável do fenômeno estudado.
+  
 - **Análise:** uso de técnicas estatísticas para identificar padrões, correlações e tendências.
 
 </details>
