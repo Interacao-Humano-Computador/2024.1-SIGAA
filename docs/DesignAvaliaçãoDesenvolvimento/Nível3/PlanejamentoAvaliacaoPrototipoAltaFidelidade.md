@@ -113,7 +113,7 @@ Tabela 2: - Perguntas da avaliação direcionadas ao participante.
 
 | Ordem das Perguntas | Pergunta | Objetivo da Pergunta |
 |---------------------|----------|----------------------|
-| 1 | Você considera que o protótipo atende aos critérios ou necessidades para garantir que você possa utilizar a funcionalidade se dificuldades? Na sua opinião. | Analisar a apropriação da tecnologia |
+| 1 | Você considera que o protótipo atende aos critérios ou necessidades para garantir que você possa utilizar a funcionalidade sem dificuldades? Na sua opinião. | Analisar a apropriação da tecnologia |
 | 2 | Na sua opinião, a interface do protótipo segue os padrões visuais e de interação esperados para o SIGAA? Ela está alinhada com o formato que você conhece no SIGAA? | Verificar conformidade com padrões estabelecidos |
 | 3 | Você acha que os termos utilizados no protótipo são compreensíveis e consistentes com o contexto acadêmico e da funcionalidade? | Verificar conformidade com padrões estabelecidos |
 | 4 | Você encontrou dificuldades quando navegou nas funcionalidades do protótipo? | Analisar a apropriação da tecnologia  e Identificar problemas na interação e na interface |
