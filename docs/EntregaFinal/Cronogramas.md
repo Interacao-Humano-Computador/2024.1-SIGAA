@@ -388,6 +388,60 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta en
 
 </details>
 
+<details>
+
+<summary size="20"><b> Entrega 6.1 - Cronograma Executado </b></summary>
+
+Na Tabela 12, está explicitado o cronograma executado das atividades da sexta entrega parte 1.
+
+<p align="center"> Tabela 12. Verificação dos Artefatos 1 </p>
+
+| Atividade                          | Período de desenvolvimento    | Autor(es)          | Revisão                       | Revisor(es)      |
+| ---------------------------------- | ----------------------------- | ------------------ | ----------------------------- | ---------------- |
+| Criação da Lista de verificação: Aspectos Éticos | Início: 12/06/2024 <br> Fim: 12/06/2024 |  Larissa Stéfane  | Início: 12/06/2024 <br> Fim: 12/06/2024 | Breno |
+| Inspeção da Lista de verificação: Aspectos Éticos | Início: - <br> Fim: - |  -  | Início: - <br> Fim: - | - |
+| Criação da Lista de verificação: Perfil de Usuário(Questionário) | Início: 12/06/2024 <br> Fim: 12/06/2024 |  Larissa Stéfane  | Início: 12/06/2024 <br> Fim: 12/06/2024 | Luana |
+| Inspeção da Lista de verificação: Perfil de Usuário(Questionário) | Início: - <br> Fim: - |  - | Início: - <br> Fim: - | - |
+| Criação da Lista de verificação: Perfil de Usuário(Grupo de Foco) | Início: 12/06/2024 <br> Fim: 12/06/2024 |  Breno Alexandre | Início: 12/06/2024 <br> Fim: 12/06/2024 | Luana |
+| Inspeção da Lista de verificação: Perfil de Usuário(Grupo de Foco) | Início: - <br> Fim: - |  -  | Início: -<br> Fim: -| - |
+| Criação da Lista de verificação: Personas | Início: 12/06/2024 <br> Fim: 12/06/2024 |  Pedro Izarias | Início: 12/06/2024 <br> Fim: 12/06/2024 | Luana |
+| Inspeção da Lista de verificação: Personas | Início: - <br> Fim: - |  - | Início: - <br> Fim: - | - |
+| Criação da Lista de verificação: Cenários | Início: 12/06/2024 <br> Fim: 12/06/2024 |  Larissa Stéfane | Início: 12/06/2024 <br> Fim: 12/06/2024 | Bruno |
+| Inspeção da Lista de verificação: Cenários | Início: 12/06/2024 <br> Fim: 12/06/2024 |  Luana Medeiros| Início: 12/06/2024 <br> Fim: 12/06/2024 | Iago |
+| Criação da Lista de verificação: Análise HTA | Início: 12/06/2024 <br> Fim: 12/06/2024 |  Pedro Izarias | Início: 12/06/2024 <br> Fim: 12/06/2024 | Bruno |
+| Inspeção da Lista de verificação: Análise HTA | Início: 22/05/2024 <br> Fim: 23/05/2024 |  Luana e Bruno | Início: 12/06/2024 <br> Fim: 12/06/2024 | Iago e Luana |
+| Criação da Lista de verificação: CMN-GOMS | Início: 12/06/2024 <br> Fim: 12/06/2024 |  Iago Passaglia | Início: 12/06/2024 <br> Fim: 12/06/2024 | Bruno |
+| Inspeção da Lista de verificação: CMN-GOMS | Início: 22/05/2024 <br> Fim: 23/05/2024 |  Bruno Araújo | Início: 12/06/2024 <br> Fim: 12/06/2024 | Luana |
+| Criação da Lista de verificação: Princípios Gerais | Início: - <br> Fim: - | - | Início: - <br> Fim: - | - |
+| Inspeção da Lista de verificação: Princípios Gerais | Início: - <br> Fim: - | - | Início: - <br> Fim: - | - |
+| Criação da Lista de verificação: Metas Usabilidade | Início: 12/06/2024 <br> Fim: 12/06/2024 | Pedro Izarias | Início: 12/06/2024 <br> Fim: 12/06/2024 | Bruno |
+| Inspeção da Lista de verificação: Metas Usabilidade | Início: 12/06/2024 <br> Fim: 12/06/2024 | Bruno e Luana | Início: 12/06/2024 <br> Fim: 12/06/2024 | Bruno |
+| Criação da Lista de verificação: Guia de Estilo | Início: 12/06/2024 <br> Fim: 12/06/2024 | Iago Passaglia | Início: 12/06/2024 <br> Fim: 12/06/2024 | Bruno |
+| Inspeção da Lista de verificação: Guia de Estilo | Início: - <br> Fim: - | - | Início: - <br> Fim: - | -|
+| Criação da Lista de verificação: Planejamento de Avaliação da Análise de Tarefas | Início: 12/06/2024 <br> Fim: 12/06/2024 | Luana Medeiros | Início: 12/06/2024 <br> Fim: 12/06/2024 | Iago |
+| Inspeção da Lista de verificação: Planejamento de Avaliação da Análise de Tarefas | Início: - <br> Fim: - | - | Início: - <br> Fim: - | - |
+| Criação da Lista de verificação: Planejamento Relato dos Resultados de Avaliação da Análise de Tarefas | Início: 12/06/2024 <br> Fim: 12/06/2024 | Breno Akexandre | Início: 12/06/2024 <br> Fim: 12/06/2024 | Iago |
+| Inspeção da Lista de verificação:  Planejamento Relato dos Resultados de Avaliação da Análise de Tarefas | Início: - <br> Fim: - | 	- | Início: - <br> Fim: - | - |
+| Criação da Lista de verificação: Relato dos Resultados Avaliação da Análise de Tarefas | Início: 12/06/2024 <br> Fim: 12/06/2024 | Breno Alexandre | Início: 12/06/2024 <br> Fim: 12/06/2024 | Larissa |
+| Inspeção da Lista de verificação:  Relato dos Resultados Avaliação da Análise de Tarefas | Início: 22/05/2024 <br> Fim: 23/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Início: 24/05/2024 <br> Fim: 24/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro |
+| Criação da Lista de verificação: Planejamento de Avaliação do Storyboard | Início: 22/05/2024 <br> Fim: 23/05/2024 | 	Pedro Izarias | Início: 24/05/2024 <br> Fim: 24/05/2024 | Luana |
+| Inspeção da Lista de verificação:  Planejamento de Avaliação do Storyboard | Início: 22/05/2024 <br> Fim: 23/05/2024 | 	Luana Medeiros | Início: 24/05/2024 <br> Fim: 24/05/2024 | Pedro |
+| Criação da Lista de verificação: Planejamento Relato dos Resultados de Avaliação do Storyboard | Início: 22/05/2024 <br> Fim: 23/05/2024 | 	Breno Alexandre | Início: 24/05/2024 <br> Fim: 24/05/2024 | Bruno |
+| Inspeção da Lista de verificação:  Planejamento Relato dos Resultados de Avaliação do Storyboard | Início: 22/05/2024 <br> Fim: 23/05/2024 | 	Pedro Izarias | Início: 24/05/2024 <br> Fim: 24/05/2024 | Iago |
+| Criação da Lista de verificação: Relato dos Resultados de Avaliação do Storyboard | Início: 22/05/2024 <br> Fim: 23/05/2024 | Iago Passaglia | Início: 24/05/2024 <br> Fim: 24/05/2024 | Larissa |
+| Inspeção da Lista de verificação:  Relato dos Resultados de Avaliação do Storyboard | Início: 22/05/2024 <br> Fim: 23/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Início: 24/05/2024 <br> Fim: 24/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro |
+| Criação da Lista de verificação: Storyboards | Início: 22/05/2024 <br> Fim: 23/05/2024 | Luana Medeiros | Início: 24/05/2024 <br> Fim: 24/05/2024 | Pedro |
+| Inspeção da Lista de verificação:  Storyboards | Início: 22/05/2024 <br> Fim: 23/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Início: 24/05/2024 <br> Fim: 24/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro |
+| Criação da Lista de verificação: Planejamento de Avaliação do Protótipo de Papel | Início: 22/05/2024 <br> Fim: 23/05/2024 | Breno Alexandre | Início: 24/05/2024 <br> Fim: 24/05/2024 | Luana |
+| Inspeção da Lista de verificação:  Planejamento de Avaliação do Protótipo de Papel | Início: 22/05/2024 <br> Fim: 23/05/2024 | Bruno Araújo | Início: 24/05/2024 <br> Fim: 24/05/2024 | Breno |
+| Criação da Lista de verificação: Planejamento do Relato dos Resultados de Avaliação do Protótipo de Papel | Início: 22/05/2024 <br> Fim: 23/05/2024 | Larissa Stéfane | Início: 24/05/2024 <br> Fim: 24/05/2024 | Bruno |
+| Inspeção da Lista de verificação:  Planejamento do Relato dos Resultados de Avaliação do Protótipo de Papel | Início: 22/05/2024 <br> Fim: 23/05/2024 | 	Luana Medeiros | Início: 24/05/2024 <br> Fim: 24/05/2024 | Iago |
+| Gravar apresentação                | Início: 12/06/2024 <br> Fim: 12/06/2024 | Larissa Stéfane, Pedro Izarias, Breno Alexandre, Bruno Araujo e Iago Passaglia  |  Início: 12/06/2024 <br> Fim: 12/06/2024 | Iago Passaglia   |
+
+<font size="3"><p style="text-align: center">Fonte: [Iago Passaglia](https://github.com/Paxxaglia).</p></font>
+
+</details>
+
 ## Conclusão
 Em conclusão, o cronograma apresentou uma organização eficiente das atividades e uma distribuição adequada das tarefas entre os integrantes do grupo. Todos os membros participaram ativamente das entregas, contribuindo para o avanço contínuo do projeto. Este planejamento ajudou a garantir que os prazos fossem cumpridos e os objetivos do projeto fossem alcançados com sucesso.
 
