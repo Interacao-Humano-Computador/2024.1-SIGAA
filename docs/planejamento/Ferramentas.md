@@ -101,7 +101,11 @@ Reorganização:
 6. Google Forms. Disponível em: [Google forms](https://workspace.google.com/intl/pt-BR/lp/forms/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-e-dr-1707806-LUAC0011908&utm_content=text-ad-none-any-DEV_c-CRE_666246535618-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt-Forms-KWID_43700057676889044-kwd-10647024857&utm_term=KW_google%20forms-ST_google%20forms&gad_source=1&gclid=EAIaIQobChMIuaL4lu2VhQMV6EBIAB0Btg3aEAAYASAAEgLXU_D_BwE&gclsrc=aw.ds). Acesso em: 27 de março 2024.
 7. Google Planilhas. Disponível em: [Google_planilhas](https://workspace.google.com/intl/pt-BR/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-p-dr-1707806-LUAC0015142&utm_content=text-ad-none-any-DEV_c-CRE_666219606651-ADGP_Hybrid+%7C+BKWS+-+PHR+%7C+Txt-Top-Workspace-KWID_43700063633056023-kwd-880352506558&utm_term=KW_ferramenta%20google-ST_ferramenta+google&gad_source=1&gclid=EAIaIQobChMI7NHRhOyVhQMVSkFIAB2EMAQFEAAYASAAEgLKqfD_BwE&gclsrc=aw.ds) . Acesso em: 27 de março 2024.
 8. Google Scholar. Disponível em: [GoogleScholar](https://scholar.google.com/) . Acesso em: 27 de março 2024.
-9. 
+9. Infogram. Disponível em: [Infogram](https://infogram.com/pt) . Acesso em: 27 de março 2024.
+10. Kdenlive. Disponível em:  [Kdenlive](https://kdenlive.org/) . Acesso em: 28 de março 2024.
+11. LibreOffice. Disponível em: [LibraOficie](https://pt-br.libreoffice.org/) . Acesso em: 27 de março 2024.
+12. LucidChart. Disponível em <https://www.lucidchart.com/pages/pt>. Acesso em: 05 de julho de 2024.
+13. Microsoft Teams. Disponível em: [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in) . Acesso em: 27 de março 2024.
 
 
 
