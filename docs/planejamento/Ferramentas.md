@@ -77,7 +77,9 @@ Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas.
 |   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Infogram_Logo.png" style="width:25vw"/>   | [Infogram](https://infogram.com/pt) | Ferramenta para criação de infográficos e visualizações de dados. | Usada para apresentar informações de forma visualmente atrativa dos dados que serão coeltados.|
 |   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kdenlive-logo.svg/1280px-Kdenlive-logo.svg.png" style="width:25vw"/>     | [Kdenlive](https://kdenlive.org/) | É um software de edição de vídeo usado para criar e editar vídeos. | Será usada para editar vídeos quando necessário, como por exemplo, reuniões da equipe. | 
 |    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/libreoffice_logo_icon_171259.png" style="width:25vw"/>  | [LibraOficie](https://pt-br.libreoffice.org/) | Suite de aplicativos de escritório de código aberto. | Será usada para criar documentos, planilhas e apresentações relacionadas ao projeto.|
-
+| <img src="https://fineproxy.org/wp-content/uploads/2023/09/Lucidchart-logo.png" style="width:25vw"/>  | [LucidChart](https://www.lucidchart.com/pages/pt) | Lucidchart é um aplicativo de diagramação baseado na web que permite aos usuários colaborar visualmente no desenho, revisão e compartilhamento de gráficos e diagramas, além de melhorar processos, sistemas e estruturas organizacionais. | Usado no projeto para elaborar alguns diagramas e gráficos. |
+|   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" style="width:25vw"/>    | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in) | Uma plataforma de comunicação e colaboração integrada da Microsoft. | Será utilizada para videoconferências da equipe.|
+  
 
 
 ## Conclusão
