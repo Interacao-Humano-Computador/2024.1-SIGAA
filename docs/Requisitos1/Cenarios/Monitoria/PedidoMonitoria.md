@@ -28,7 +28,7 @@ A tabela 1 mostra os elementos em relação ao cenário de pedido para ser monit
 | **Ações** | O estudante envia email ao professor solicitando monitoria. |
 | **Eventos** | O estudante envia o email, o professor visualiza e aceita o pedido. O estudante percebe as dificuldades logísticas e desiste de ser monitor. |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ## Narrativa
 
@@ -61,7 +61,7 @@ Com base tanto na narrativa quanto na realidade vivida por diversos estudante, a
 | Erro quando um estudante vira monitor de uma turma que não faz parte do seu campus.                  | Por que ocorreu o erro de um estudante se tornar monitor de uma turma em outro campus?                         | O erro ocorreu devido à falta de conhecimento do estudante sobre onde o professor lecionava.  | Implementar no SIGAA a opção de escolher local e horário das disciplinas. |
 |                                                                                                      | Como esse erro pode ser evitado no futuro?                                                                     | O erro pode ser evitado implementando-se validações no sistema para garantir que estudantes do campus correspondente possam se candidatar a monitoria. | Criar mecanismos de validação no SIGAA e aumentar a inormação.|
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ## Conclusão
 
