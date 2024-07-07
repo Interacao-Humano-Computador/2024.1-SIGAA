@@ -69,8 +69,18 @@ Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas.
 
   **Tabela 2**: Ferramenta utilizadas de modo presencial.
 
-| Logo | Ferramenta | Apresentação | Finalidade |
-| -----| ---------- | ------------ | ---------- | 
+| Imagem | Ferramenta | Finalidade |
+| -----| ---------- | ------------ | 
+|  <img src="https://http2.mlstatic.com/D_NQ_NP_651491-MLB53664613212_022023-O.webp" style="width:25vw"/>  | Papel colorido | Para o protótipo de baixa fidelidade |
+|  <img src="https://images.tcdn.com.br/img/img_prod/1041864/papel_fotografico_a4_115g_50_folhas_356703_1_ba0d4f88ef1f2c044fe682b50b001c94.jpg" style="width:25vw"/> | Papel em branco em folha A4 | Para anotações, para o protótipo de baixa fidelidade e para imprimir os termos de consentimento |
+| <img src="https://www.evapapelaria.com.br/image/cache/data/eftr/Img_ftr_rp_159401-1160x1160.JPG?version=20240109142014" style="width:25vw"/> | Folha A3 | Para o protótipo de baixa fidelidade |
+|  <img src="https://m.media-amazon.com/images/I/51OEgiWAoKL._AC_UF894,1000_QL80_.jpg" style="width:25vw"/> | Câmera WebCan | Para comparecer nas reuniões semanais e fazer entrevistas remotas com alguns usuários |
+|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbW7IZtQYWnTJYOD3pjxXZ3gGjS8b8Uz2YxA&s" style="width:25vw"/>  | Aparelhos de gravação | Para gravar as entrevistas presenciais |
+| <img src="https://images-americanas.b2w.io/produtos/6046215322/imagens/suporte-tripe-mesa-celular-pedestal-360-selfie-ajustavel/6046215331_1_large.jpg" style="width:25vw"/>  | Tripé ou suporte para câmera ou celular | Para gravar as entrevistas presenciais |
+| <img src="https://images.tcdn.com.br/img/img_prod/867113/caneta_hidrografica_maped_nightfall_media_24_cores_7789_2_b1e310d4153dfe8181a562b391f98772.jpg" style="width:25vw"/>  | Material de papelaria como lápis coloridos, canetas e giz de cera | Para o protótipo de baixa fidelidade e para o Storyboard |
+| <img src="https://s2.glbimg.com/T4xioZZ1NM0zkMd1eupoZjkn3Ro=/s.glbimg.com/jo/g1/f/original/2014/03/01/tablet_vs_notebook.jpg" style="width:25vw"/>  | Tablet ou computador | Para realizar as atividades do projeto |
+
+
 
 ## Conclusão
 
