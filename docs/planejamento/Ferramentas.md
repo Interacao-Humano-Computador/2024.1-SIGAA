@@ -83,10 +83,11 @@ Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas.
 
 
 ## Conclusão
-
-  É posível observar a diversidade de ferramentas, desde as voltadas para gerenciamento de projetos até as de design e prototipação. Consequentemente, isso reflete o comprometimento da equipe em adotar abordagens e técnicas modernas e eficazes. 
+É possível observar que a combinação de ferramentas online e físicas é essencial para o sucesso do projeto. Isso porque, as ferramentas online, como Artbreeder, GitHub, Google Forms, Figma, entre outras, facilitam a colaboração, a criação e a comunicação. Já as ferramentas físicas, como papel colorido, câmera WebCan e material de papelaria, garantem que os aspectos práticos e interativos com o usuário abordados eficazmente nas atividades presenciais.
 
 ## Referências bibliográficas:
+
+### Ferramentas
 
 1. Artbreeder. Disponível em [Artbreender](https://www.artbreeder.com/create). Acesso em: 05 de julho de 2024.
 2. DesignEvo. Disponível em [DesignEvo](https://www.designevo.com/). Acesso em: 05 de abril 2024.
@@ -124,3 +125,4 @@ Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas.
 | 1.5 | Adição de mais ferramentas| Larissa Stéfane | Pedro Augusto | 05/04/2024 |
 | 1.6 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Bruno Araújo | 11/04/2024 |
 | 1.7 | Adição de mais ferramentas e reorganização do artefato | Larissa Stéfane | - | 06/07/2024 |
+| 1.7 | Organização da ferramentas em ordem alfabética | Larissa Stéfane | - | 06/07/2024 |
