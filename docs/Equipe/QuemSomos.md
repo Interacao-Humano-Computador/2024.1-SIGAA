@@ -1,7 +1,7 @@
 ## :earth_americas: Quem somos:
 
   <div align="center">
-    Figura 1: Logo da equipe criado [Aqui](https://www.designevo.com/).
+    <b> Figura 1: Logo da equipe criado </b> <a href="https://www.designevo.com/"> DesignEvo</a>.
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/Equipe2IHC.png">
     <br>
