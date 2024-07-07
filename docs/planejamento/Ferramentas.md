@@ -64,6 +64,15 @@ Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas.
  <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
+| Logo | Ferramenta | Apresentação | Finalidade |
+| -----| ---------- | ------------ | ---------- | 
+|   <img src="https://nextgenpodcaster.com/wp-content/uploads/2023/06/artbreeder_logo.png" style="width:25vw"/> | [Artbreeder](https://www.artbreeder.com/create) | Artbreeder é uma plataforma online que usa inteligência artificial para permitir que usuários criem e modifiquem imagens combinando características de diferentes fotos, gerando novas criações artísticas como retratos e paisagens.| Utilizada no projeto para criar as fotos de algumas personas de acordo com as características desejadas. |
+|   <img src="https://macsources.com/wp-content/uploads/2019/04/featured-DesignEvo.jpg" style="width:25vw"/>  |  [DesignEvo](https://www.designevo.com/) | Plataforma que permite a criação de logotipos | Utilizada para criar a logotipo da equipe.|
+|   <img src="https://static-00.iconduck.com/assets.00/file-type-drawio-icon-2048x2048-dxjfklgq.png" style="width:25vw"/>    | [Drawio](https://www.drawio.com/) | Ferramenta para criação de diagramas e fluxogramas. |  Utilizada para criar mapas mentais e diagramas necessário para o projeto. |
+|    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" style="width:25vw"/>   | [Figma](https://www.figma.com/) | Uma ferramenta de design para criação de interfaces de usuário. | Será utilizado para gerar o protótipo do site de apresentação do projeto.|
+
+
+
 ## Conclusão
 
   É posível observar a diversidade de ferramentas, desde as voltadas para gerenciamento de projetos até as de design e prototipação. Consequentemente, isso reflete o comprometimento da equipe em adotar abordagens e técnicas modernas e eficazes. 
