@@ -52,11 +52,26 @@ Como a avaliação será um teste de usabilidade, também será levado em consid
 
 ## D Determinar os objetivos
 
-De acordo com o livro "Interação Humano Computador e Experiência do Usuário"¹, de Barbosa e Silva, de 2021, a avaliação dos protótipos de alta fidelidade das funcionalidades do SIGAA será guiada por dois objetivos principais: **verificar a conformidade com padrões estabelecidos** e **identificar problemas na interação e na interface**. Sendo assim, as justificativas para essas escolhas são:
+Após a avaliação para escolher a opção de design que será utilizada para os protótipos de alta fidelidade, será realizado o teste de usabilidade com os usuários. Desse modo, segundo o livro "Interação Humano Computador e Experiência do Usuário"¹, de Barbosa e Silva, de 2021, a avaliação dos protótipos será guiada por três objetivos principais: **analisar a apropriação da tecnologia**, **Verificar conformidade com padrões estabelecidos** e **identificar problemas na interação e na interface**.
 
-- **Verificar conformidade com padrões estabelecidos**: Avaliar se os protótipos estão de acordo com padrões estabelecidos é essencial para garantir a acessibilidade, consistência e coerência da solução de acordo com Barbosa e Silva. Assim, isso permite verificar se padrões como os do W3C para acessibilidade, ou os padrões específicos de ambientes computacionais estão sendo seguidos.
+Isso porque, com base no livro “Avaliação e Projeto no Design de Interfaces”, de José Guilherme, na página 146, o principal objetivo de um teste de usabilidade é melhorar a facilidade de uso de um produto, ou seja, verificar como os usuários interagem com o sistema. Sendo assim, os objetivos escolhidos possuem as seguintes justificativas, segundo o capítulo 11 de "Interação Humano Computador e Experiência do Usuário"¹:
 
-- **Identificar problemas na interação e na interface**: Esta é uma das áreas mais críticas na avaliação de sistemas interativos, conforme o livro “Interação Humano Computador e Experiência do Usuário”¹, na página 265. Isso, pois, identificar problemas na interação e na interface ajuda a melhorar a qualidade de uso, a usabilidade e a experiência do usuário.
+
+
+- **Analisar a apropriação da tecnologia:** Ao selecionar esse objetivo, é possível buscar uma compreensão aprofundada do uso e do impacto do sistema nos usuários, uma vez que o estudo da "apropriação da tecnologia" permite avaliar como o protótipo de alta fidelidade do SIGAA atende as necessidades e as preferências dos usuários. Consequentemente, isso ajuda a identificar o impacto do sistema na rotina dos usuários ao medir a eficiência, a satisfação e a facilidade de uso.
+    -  Na página 264 do livro, esse objetivo, em avaliação de sistemas novos ou reprojetados, permite verificar se os usuários são capazes de atingir seus objetivos sem a necessidade de treinamento prévio e se eles estão satisfeitos com as funcionalidades do sistema.
+
+
+
+- **Verificar conformidade com padrões estabelecidos**: Esse objetivo foi escolhido porque, apesar de se utilizar um novo design nos protótipos de alta fidelidade, será verificado se a nova interface do SIGAA mantém consistência com as diretrizes reconhecidas pelos usuários e se ela inclui os padrões de acessibilidade do W3C, para usuários com necessidades específicas. Além disso, irá verificar a conformidade com a lógica das tarefas para elas seguirem padrões familiares dos usuários, evitando dificuldades de adaptação.
+    - Na página 265 do livro, se os padrões forem seguidos, os usuários acostumados com esses ambientes tendem a ter menos dificuldades para realizar operações básicas. Além disso, quando os usuários de sistemas desses domínios já estão acostumados a certos termos e a certas formas de realizar determinadas operações, se a solução de IHC estiver próxima das convenções adotadas no domínio do sistema, os usuários tendem a ter menos dificuldades para utilizá-lo porque já estão familiarizados com essas convenções.
+
+
+
+- **Identificar problemas na interação e na interface**: Esse é o objetivo principal da avaliação, pois foca na identificação de problemas na interação e na interface do protótipo de alta fidelidade do SIGAA uma vez que, ao utilizar a participação dos usuários, é possível coletar dados essenciais sobre o uso do sistema. Assim, são identificados problemas cruciais e é possível entender como eles afetam a qualidade de uso, podendo categorizá-los conforme a sua gravidade, frequência e impacto nos critérios de usabilidade, experiência do usuário e comunicabilidade.
+    -  Na página 265 do livro, é observado que os problemas na interação e na interface são os aspectos mais avaliados na área de IHC, pois, por meio de sistemas interativos, são analisados dados coletados com objetivo de identificar problemas na interação e na interface que prejudiquem a qualidade de uso do sistema.
+
+
 
 ## E Explorar perguntas a serem respondidas
 
