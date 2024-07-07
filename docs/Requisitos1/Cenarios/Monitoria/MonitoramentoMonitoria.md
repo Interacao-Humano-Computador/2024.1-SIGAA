@@ -27,7 +27,7 @@ A tabela 1 mostra os elementos em relação ao cenário de monitoramento de moni
 | **Ações**      | Tentativa de comunicação; <br> Tentativa de organização de aulas presenciais; <br> Busca por ferramentas de comunicação e registro para auxiliar os alunos.                  |
 | **Eventos**    | Indisponibilidade de salas de aula para a realização de aulas presenciais; <br> Reconhecimento da necessidade de ferramentas de comunicação e registro adequadas; <br> Necessidade de uma organização melhor no sistema |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ## Narrativa
 
@@ -58,7 +58,7 @@ Com base tanto na narrativa quanto na realidade vivida por diversos estudante, a
 | Falta de uma plataforma online para comunicação e registro de atividades.                            | Por que a monitora sente falta de uma plataforma online para comunicação e registro de atividades?               | A monitora sente falta porque sem essa ferramenta ela não consegue manter um registro das interações com os alunos e oferecer suporte eficaz. | Desenvolver uma ferramenta no SIGAA que permita aos monitores e alunos interagir em um ambiente online seguro, com opções de mensagens e registro de atividades. |
 |                                                                                                      | Como essa falta de ferramenta impacta na capacidade da monitora de acompanhar o progresso dos alunos?           | A falta de ferramenta impacta negativamente, pois a monitora não consegue monitorar o progresso dos alunos de forma eficiente e oferecer suporte personalizado. | Criar uma plataforma integrada no SIGAA que permita aos monitores acompanhar o progresso dos alunos e oferecer suporte individualizado com base nas necessidades de cada aluno. |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ## Conclusão 
 
