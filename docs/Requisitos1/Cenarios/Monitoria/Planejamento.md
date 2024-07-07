@@ -39,7 +39,7 @@ Tabela 1: Elementos de um cenário.
 | Eventos | Ações externas ou reações produzidas pelo computador, ou outras características do ambiente. |
 | Avaliação | Atividade mental dirigida para interpretar a situação. |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
 
@@ -83,7 +83,7 @@ A tabela 1 mostra o cronograma da análise de cada uma das funcionalidades:
 | Cenário para monitoramento de monitoria| 06/05/2024 | 06/05/2024 |
 | Cenário para avaliar monitor| 06/05/2024 | 06/05/2024 |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
 
