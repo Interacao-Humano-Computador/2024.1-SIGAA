@@ -164,6 +164,10 @@ As justificativas, com base no livro, para essas escolhas são:
 
 - **[Observação](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/TermosConsentimento/prints01/Screenshot%20from%202024-07-07%2005-52-35.png):** A observação permite registrar as interações dos usuários e proporciona uma coleta de dados mais detalhada sobre as atividades dos usuários, que permite identificar problemas reais enfrentados pelos usuários durante sua experiência de uso do protótipo.
 
+#### Sobre o pesquisador escolhido
+
+Para realiar o teste de usabilidade, escolheu-se o pesquisador Nilsen, que afirma que 5 participantes é possível descobrir 85% dos erros. 
+
 ## I Identificar e administrar as questões práticas da avaliação
 
 Para a avaliação dos protótipos de alta fidelidade, é crucial considerar as questões práticas que garantirão a eficácia do processo. Seguindo as diretrizes do livro "Interação Humano-Computador"¹, de Barbosa e Silva, estas questões abrangem desde o recrutamento dos participantes até a preparação e utilização adequada dos equipamentos necessários, gestão de prazos e orçamento disponíveis, e alocação eficiente de recursos humanos para conduzir a avaliação. Abaixo estão os detalhes específicos:
@@ -174,7 +178,7 @@ O protótipo de alta fidelidade será desenvolvido utilizando as ferramentas [Fi
 
 ### Recrutamento dos participantes
 
-**Localização**: Por der presencialmente no ambiente da FGA ou por meio de ferramentas de comunicação como WhatsApp ou Telegram.
+**Localização**: Presencialmente no ambiente da FGA ou em alguma outra localidade.
 
 **Perfil dos Participantes:** Como as funcionalidades são direcionadas a estudantes, o perfil do participante deve estar de acordo com o [perfil de estudantes](PerfilUsuario/Estudantes/perfilEstudante.md).
 
