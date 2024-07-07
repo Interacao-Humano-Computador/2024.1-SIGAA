@@ -111,7 +111,8 @@ Reorganização:
 16. Random Face Gnerator (This Person Does Not Exist). Disponível em <https://this-person-does-not-exist.com/en>. Acesso em: 05 de julho de 2024.
 17. Universidade de Brasília. Minha Biblioteca. Disponível em: [Minha biblioteca – UnB](https://minhabcedigital.bce.unb.br/Login.aspx?ReturnUrl=%2f) . Acesso em: 27 de março 2024.
 18. Uxpressia. Disponível em: [Uxpressia](https://uxpressia.com/?gs2id=CjsaCQiAqsitBhDlARIsAGMR1RixghUQjuWARa8LoLw9WNnE2i9HzhshG2-dyV_IS3ok6UH048kqGIMaAlbLEALw_wcB&ource=vaneadssgaolpo&edium=vasasdneraukilop2&ampaign=ganikolopare3da&ontent=ikoloete&via=sergei&erm=bananaterjikulop&gad_source=1&gclid=EAIaIQobChMIluCI_buXhQMVPQ2tBh15zwUgEAAYASAAEgKV__D_BwE) . Acesso em: 28 de março 2024.
-19. 
+19. WhatsApp. Disponível em: [Whatsapp](https://www.whatsapp.com/?lang=pt_BR) . Acesso em: 27 de março 2024.
+20. YouTube. Disponível em:  [Youtube](https://www.youtube.com/). Acesso em: 27 de março 2024.
  
    
 
