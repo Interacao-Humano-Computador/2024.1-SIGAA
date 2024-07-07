@@ -2,10 +2,23 @@
 
 ## Introdução
 No início do processo da disciplina, cada membro do grupo escolheu um site para ser avaliado, apresentando argumentos baseados em critérios ensinandos durante as aulas
-e que se enquadravam em nesses requisitos. Esses critérios visavam garantir uma escolha consensual e adequada para o projeto. Após algumas reuniões o site [SIGAA](https://sigaa.unb.br/) foi selecionado por ser de uso do cotidiano dos membros do grupo, proporcionando uma familiaridade maior com suas funcionalidades e necessidades de melhoria.
+e que se enquadravam em nesses requisitos. Esses critérios visavam garantir uma escolha consensual e adequada para o projeto. Após algumas reuniões o site [SIGAA](https://sigaa.unb.br/) foi selecionado.
+
+O Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) é uma plataforma amplamente utilizada por instituições de ensino superior no Brasil para gerenciar suas atividades acadêmicas. Este artefato tem como objetivo analisar o SIGAA, apresentando seus principais aspectos, vantagens, desvantagens e critérios de escolha, com base em uma metodologia estruturada de avaliação.
 
 ## Objetivo do Documento
-O objetivo deste documento é elucidar as motivações do grupo para a escolha do site utilizado no projeto, descrevendo os critérios adotados para a seleção, as razões específicas para a escolha do SIGAA, e as análises realizadas para fundamentar essa decisão.
+O objetivo deste documento é elucidar as motivações do grupo para a escolha do site utilizado no projeto, descrevendo os critérios adotados para a seleção, as razões específicas para a escolha do SIGAA.
+
+ Além disso, visa documentar de forma organizada e sistemática os critérios utilizados para a avaliação, proporcionando uma base para futuras referências e melhorias.
+
+
+## Metodologia
+
+Para a avaliação do site SIGAA, utilizamos uma abordagem estruturada composta pelas seguintes etapas:
+
+Revisão Bibliográfica: Pesquisa de artigos, manuais e documentos oficiais sobre o SIGAA para entender suas funcionalidades e características.
+Estudo de Caso: Análise de casos reais de instituições que utilizam o SIGAA, observando sua implementação e resultados obtidos.
+Entrevistas: Realização de entrevistas com usuários do sistema, incluindo estudantes, professores e administradores, para obter feedback sobre suas experiências.
 
 ## Motivações para a Escolha
 
@@ -26,18 +39,23 @@ Com base nesses critérios, o site [SIGAA](https://sigaa.unb.br/) foi o escolhid
 ## Pontos Positivos e Negativos
 
 ### Pontos Positivos
-- Funcionalidades diversas.
-- Disponível para diferentes públicos (alunos, professores, servidores, sociedade no geral).
-- Acessibilidade.
+
+Integração de Funcionalidades: O SIGAA oferece uma ampla gama de funcionalidades integradas, facilitando a gestão de atividades acadêmicas em um único sistema.
+Acessibilidade: Permite acesso remoto a estudantes, professores e administradores, proporcionando flexibilidade e conveniência.
+Personalização: Pode ser customizado de acordo com as necessidades específicas de cada instituição.
+Suporte e Atualizações: Conta com suporte técnico contínuo e atualizações regulares para manter o sistema atualizado e seguro.
 
 ### Pontos Negativos
-- Design antigo.
-- Excesso de menus parecidos.
-- 
+
+Complexidade de Implementação: A implementação do SIGAA pode ser complexa e demorada, exigindo treinamento e adaptação por parte dos usuários.
+Custo: Dependendo da instituição, o custo de aquisição e manutenção do SIGAA pode ser alto.
+Curva de Aprendizado: Usuários podem enfrentar uma curva de aprendizado íngreme para dominar todas as funcionalidades do sistema.
 
 ## Conclusão
 
-A escolha do site para o projeto é uma etapa imprescindível na disciplina de IHC. Durante todo o semestre, o trabalho foibaseado no site selecionado. Com a experiência adquirida na disciplina, recomendamos atenção à disponibilidade do público-alvo e à identificação de problemas no site que possam ser resolvidos durante o projeto.
+A escolha do site SIGAA para o projeto foi fundamentada em critérios que visavam garantir um estudo abrangente e significativo dentro da disciplina de Interação Humano-Computador. A familiaridade dos membros do grupo com o site, aliada à sua complexidade e o público-alvo diversificado, proporcionou uma base sólida para identificar e implementar melhorias substanciais.
+
+Essa decisão foi fundamental a coleta de dados e a realização de testes de usabilidade, mas também assegurou que as atividades do projeto fossem relevantes e desafiadoras, contribuindo significativamente para o aprendizado e a aplicação prática dos conceitos estudados ao longo do curso.
 
 ## Bibliografia
 
@@ -47,5 +65,5 @@ A escolha do site para o projeto é uma etapa imprescindível na disciplina de I
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- 1.0 | 07/07/2024 | Criação do documento | Bruno Araújo1| Luana Medeiros |
+ 1.0 | 07/07/2024 | Criação do documento | Bruno Araújo| Luana Medeiros |
  
