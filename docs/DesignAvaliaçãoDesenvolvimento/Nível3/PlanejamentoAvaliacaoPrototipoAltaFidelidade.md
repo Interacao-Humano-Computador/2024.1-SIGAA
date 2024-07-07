@@ -158,11 +158,11 @@ Para escolher os métodos da avaliação, com base nas reuniões anteriores real
 
 As justificativas, com base no livro, para essas escolhas são:
 
-- **Inspeção**: O método de inspeção permite ao avaliador examinar a solução de IHC para antecipar as possíveis consequências de certas decisões de design nas experiências de uso, identificando problemas potenciais que os usuários podem enfrentar. Assim, esse método será utilizado para cada integrante avaliar o próprio protótipo.
+- **[Inspeção](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/TermosConsentimento/prints01/Screenshot%20from%202024-07-07%2005-52-02.png)**: O método de inspeção permite ao avaliador examinar a solução de IHC para antecipar as possíveis consequências de certas decisões de design nas experiências de uso, identificando problemas potenciais que os usuários podem enfrentar. Assim, esse método será utilizado para cada integrante avaliar o próprio protótipo.
 
-- **Investigação:** O método de investigação, como entrevistas e questionários, foram selecionados por sua capacidade de acessar e interpretar as concepções, opiniões e comportamentos dos usuários em relação ao protótipo de alta fidelidade.
+- **[Investigação](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/TermosConsentimento/prints01/Screenshot%20from%202024-07-07%2005-53-08.png):** O método de investigação, como entrevistas e questionários, foram selecionados por sua capacidade de acessar e interpretar as concepções, opiniões e comportamentos dos usuários em relação ao protótipo de alta fidelidade.
 
-- **Observação:** A observação permite registrar as interações dos usuários e proporciona uma coleta de dados mais detalhada sobre as atividades dos usuários, que permite identificar problemas reais enfrentados pelos usuários durante sua experiência de uso do protótipo.
+- **[Observação](https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/TermosConsentimento/prints01/Screenshot%20from%202024-07-07%2005-52-35.png):** A observação permite registrar as interações dos usuários e proporciona uma coleta de dados mais detalhada sobre as atividades dos usuários, que permite identificar problemas reais enfrentados pelos usuários durante sua experiência de uso do protótipo.
 
 ## I Identificar e administrar as questões práticas da avaliação
 
