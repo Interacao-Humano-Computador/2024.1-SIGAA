@@ -108,6 +108,12 @@ Reorganização:
 13. Microsoft Teams. Disponível em: [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in) . Acesso em: 27 de março 2024.
 14. MkDocs. Disponível em: [MkDocks](https://www.mkdocs.org/) . Acesso em: 27 de março 2024.
 15. Moodle. Aprender. Disponível em: [MoodleAprender](https://aprender3.unb.br) . Acesso em: 28 de março 2024.
+16. Random Face Gnerator (This Person Does Not Exist). Disponível em <https://this-person-does-not-exist.com/en>. Acesso em: 05 de julho de 2024.
+17. Universidade de Brasília. Minha Biblioteca. Disponível em: [Minha biblioteca – UnB](https://minhabcedigital.bce.unb.br/Login.aspx?ReturnUrl=%2f) . Acesso em: 27 de março 2024.
+18. Uxpressia. Disponível em: [Uxpressia](https://uxpressia.com/?gs2id=CjsaCQiAqsitBhDlARIsAGMR1RixghUQjuWARa8LoLw9WNnE2i9HzhshG2-dyV_IS3ok6UH048kqGIMaAlbLEALw_wcB&ource=vaneadssgaolpo&edium=vasasdneraukilop2&ampaign=ganikolopare3da&ontent=ikoloete&via=sergei&erm=bananaterjikulop&gad_source=1&gclid=EAIaIQobChMIluCI_buXhQMVPQ2tBh15zwUgEAAYASAAEgKV__D_BwE) . Acesso em: 28 de março 2024.
+19. 
+ 
+   
 
 
 
