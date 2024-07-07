@@ -63,7 +63,7 @@ Como há um conjunto de tarefas a serem realizadas, há baixo, no algoritmo 1, h
     	 5.3 Revisar e Editar Mensagem de Pedido 
      6. Enviar Pedido de Monitoria 
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </details>
 
@@ -78,7 +78,7 @@ Para facilitar a visualização das tarefas, a figura 1 mostra o diagrama:
     <br>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/pedidoMOnitoriaHierarquica.png">
     <br>
-     Fonte: Larissa Stéfane
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
@@ -116,7 +116,7 @@ A tabela 1 mostra a tabela da análise hierárquica de tarefas sobre a funcional
 | 5.3 Revisar e Editar Mensagem de Pedido          |          | **Plano**: Revisar e editar a mensagem de pedido conforme necessário.<br>**Recomendação**: Garantir que a mensagem esteja clara e completa. |
 | 6. Enviar Pedido de Monitoria                    |               |**Input**: Enviar o pedido para avaliação. <br>**Plano**: Enviar o pedido de monitoria para avaliação.<br>Recomendação: Enviar o pedido somente após revisão completa. |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </details>
 
@@ -208,7 +208,7 @@ Abaixo, no algoritmo 2, há a execução do método GOMS
       - METHOD 6.A: Enviar Pedido de Monitoria
         - OPERATOR 6.A.1: Clicar no botão de enviar para concluir o pedido de monitoria.
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </details>
 
