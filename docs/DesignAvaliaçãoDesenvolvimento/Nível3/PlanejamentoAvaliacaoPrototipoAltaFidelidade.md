@@ -101,7 +101,7 @@ Tabela 2: - Perguntas gerais da avaliação.
 | 16 | Onde esses problemas se manifestam? | identificar problemas na interação e interface | 
 | 17 | Com que frequência os problemas tendem a ocorrer? | identificar problemas na interação e interface | 
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+**Fonte** - BARBOSA e SILVA (2011).
 
 </center>
 
@@ -128,7 +128,7 @@ Tabela 2: - Perguntas da avaliação direcionadas ao participante.
 
 </center>
 
-Além das perguntas que os participantes terão que responder, há também as perguntas que os integrantes do grupo, ou seja, que desenvolveu a funcionalidade, deverá responder. Essas perguntas estão na tabela 3.
+Além das perguntas que os participantes terão que responder, há também as perguntas que os integrantes do grupo, ou seja, que desenvolveu a funcionalidade e observou o participante, deverá responder. Essas perguntas estão na tabela 4.
 
 <center> 
     
