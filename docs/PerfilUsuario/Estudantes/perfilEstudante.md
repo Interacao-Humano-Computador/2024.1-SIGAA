@@ -154,7 +154,21 @@ excelente e 22% regular.
 
 ## Tipos De Perfis 
 
+Ao seguir o livro Interação Humano-Computador e Experiência do Usuário¹, na página 166, uma vez que a faixa de respostas para cada uma das características e a porcentagem de usuários nessa faixa foram determinadas, então os seus usuários serão categorizado em grupos, com base em suas semelhanças.
 
+<center>
+
+Tabela 1: Tipo de Perfil A
+
+| Característica | Definição |
+| -------------- | --------- |
+
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+
+ 
+</center>
 
 ## Conclusão
 
