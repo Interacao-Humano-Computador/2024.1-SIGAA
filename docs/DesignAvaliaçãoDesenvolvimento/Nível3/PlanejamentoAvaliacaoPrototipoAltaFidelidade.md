@@ -75,6 +75,39 @@ Isso porque, com base no livro “Avaliação e Projeto no Design de Interfaces�
 
 ## E Explorar perguntas a serem respondidas
 
+Com base nos objetivos definidos e ao se observar as perguntas indicadas na página 266 do livro "Interação Humano Computador e Experiência do Usuário"¹, foram definidas um conjunto de questões que se buscam responder com o teste de usabilidade. Essas perguntas estão apresentadas na tabela 2.
+
+<center> 
+
+Tabela 2: - Perguntas gerais da avaliação.
+
+| Ordem das Perguntas | Pergunta | Objetivo Relacionado a Pergunta |
+|---------------------|----------|----------------------|
+| 1 | De que maneira os usuários utilizam o sistema? Em que difere do planejado? | Analisar a apropriação da tecnologia |
+| 2 | Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema? | Analisar a apropriação da tecnologia |
+| 3 | Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não) | Analisar a apropriação da tecnologia |
+| 4 | Qual a satisfação dos usuários com o sistema? | Analisar a apropriação da tecnologia |
+| 5 | O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades? | Analisar a apropriação da tecnologia |
+| 6 | Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? | Analisar a apropriação da tecnologia | 
+| 7 | O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? | Analisar a apropriação da tecnologia | 
+| 8 | Os termos na interface seguem convenções estabelecidas no domínio? | verificar a conformidade com um padrão |
+| 9 | O sistema está de acordo com os padrões de acessibilidade do W3C? | verificar a conformidade com um padrão | 
+| 10 | O usuário consegue operar o sistema? | identificar problemas na interação e interface | 
+| 11 | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | identificar problemas na interação e interface |
+| 12 | Que parte da interface e da interação o deixa insatisfeito? | identificar problemas na interação e interface | 
+| 13 | Que parte da interface o desmotiva a explorar novas funcionalidades? | identificar problemas na interação e interface | 
+| 14 | Ele entende o que significa e para que serve cada elemento de interface? | identificar problemas na interação e interface | 
+| 15 | Considerando o passo a passo de cada etapa, o usuário entende o que deve fazer em seguida? | identificar problemas na interação e interface | 
+| 16 | Onde esses problemas se manifestam? | identificar problemas na interação e interface | 
+| 17 | Com que frequência os problemas tendem a ocorrer? | identificar problemas na interação e interface | 
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</center>
+
+
+
+
+
 Ao se observar as perguntas indicadas na página 266 do livro "Interação Humano Computador e Experiência do Usuário"¹, foram realizadas adaptações para utilizá-las nas entrevistas, a fim de garantir que a avaliação dos protótipos de alta fidelidade seja detalhada e que os dados coletados estejam coerentes com os objetivos definidos. Além dessas adaptações, novas perguntas foram elaboradas considerando o contexto específico. Com isso, a Tabela 2 apresenta o conjunto completo das perguntas que serão feitas com o participante.
 
 <center> 
