@@ -110,7 +110,12 @@ Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas.
 19. WhatsApp. Disponível em: [Whatsapp](https://www.whatsapp.com/?lang=pt_BR) . Acesso em: 27 de março 2024.
 20. YouTube. Disponível em:  [Youtube](https://www.youtube.com/). Acesso em: 27 de março 2024.
  
-   
+### Projetos que inspiraram
+
+- BCE - Biblioteca Central da UnB. Disponível em <https://interacao-humano-computador.github.io/2020.1-BCE/#/?id=equipe>. Acesso em: 28 de março 2024.
+- Banco Central do Brasil. Disponível em <https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/ferramentas>. Acesso em: 28 de março 2024.
+- Bilheteria Digital.  Disponível em <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/>. Acesso em: 28 de março 2024.
+- Dominio Público.  Disponível em <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/ferramentas/>. Acesso em: 28 de março 2024.
 
 
 
@@ -125,4 +130,5 @@ Para estruturar os tipos de ferramentas, elas serão organizdas em duas tabelas.
 | 1.5 | Adição de mais ferramentas| Larissa Stéfane | Pedro Augusto | 05/04/2024 |
 | 1.6 | Correção das legendas das figuras e tabelas para norma ABNT | Iago Passaglia | Bruno Araújo | 11/04/2024 |
 | 1.7 | Adição de mais ferramentas e reorganização do artefato | Larissa Stéfane | - | 06/07/2024 |
-| 1.7 | Organização da ferramentas em ordem alfabética | Larissa Stéfane | - | 06/07/2024 |
+| 1.8 | Organização da ferramentas em ordem alfabética | Larissa Stéfane | - | 06/07/2024 |
+| 1.9 | Adição das ferramentas presenciais | Larissa Stéfane | - | 06/07/2024 |
