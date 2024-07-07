@@ -21,7 +21,6 @@ Com base nesses critérios, o site [SIGAA](https://sigaa.unb.br/) foi o escolhid
 
 * **Público-alvo amplo e de fácil acesso:** O site atende a alunos, professores, servidores e a sociedade em geral, facilitando contatos por parte do grupo.
 * **Problemas na interface:** A presença de certos problemas na interface que podem ser melhorados no decorrer do projeto.
-* **Uso interdisciplinar:** A possibilidade de usar o site na disciplina de Requisitos, aproveitando a interdisciplinaridade das matérias.
 * **Complexidade média:** O site não é puramente informativo e apresenta funcionalidades como sistema de cadastro, busca de informações e gestão acadêmica, adequado ao escopo da disciplina e habilidade dos integrantes.
 
 ## Pontos Positivos e Negativos
