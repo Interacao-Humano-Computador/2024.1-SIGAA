@@ -128,39 +128,26 @@ As perguntas foram definidas conforme o [framework DECIDE](DesignAvaliaçãoDese
 
 #### Perguntas sobre o protótipo de alta fidelidade
 
-1. **Você considera que o protótipo atende aos critérios de acessibilidade necessários para garantir que todos os usuários, incluindo aqueles com necessidades específicas, possam utilizar as funcionalidades sem dificuldades? Na sua opinião.**
+1. **Você considera que o protótipo atende aos critérios ou necessidades para garantir que você possa utilizar a funcionalidade sem dificuldades? Na sua opinião.**
 
 2. **Na sua opinião, a interface do protótipo segue os padrões visuais e de interação esperados para o SIGAA? Ela está alinhada com o formato que você conhece no SIGAA?**
 
 3. **Você acha que os termos utilizados no protótipo são compreensíveis e consistentes com o contexto acadêmico e da funcionalidade?**
 
-4. **Como você avalia o protótipo em comparação com outras funcionalidades parecidas que você já utilizou?**
+4. **Você encontrou dificuldades quando navegou nas funcionalidades do protótipo?**
 
-5. **A linguagem e os símbolos no protótipo são adequados para os usuários deste sistema? Você conseguiu entendê-los com facilidade?**
+5. **Quais partes do protótipo você considera menos satisfatórias ou que poderiam ser melhoradas para proporcionar uma experiência mais positiva?**
 
-6. **Você encontrou dificuldades quando navegou nas funcionalidades do protótipo?**
+6. **A interface do protótipo incentivou você a explorar as suas funcionalidades e os recursos do SIGAA?**
 
-7. **Você acha que levou mais tempo que o necessário para realizar as tarefas propostas pelo protótipo ou acha que levou o tempo ideal?**
+7. **Você se sentiu orientado sobre quais passos tomar a seguir para completar suas tarefas no protótipo? Se sim, as orientações fornecidas foram claras e úteis?**
 
-8. **Quais partes do protótipo você considera menos satisfatórias ou que poderiam ser melhoradas para proporcionar uma experiência mais positiva?**
+8. **A interface do protótipo mantém uma consistência visual ao longo de todas as telas e elementos?**
 
-9. **A interface do protótipo incentivou você a explorar as suas funcionalidades e os recursos do SIGAA?**
+9. **Você sentiu que teve o controle sobre a navegação e a interação com o protótipo?**
 
-10. **Você conseguiu entender claramente o significado e a utilidade de cada elemento da interface do protótipo? **
+10. **Como você define a sua satisfação pessoal ao completar tarefas da funcionalidade?**
 
-11. **Você conseguiu entender claramente o significado e a utilidade de cada elemento da funcionalidade do protótipo?**
-
-12. **Você se sentiu orientado sobre quais passos tomar a seguir para completar suas tarefas no protótipo? Se sim, as orientações fornecidas foram claras e úteis?**
-
-13. **Os elementos visuais e de design do protótipo ajudaram você a compreender a hierarquia das informações apresentadas?**
-
-14. **A interface do protótipo mantém uma consistência visual ao longo de todas as telas e elementos?**
-
-15. **Como o protótipo se comporta em diferentes dispositivos e tamanhos de tela?**
-
-16. **Você sentiu que teve o controle sobre a navegação e a interação com o protótipo?**
-
-17. **Como você define a sua satisfação pessoal ao completar tarefas da funcionalidade?**
 
 </details>
 
