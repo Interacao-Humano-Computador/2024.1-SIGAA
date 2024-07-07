@@ -262,8 +262,7 @@ Abaixo, há a execução do método GOMS
         - OPERATOR 8.A.3: Filtrar monitorias por estado (aprovadas, rejeitadas, pendentes).
         - SELECTION RULE 8.A.2: Pesquisar Monitorias por Disciplina, Professor ou Período.
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
-
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 </details>
 
 ## Conclusão
