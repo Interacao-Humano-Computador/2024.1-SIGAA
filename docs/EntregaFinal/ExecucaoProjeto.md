@@ -14,8 +14,8 @@ A fase inicial do projeto envolveu a definição clara dos requisitos funcionais
 ### Metodologia
 Foi adotada a metodologia ágil Scrum para a gestão do projeto. A escolha dessa metodologia se deu pela sua flexibilidade e foco na entrega contínua de valor. As principais etapas incluíram:
 
-- **Sprint Planning:** Planejamento das atividades a serem realizadas em cada sprint.
-- **Daily Stand-up:** Reuniões diárias para acompanhamento do progresso e resolução de impedimentos.
+
+-  Reuniões semananais para acompanhamento do progresso e resolução de impedimentos.
 - **Sprint Review:** Revisão das entregas realizadas ao final de cada sprint.
 - **Sprint Retrospective:** Análise do que funcionou bem e do que pode ser melhorado para as próximas sprints.
 
@@ -36,9 +36,8 @@ Foram realizados testes funcionais e de usabilidade para garantir que as funcion
 ### Desafios e Soluções
 Durante a execução do projeto, enfrentamos alguns desafios, tais como:
 
-- **Integração de Sistemas:** A integração com outros sistemas acadêmicos exigiu um esforço adicional de mapeamento e adaptação.
-- **Performance:** Otimizações foram necessárias para garantir a performance adequada do site.
-- **Acessibilidade:** Implementamos melhorias contínuas para garantir que o site fosse acessível a todos os usuários.
+- Otimizações foram necessárias para garantir a performance adequada do site.
+- Implementamos melhorias contínuas para garantir que o site fosse acessível a todos os usuários.
 
 As soluções para esses desafios incluíram reuniões técnicas para alinhamento, uso de ferramentas de monitoramento de performance e revisões de código focadas em acessibilidade.
 
