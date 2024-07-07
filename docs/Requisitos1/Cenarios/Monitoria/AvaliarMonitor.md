@@ -28,7 +28,7 @@ A tabela 1 mostra os elementos em relação ao cenário de avaliação de monito
 | **Ações**      | O estudante dedicado procura o monitor imprudente para esclarecer dúvidas, mas recebe tratamento inadequado. Ele então busca uma ferramenta de avaliação de monitores, porém não encontra. Por fim, ele compartilha a ideia com a professora da disciplina.    |
 | **Eventos**    | O estudante dedicado é ridicularizado pelo monitor imprudente quando busca ajuda. <br> Não encontra uma ferramenta para avaliar o monitor. <br> Propõe à professora a implementação de um sistema de avaliação de monitores.             |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ## Narrativa
 
@@ -55,7 +55,8 @@ Com base tanto na narrativa quanto na realidade vivida por diversos estudante, a
 | Proposta de implementação de um sistema de avaliação de monitores.                                  | Por que é importante ter um sistema de avaliação de monitores na universidade?                                  | É importante para garantir que apenas monitores comprometidos e eficientes sejam selecionados para auxiliar os alunos. | Desenvolver um sistema de avaliação de monitores que permita aos alunos fornecer feedback construtivo sobre o desempenho dos monitores. |
 |                                                                                                      | Como a implementação desse sistema pode melhorar a experiência dos alunos na monitoria?                         | A implementação do sistema pode melhorar a experiência dos alunos ao garantir a qualidade do suporte oferecido pelos monitores. | Promover treinamentos para monitores com base no feedback recebido pelos alunos.                                            |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
 ## Conclusão
 
 O cenário apresentado evidencia a importância de uma comunicação eficaz entre monitores e alunos, assim como a necessidade de ferramentas de avaliação de desempenho dos monitores. Isso porque a implementação de um sistema de avaliação se mostra essencial para garantir a qualidade da monitoria e a satisfação dos alunos.
