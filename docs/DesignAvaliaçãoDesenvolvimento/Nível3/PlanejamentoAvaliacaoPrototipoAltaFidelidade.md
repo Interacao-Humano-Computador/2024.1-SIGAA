@@ -48,7 +48,7 @@ Tabela 1 - Letras da palavra DECIDE com os seus significados.
 
 </center>
 
-Como a avaliação será um teste de usabilidade, também será levado em consideração os pontos explicados no livro “Avaliação e Projeto no Design de Interfaces”. Desse modo, a estrutura e o estilo do teste também será planejado de acordo com o pesquisador definido no planejamento.
+Como a avaliação será um teste de usabilidade, também será levado em consideração os pontos explicados no livro “Avaliação e Projeto no Design de Interfaces”². Desse modo, a estrutura e o estilo do teste também será planejado de acordo com o pesquisador definido no planejamento.
 
 ## D Determinar os objetivos
 
@@ -166,7 +166,9 @@ As justificativas, com base no livro, para essas escolhas são:
 
 #### Sobre o pesquisador escolhido
 
-Para realiar o teste de usabilidade, escolheu-se o pesquisador Nilsen, que afirma que 5 participantes é possível descobrir 85% dos erros. 
+Para realiar o teste de usabilidade, escolheu-se o pesquisador Nilsen, que afirma que 5 participantes é possível descobrir 85% dos erros, com base no livro “Avaliação e Projeto no Design de Interfaces”².
+
+Contudo, no desenvolvimento do projeto, também se entende que pode ser difícil encontrar 5 usuários para a mesma funcionalidade, por isso, um outro pesquisador que será levado em consideração é o Krug, que afirma que com três ou quatro participantes, a maioria dos problemas é detectada, tornando possível fazer a análise no mesmo dia.
 
 ## I Identificar e administrar as questões práticas da avaliação
 
@@ -182,18 +184,16 @@ O protótipo de alta fidelidade será desenvolvido utilizando as ferramentas [Fi
 
 **Perfil dos Participantes:** Como as funcionalidades são direcionadas a estudantes, o perfil do participante deve estar de acordo com o [perfil de estudantes](PerfilUsuario/Estudantes/perfilEstudante.md).
 
-**Quantidade de participantes**: Ao todo, estão sendo desenvolvidas 8 funcionalidades, então serão utilizados 8 participantes. Um para cada funcionalidade, ou seja, um para cada protótipo.
+**Quantidade de participantes**: Ao todo, estão sendo desenvolvidas 8 funcionalidades, então serão utilizados 8 participantes. Com a escolha de Nilsen como o pesquisador base, para cada funcionalidade, haverá 5 participantes. Assim, ao todo, a previsão é que se tenha 40 participantes. Contudo, por também utilizar o Krug como pesquisador base, menos usuários poderão ser utilizados.
 
 
 ### Modalidade da avaliação
-
-- **Remotamente:** O integrante do grupo e o participante se encontrarão por meio de uma plataforma, como Teams ou Google Meet, com compartilhamento de tela e câmeras de webcam ligadas.
 
 - **Presencialmente**: O integrante do grupo e o participante se encontrarão fisicamente para avaliar o protótipo em um computador que tenha o protótipo de alta fidelidade desenvolvido.
 
 ### Apresentação do Protótipo para o Participante ou Usuário
 
-O protótipo de alta fidelidade será apresentado ao participante por meio de um computador que tenha acesso ao site ou à ferramenta utilizada para o desenvolvimento do protótipo, como o Figma ou o Sketch. Com isso, o integrante do grupo responsável pela avaliação guiará o participante mediante uma breve introdução ao contexto do protótipo e das funcionalidades que serão exploradas durante a sessão de avaliação.
+O protótipo de alta fidelidade será apresentado ao participante por meio de um computador que tenha acesso ao site ou à ferramenta utilizada no seu desenvolvimento, como o Figma ou o Sketch. Com isso, o integrante do grupo responsável pela avaliação guiará o participante mediante uma breve introdução ao contexto do protótipo e das funcionalidades que serão exploradas durante a sessão de avaliação.
 
 Durante a avaliação, o participante será encorajado a interagir livremente com o protótipo de alta fidelidade. Ele será solicitado a realizar tarefas específicas que simulem cenários de uso realistas, para que suas interações e feedbacks possam ser observados e registrados.
 
@@ -201,13 +201,13 @@ Além disso, o integrante do grupo estará presente para fornecer orientações 
 
 ### Tempo
 
-A avaliação do protótipo de alta fidelidade está estimada para durar entre 15 a 40 minutos por participante, incluindo o tempo para explicação inicial, interação com o protótipo e preenchimento dos questionários de avaliação.
+A avaliação do protótipo de alta fidelidade está estimada para durar entre 10 a 20 minutos por participante, incluindo o tempo para explicação inicial, interação com o protótipo e preenchimento dos questionários de avaliação.
 
 ### Lista de Materiais Necessários
 
 1. **Ferramenta** : [Figma](https://www.figma.com/) ou [Sketch](https://www.sketch.com/)
-2. **Equipamentos Eletrônicos**: Computador para apresentação do protótipo, webcam para gravação das interações do participante, microfone para captura de áudio e gravador para registrar a sessão de avaliação.
-3. **Documentos**: Termo de Consentimento Livre e Esclarecido (TCLE), questionários de pré-avaliação, avaliação e pós-avaliação.
+2. **Equipamentos Eletrônicos**: Computador para apresentação do protótipo, webcam para gravação das interações do participante, microfone para captura de áudio e gravador para registrar a sessão de avaliação e, talvez, uma segunda câmera para gravar a interação do participante com o integrante da equipe.
+3. **Documentos**: Termo de Consentimento Livre e Esclarecido (TCLE), questionários de avaliação avaliação.
 4. **Roteiro de Acompanhamento**: Impresso para guiar a estrutura da avaliação durante a interação com o protótipo.
 
 ## D Decidir como lidar com as questões éticas
@@ -248,8 +248,11 @@ Livro: Engenharia de requisitos: Software orientado ao negócio, página 166. Di
 
 1. Barbosa, S. D. J., & Silva, B. S. (2021). Interação Humano-Computador e Experiência do Usuário. Editora: Câmara Brasileira do Livro, SP, Brasil. Acesso em: 19 de maio de 2024.
 
+2. SANTA ROSA, José Guilherme. Teste de Usabilidade (Objetivos, Planejamento, Número de Participantes, Especificação das Tarefas e Cenários e Relato). In: Avaliação e Projeto no Design de Interfaces. 1. ed. São Paulo: Editora Arquivo, 2010.
+   
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | ------ | --------------------------------- | --------------- | --------------------- | ---------- |
 | 1.0 | Criação do documento e elaboração de todos os pontos da avaliação | Larissa Stéfane | Bruno Araújo | 19/06/2024 |
+| 1.1 | Reestruturação e correção do documento | Larissa Stéfane | - | 06/07/2024 |
