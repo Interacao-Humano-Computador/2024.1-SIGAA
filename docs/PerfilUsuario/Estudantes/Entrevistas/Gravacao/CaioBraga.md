@@ -28,7 +28,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 |20/04/204 | Gravação da entrevista |
 | 21/04/2024 | Documentação da entrevista |
 
-**Fonte:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
 ## Termo de Consentimento
@@ -46,6 +46,7 @@ vídeo 1: IHC - Projeto sobre o SIGAA - Entrevista com Caio Braga
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/mC1-75Od7Xo" title="IHC - Projeto sobre o SIGAA - Entrevista com Caio Braga" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/watch?v=mC1-75Od7Xo) 
 
