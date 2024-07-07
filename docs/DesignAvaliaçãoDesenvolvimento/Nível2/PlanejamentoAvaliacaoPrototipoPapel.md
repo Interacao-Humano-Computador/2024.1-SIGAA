@@ -21,7 +21,9 @@ Esse planejamento da avaliação dos protótipos de papel pretende principal val
 
 ## Metodologia
 
-Como foi citado, a metodologia utilizada para essa avaliação dos protótipos de papel segue o framework DECIDE, o qual compreende seis etapas principais que podem ser observadas na tabela 1. Assim, primeiramente, serão definidos os objetivos específicos da avaliação, ao focar na usabilidade e na eficiência das funcionalidades. Em seguida, serão exploradas as questões relevantes para a avaliação e será definida a escolha dos métodos, que incluirá técnicas como entrevistas e questionários. Além disso, os aspectos éticos serão considerados para garantir a confidencialidade e o consentimento dos participantes. Por fim, os dados coletados serão avaliados e interpretados para identificar pontos fortes e áreas de melhoria.
+Para o planejamento da avaliação de usabilidade dos protótipos de alta fidelidade das funcionalidades do SIGAA, será utilizado o método DECIDE, que, segundo o livro “Interação Humano-Computador e Experiência do Usuário”, de Barbosa e Silva, divide a organização em um conjunto de etapas, como é possível observar na tabela 1. Assim, primeiramente, os objetivos da avaliação serão estabelecidos, com ênfase em critérios como usabilidade, eficiência e satisfação do usuário. Em seguida, as perguntas principais que orientarão a avaliação serão formuladas, incluindo a adequação das funcionalidades às tarefas dos usuários e a facilidade de uso. 
+
+A próxima etapa envolverá a seleção dos métodos de avaliação mais apropriados, como entrevistas com usuários e questionários. Além disso, para a execução, as questões práticas serão abordadas, como a organização do ambiente, a preparação dos materiais e a seleção dos participantes, tudo dentro de um cronograma definido. Além disso, as questões éticas serão consideradas para garantir o consentimento informado e o respeito aos participantes durante as reuniões. 
 
 A Tabela 1 apresenta a organização detalhada do framework DECIDE, que serviu como base para a estruturação da metodologia utilizada neste planejamento.
 
@@ -42,6 +44,8 @@ A Tabela 1 apresenta a organização detalhada do framework DECIDE, que serviu c
 **Fonte** - BARBOSA e SILVA (2011).
 
 </center>
+
+Como a avaliação será um teste de usabilidade, também será levado em consideração os pontos explicados no livro “Avaliação e Projeto no Design de Interfaces”. Desse modo, a estrutura e o estilo do teste também será planejado de acordo com o pesquisador definido no planejamento.
 
 
 ## D Determinar os objetivos
