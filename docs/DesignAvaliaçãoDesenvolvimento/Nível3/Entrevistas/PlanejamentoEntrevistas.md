@@ -199,8 +199,16 @@ Para realizar as entrevistas, há um cronograma planejado com a data em que entr
 
 | Funcionalidade | Entrevistado | Entrevistador | Data que entrou em contato | Data da entrevista | Horário da entrevista| Local da entrevista |
 | - | - | - | - | - | - | - |
-| Aba de Monitoria | Lavínia Inácia | Larissa Stéfane | 17/06/2024 | 22/06/2024 | 15:00 |teams |
-| Aluguel de Sala | Bruno  | Larissa Stéfane | 17/06/2024 | 22/06/2024 | 20:00 | teams|
+| Aba de Monitoria | Genilson SIlva | Larissa Stéfane | 17/06/2024 | 04/07/2024 | 10:30 | FGA-S8 |
+| Aba de Monitoria | Carlos Gabriel | Larissa Stéfane | 17/06/2024 | 04/06/2024 | 11:15 | FGA-S8 |
+| Aba de Monitoria | Henrique Batalha | Larissa Stéfane | 04/07/2024 | 04/07/2024 | 12:00 | FGA-S8 |
+| Aba de Monitoria | Leandro Silva | Larissa Stéfane | 04/07/2024 | 04/07/2024 | 16:00 | FGA-I1 |
+| Aba de Monitoria | Felipe Ferreira | Larissa Stéfane | 02/07/2024 | 04/07/2024 | 18:00 | FGA-I9 |
+| Aluguel de Sala | Genilson SIlva | Larissa Stéfane | 17/06/2024 | 04/07/2024 | 10:50 | FGA-S8 |
+| Aluguel de Sala | Carlos Gabriel | Larissa Stéfane | 17/06/2024 | 04/06/2024 | 11:35 | FGA-S8 |
+| Aluguel de Sala | Henrique Batalha | Larissa Stéfane | 04/07/2024 | 04/07/2024 | 12:20 | FGA-S8 |
+| Aluguel de Sala | Leandro Silva | Larissa Stéfane | 04/07/2024 | 04/07/2024 | 16:20 | FGA-I1 |
+| Aluguel de Sala | Felipe Ferreira | Larissa Stéfane | 02/07/2024 | 04/07/2024 | 18:20 | FGA-I9 |
 | Pré-cadastro de Estágio | Ana Caroline | Iago Passaglia | 18/06/2024 |  24/06/2024 | 21:30 | teams |
 | Aba RU | João Antônio | Breno Alexandre  | 18/06/2024 | 22/06/2024 | 11:00 | teams |
 | Matrículas | Erika Iwakiri | Pedro Augusto | 28/05/2024 | 18/06/2024 | 13:00 | teams |
@@ -264,3 +272,4 @@ Durante o processo de planejamento das entrevistas para avaliação dos protóti
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criação e realização do planejamento das entrevistas | Larissa Stéfane | Iago Passaglia | 19/06/2024 |
+| 1.1 | Correções| Larissa Stéfane | - | 06/07/2024 |
