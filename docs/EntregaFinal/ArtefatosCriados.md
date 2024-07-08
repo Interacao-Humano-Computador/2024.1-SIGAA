@@ -139,3 +139,5 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Planejamento da Avaliação do Storyboard: Identificar e administrar as questões práticas da avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | Iago Passaglia | Luana Medeiros |
 | [Planejamento da Avaliação do Storyboard: Decidir como lidar com as questões éticas](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | Bruno Araújo | Iago Passaglia |
 | [Planejamento da Avaliação do Storyboard: Avaliar, interpretar e apresentar os dados](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | Iago Passaglia | Pedro Izarias |
+| [Planejamento do Relato dos Resultados da avaliação do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoRelatoResultadosStoryboard.md) | Breno Alexandre | Luana Medeiros |
+| [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md) | Breno, Pedro e Larissa | Bruno, Iago, Luana e Pedro |
