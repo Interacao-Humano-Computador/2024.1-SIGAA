@@ -100,6 +100,12 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Análise de Tarefas: Aba do Restaurante Universitário na visão do estudante](Requisitos1/AnaliseTarefas/RestauranteUniversitário/AnáliseRU.md) | Breno Alexandre | Iago Passaglia	|
 
 
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+
+
+
+
 
 
 
