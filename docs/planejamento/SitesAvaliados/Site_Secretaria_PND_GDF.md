@@ -1,10 +1,14 @@
 ## Secretaria da Pessoa com Deficiência do GDF
 
+ Figura 1: Site Secretaria da Pessoa com Deficiência
+
  <center>
-  **Figura 1**: 
+ 
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/secretariaPessoaDeficiente.png">
-Fonte: Site da Secretaria da Pessoa com Deficiência do GDF 
+
  </center>
+ 
+ Fonte: Site da Secretaria da Pessoa com Deficiência do GDF 
 
 ## Sumário
 
