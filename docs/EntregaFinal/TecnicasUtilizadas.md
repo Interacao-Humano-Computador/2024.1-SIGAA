@@ -121,6 +121,8 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 | Larissa Stéfane | [Entrevista com a professora Elaine Venson](/PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson) |
 | Larissa Stéfane | [Entrevista com o professor Mario de Oliveira Andrade](/PerfilUsuario/Professores/Entrevistas/Gravacoes/MarioAndrade) |
 | Larissa Stéfane | [Entrevista com convidada especial: Cecília Alves](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/CeciliaAlves) |
+| Breno Alexandre | [Entrevista com a estudante Ana Clara Rosário Silva](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/AnaClara) |
+| Larissa Stéfane | [Entrevista com o estudante Bruno Martins Bomfim](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/BrunoMartins) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
@@ -148,6 +150,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 13. <b>ENTREVISTA COM A PROFESSORA ELAINE VENSON</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson>. Acesso em: 08 jul. 2024.
 14. <b>ENTREVISTA COM O PROFESSOR MARIO DE OLIVEIRA ANDRADE</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/MarioAndrade>. Acesso em: 08 jul. 2024.
 15. <b>ENTREVISTA COM CONVIDADA ESPECIAL:</b> Cecília Alves. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Estudantes/Entrevistas/Gravacao/CeciliaAlves>. Acesso em: 08 jul. 2024.
+16. <b>ENTREVISTA COM A ESTUDANTE ANA CLARA ROSÁRIO SILVA</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Estudantes/Entrevistas/Gravacao/AnaClara>. Acesso em: 08 jul. 2024.
 
 
 ## Histórico de Versão
