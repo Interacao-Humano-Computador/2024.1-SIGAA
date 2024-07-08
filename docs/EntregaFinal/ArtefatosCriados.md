@@ -115,8 +115,10 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Princípios Gerais: Equilíbrio entre controle e liberdade do usuário](Requisitos2/principiosGerais/PrincipiosGerais.md) | Pedro Izarias | Bruno Araújo  |
 | [Princípios Gerais: Consistência e padronização e promoção da eficiência do usuário no projeto](Requisitos2/principiosGerais/PrincipiosGerais.md) | Pedro Izarias | Bruno Araújo  |
 | [Princípios Gerais: Visibilidade e Reconhecimento no projeto](Requisitos2/principiosGerais/PrincipiosGerais.md) | Luana Medeiros | Bruno Araújo  |
-
-
+| [Planejamento do Guia de estilo](Requisitos2/GuiaEstilo/planejamento.md) | Larissa Stéfane | Breno Alexandre |
+| [Guia de Estilo: Elementos de Interface](Requisitos2/GuiaEstilo/GuiaEstilo.md) | Breno Alexandre | Bruno Araújo |
+| [
+ 
 
 
 
