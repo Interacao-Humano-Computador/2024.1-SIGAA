@@ -148,3 +148,9 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Planejamento da Avaliação da Análise de Tarefas: Identificar e administrar as questões práticas da avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) | Larissa Stéfane  | Bruno Araújo |
 | [Planejamento da Avaliação da Análise de Tarefas: Decidir como lidar com as questões éticas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) | Luana Medeiros | Larissa Stéfane |
 | [Planejamento da Avaliação da Análise de Tarefas: Avaliar, interpretar e apresentar os dados](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) | Pedro Izarias  | Bruno Araújo |
+| [Planejamento do Relato da análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoRelatoAnáliseTarefas.md) | Bruno Araújo | Larissa e Stéfane |
+| [Relato dos Resultados da Avaliação da Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/RelatoResultadosAnalise.md) | Breno, Iago, Larissa e Pedro | Bruno, Iago, Luana e Pedro |
+| [Planejamento das Entrevistas para Storyboard e ANálise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/planejamentoEntrevistas.md) | Larissa Stéfane | Bruno Araújo |
+| [Execução das Entrevistas para Avaliação do Storyboard e da Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/Execucao_Entrevistas.md) | Breno, Bruno, Iago, Larissa, Pedro | Breno, Bruno, Iago e Pedro |
+
+
