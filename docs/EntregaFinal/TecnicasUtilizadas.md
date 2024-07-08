@@ -238,8 +238,10 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 | Luana Medeiros | [Análise de Tarefas: Histórico](/Requisitos1/AnaliseTarefas/Histórico/AnaliseHistorico) |
 | Pedro Izarias | [Análise de Tarefas: Tarefas de estágio na visão do estudante (GOMS)](/Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS) |
 | Pedro Izarias | [Análise Hierárquica de Tarefas no SIGAA - Matrícula (Visão do aluno)](/Requisitos1/AnaliseTarefas/Matrícula/FazerMatriculaHierarquica) |
-| Larissa Stéfane |
-
+| Larissa Stéfane | [Análise de Tarefas: Pedido de Monitoria na visão do estudante](/Requisitos1/AnaliseTarefas/Monitoria/AnálisePedidoMonitoria) |
+| Larissa Stéfane | [Análise de Tarefas: Monitoramento da Monitoria](/Requisitos1/AnaliseTarefas/Monitoria/AnaliseMonitoramentoMonitoria) |
+| Larissa Stéfane | [Análise de Tarefas: Analisar monitor na visão do estudante](/Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor) |
+| Breno Alexandre | [Análise de Tarefas: Aba do Restaurante Universitário na visão do estudante](/Requisitos1/AnaliseTarefas/RestauranteUniversitário/AnáliseRU) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
