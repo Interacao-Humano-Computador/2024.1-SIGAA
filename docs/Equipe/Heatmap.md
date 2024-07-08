@@ -9,13 +9,11 @@ Neste documento, apresentamos o processo e os resultados obtidos através da an�
 - Os heatmaps individuais foram então combinados para gerar um heatmap geral, que representa a disponibilidade agregada de todo o grupo.
 
 ## Heatmap de Disponibilidade
-
+Figura 1: Heatmap
 <center>
-  <font size="2"><p style="text-align: center">Figura 1: Heatmap.</p></font>
 <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/heatmpappppp.png?raw=true" style="width:auto"/>
-  <font size="2"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 <center>
-
+Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
 ## Resultados
 O heatmap resultante da figura 1 nos proporcionou uma visão clara dos horários em que a maioria dos membros do grupo está disponível para reuniões. Identificamos os períodos de maior e menor disponibilidade ao longo da semana, o que nos permitiu planejar as reuniões de acordo com os horários mais convenientes para a maioria dos membros.
