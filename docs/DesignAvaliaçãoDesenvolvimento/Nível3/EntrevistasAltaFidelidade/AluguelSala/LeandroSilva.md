@@ -98,43 +98,43 @@ Abaixo, há as respostas escritas dadas pelo Genilson durante a entrevista.
 
 1. **Como os usuários interagiram com o protótipo??**
 
-- 
+- Encontrou dificuldades apenas para localizar a funcionalidade requerida na página inicial, recorreu ao assistente de ajuda.
 
 2. **Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não)**
 
--
+- O tempo para atingir os objetivos foi de até 3 minutos. Ficou "perdido" alguns segundos na página inicial tentando localizar a funcionalidade requerida.
 
 3. **A interface está de acordo com os padrões de acessibilidade do W3C?**
 
-- 
+- Sim.
 
 4. **A interface segue o padrão da interface do SIGAA e a lógica do site também?**
 
-- 
+- Sim.
 
 5. **O usuário conseguiu operar o protótipo?**
 
-- 
+- Sim.
 
 6. **O usuário pareceu confuso quando estava executando as tarefas?**
 
-- 
+- Não.
 
 7. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
 
-- 
+- Não foi observada a ocorrência de erro durante a interação.
 
 8. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
 
-- 
+- Uma vez. Teve que recorrer ao passo a passo do assistente de ajuda.
 
 9. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
 
-- 
+- Pareceu seguro. Expressão facial tranquila
 
 10. **Qual foi o erro/problema mais recorrênte no protótipo? Qual a sua solução?**
 
-- 
+- Seria ideal aumentar a fonte e deixar algumas páginas mais limpas.
 
 ## Histórico de Versão
 
