@@ -82,7 +82,7 @@ Caso o vídeo acima não funcione, use este [link]()
 
 ## Respostas
 
-Abaixo, há as respostas escritas dadas pelo Genilson durante a entrevista.
+Abaixo, há as respostas escritas dadas durante a entrevista.
 
 1. **Você considera que o protótipo atende aos critérios ou necessidades para garantir que você possa utilizar a funcionalidade sem dificuldades? Na sua opinião.**
 
