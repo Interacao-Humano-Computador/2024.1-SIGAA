@@ -18,20 +18,26 @@
 
 ## Metodologia
 
-A metodologia utilizada para realização da 
-  
+A metodologia utilizada para realização das avaliações dos protótipos de alta fidelidade da funcionalidade de matrícula segue as diretrizes estabelecidas no livro "Interação Humano-Computador e Experiência do Usuário" de Barbosa e Silva, no capítulo 11 e na página 279. Com isso, o foco será em organizar de maneira sistemática as informações obtidas durante a execução das entrevistas para a avaliação do protótipo de alta fidelidade para as funcionalidades do SIGAA.
+Os dados coletados serão organizados conforme as perguntas preparadas para a avaliação, apresentando-os para facilitar a compreensão e interpretação. Por fim, uma conclusão será elaborada ao sintetizar as principais observações e destacar os pontos críticos e as oportunidades de melhoria identificadas.
+Além disso, será incluída uma análise detalhada dos feedbacks qualitativos e quantitativos obtidos dos participantes.
+A seguir, temos a lista de participantes das entrevistas relacionadas a funcionalidade de realizar matrícula, assim como seus respectivos perfis.
+
 **Tabela 1:** Lista de entrevistados
 
 | Entrevistadores(s) | Entrevistado(s) | Perfil | Funcionalidade |
+|-|-|-|-|
 | Pedro Izarias | Erika Iwakiri | Estudante de Letras da UnB | Matrícula |
 | Pedro Izarias | Kaio Takumi | Estudante de Administração da UnB | Matrícula |
 | Pedro Izarias | Douglas Martins | Estudante de Eng. de Software da FGA | Matrícula |
 | Pedro Izarias | Pietro Calegari | Estudante de Eng. de Software da FGA | Matrícula |
 | Pedro Izarias | Rafaela | Estudante de Eng. Automotiva da FGA | Matrícula |
 
-
+Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ## Dados Coletados
+
+Adiante, temos os feedbacks recebidos pelos participantes separados pelos assuntos de cada pergunta feita, visto que cada uma delas atinge um objetivo diferente dentro da gama de assuntos relacionados ao protótipo. Cada resposta contém uma breve explicação a cerca de comentários feitos pelos entrevistados.
 
 #### Critérios para utilizar a funcionalidade
 
@@ -85,6 +91,7 @@ Por fim, a décima pergunta fala sobre a satisfação pessoal do usuário ao int
 
 
 ## Conclusão
+
 
 ## Histórico de Versão
 
