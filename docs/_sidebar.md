@@ -275,4 +275,5 @@
    - [Síntese das Avaliações](EntregaFinal/SinteseAvaliacoes.md)
    - [Síntese das Verificações](EntregaFinal/SinteseVerificações.md)
    - [Síntese das Apresentações](EntregaFinal/SinteseApresentacoes.md)
+   - [Facilidades e Dificuldades](EntregaFinal/FacilidadesDificuldades.md)
 
