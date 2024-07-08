@@ -25,27 +25,33 @@ A técnica consiste em escrever os nomes de cada item em pedaços de papel e ped
 
 Os itens escolhidos são as opões de Consultar minhas notas, Emitir histórico, Avaliação institucional, Calendário acadêmico, Emitir Carteirinha estudantil, Plano de trabalho, Certificados e declarações, Projeto de pesquisa, Congresso de iniciação científica, Consultar ações, Meus relatórios, Certificados e declarações, Visualizar resultados das inscrições, Inscrição online em ações de extensão, Mural de vagas, Pré-cadastro de estágio, Gerenciar estágios, Ambientes virtuais, Coordenação de curso e Necessidades educacionais específicas. Todos estão disponíveis na página principal do SIGAA.
 
+Figura 1: Itens
+
 <center>
-  <font size="2"><p style="text-align: center">Figura 1: Itens</p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsItens.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
- </center>
+</center>
+
+Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ### Rótulos
 
+Figura 2: Rótulos
+
 <center>
-  <font size="2"><p style="text-align: center">Figura 2: Rótulos</p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsTitulos.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
  </center>
+
+ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 Os rótulos da Figura 2 (Estágio, Ensino, Extensão, Pesquisa, Pesquisa e Outros) são os utilizados originalmente no site e devem ser comparados aos títulos dados pelos participantes para entender a facilidade em encontrar informações pelos mesmos.
 
+Figura 3: Rótulos e seus respectivos itens
+
 <center>
-  <font size="2"><p style="text-align: center">Figura 3: Rótulos e seus respectivos itens</p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/cardsTudo.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
  </center>
+
+Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 A figura 3 mostra qual a configuração atualmente utilizada pelo SIGAA quanto aos rótulos das opções e seus respectivos itens internos.
 
@@ -56,7 +62,7 @@ Inicialmente deve serem selecionados um ou mais participantes cientes dos termos
 
 ## Quadro de participantes 
 
-<p align="center"> Tabela 1. Quadro de participantes </p>
+Tabela 1: Quadro de participantes
 
 | Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
 |--------|---------------|----------------|----------------|----------------|------------|------------|------------|
@@ -65,7 +71,7 @@ Inicialmente deve serem selecionados um ou mais participantes cientes dos termos
 | Pedro Siqueira    |  22  | Boa | Sim | Masculino | Superior incompleto | Portugues, Inglês, Alemão |05/05/2024|
 | Leonardo Ramiro   |  21  | Boa | Sim | Masculino | Superior incompleto | Portugues, Inglês         |05/05/2024|
 
-<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias), [Luana Medeiros](https://github.com/LuaMedeiros).</p></font>
+Fonte: [Pedro Izarias e Luana Medeiros](https://github.com/Izarias)
 
 A tabela 1, trás os participantes escolhidos para a atividade, assim como seus dados pessoais e a data de quando deverá ser feita a aplicação com cada um.
 
