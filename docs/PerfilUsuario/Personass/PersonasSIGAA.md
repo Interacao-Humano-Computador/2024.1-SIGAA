@@ -2,13 +2,10 @@
 
 ## Sumário
 
-*[Introdução](#Introdução)
-
-*[Metodologia](#Metodologia)
-
-*[Personas](#Personas)
-
-*[Histórico de Versão](#Histórico-de-Versão)
+* [Introdução](#Introdução)
+* [Metodologia](#Metodologia)
+* [Personas](#Personas)
+* [Histórico de Versão](#Histórico-de-Versão)
 
 ## Introdução
 Este documento possui o intuito de apresentar as Personas criadas para o projeto e todas as suas informações. Cada persona possui background, motivações de vida, tarefas realizadas no sigaa e dados demográficos. No total temos 5 personas a fim de abranger os limites definidos pelo perfil de usuário e a quantidade de personas definidas na Literatura.
