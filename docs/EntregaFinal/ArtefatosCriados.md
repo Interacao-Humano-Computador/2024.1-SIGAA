@@ -15,8 +15,8 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Planejamento dos Sites avaliados](planejamento/SitesAvaliados/AnaliseSites.md)    | Larissa Stéfane  | Bruno e Luana                  |
 | [Site Alistamento Militar](planejamento/SitesAvaliados/AlistamentoMilitar.md)      | Luana Medeiros   | Breno Alexandre                |
 | [Site Corpo de Bombeiros Militar do Distrito Federal](planejamento/SitesAvaliados/CBMDF.md)        | Bruno Araújo   | Luana Medeiros   |
-| [Site Distribuição Linux Debian](planejamento/SitesAvaliados/Site_Debian.md)        |  Pedro Augusto          | Luana Medeiros |
-| [Site Secretaria da Pessoa com Deficiência do GDF](planejamento/SitesAvaliados/Site_Secretaria_PND_GDF.md)        | Larissa Stéfane           | Pedro Augusto |
+| [Site Distribuição Linux Debian](planejamento/SitesAvaliados/Site_Debian.md)        |  Pedro Izarias         | Luana Medeiros |
+| [Site Secretaria da Pessoa com Deficiência do GDF](planejamento/SitesAvaliados/Site_Secretaria_PND_GDF.md)        | Larissa Stéfane           | Pedro Izarias |
 | [Site Sigaa - UnB](planejamento/SitesAvaliados/Site_Sigaa.md)        | Iago Passaglia           | Luana Medeiros	 |
 | [Site INEP enem](planejamento/SitesAvaliados/Site_enem.md)        |  Breno Alexandre          | Luana Medeiros	|
 | [Avaliação por Heurísticas do SIGAA](planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA.md)      | Larissa Stéfane | Luana Medeiros |
@@ -63,7 +63,8 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Análise de Documentos: Servidores Técnicos e Administrativos](PerfilUsuario/Tecnicos/analiseDocumentosServidores.md)         | Larissa Stéfane | Breno Alexandre |
 | [Perfil dos Servidores Técnicos das Universidades](PerfilUsuario/Tecnicos/PerfilServidor.md)                           | Larissa Stéfane | Breno Alexandre |
 | [Personas](PerfilUsuario/Personass/PersonasSIGAA.md)                    | Bruno, Larissa e Pedro | Pedro e Luana |
-
+| [Desenvolvimento da Classificação por Cartões](IdentificacaoNecessidadesUsuario/DesenvolvimentoClassificaCartoes.md) | Luana e Pedro | Breno Alexandre |
+| [Desenvolvimento do Estudo de Campo](IdentificacaoNecessidadesUsuario/DesenvolvimentoEstudosDeCampo.md)              | Pedro Izarias | Breno Alexandre |
 
 
 
