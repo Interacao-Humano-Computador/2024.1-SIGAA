@@ -71,7 +71,17 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Resultado do Estudo de Campo](IdentificacaoNecessidadesUsuario/ResultadoEstudoDeCampo.md)                           | Pedro Izarias | Breno Alexandre |
 | [Planejamento do Brainstorming](IdentificacaoNecessidadesUsuario/PlanejaBrainstorm.md)                               | Iago Passaglia | Bruno Araújo |
 | [Desenvolvimento do Brainstorming](IdentificacaoNecessidadesUsuario/ExecBrainstorm.md)  | Iago Passaglia | Bruno Araújo |
-| [
+| [Cenário Declaração de Bolsista](Requisitos1/Cenarios/Bolsas/DeclaraçãodeBolsista.md)   |  Bruno Araújo  | Iago Passaglia |
+| [Cenário Solicitação de Bolsas](Requisitos1/Cenarios/Bolsas/SolicitaçãodeBolsas.md)     |  Bruno Araújo  | Iago Passaglia |
+| [Planejamento dos cenários para a aba de monitoria](Requisitos1/Cenarios/Monitoria/Planejamento.md) | Larissa Stéfane | Breno Alexandre |
+| [Cenário: Avaliar monitor na visão do estudante](Requisitos1/Cenarios/Monitoria/AvaliarMonitor.md)  | Larissa Stéfane | Breno Alexandre |
+| [Cenário: Monitoramento de Monitoria](Requisitos1/Cenarios/Monitoria/MonitoramentoMonitoria.md)     | Larissa Stéfane | Breno Alexandre |
+| [Cenário: Pedido de Monitoria na visão do estudante](Requisitos1/Cenarios/Monitoria/PedidoMonitoria.md) | Larissa Stéfane | Breno Alexandre |
+| [Cenário: Grade Sugerida](Requisitos1/Cenarios/GradeSugerida.md) |  Luana Medeiros | Iago Passaglia |
+| [Cenário Histórico](Requisitos1/Cenarios/Histórico.md)           | Luana Medeiros| Breno Alexandre |
+| [Cenário: Matrícula](Requisitos1/Cenarios/Matricula.md)          | Pedro Izarias | Iago Passaglia |
+| [Cenário - Aba Estágio](Requisitos1/Cenarios/estagio.md)         | Iago Passaglia | Breno Alexandre |
+|
 
 
 
