@@ -25,15 +25,33 @@ Abaixo estão as tabelas com as checklists criadas, verificações feitas, os au
 
 <details>
 
-<summary><b>Grupo 3 - Correios</b></summary>
+<summary><b>Organização</b></summary>
 <br>
 <center>
 
 <b>Tabela 1:</b> Técnica utilizada no projeto: Framework DECIDE.
 
-| Participantes | Rastreabilidade |
+| Artefato | Lista de Verificação | Autor | Revisor |
 | - | - |
 | 
+
+
+
+
+
+
+
+| [Breno Alexandre](https://github.com/brenoalexandre0) | 
+| [Bruno Araújo](https://github.com/brunocva) | 
+| [Iago Passaglia](https://github.com/Paxxaglia) | 
+| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | 
+| [Luana Medeiros](https://github.com/LuaMedeiros) | 
+| [Pedro Izarias](https://github.com/Izarias) | 
+
+
+
+
+
 
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
@@ -43,15 +61,6 @@ Abaixo estão as tabelas com as checklists criadas, verificações feitas, os au
 </details>
 
 
-<details>
-
-<summary><b>Grupo 3 - Correios</b></summary>
-<br>
-<center>
-
-</center>
-
-</details>
 
 
 ## Histórico de Versão
