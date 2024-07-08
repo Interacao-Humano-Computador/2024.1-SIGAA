@@ -165,6 +165,25 @@ Abaixo estão as tabelas com as checklists criadas, os autores e os revisores.
 </details>
 
 
+<details>
+
+<summary><b>Análise de Tarefas</b></summary>
+<br>
+<center>
+
+<b>Tabela 6:</b> Listas de verificação da etapa de Análise de Tarefas do Grupo 2.
+
+| Lista de Verificação | Autor | Revisor |
+| - | - | - |
+| [Verificação para o Planejamento da Avaliação da Análise de tarefas](/VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoHTA) | [Bruno Araújo](https://github.com/brunocva) | [Luana Medeiros](https://github.com/LuaMedeiros) |
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
 
 </details>
 
