@@ -1,4 +1,4 @@
-# Análise de Tarefas: Declaração de Bolsista
+# Análise de Tarefas: Solicitação de Bolsa
 
 - [Introdução](#introdução)
 - [Objetivos](#objetivos)
