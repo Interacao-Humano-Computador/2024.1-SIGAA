@@ -93,7 +93,7 @@ Com isso, os resultados dessas três técnicas foram analisados e condensados e 
 #### Nacionalidade:
 - A maioria dos usuários são brasileiros, pois o SIGAA é utilizado no Brasil.
 
-#### Status Demográficos:
+#### Status econômico:
 - Segundo o quetionário, a classe social é diversificada, com maior foco na classe média alta (38%) e classe média (26%).
 - Na análise documental, o percentual de estudantes com renda mensal familiar per capita de até um e meio salário mínimo era de 70,2% em 2018. Contudo, predominantemente, os estudantes do Sul, Sudeste e Centro-Oeste possuem um renda maior que a média familiar brasileira,
 - **Conclusão:** Foi possível estimar 3 classes econômicas predominantes classe média-baixa, classe média e classe média alta.
@@ -144,11 +144,14 @@ excelente e 22% regular.
 - De acordo com a análise documental, cerca de 77% dos estudantes sabem inglês e 26% não possuem domínio na língua. Além disso, cerca de 55% sabem se comunicar em espanhol (bom ou regular).
 - **Conclusão:** A maioria dos estudantes sabem se comunicar em outro idioma além do idioma do seu país de origem.
 
-#### Vida Estudantil
+### Vida Estudantil
+
+#### Dificuldades
+
 - De acordo a análise de documentos, as principais dificuldades encontradas pelos estudantes são:
 - Dificuldades financeiras(32%), nível de exigência acadêmica(29%), dificuldade em conciliar estudos e o trabalho(23%), problemas de saúde e ao campo profissional.
 
-#### Tempo de Estudo Individua
+#### Tempo de Estudo Individual
 - Segundo a análise de documentos, os tempos de estudo (independentes) com maiores frequências são entre 5 e 10 horas semanais (36%), menos de 5 horas (32%) e entre 10 a 15 horas de estudo por semana (13%).
 
 
