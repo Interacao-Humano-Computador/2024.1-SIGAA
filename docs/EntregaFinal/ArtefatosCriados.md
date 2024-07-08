@@ -103,7 +103,7 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
-## Entrega 2
+## Entrega 3
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
@@ -129,5 +129,13 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 
 
 
+## Entrega 4
 
-
+| Artefato | Autor(es) | Revisor(es) |
+| ---------  | ----------   | -------------  | 
+| [Planejamento da Avaliação do Storyboard: Determinar os objetivos da avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
+| [Planejamento da Avaliação do Storyboard: Explorar perguntas a serem respondidas](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
+| [Planejamento da Avaliação do Storyboard: Escolher os Métodos de Avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
+| [Planejamento da Avaliação do Storyboard: Identificar e administrar as questões práticas da avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
+| [Planejamento da Avaliação do Storyboard: Decidir como lidar com as questões éticas](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
+| [Planejamento da Avaliação do Storyboard: Avaliar, interpretar e apresentar os dados](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
