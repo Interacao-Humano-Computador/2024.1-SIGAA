@@ -130,6 +130,10 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 | Larissa Stéfane | [Entrevista com a estudante Lavínia Inácia Mota](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/LavíniaInácia) |
 | Larissa Stéfane | [Entrevista com o estudante Leonardo Gonçalvez Machado](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/Leonardo) |
 | Larissa Stéfane | [Entrevista com o estudante Rodrigo Vaz](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/RodrigoVaz) |
+| Bruno Araújo | [Entrevista com a servidora Andressa Novais Rodrigues](/PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Andressa)) |
+| Breno, Bruno, Iago, Larissa e Pedro | [Execução das Entrevistas para Avaliação do Storyboard e da Análise de Tarefas](/DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/Execucao_Entrevistas) |
+| Breno, Bruno, Iago, Larissa, Luana e Pedro | [Execução das Entrevistas para Avaliação dos Protótipos de Papel das funcionalidades](/DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas) |
+| Bruno, Iago, Larissa e Pedro | [Entrevistas da Avaliação do Protótipo de Alta Fidelidade](/DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
