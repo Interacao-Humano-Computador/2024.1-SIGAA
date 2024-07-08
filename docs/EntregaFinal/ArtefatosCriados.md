@@ -62,6 +62,7 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Entrevista com o servidor Francisco Cesar Borges Silva (Chiquinho)](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md) | Breno Alexandre | Bruno Araújo |
 | [Análise de Documentos: Servidores Técnicos e Administrativos](PerfilUsuario/Tecnicos/analiseDocumentosServidores.md)         | Larissa Stéfane | Breno Alexandre |
 | [Perfil dos Servidores Técnicos das Universidades](PerfilUsuario/Tecnicos/PerfilServidor.md)                           | Larissa Stéfane | Breno Alexandre |
+| [Personas](PerfilUsuario/Personass/PersonasSIGAA.md)                    | Bruno, Larissa e Pedro | Pedro e Luana |
 
 
 
