@@ -103,8 +103,18 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
+## Entrega 2
 
-
+| Artefato | Autor(es) | Revisor(es) |
+| ---------  | ----------   | -------------  | 
+| [Planejamento Princípios Gerais do Projeto](Requisitos2/principiosGerais/planejamento.md)  | Larissa Stéfane | Bruno Araújo |
+| [Princípios Gerais: Princípio Correspondências com as expectativas dos usuários](Requisitos2/principiosGerais/PrincipiosGerais.md) | Larissa Stéfane | Iago Passaglia |
+| [Princípios Gerais: Conteúdo Relavante e Expressão Adequada](Requisitos2/principiosGerais/PrincipiosGerais.md) | Iago Passaglia | Bruno Araújo |
+| [Princípios Gerais: Antecipação das Necessidades do Usuário](Requisitos2/principiosGerais/PrincipiosGerais.md) | Larissa Stéfane | Bruno Araújo  |
+| [Princípios Gerais: Projeto para erros](Requisitos2/principiosGerais/PrincipiosGerais.md) | Breno Alexandre | Bruno Araújo  |
+| [Princípios Gerais: Equilíbrio entre controle e liberdade do usuário](Requisitos2/principiosGerais/PrincipiosGerais.md) | Pedro Izarias | Bruno Araújo  |
+| [Princípios Gerais: Consistência e padronização e promoção da eficiência do usuário no projeto](Requisitos2/principiosGerais/PrincipiosGerais.md) | Pedro Izarias | Bruno Araújo  |
+| [Princípios Gerais: Visibilidade e Reconhecimento no projeto](Requisitos2/principiosGerais/PrincipiosGerais.md) | Luana Medeiros | Bruno Araújo  |
 
 
 
