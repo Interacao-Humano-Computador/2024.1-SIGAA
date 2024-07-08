@@ -81,7 +81,9 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Cenário Histórico](Requisitos1/Cenarios/Histórico.md)           | Luana Medeiros| Breno Alexandre |
 | [Cenário: Matrícula](Requisitos1/Cenarios/Matricula.md)          | Pedro Izarias | Iago Passaglia |
 | [Cenário - Aba Estágio](Requisitos1/Cenarios/estagio.md)         | Iago Passaglia | Breno Alexandre |
-|
+| [Planejamento Análise Hierárquica de Tarefas para as funcionalidades de Bolsas](Requisitos1/AnaliseTarefas/Bolsas/Planejamento.md) | Bruno Araújo  | Iago Passaglia |
+| [Análise de Tarefas: Declaração de Bolsista](Requisitos1/AnaliseTarefas/Bolsas/DeclaraçãodeBolsista2.md)                 | Bruno Araújo  | Iago Passaglia |
+| [Análise de Tarefas: Solicitação de Bolsas](docs/Requisitos1/AnaliseTarefas/Bolsas/SolicitaçãodeBolsas2.md) | Bruno Araújo  | Iago Passaglia |
 
 
 
