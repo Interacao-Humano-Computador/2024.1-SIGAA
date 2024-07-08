@@ -35,9 +35,9 @@ O termo de consetimento foi lido e avaliado pela participante antes da entrevist
 
 ## Gravação
 
-O vídeo 1 mostra a entrevista com o aluno Pietro.
+O vídeo 1 mostra a entrevista com a aluna Rafaela.
 
-vídeo 1: IHC - Teste de Usabilidade – Grade Sugerida – Douglas
+vídeo 1: IHC - Teste de Usabilidade – Grade Sugerida – Rafaela
 
 <iframe width="1519" height="534" src="https://www.youtube.com/embed/W7zngRW9qGs" title="Protótipo Alta Fidelidade - Rafaela" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
