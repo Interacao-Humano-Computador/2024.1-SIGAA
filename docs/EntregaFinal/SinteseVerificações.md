@@ -25,7 +25,7 @@ Abaixo estão as tabelas com as checklists criadas, os autores e os revisores.
 
 <details>
 
-<summary><b>Grupo 3</b></summary>
+<summary><b>Grupo 3 - Correios</b></summary>
 <br>
 
 <details>
@@ -34,7 +34,7 @@ Abaixo estão as tabelas com as checklists criadas, os autores e os revisores.
 <br>
 <center>
 
-<b>Tabela 1:</b> Listas de verificação da etapa de Análise de Requisitos.
+<b>Tabela 1:</b> Listas de verificação da etapa de Análise de Requisitos do Grupo 3.
 
 | Lista de Verificação | Autor | Revisor |
 | - | - | - |
@@ -53,10 +53,69 @@ Abaixo estão as tabelas com as checklists criadas, os autores e os revisores.
 </details>
 
 
+<details>
+
+<summary><b>Análise de Requisitos II</b></summary>
+<br>
+<center>
+
+<b>Tabela 2:</b> Listas de verificação da etapa de Análise de Requisitos II do Grupo 3.
+
+| Lista de Verificação | Autor | Revisor |
+| - | - | - |
+| [Verificação para as Metas de Usabilidade](/VerificacaoArtefatos/Grupo3/AnaliseRequisitos2/MetasUsabilidade) | | [Pedro Izarias](https://github.com/Izarias) | [Bruno Araújo](https://github.com/brunocva) |
+| [Verificação para o Guia de Estilo](/VerificacaoArtefatos/Grupo3/AnaliseRequisitos2/analiseGuiaDeEstilo) | [Iago Passaglia](https://github.com/Paxxaglia) | [Bruno Araújo](https://github.com/brunocva) |
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
 
 </details>
 
-[Iago Passaglia](https://github.com/Paxxaglia) | 
+
+<details>
+
+<summary><b>Análise de Tarefas</b></summary>
+<br>
+<center>
+
+<b>Tabela 3:</b> Listas de verificação da etapa de Análise de Tarefas do Grupo 3.
+
+| Lista de Verificação | Autor | Revisor |
+| - | - | - |
+| [Verificação para o GOMS](/VerificacaoArtefatos/Grupo3/AnaliseTarefas/avaliacaoGoms) | [Iago Passaglia](https://github.com/Paxxaglia) | [Bruno Araújo](https://github.com/brunocva) |
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
+<details>
+
+<summary><b>Design, Avaliação e Desenvolvimento: Nível 1</b></summary>
+<br>
+<center>
+
+<b>Tabela 3:</b> Listas de verificação da etapa de Design, Avaliação e Desenvolvimento: Nível 1, do Grupo 3.
+
+| Lista de Verificação | Autor | Revisor |
+| - | - | - |
+| [Verificação e Inspeção dos StoryBoards](/VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard) | [Luana Medeiros](https://github.com/LuaMedeiros) | [Iago Passaglia](https://github.com/Paxxaglia) |
+| [Verificação e Inspeção do Planejamento de Avaliação da Análise de Tarefas](/VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoDeAvaliaçãoDaAnáliseDeTarefas) | [Luana Medeiros](https://github.com/LuaMedeiros) | [Iago Passaglia](https://github.com/Paxxaglia) |
+| [Verificação para o Planejamento da Avaliação do Storyboard](/VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard) | [Pedro Izarias](https://github.com/Izarias) | [Luana Medeiros](https://github.com/LuaMedeiros) |
+| [Verificação e Inspeção do Relato dos Resultados Avaliação da Análise de Tarefas](/VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/RelatoResultadosAvaliacaoHTA) | [Breno Alexandre](https://github.com/brenoalexandre0) | [Iago Passaglia](https://github.com/Paxxaglia) |
+| [Verificação para o Relato dos resultados da Avaliação do Storyboard](/VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard) | [Iago Passaglia](https://github.com/Paxxaglia) | [Luana Medeiros](https://github.com/LuaMedeiros) |
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
+</details>
 
 
 ## Histórico de Versão
