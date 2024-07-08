@@ -231,17 +231,17 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 
 | Participantes | Rastreabilidade |
 | - | - |
-| Bruno Araújo | [Análise Declaração de Bolsista](/Requisitos1/AnaliseTarefas/Bolsas/DeclaraçãodeBolsista2) |
-| Bruno Araújo | [Análise de Tarefas: Solicitação de Bolsas](/Requisitos1/AnaliseTarefas/Bolsas/SolicitaçãodeBolsasHTA) |
-| Iago Passaglia | [Análise de Tarefas: Tarefas de estágio na visão do estudante (GOMS)](/Requisitos1/AnaliseTarefas/Estagio/estagioGoms) |
-| Iago Passaglia | [Análise Hierárquica de Tarefas no SIGAA - Aba Estágio (Visão do aluno)](/Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica) |
-| Luana Medeiros | [Análise de Tarefas: Histórico](/Requisitos1/AnaliseTarefas/Histórico/AnaliseHistorico) |
-| Pedro Izarias | [Análise de Tarefas: Tarefas de estágio na visão do estudante (GOMS)](/Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS) |
-| Pedro Izarias | [Análise Hierárquica de Tarefas no SIGAA - Matrícula (Visão do aluno)](/Requisitos1/AnaliseTarefas/Matrícula/FazerMatriculaHierarquica) |
-| Larissa Stéfane | [Análise de Tarefas: Pedido de Monitoria na visão do estudante](/Requisitos1/AnaliseTarefas/Monitoria/AnálisePedidoMonitoria) |
-| Larissa Stéfane | [Análise de Tarefas: Monitoramento da Monitoria](/Requisitos1/AnaliseTarefas/Monitoria/AnaliseMonitoramentoMonitoria) |
-| Larissa Stéfane | [Análise de Tarefas: Analisar monitor na visão do estudante](/Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor) |
-| Breno Alexandre | [Análise de Tarefas: Aba do Restaurante Universitário na visão do estudante](/Requisitos1/AnaliseTarefas/RestauranteUniversitário/AnáliseRU) |
+| [Bruno Araújo](https://github.com/brunocva) | [Análise Declaração de Bolsista](/Requisitos1/AnaliseTarefas/Bolsas/DeclaraçãodeBolsista2) |
+| [Bruno Araújo](https://github.com/brunocva) | [Análise de Tarefas: Solicitação de Bolsas](/Requisitos1/AnaliseTarefas/Bolsas/SolicitaçãodeBolsasHTA) |
+| [Iago Passaglia](https://github.com/Paxxaglia) | [Análise de Tarefas: Tarefas de estágio na visão do estudante (GOMS)](/Requisitos1/AnaliseTarefas/Estagio/estagioGoms) |
+| [Iago Passaglia](https://github.com/Paxxaglia) | [Análise Hierárquica de Tarefas no SIGAA - Aba Estágio (Visão do aluno)](/Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica) |
+| [Luana Medeiros](https://github.com/LuaMedeiros) | [Análise de Tarefas: Histórico](/Requisitos1/AnaliseTarefas/Histórico/AnaliseHistorico) |
+| [Pedro Izarias](https://github.com/Izarias) | [Análise de Tarefas: Tarefas de estágio na visão do estudante (GOMS)](/Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS) |
+| [Pedro Izarias](https://github.com/Izarias) | [Análise Hierárquica de Tarefas no SIGAA - Matrícula (Visão do aluno)](/Requisitos1/AnaliseTarefas/Matrícula/FazerMatriculaHierarquica) |
+| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | [Análise de Tarefas: Pedido de Monitoria na visão do estudante](/Requisitos1/AnaliseTarefas/Monitoria/AnálisePedidoMonitoria) |
+| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | [Análise de Tarefas: Monitoramento da Monitoria](/Requisitos1/AnaliseTarefas/Monitoria/AnaliseMonitoramentoMonitoria) |
+| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | [Análise de Tarefas: Analisar monitor na visão do estudante](/Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor) |
+| [Breno Alexandre](https://github.com/brenoalexandre0) | [Análise de Tarefas: Aba do Restaurante Universitário na visão do estudante](/Requisitos1/AnaliseTarefas/RestauranteUniversitário/AnáliseRU) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
