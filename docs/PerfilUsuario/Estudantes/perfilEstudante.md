@@ -235,6 +235,36 @@ Tabela 2: Tipo de Perfil B
  
 </center>
 
+
+<center>
+
+Tabela 2: Tipo de Perfil C
+
+| Característica              | Definição                      |
+| --------------------------- | -----------------------------  |
+| Etnia                       |  Preta                         |
+| Faixa Etária                |  entre 31 e 45 anos            |
+| Gênero                      |  Feminino ou Masculino         |
+| Nacionalidade               |  Brasileira                    |
+| Status Socioeconômico       |  Classe média-alta             |
+| Habilidade de Leitura       |  Regular                       |
+| Experiência com jargões acadêmicos e técnicos       |  Baixa  |
+| Objetivos                   |  aprender o máximo do conteúdo teórico para aplicar na vida profissional, preparar-se para o mercado de trabalho, estudar no exterior, entre outros.    |
+| Preferência de Aprendizado  | Auditívo                        |
+| Alfabetismo Computacional   | Básico                          |
+| Disposição para Explorar Novas Tecnologias  | Neutro                         |
+| Dispositivos Tecnológicos que mais utilizam no cotidiano   | smartphone IOS e tablets    |
+| Idiomas e Conhecimento do Domínio | Protuguês (Idioma de origem) e pouco conhecimento em outra língua ou francês |
+| Tempo de Estudo Individua   | entre 10 a 15 horas |
+| Dificuldades no meio acadêmico |  Problemas de saúde e ao campo profissional. |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+
+ 
+</center>
+
+
 ## Conclusão
 
 Ao compreender o perfil do usuário dos estudantes, pode-se identificar suas necessidades, preferências e características individuais que influenciam sua interação com sistemas educacionais como o SIGAA. Por isso, os dados demográficos, experiência acadêmica, habilidades tecnológicas e motivações dos estudantes são essenciais para projetar e desenvolver ferramentas e funcionalidades que atendam às suas demandas de forma eficaz. 
@@ -263,3 +293,4 @@ Resultados do questionário. Disponível em: <https://github.com/Interacao-Human
 | - | - | - | - | - |
 | 1.0 | Criação e elaboração do documento | Larissa Stéfane | Breno Alexandre | 06/05/2024 |
 | 1.1 | Reestruturação do documento | Larissa Stéfane | Breno Alexandre | 05/07/2024 |
+| 1.2 | Adição das tabelas de perfis | Larissa Stéfane | Breno Alexandre | 05/07/2024 |
