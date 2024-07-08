@@ -160,4 +160,6 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
-| 
+| [Planejamento da Avaliação do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoAvaliacaoPrototipoPapel.md) | Larissa Stéfane | Breno Alexandre |
+| [Planejamento das Entrevistas para Avaliação do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/PlanejamentoEntrevistaPrototipoPapel.md) | Larissa Stéfane | Breno Alexandre |
+| [Testes Pilotos para as enttrevistas](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/PlanejamentoEntrevistaPrototipoPapel.md) | Breno, Bruno, Iago, Larissa e Pedro | Iago, Larissa e Pedro |
