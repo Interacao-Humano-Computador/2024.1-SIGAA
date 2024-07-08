@@ -148,43 +148,44 @@ Abaixo, há as respostas escritas dadas pelo Genilson durante a entrevista.
 
 1. **Como os usuários interagiram com o protótipo??**
 
--
+- Encontrou dificuldades apenas para localizar a funcionalidade requerida na página inicial, recorreu ao assistente de ajuda.
 
 3. **Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não)**
 
--
+- O tempo para atingir os objetivos foi de até 7 minutos. Ficou "perdido" alguns segundos na página inicial tentando localizar a funcionalidade requerida.
 
 4. **A interface está de acordo com os padrões de acessibilidade do W3C?**
 
--
+- Não, as letras/fontes estão pequenas.
 
 5. **A interface segue o padrão da interface do SIGAA e a lógica do site também?**
 
--
+- Sim.
 
 6. **O usuário conseguiu operar o protótipo?**
 
--
+- Sim, porém teve pequena dificuldade em localizar a funcionalidade na página inicial.
 
 7. **O usuário pareceu confuso quando estava executando as tarefas?**
 
--
+- Não.
 
 8. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
 
--
+- Não foi observada a ocorrência de erro durante a interação.
 
 9. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
 
--
+- Uma vez. Teve que recorrer ao passo a passo por não localizar a funcionalidade de imediato na página inicial.
 
 10. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
 
--
+- Pareceu gostar da experiência. Gostou de ter a informação da capacidade da sala. Gostou da apresentação dos dados na tela antes da confirmação. No primeiro instante apresentou expressão de dúvida.
 
 11. **Qual foi o erro/problema mais recorrênte no protótipo? Qual a sua solução?**
 
-
+- Funcionalidade não localizada de imediato na página inicial. A solução já foi proposta e é apresentar campo para pesquisa por palavras-chave nas páginas do portal para
+apresentação da funcionalidade requerida.
 
 ## Histórico de Versão
 
