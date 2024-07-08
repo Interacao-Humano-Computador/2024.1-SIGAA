@@ -219,6 +219,6 @@ De acordo com [INEP: Censo da educação superior 2022]( https://download.inep.g
 ## Histórico de Versão
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Larissa Stéfane | - | 21/05/2024 |
-| 1.1 | Adição de informações | Larissa Stéfane | - | 05/06/2024 |
-| 1.2 | Correções | Larissa Stéfane | - | 08/06/2024 |
+| 1.0 | Criação e realização do documento | Larissa Stéfane | Bruno Araújo | 21/05/2024 |
+| 1.1 | Adição de informações | Larissa Stéfane | Bruno Araújo | 05/06/2024 |
+| 1.2 | Correções | Larissa Stéfane | Bruino Araújo | 08/06/2024 |
