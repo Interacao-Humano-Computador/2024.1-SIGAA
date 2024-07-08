@@ -36,7 +36,7 @@ Foi realizada uma chamada no discord com os 8 alunos descritos na tabela 1 e com
 
 <p align="center"> Vídeo 1. Sessão de brainstorming </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dcKvfLpROBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1124" height="632" src="https://www.youtube.com/embed/dcKvfLpROBI" title="Brainstorming - Sigaa (Grupo 2 IHC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [Iago Passaglia](https://www.youtube.com/watch?v=dcKvfLpROBI).</p></font>
 
