@@ -116,43 +116,44 @@ Abaixo, há as respostas escritas dadas durante a entrevista.
 
 1. **Como os usuários interagiram com o protótipo??**
 
-- 
+- Sem dificuldades..
 
 3. **Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não)**
 
-- 
+- O tempo para atingir os objetivos foi de até 2 minutos.
 
 4. **A interface está de acordo com os padrões de acessibilidade do W3C?**
 
-- 
+- Sim, porém, achou dúbio o termo monitoria, sugerindo que os termos sejam mais específicos.
 
 5. **A interface segue o padrão da interface do SIGAA e a lógica do site também?**
 
-- 
+- Sim.
 
 6. **O usuário conseguiu operar o protótipo?**
 
-- 
+- Sim.
+
 
 7. **O usuário pareceu confuso quando estava executando as tarefas?**
 
-- 
+- Não.
 
 8. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
 
-- 
+- Foi observada a ocorrência de um erro de navegação durante a interação, quando foi procurar o mapeamente da monitoria. 
 
 9. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
 
-- 
+- Nenhuma, com exceção do erro de navegação já citado.
 
 10. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
 
-- 
+- Pareceu seguro.
 
 11. **Qual foi o erro/problema mais recorrênte no protótipo? Qual a sua solução?**
 
-- 
+- Melhorar os termos de "Monitoramento de Monitoria.
 
   
 ## Histórico de Versão
