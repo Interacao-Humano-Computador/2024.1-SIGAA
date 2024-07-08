@@ -1,4 +1,4 @@
-# Cronograma
+ # Cronograma
 
 ## Descrição
 
@@ -161,6 +161,8 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 | Gravar apresentação                                                                  | 06/05/2024 | 06/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno Alexandre                            | 06/05/2024 - 06/05/2024 |
 | Correção pós apresentação                                                            | 07/05/2024 | 10/05/2024 | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Larissa, Luana e Pedro | 11/05/2024 - 11/05/2024 |
 | Atualizar o Cronograma                                                               | 09/05/2024 | 10/05/2024 | Breno Alexandre                            | -                                          | -                       |
+|Aditamento do termo de consentimento                                                             | 16/04/2024 | 16/05/2024 | Bruno Araújo                            | -                                          | -                       |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Alexandre](https://github.com/brenoalexandre0).</p></font>
 
