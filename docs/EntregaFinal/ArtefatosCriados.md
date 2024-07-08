@@ -12,6 +12,8 @@
 * [Entrega 6.1](#Entrega-6.1)
 * [Entrega 6.2](#Entrega-6.2)
 * [Entrega 7 e 8](#Entrega-7-e-8)
+* [Histórico de versão](#Histórico-de-versão)
+
 
 
 ## Introdução
