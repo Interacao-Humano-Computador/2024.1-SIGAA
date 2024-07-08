@@ -190,6 +190,8 @@ Tabela 1: Tipo de Perfil A
 | Gênero                      |  Feminino ou Masculino         |
 | Nacionalidade               |  Brasileira                    |
 | Status Socioeconômico       |  Classe média                  |
+| Habilidade de Leitura       |  Boa                           |
+| Experiência com jargões acadêmicos e técnicos       |  Média                  |
 | Objetivos                   |  aprender o máximo do conteúdo teórico para aplicar na vida profissional, preparar-se para o mercado de trabalho, estudar no exterior, entre outros.    |
 | Preferência de Aprendizado  | Visual                         |
 | Alfabetismo Computacional   |  Intermediário                 |
@@ -198,6 +200,34 @@ Tabela 1: Tipo de Perfil A
 | Idiomas e Conhecimento do Domínio | Protuguês (Idioma de origem) e inglês |
 | Tempo de Estudo Individua   | 5 e 10 horas semanais |
 | Dificuldades no meio acadêmico | Nível de exigência acadêmica |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+
+ 
+</center>
+
+<center>
+
+Tabela 2: Tipo de Perfil B
+
+| Característica              | Definição                      |
+| --------------------------- | -----------------------------  |
+| Etnia                       |  Parda                         |
+| Faixa Etária                |  entre 25 e 30 anos            |
+| Gênero                      |  Feminino ou Masculino         |
+| Nacionalidade               |  Brasileira                    |
+| Status Socioeconômico       |  Classe média-baixa            |
+| Habilidade de Leitura       |  Excelente                     |
+| Experiência com jargões acadêmicos e técnicos       |  Alta  |
+| Objetivos                   |  aprender o máximo do conteúdo teórico para aplicar na vida profissional, preparar-se para o mercado de trabalho, estudar no exterior, entre outros.    |
+| Preferência de Aprendizado  | Prático                        |
+| Alfabetismo Computacional   | Avançado                       |
+| Disposição para Explorar Novas Tecnologias  | Muito Disposto                         |
+| Dispositivos Tecnológicos que mais utilizam no cotidiano   |  Computador desktop    |
+| Idiomas e Conhecimento do Domínio | Protuguês (Idioma de origem) e espanhol |
+| Tempo de Estudo Individua   | menos de 5 horas semanais |
+| Dificuldades no meio acadêmico | Dificuldades financeiras |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
