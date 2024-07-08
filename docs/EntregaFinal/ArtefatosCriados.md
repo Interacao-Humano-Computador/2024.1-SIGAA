@@ -218,7 +218,11 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Entrevistas da Aba de Monitoria: Genilson Silva](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/Genilson.md) | Larissa Stéfane | - |
 | [Entrevistas da Aba de Monitoria: Henrique Batalha](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/HenriqueBatalha.md) | Larissa Stéfane | - |
 | [Entrevistas da Aba de Monitoria: Leandro Silva](docs/DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/LeandroSilva.md) | Larissa Stéfane | - |
-
+| [Entrevistas da Aluguel de Sala: Carlos Gabriel](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AluguelSala/CarlosGabriel.md) | Larissa Stéfane | - |
+| [Entrevistas da Aluguel de Sala: Felipe Ferreira](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AluguelSala/FelipeFerreira.md) | Larissa Stéfane | - |
+| [Entrevistas da Aluguel de Sala: Genilson Silva](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AluguelSala/Genilson.md) | Larissa Stéfane | - |
+| [Entrevistas da Aluguel de Sala: Henrique Batalha](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AluguelSala/HenriqueBatalha.md) | Larissa Stéfane | - |
+| [Entrevistas da Aluguel de Sala: Leandro Silva](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AluguelSala/LeandroSilva.md) | Larissa Stéfane | - |
 
 | [Planejamento entrevistas (Outro)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistaNovo.md) | Pedro Izarias | Bruno Araújo |
 | [Entrevistas de acordo com planejamento(outro)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas.md) | Bruno, Iago e Pedro | Bruno |
