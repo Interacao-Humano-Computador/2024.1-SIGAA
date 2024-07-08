@@ -153,9 +153,9 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 
 | Participantes | Rastreabilidade |
 | - | - |
-| Larissa Stéfane | [Análise de Documentos: Professores](/PerfilUsuario/Professores/AnaliseDocumentoProfessor) |
-| Larissa Stéfane | [Análise de Documentos: Estudantes](/PerfilUsuario/Estudantes/AnaliseDocumentalEstudantes) |
-| Larissa Stéfane | [Análise de Documentos: Servidores Técnicos e Administrativos](/PerfilUsuario/Tecnicos/analiseDocumentosServidores) |
+| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | [Análise de Documentos: Professores](/PerfilUsuario/Professores/AnaliseDocumentoProfessor) |
+| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | [Análise de Documentos: Estudantes](/PerfilUsuario/Estudantes/AnaliseDocumentalEstudantes) |
+| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | [Análise de Documentos: Servidores Técnicos e Administrativos](/PerfilUsuario/Tecnicos/analiseDocumentosServidores) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
@@ -174,7 +174,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 
 | Participantes | Rastreabilidade |
 | - | - |
-| Breno, Bruno e Iago | [Desenvolvimento do Brainstorming](/IdentificacaoNecessidadesUsuario/ExecBrainstorm) |
+| [Breno](https://github.com/brenoalexandre0), [Bruno](https://github.com/brunocva) e [Iago](https://github.com/Paxxaglia) | [Desenvolvimento do Brainstorming](/IdentificacaoNecessidadesUsuario/ExecBrainstorm) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
@@ -193,7 +193,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 
 | Participantes | Rastreabilidade |
 | - | - |
-| Pedro Izarias | [Desenvolvimento do Estudo de Campo](/IdentificacaoNecessidadesUsuario/DesenvolvimentoEstudosDeCampo) |
+| [Pedro](https://github.com/Izarias) | [Desenvolvimento do Estudo de Campo](/IdentificacaoNecessidadesUsuario/DesenvolvimentoEstudosDeCampo) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
