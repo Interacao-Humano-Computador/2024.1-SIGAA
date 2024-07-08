@@ -2,7 +2,7 @@
 
 **Voltar**: Caso você deseje voltar para a entrevista do aluguel de sala com o Henrique Batalha [aqui](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AluguelSala/HenriqueBatalha.md)
 
-**Voltar**: Caso você deseje voltar para a entrevista da Aba de monitoria com o Henrique Batalha [aqui](docs/DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/HenriqueBatalha.md)
+**Voltar**: Caso você deseje voltar para a entrevista da Aba de monitoria com o Henrique Batalha [aqui](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/HenriqueBatalha.md)
 
 
 A imagem 1 mostra o termo de consentimento assinado:
