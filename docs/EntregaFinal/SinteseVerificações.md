@@ -98,7 +98,7 @@ Abaixo estão as tabelas com as checklists criadas, os autores e os revisores.
 <br>
 <center>
 
-<b>Tabela 3:</b> Listas de verificação da etapa de Design, Avaliação e Desenvolvimento: Nível 1, do Grupo 3.
+<b>Tabela 4:</b> Listas de verificação da etapa de Design, Avaliação e Desenvolvimento: Nível 1, do Grupo 3.
 
 | Lista de Verificação | Autor | Revisor |
 | - | - | - |
@@ -128,7 +128,7 @@ Abaixo estão as tabelas com as checklists criadas, os autores e os revisores.
 <br>
 <center>
 
-<b>Tabela 1:</b> Listas de verificação da etapa de Análise de Requisitos do Grupo 2.
+<b>Tabela 5:</b> Listas de verificação da etapa de Análise de Requisitos do Grupo 2.
 
 | Lista de Verificação | Autor | Revisor |
 | - | - | - |
@@ -137,6 +137,26 @@ Abaixo estão as tabelas com as checklists criadas, os autores e os revisores.
 | [Verificação do Perfil de Usuário](/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/ValidacaoPerfilDeUsuario) | [Iago Passaglia](https://github.com/Paxxaglia) | [Luana Medeiros](https://github.com/LuaMedeiros) | 
 | [Verificação de Personas](/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/VerificacaoPersonas) | [Iago Passaglia](https://github.com/Paxxaglia) | [Bruno Araújo](https://github.com/brunocva) |
 | [Verificação dos Questionários](/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Questionários) | [Pedro Izarias](https://github.com/Izarias) | [Luana Medeiros](https://github.com/LuaMedeiros) | 
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
+<details>
+
+<summary><b>Análise de Requisitos II</b></summary>
+<br>
+<center>
+
+<b>Tabela 6:</b> Listas de verificação da etapa de Análise de Requisitos II do Grupo 2.
+
+| Lista de Verificação | Autor | Revisor |
+| - | - | - |
+| [Verificação para as Metas de Usabilidade](/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/MetasUsabilidade) | [Bruno Araújo](https://github.com/brunocva) | [Luana Medeiros](https://github.com/LuaMedeiros) |
+| [Verificação do Guia de Estilo](/VerificacaoArtefatos/Grupo2/AnaliseRequisitos2/GuiaEstilo) | [Breno Alexandre](https://github.com/brenoalexandre0) | [Pedro Izarias](https://github.com/Izarias) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
