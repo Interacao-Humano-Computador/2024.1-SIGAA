@@ -153,4 +153,7 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Planejamento das Entrevistas para Storyboard e ANálise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/planejamentoEntrevistas.md) | Larissa Stéfane | Bruno Araújo |
 | [Execução das Entrevistas para Avaliação do Storyboard e da Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/Execucao_Entrevistas.md) | Breno, Bruno, Iago, Larissa, Pedro | Breno, Bruno, Iago e Pedro |
 
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+
 
