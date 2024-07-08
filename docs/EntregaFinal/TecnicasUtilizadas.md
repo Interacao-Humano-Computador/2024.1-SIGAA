@@ -126,6 +126,10 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 | Larissa Stéfane | [Entrevista com o estudante Carlos Gabriel Cardoso Ramos](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/CarlosGabriel) |
 | Larissa Stéfane | [Entrevista com o estudante Gabriel Lopes Barros](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielLopes) |
 | Larissa Stéfane | [Entrevista com o estudante Gabriel Rodrigo Martins de Andrade](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielRodrigo) |
+| Larissa Stéfane | [Entrevista com o estudante Isaque Santos](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/IsaqueSantos) |
+| Larissa Stéfane | [Entrevista com a estudante Lavínia Inácia Mota](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/LavíniaInácia) |
+| Larissa Stéfane | [Entrevista com o estudante Leonardo Gonçalvez Machado](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/Leonardo) |
+| Larissa Stéfane | [Entrevista com o estudante Rodrigo Vaz](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/RodrigoVaz) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
