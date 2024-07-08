@@ -9,6 +9,7 @@
 * [Observações Antes do Uso](#Observações-Antes-do-Uso)
 * [Gravação](#Gravação)
 * [Respostas](#Respostas)
+* [Observações do Protótipo e do Usuário](#Observações-do-Protótipo-e-do-Usuário)
 * [Conclusão](#Conclusão)
 * [Histórico de versão](#Histórico-de-versão)
 
@@ -125,6 +126,48 @@ Abaixo, há as respostas escritas dadas durante a entrevista.
 10. **Como você define a sua satisfação pessoal ao completar tarefas da funcionalidade?**
 
 - Considero-me satisfeito, não tive dificuldades.
+
+## Observações do Protótipo e do Usuário
+
+1. **Como os usuários interagiram com o protótipo??**
+
+- 
+
+3. **Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não)**
+
+- 
+
+4. **A interface está de acordo com os padrões de acessibilidade do W3C?**
+
+- 
+
+5. **A interface segue o padrão da interface do SIGAA e a lógica do site também?**
+
+- 
+
+6. **O usuário conseguiu operar o protótipo?**
+
+- 
+
+7. **O usuário pareceu confuso quando estava executando as tarefas?**
+
+- 
+
+8. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
+
+- 
+
+9. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
+
+- 
+
+10. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
+
+- 
+
+11. **Qual foi o erro/problema mais recorrênte no protótipo? Qual a sua solução?**
+
+- 
 
 
 ## Histórico de Versão
