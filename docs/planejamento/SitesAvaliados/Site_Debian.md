@@ -1,11 +1,14 @@
 ## Distribuição Linux Debian
 
+ Figura 1: Site da Distribuição Linux Debian
+
  <center>
-	 **Figura 1**:
+	
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/Site_Debian.png">
 
-   Fonte: Site debian.org 
  </center>
+
+Fonte: [Site debian.org](https://www.debian.org/)
 
 ## Sumário
 
