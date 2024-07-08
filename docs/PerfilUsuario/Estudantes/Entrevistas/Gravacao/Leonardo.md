@@ -1,4 +1,4 @@
-# Entrevista com a estudante Leonardo Gonçalvez Machado
+# Entrevista com o estudante Leonardo Gonçalvez Machado
 
 ## Sumário
 * [Introdução](#Introdução)
