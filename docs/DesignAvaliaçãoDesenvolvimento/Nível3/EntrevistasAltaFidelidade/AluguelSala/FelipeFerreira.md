@@ -8,6 +8,7 @@
 * [Termo de Consentimento](#Termo-de-Consentimento)
 * [Gravação](#Gravação)
 * [Respostas](#Respostas)
+* [Observações do Protótipo e do Usuário](#Observações-do-Protótipo-e-do-Usuário)
 * [Conclusão](#Conclusão)
 * [Histórico de versão](#Histórico-de-versão)
 
