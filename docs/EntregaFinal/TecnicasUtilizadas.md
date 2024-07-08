@@ -143,6 +143,27 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 </details>
 
 
+<details>
+
+<summary><b>Análise de Documentos</b></summary>
+<br>
+<center>
+
+<b>Tabela 6:</b> Técnica utilizada no projeto: Análise de Documentos.
+
+| Participantes | Rastreabilidade |
+| - | - |
+| Larissa Stéfane | [Análise de Documentos: Professores](/PerfilUsuario/Professores/AnaliseDocumentoProfessor) |
+| Larissa Stéfane | [Análise de Documentos: Estudantes](/PerfilUsuario/Estudantes/AnaliseDocumentalEstudantes) |
+| Larissa Stéfane | [Análise de Documentos: Servidores Técnicos e Administrativos](/PerfilUsuario/Tecnicos/analiseDocumentosServidores) |
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
