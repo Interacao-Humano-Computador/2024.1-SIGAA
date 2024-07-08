@@ -12,7 +12,8 @@ Neste documento, apresentamos o processo e os resultados obtidos atrav√©s da an√
 Figura 1: Heatmap
 <center>
 <img src="https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/assets/heatmpappppp.png?raw=true" style="width:auto"/>
-<center>
+</center>center>
+ 
 Fonte: [Breno Alexandre](https://github.com/brenoalexandre0)
 
 ## Resultados
