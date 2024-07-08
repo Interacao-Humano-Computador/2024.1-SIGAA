@@ -6,7 +6,6 @@
 - [Introdução](#Introdução)
 - [Metodologia](#Metodologia)
 - [Técnicas Utilizadas](#Técnicas-Utilizadas)
-- [Referências Bibliográficas](#Referências-Bibliográficas)
 - [Histórico de Versão](#Histórico-de-Versão)
 
 
@@ -123,34 +122,16 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 | Larissa Stéfane | [Entrevista com convidada especial: Cecília Alves](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/CeciliaAlves) |
 | Breno Alexandre | [Entrevista com a estudante Ana Clara Rosário Silva](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/AnaClara) |
 | Larissa Stéfane | [Entrevista com o estudante Bruno Martins Bomfim](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/BrunoMartins) |
+| Larissa Stéfane | [Entrevista com o estudante Caio Felipe Alves Braga](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/CaioBraga) |
+| Larissa Stéfane | [Entrevista com o estudante Carlos Gabriel Cardoso Ramos](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/CarlosGabriel) |
+| Larissa Stéfane | [Entrevista com o estudante Gabriel Lopes Barros](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielLopes) |
+| Larissa Stéfane | [Entrevista com o estudante Gabriel Rodrigo Martins de Andrade](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielRodrigo) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
 </center>
 
 </details>
-
-
-
-
-## Referências Bibliográficas
-
-1. <b>AVALIAÇÃO DO SITE:</b> Inep Enem. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/Site_enem>. Acesso em: 08 jul. 2024.
-2. <b>AVALIAÇÃO DO SITE:</b> Corpo de Bombeiros Militar do Distrito Federal. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/CBMDF>. Acesso em: 08 jul. 2024.
-3. <b>AVALIAÇÃO DO SITE:</b> SIGAA - UnB. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/Site_Sigaa>. Acesso em: 08 jul. 2024.
-4. <b>AVALIAÇÃO DO SITE:</b> Secretaria da Pessoa com Deficiência do GDF. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/Site_Secretaria_PND_GDF>. Acesso em: 08 jul. 2024.
-5. <b>AVALIAÇÃO DO SITE:</b> Alistamento Militar. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/AlistamentoMilitar>. Acesso em: 08 jul. 2024.
-6. <b>AVALIAÇÃO DO SITE:</b> Distribuição Linux Debian. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/Site_Debian>. Acesso em: 08 jul. 2024.
-7. <b>AVALIAÇÃO POR HEURÍSTICAS DO SIGAA</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SiteEscolhidoSIGAA/Avalia%C3%A7%C3%A3o_Heuristica_SIGAA>. Acesso em: 08 jul. 2024.
-8. <b>PERSONAS NO PROJETO</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Personass/PersonasSIGAA>. Acesso em: 08 jul. 2024.
-9. <b>RESULTADOS DO QUESTIONÁRIO PARA PROFESSORES</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Questionarios/AnaliseResultados>. Acesso em: 08 jul. 2024.
-10. <b>RESULTADOS DO QUESTIONÁRIO PARA ESTUDANTES</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Estudantes/Questionarios/An%C3%A1liseResultados?id=resultados-do-question%c3%a1rio-para-estudantes>. Acesso em: 08 jul. 2024.
-11. <b>ENTREVISTA COM O PROFESSOR ANDRÉ BARROS DE SALES</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/AndreSales>. Acesso em: 08 jul. 2024.
-12. <b>ENTREVISTA COM UMA PROFESSORA ANÔNIMA</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/Anonimo>. Acesso em: 08 jul. 2024.
-13. <b>ENTREVISTA COM A PROFESSORA ELAINE VENSON</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson>. Acesso em: 08 jul. 2024.
-14. <b>ENTREVISTA COM O PROFESSOR MARIO DE OLIVEIRA ANDRADE</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/MarioAndrade>. Acesso em: 08 jul. 2024.
-15. <b>ENTREVISTA COM CONVIDADA ESPECIAL:</b> Cecília Alves. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Estudantes/Entrevistas/Gravacao/CeciliaAlves>. Acesso em: 08 jul. 2024.
-16. <b>ENTREVISTA COM A ESTUDANTE ANA CLARA ROSÁRIO SILVA</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Estudantes/Entrevistas/Gravacao/AnaClara>. Acesso em: 08 jul. 2024.
 
 
 ## Histórico de Versão
