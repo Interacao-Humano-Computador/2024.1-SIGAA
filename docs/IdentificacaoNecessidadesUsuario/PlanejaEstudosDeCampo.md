@@ -17,13 +17,13 @@ A técnica escolhida para identificar as necessidades relacionadas a IHC do site
 
 ## Quadro de participantes 
 
-<p align="center"> Tabela 1. Quadro de participantes </p>
+Tabela 1: Quadro de participantes
 
 | Nome   | Idade | Relação com tecnologia | Conhecimento do Sigaa    | Sexo        | Grau de instrução | Idiomas falados | Data |
 |--------|---------------|----------------|----------------|----------------|------------|------------|------------|
 | Erika Iwakiri |  22    |    Boa    | Sim | Feminino | Superior incompleto | Portugues, Inglês, japonês|01/05/2024|
 
-<font size="3"><p style="text-align: center">Fonte: [Pedro Izarias](https://github.com/Izarias).</p></font>
+Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 A tabela 1, trás os participantes escolhidos para a atividade, assim como seus dados pessoais e a data de quando deverá ser feita a aplicação com cada um.
 
@@ -34,7 +34,7 @@ Utilizando a técnica de estudo de campo em pesquisas de Interação Humano-Comp
 
 ## Bibliografia
 
-**BARBOSA**, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
+1. **BARBOSA**, S.D.J. e Silva, B.S. (2010) Interação Humano-Computador. Série SBC-. Campus. Elsevier.
 
 ## Histórico de versões
 
