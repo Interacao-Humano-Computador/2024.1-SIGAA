@@ -44,13 +44,6 @@ Figura 4: Persona Talya Eloise Moretti Valente
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
-Figura 5: Persona Ana
-
- <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/Ana.png">
-
-<b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
-
-
 Figura 6: Persona Juliana Moraes
 
 ![Juliana Moraes(2)](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/2868ad98-c0f5-4672-9c73-77e905855b2a)
