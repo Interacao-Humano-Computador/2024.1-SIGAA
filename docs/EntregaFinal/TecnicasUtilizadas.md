@@ -221,6 +221,33 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 </details>
 
 
+<details>
+
+<summary><b>Análise Hierárquica de Tarefas (HTA) e Método GOMS</b></summary>
+<br>
+<center>
+
+<b>Tabela 10:</b> Técnica utilizada no projeto: Análise Hierárquica de Tarefas (HTA) e Método GOMS.
+
+| Participantes | Rastreabilidade |
+| - | - |
+| Bruno Araújo | [Análise Declaração de Bolsista](/Requisitos1/AnaliseTarefas/Bolsas/DeclaraçãodeBolsista2) |
+| Bruno Araújo | [Análise de Tarefas: Solicitação de Bolsas](/Requisitos1/AnaliseTarefas/Bolsas/SolicitaçãodeBolsasHTA) |
+| Iago Passaglia | [Análise de Tarefas: Tarefas de estágio na visão do estudante (GOMS)](/Requisitos1/AnaliseTarefas/Estagio/estagioGoms) |
+| Iago Passaglia | [Análise Hierárquica de Tarefas no SIGAA - Aba Estágio (Visão do aluno)](/Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica) |
+| Luana Medeiros | [Análise de Tarefas: Histórico](/Requisitos1/AnaliseTarefas/Histórico/AnaliseHistorico) |
+| Pedro Izarias | [Análise de Tarefas: Tarefas de estágio na visão do estudante (GOMS)](/Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS) |
+| Pedro Izarias | [Análise Hierárquica de Tarefas no SIGAA - Matrícula (Visão do aluno)](/Requisitos1/AnaliseTarefas/Matrícula/FazerMatriculaHierarquica) |
+| Larissa Stéfane |
+
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
