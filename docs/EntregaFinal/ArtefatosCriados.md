@@ -223,6 +223,8 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Entrevistas da Aluguel de Sala: Genilson Silva](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AluguelSala/Genilson.md) | Larissa Stéfane | - |
 | [Entrevistas da Aluguel de Sala: Henrique Batalha](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AluguelSala/HenriqueBatalha.md) | Larissa Stéfane | - |
 | [Entrevistas da Aluguel de Sala: Leandro Silva](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AluguelSala/LeandroSilva.md) | Larissa Stéfane | - |
+| [Entrevistas da Grade Sugerida: Bruna](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/GradeSugerida/Bruna.md) | Luana Medeiros | Larissa Stéfane |
+
 
 | [Planejamento entrevistas (Outro)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistaNovo.md) | Pedro Izarias | Bruno Araújo |
 | [Entrevistas de acordo com planejamento(outro)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas.md) | Bruno, Iago e Pedro | Bruno |
