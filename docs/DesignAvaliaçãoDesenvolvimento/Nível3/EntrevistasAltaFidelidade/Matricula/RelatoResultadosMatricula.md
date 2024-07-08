@@ -34,11 +34,48 @@
 
 ## Dados Coletados
 
+#### Critérios para utilizar a funcionalidade
 
-### Obervações Gerais
 
 
-### Conclusão
+#### Protótipo e o padrão do SIGAA
+
+
+
+#### Termos utilizados no protótipo
+
+
+
+#### Dificuldades para navegar no protótipo
+
+
+
+#### Partes menos satisfatórias do protótipo
+
+
+
+#### Interface intuitiva
+
+
+
+#### Usuário se sentiu orientado para completar a tarefa
+
+
+
+#### Consistência visual da interface
+
+
+
+#### Usuário teve o controle sobre a navegação no protótipo
+
+
+#### Satisfação pessoal ao completar a tarefa
+
+
+## Obervações Gerais
+
+
+## Conclusão
 
 ## Histórico de Versão
 
