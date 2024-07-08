@@ -30,7 +30,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 <br>
 <center>
 
-<b>Tabela 1:</b> Técnicas utilizadas no projeto: Framework DECIDE.
+<b>Tabela 1:</b> Técnica utilizada no projeto: Framework DECIDE.
 
 | Participantes | Rastreabilidade |
 | - | - |
@@ -54,7 +54,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 <br>
 <center>
 
-<b>Tabela 2:</b> Técnicas utilizadas no projeto: Avaliação Heurística.
+<b>Tabela 2:</b> Técnica utilizada no projeto: Avaliação Heurística.
 
 | Participantes | Rastreabilidade |
 | - | - |
@@ -73,7 +73,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 <br>
 <center>
 
-<b>Tabela 3:</b> Técnicas utilizadas no projeto: Personas.
+<b>Tabela 3:</b> Técnica utilizada no projeto: Personas.
 
 | Participantes | Rastreabilidade |
 | - | - |
@@ -92,7 +92,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 <br>
 <center>
 
-<b>Tabela 4:</b> Técnicas utilizadas no projeto: Questionário.
+<b>Tabela 4:</b> Técnica utilizada no projeto: Questionário.
 
 | Participantes | Rastreabilidade |
 | - | - |
@@ -108,16 +108,17 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 
 <details>
 
-<summary><b>Questionário</b></summary>
+<summary><b>Entrevista</b></summary>
 <br>
 <center>
 
-<b>Tabela 5:</b> Técnicas utilizadas no projeto: Questionário.
+<b>Tabela 5:</b> Técnica utilizada no projeto: Entrevista.
 
 | Participantes | Rastreabilidade |
 | - | - |
-| Larissa Stéfane | [Resultados do questionário para Professores](/PerfilUsuario/Professores/Questionarios/AnaliseResultados) |
-| Breno, Bruno, Iago, Larissa, Luana e Pedro | [Resultados do questionário para estudantes](/PerfilUsuario/Estudantes/Questionarios/AnáliseResultados) |
+| Larissa Stéfane | [Entrevista com o professor André Barros de Sales](/PerfilUsuario/Professores/Entrevistas/Gravacoes/AndreSales) |
+| Larissa Stéfane | [Entrevista com uma professora anônima](/PerfilUsuario/Professores/Entrevistas/Gravacoes/Anonimo) |
+| Larissa Stéfane | [Entrevista com a professora Elaine Venson](/PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
@@ -140,7 +141,9 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 8. <b>PERSONAS NO PROJETO</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Personass/PersonasSIGAA>. Acesso em: 08 jul. 2024.
 9. <b>RESULTADOS DO QUESTIONÁRIO PARA PROFESSORES</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Questionarios/AnaliseResultados>. Acesso em: 08 jul. 2024.
 10. <b>RESULTADOS DO QUESTIONÁRIO PARA ESTUDANTES</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Estudantes/Questionarios/An%C3%A1liseResultados?id=resultados-do-question%c3%a1rio-para-estudantes>. Acesso em: 08 jul. 2024.
-
+11. <b>ENTREVISTA COM O PROFESSOR ANDRÉ BARROS DE SALES</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/AndreSales>. Acesso em: 08 jul. 2024.
+12. <b>ENTREVISTA COM UMA PROFESSORA ANÔNIMA</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/Anonimo>. Acesso em: 08 jul. 2024.
+13. <b>ENTREVISTA COM A PROFESSORA ELAINE VENSON</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson>. Acesso em: 08 jul. 2024.
 
 
 ## Histórico de Versão
