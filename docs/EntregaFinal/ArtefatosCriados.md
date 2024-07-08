@@ -163,3 +163,20 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Planejamento da Avaliação do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoAvaliacaoPrototipoPapel.md) | Larissa Stéfane | Breno Alexandre |
 | [Planejamento das Entrevistas para Avaliação do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/PlanejamentoEntrevistaPrototipoPapel.md) | Larissa Stéfane | Breno Alexandre |
 | [Testes Pilotos para as enttrevistas](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/PlanejamentoEntrevistaPrototipoPapel.md) | Breno, Bruno, Iago, Larissa e Pedro | Iago, Larissa e Pedro |
+| [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Aba de Monitoria](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Larissa Stéfane | Pedro Izarias |
+| [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Aba do RU](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Breno Alexandre | Luana Medeiros |
+| [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Aluguel de Sala](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Larissa Stéfane | Pedro Izarias |
+| [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Grade Sugerida](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Luana Medeiros | Pedro Izarias |
+| [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Pré-Cadastro de Estágio](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Iago Pasaglia | Pedro Izarias |
+| [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Realização de Matrícula](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Pedro Izarias |Iago Pasaglia |
+| [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Solicitação de Bolsas](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) |  Bruno Araújo |  Luana Medeiros |
+
+
+
+
+
+
+
+
+
+
