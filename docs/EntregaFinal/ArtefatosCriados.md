@@ -207,6 +207,24 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 
+## Entregas 7 e 8 
+
+| Artefato | Autor(es) | Revisor(es) |
+| ---------  | ----------   | -------------  | 
+| [Planejamento da Avaliação do Protótipo de Alta Fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoAvaliacaoPrototipoAltaFidelidade.md) | Larissa Stéfane | Bruno Araújo |
+| [Planejamento Entrevistas de acordo com o Planejamento da Avaliação](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistas.md) | Larissa Stéfane | ago Passaglia |
+| [Entrevistas da Aba de Monitoria: Carlos Gabriel](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/CarlosGabriel.md) | Larissa Stéfane | - |
+| [Entrevistas da Aba de Monitoria: Genilson Silva](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/Genilson.md) | Larissa Stéfane | - |
+| [Entrevistas da Aba de Monitoria: Henrique Batalha](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/HenriqueBatalha.md) | Larissa Stéfane | - |
+| [Entrevistas da Aba de Monitoria: Leandro Silva](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/LeandroSilva.md) | Larissa Stéfane | - |
+| [Planejamento entrevistas (Outo)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistaNovo.md) | Pedro Izarias | Bruno Araújo |
+| [Entrevistas de acordo com planejamento(outro)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas.md) | Bruno, Iago e Pedro | Bruno |
+| [Planejamento do Relato da Avaliação do Protótipo de Alta Fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoRelatoResultados.md) | Larissa Stéfane | Bruno Araújo |
+
+
+
+
+
 
 
 
