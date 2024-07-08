@@ -119,43 +119,43 @@ Abaixo, há as respostas escritas dadas  durante a entrevista.
 
 1. **Como os usuários interagiram com o protótipo??**
 
-- 
+- Sem dificuldades. Consultou o passo a passo no assistente de ajuda antes de interagir
 
 3. **Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não)**
 
-- 
+- O tempo para atingir os objetivos foi de 2 minutos
 
 4. **A interface está de acordo com os padrões de acessibilidade do W3C?**
 
-- 
+- Sim, porém, sugeriu que a fonte na barra lateral fosse maior.
 
 5. **A interface segue o padrão da interface do SIGAA e a lógica do site também?**
 
-- 
+- Sim.
 
 6. **O usuário conseguiu operar o protótipo?**
 
-- 
+- Sim.
 
 7. **O usuário pareceu confuso quando estava executando as tarefas?**
 
-- 
+- Não
 
 8. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
 
-- 
+- Não foi observada a ocorrência de erro durante a interação.
 
 9. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
 
-- 
+- Nenhuma.
 
 10. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
 
-- 
+- Parece bastante seguro
 
 11. **Qual foi o erro/problema mais recorrênte no protótipo? Qual a sua solução?**
 
-- 
+- Foi dada a sugestão de aumentar a fonte.
 
 
 ## Histórico de Versão
