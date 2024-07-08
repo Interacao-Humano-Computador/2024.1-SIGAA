@@ -63,7 +63,7 @@ vídeo 1: IHC - Teste de Usabilidade - Aba de Monitoria –  Felipe Ferreira
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
-Caso o vídeo acima não funcione, use este [link]()
+Caso o vídeo acima não funcione, use este [link](https://youtu.be/6nzPKrEElOk)
 
 
 ## Respostas
