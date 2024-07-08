@@ -1,4 +1,6 @@
-Para os autores dos artefatos, será considerado apenas quem contribuiu com o conteúdo.
+## Artefatos Criados Durante o Projeto
+
+## Sumário
 
 ## Entrega 1
 
