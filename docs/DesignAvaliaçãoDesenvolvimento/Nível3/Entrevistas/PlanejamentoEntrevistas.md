@@ -179,15 +179,25 @@ Desse modo, abaixo, há o questionário após a entrevista.
 <details>
 <summary size="20"><b> Questionário de após entrevista </b></summary>
 
-1. **O usuário conseguiu operar o protótipo?**
+1. **Como os usuários interagiram com o protótipo??**
 
-2. **Quanto tempo o participante realizou a atividade?**
+2. **Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não)**
 
-3. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
+3. **A interface está de acordo com os padrões de acessibilidade do W3C?**
 
-4. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
+4. **A interface segue o padrão da interface do SIGAA e a lógica do site também?**
 
-5. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
+5. **O usuário conseguiu operar o protótipo?**
+
+6. **O usuário pareceu confuso quando estava executando as tarefas?**
+
+7. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
+
+8. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
+
+9. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
+
+10. **Qual foi o erro/problema mais recorrênte no protótipo? Qual a sua solução?**
 
 </details>
 
