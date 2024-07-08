@@ -1,4 +1,4 @@
-# Planejamento dos Recursos e das Entregas (Cronogramas)
+'# Planejamento dos Recursos e das Entregas (Cronogramas)
 
 ## Sumário
 
@@ -163,7 +163,6 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 | Criação e desenvolvimento do cenário de matrícula                                    | 06/05/2024 | 06/05/2024 | Pedro Izarias                              | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
 | Planejamento da HTA do RU                                                            | 06/05/2024 | 06/05/2024 | Breno Alexandre                            | Larissa Stéfane                            | 06/05/2024 - 06/05/2024 |
 | Planejamento Análise Hierárquica de Tarefas para a aba de Histórico                  | 06/05/2024 | 06/05/2024 | Luana Medeiros                             | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
-
 | Planejamento HTA Questionário                  | 22/05/2024 | 22/05/2024 | Bruno Araújo                             |Iago Passaglia                            | 09/05/2024 - 09/05/2024 |
 | Análise de Tarefas: Histórico                                                        | 06/05/2024 | 06/05/2024 | Luana Medeiros                             | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
 | Cenários Histórico                                                                   | 06/05/2024 | 06/05/2024 | Luana Medeiros                             | Breno Alexandre                            | 09/05/2024 - 09/05/2024 |
