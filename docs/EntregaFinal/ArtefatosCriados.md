@@ -133,9 +133,9 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
-| [Planejamento da Avaliação do Storyboard: Determinar os objetivos da avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
-| [Planejamento da Avaliação do Storyboard: Explorar perguntas a serem respondidas](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
-| [Planejamento da Avaliação do Storyboard: Escolher os Métodos de Avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
-| [Planejamento da Avaliação do Storyboard: Identificar e administrar as questões práticas da avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
-| [Planejamento da Avaliação do Storyboard: Decidir como lidar com as questões éticas](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
-| [Planejamento da Avaliação do Storyboard: Avaliar, interpretar e apresentar os dados](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | |
+| [Planejamento da Avaliação do Storyboard: Determinar os objetivos da avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | | Pedro Izarias | Bruno Araújo |
+| [Planejamento da Avaliação do Storyboard: Explorar perguntas a serem respondidas](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | Luana Medeiros | Iago Passaglia |
+| [Planejamento da Avaliação do Storyboard: Escolher os Métodos de Avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | Larissa Stéfane | Iago Passaglia |
+| [Planejamento da Avaliação do Storyboard: Identificar e administrar as questões práticas da avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | Iago Passaglia | Luana Medeiros |
+| [Planejamento da Avaliação do Storyboard: Decidir como lidar com as questões éticas](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | Bruno Araújo | Iago Passaglia |
+| [Planejamento da Avaliação do Storyboard: Avaliar, interpretar e apresentar os dados](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | Iago Passaglia | Pedro Izarias |
