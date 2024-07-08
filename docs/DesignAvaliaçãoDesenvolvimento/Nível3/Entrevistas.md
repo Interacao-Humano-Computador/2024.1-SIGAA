@@ -42,6 +42,27 @@ A metodologia para a avaliação do protótipo de alta fidelidade do site acadê
 ## Entrevistas
 
 <details>
+<summary size="20"><b>Funcionalidade de Realizar Matrícula: Pedro Izarias</b></summary>
+
+**Vídeo 1:** Avaliação feita com Erika Iwakiri
+
+<iframe width="848" height="480" src="https://www.youtube.com/embed/rEr8jfApXGA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Tabela 2:** Respostas para avaliação
+
+| ID | Pergunta | Resposta |
+|----|----------|----------|
+| 01 | Houve algum momento em que você se sentiu perdido ou confuso navegando pelo site? | Não, foi bem fácil de navegar e não precisei buscar ajuda. |
+| 02 | Há algo que te impediu ou dificultou completar esta tarefa? | Não, não teve nada que me impediu ou dificultou. |
+| 03 | Há algo na interface que você achou desnecessário ou confuso? | Não, tudo o que estava na interface era o que precisava estar e as informações foram diretas e essenciais. |
+| 04 | O que você mais gostou e o que menos gostou no site? | O site está bem moderno, as palhetas de cores estão boas e não tem nenhum código confuso na interface, por exemplo o código das aulas que no SIGAA seria 2M34, não preciso buscar ajuda para interpretar, já está no formato normal de horas. |
+| 05 | Em uma escala de 1 a 10, como você classificaria sua satisfação geral com este protótipo? | Acho que 10 porque nós precisamos de uma mudança no SIGAA e essa interface é uma mudança nova mais bem moderna e fácil de navegar. |
+
+**Autor:** [Pedro Izarias](https://github.com/Izarias)
+
+</details>
+
+<details>
 <summary size="20"><b>Funcionalidades de Estágio e Bolsas: Iago e Bruno</b></summary>
 
 **Vídeo 2:** Avaliação feita com Elder
