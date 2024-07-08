@@ -142,3 +142,9 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Planejamento do Relato dos Resultados da avaliação do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoRelatoResultadosStoryboard.md) | Breno Alexandre | Luana Medeiros |
 | [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md) | Breno, Pedro e Larissa | Bruno, Iago, Luana e Pedro |
 | [Relato dos Resultados da Avaliação do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/RelatoResultadosStoryboard.md) | Breno, Bruno, Iago, Larissa, Pedro | Bruno, Iago e Pedro |
+| [Planejamento da Avaliação da Análise de Tarefas: Determinar os objetivos](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) |  |  |
+| [Planejamento da Avaliação da Análise de Tarefas: Explorar perguntas a serem respondidas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) |  |  |
+| [Planejamento da Avaliação da Análise de Tarefas: Escolher os Métodos de Avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) |  |  |
+| [Planejamento da Avaliação da Análise de Tarefas: Identificar e administrar as questões práticas da avaliação](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) |  |  |
+| [Planejamento da Avaliação da Análise de Tarefas: Decidir como lidar com as questões éticas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) |  |  |
+| [Planejamento da Avaliação da Análise de Tarefas: Avaliar, interpretar e apresentar os dados](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) |  |  |
