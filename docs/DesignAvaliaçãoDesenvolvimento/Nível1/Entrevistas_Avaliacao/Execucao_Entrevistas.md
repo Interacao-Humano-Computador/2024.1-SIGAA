@@ -997,6 +997,101 @@ A participante concordou com os termos da entrevista.
 
  </details>
 
+<details>
+  <summary size="20"><b> Realização de Matrícula </b></summary> 
+  
+### Funcionalidade: Grade Sugerida
+  
+A funcionalidade em questão, consiste em colocar suas preferências para que o sistema gere uma grade como sugestão.
+
+Para visualizar o storyboard dessa funcionalidade clique em [Storyboard](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Midia/storyboard/storyluana2.jpeg) e [Storyboard](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/Midia/storyboard/storyluana1.jpeg)
+
+Com base nisso, a avaliação do storyboard e da análise de tarefas para a realização da grade sugerida pode ser visualizado no vídeo 7:
+
+<center> 
+
+**Vídeo 7:** Entrevista Avaliação sobre a funcionalidade de Grade Sugerida.
+
+<iframe width="1519" height="534" src="https://www.youtube.com/embed/CstyeMcpR68" title="Entrevista Storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Autora:** [Luana Medeiros](https://github.com/LuaMedeiros)
+
+</center>
+
+Caso o vídeo acima não funcione, utilize o [link](https://www.youtube.com/watch?v=CstyeMcpR68)
+
+O participante concordou com os termos da entrevista.
+
+### Perguntas Respondidas Durante a Entrevista
+
+<details>
+  <summary size="20"><b> Questionário de Pré-Avaliação </b></summary> 
+
+**1. Dados Demográficos**:
+-  **Nome completo**: Leonardo Ramiro
+-  **Idade**: 21 anos
+-  **Gênero**: Masculino
+-   **Curso ou área de Estudo/Trabalho**: Engenharia de Software.
+  
+**2. Com que frequência você usa computadores ou dispositivos móveis?**
+
+- Diariamente.
+
+**3.Qual o seu nível de familiaridade com o uso de software acadêmico, em geral?**
+
+- Nível alto.
+
+**4.Como você classifica suas habilidades gerais com tecnologia?**
+
+- Alta (Possui facilidade).
+
+**5.Você costuma buscar ajuda ou tutoriais quando encontra dificuldades tecnológicas?**
+
+- Sim (Frequentemente).
+
+**6.Qual é o seu principal objetivo ao usar sistemas acadêmicos?**
+
+- Buscar por cursos, notas, frequencia das matérias, ementa e vagas de estágio.
+
+  </details>
+
+<details>
+  <summary size="20"><b> Questionário sobre o Storyboard </b></summary> 
+
+### Questionário de avaliação Storyboard
+
+**1. O que você achou do storyboard apresentado? Houve algum elemento que se destacou positiva ou negativamente?**
+- Ele acha que a funcionalidade foi bem descrita no storyboard e gostou da solução.
+  
+**2. O storyboard foi claro e fácil de entender? Quais partes, se houver, foram confusas ou difíceis de seguir?**
+- Sim, achou bem claro e nada confuso.
+  
+**3. Você acha que o storyboard reflete bem as necessidades e as expectativas dos usuários? Por quê?**
+- Sim, pois é um problema que pode ocorrer tranquilamente com algum aluno.
+
+**4. Você acha que a solução apresentada no storyboard é relevante e eficaz para o problema mostrado? Por quê?**
+- Sim, pois acredita que a solução facilita a vida dos alunos.
+
+**5. De que maneira você acha que a solução apresentada no storyboard poderia impactar a vida dos usuários?**
+- O entrevistado acredita que é uma funcionalidade que facilitará a vida dos alunos, e que será muito útil.
+
+</details>
+
+<details>
+  <summary size="20"><b> Questionário de de pós-avaliação </b></summary> 
+
+**1. Como você descreveria sua satisfação geral com a experiência de uso observada?**
+- Ele ficou satisfeito com o sistema no geral.
+
+**2. Quais aspectos você achou mais intuitivos e quais menos intuitivos?**
+- Ele achou o sistema em geral intuitivo.
+
+**3. As funcionalidades e o fluxo de trabalho apresentados atenderam às suas expectativas iniciais? Por favor, explique sua resposta.**
+- Sim, as funcionalidades atendem às expectativas.
+   
+  </details>
+
+ </details>
 
 ## Conclusão
 
@@ -1013,5 +1108,6 @@ As entrevistas de avaliação do storyboard e da análise de tarefas forneceram 
 | 1.4    | Adicionar entrevista da Aba de monitoria                         | Larissa Stéfane | Breno Alexandre | 02/06/2024 |
 | 1.5    | Adicionar parcialmente entrevista da Aba do RU                   | Breno Alexandre | Bruno Araújo    | 03/06/2024 |
 | 1.6    | Adicionado entrevista Bolsas                                     | Bruno Araújo    | Pedro Izarias   | 03/06/2024 |
-| 1.7    | Adicionado entrevista Matrícula                                  | Pedro Izarias   | Bruno Araújo            | 03/06/2024 |
+| 1.7    | Adicionado entrevista Matrícula                                  | Pedro Izarias   | Bruno Araújo    | 03/06/2024 |
 | 1.8    | Complementação da entrevista da Aba do RU                        | Breno Alexandre | Pedro Izarias   | 03/06/2024 |
+| 1.9    | Adicionado entrevista Grade Sugerida                             | Luana Medeiros  | -               | 08/07/2024 |
