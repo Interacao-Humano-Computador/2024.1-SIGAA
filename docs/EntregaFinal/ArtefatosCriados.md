@@ -141,3 +141,4 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Planejamento da Avaliação do Storyboard: Avaliar, interpretar e apresentar os dados](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard.md) | Iago Passaglia | Pedro Izarias |
 | [Planejamento do Relato dos Resultados da avaliação do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoRelatoResultadosStoryboard.md) | Breno Alexandre | Luana Medeiros |
 | [Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/Storyboards.md) | Breno, Pedro e Larissa | Bruno, Iago, Luana e Pedro |
+| [Relato dos Resultados da Avaliação do Storyboard](DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/RelatoResultadosStoryboard.md) | Breno, Bruno, Iago, Larissa, Pedro | Bruno, Iago e Pedro |
