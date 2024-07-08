@@ -78,11 +78,9 @@ Alguns desses estudos realizados foram [Análise do Sistema Integrado de Gestão
 ### Sobre a opinião do usuário:
 Na pesquisa do IFSC⁴, a usabilidade do sistema também foi um critério analisado, uma vez que é um dos aspectos mais importantes na avaliação de um sistema. Dessa maneira, o ideal é que esse sistema seja bastante intuitivo e de fácil aprendizagem de maneira que o usuário consiga utilizar o sistema de maneira eficiente, sem grandes dificuldades. No entanto, de acordo a pesquisa em que o site podia ser avaliado entre de 1 a 10, a usabilidade não recebeu notas boas, com nenhuma escolha para 9 e 10 e com foco entre 5 e 7, como é possível observar na Figura 3. 
 
-  **Figura 3:** OPinião sobre a usabilidade
+  **Figura 3:** Opinião sobre a usabilidade
   
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/usabilidadeSigaa.png">
-  
- 
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/usabilidadeSigaa.png"><br>
   
   Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
 
@@ -95,7 +93,6 @@ Na questão da facilidade de uso, na pesquisa do IFSC⁴, os docentes relataram 
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/UsabilidadeDocenteSigaa.png">
   
 
- 
  Fonte: [Pesquisa da FICS](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/754/Artigo%20Final%20Correcoes%20feitas%20Eduardo%20R%20Mallmann.pdf?sequence=1&isAllowed=y) 
 
 
