@@ -8,7 +8,7 @@
   
  </center>
 
-Fonte: [Sigaa](https://www.sigaa.unb.br)
+Fonte: [Sigaa](https://autenticacao.unb.br/sso-server/login?service=https://sig.unb.br/sigaa/login/cas)
 
 ## Sumário
 
