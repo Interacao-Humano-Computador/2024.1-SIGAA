@@ -19,4 +19,9 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Site Secretaria da Pessoa com Deficiência do GDF](planejamento/SitesAvaliados/Site_Secretaria_PND_GDF.md)        | Larissa Stéfane           | Pedro Augusto |
 | [Site Sigaa - UnB](planejamento/SitesAvaliados/Site_Sigaa.md)        | Iago Passaglia           | Luana Medeiros	 |
 | [Site INEP enem](planejamento/SitesAvaliados/Site_enem.md)        |  Breno Alexandre          | Luana Medeiros	|
+| [Avaliação por Heurísticas do SIGAA](planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA.md)      | Larissa Stéfane | Luana Medeiros |
+| [Apresentação do SIGAA](planejamento/SiteEscolhidoSIGAA/SIGAA.md)       | Larissa e Breno | Breno, Iago, Larissa e Luana |
+
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
