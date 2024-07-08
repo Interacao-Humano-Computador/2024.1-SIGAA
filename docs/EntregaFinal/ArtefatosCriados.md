@@ -204,6 +204,8 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Inspeção dos StoryBoards](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md) | Bruno Araújo | Luana Medeiros |
 | [Lista de Verificação o Relato dos resultados da Avaliação do Storyboard](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md) | Iago Passaglia | Luana Medeiros |
 
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
 
 
 
