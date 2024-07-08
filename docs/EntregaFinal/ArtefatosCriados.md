@@ -93,7 +93,13 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Análise de Tarefas: Tarefas de estágio na visão do estudante (GOMS)](Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS.md) | Pedro Izarias |  Breno Alexandre |
 | [Análise Hierárquica de Tarefas no SIGAA - Matrícula (Visão do aluno)](Requisitos1/AnaliseTarefas/Matrícula/FazerMatriculaHierarquica.md) | Pedro Izarias |  Breno e Iago |
 | [Planejamento Análise Hierárquica de Tarefas para a aba de Monitoria](Requisitos1/AnaliseTarefas/Monitoria/Planejamento.md) | Larissa Stéfane | Breno Alexandre |
-| [Análise de Tarefas: Analisar monitor na visão do estudante](Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor.md) | Larissa Stéfane | Breno Alexandre |
+| [Análise de Tarefas: Analisar monitor na visão do estudante](Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor.md) | Larissa Stéfane | Bruno Araújo |
+| [Análise de Tarefas: Monitoramento da Monitoria](Requisitos1/AnaliseTarefas/Monitoria/AnaliseMonitoramentoMonitoria.md) | Larissa Stéfane | Breno e Bruno |
+| [Análise de Tarefas: Pedido de Monitoria na visão do estudante](Requisitos1/AnaliseTarefas/Monitoria/AnálisePedidoMonitoria.md) | Larissa Stéfane | Breno Alexandre |
+| [Planejamento Análise Hierárquica de Tarefas para a aba do Restaurante Universitário](Requisitos1/AnaliseTarefas/RestauranteUniversitário/PlanejamentoRU.md) | Breno Alexandre | Larissa Stéfane |
+| [Análise de Tarefas: Aba do Restaurante Universitário na visão do estudante](Requisitos1/AnaliseTarefas/RestauranteUniversitário/AnáliseRU.md) | Breno Alexandre | Iago Passaglia	|
+
+
 
 
 
