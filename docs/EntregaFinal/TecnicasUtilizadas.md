@@ -253,5 +253,5 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
-| ------ | --------- | ----------- | ------- | ---- |
+| - | - | - | - | - |
 | 1.0 | Criação do artefato | Breno Alexandre | - | 08/07/2024 |
