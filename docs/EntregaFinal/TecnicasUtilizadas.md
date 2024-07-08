@@ -57,7 +57,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 
 | Participantes | Rastreabilidade |
 | - | - |
-| Larissa Stéfane | [Avaliação por Heurísticas do SIGAA](/planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA) |
+| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | [Avaliação por Heurísticas do SIGAA](/planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
@@ -76,7 +76,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 
 | Participantes | Rastreabilidade |
 | - | - |
-| Bruno, Larissa e Pedro | [Personas no Projeto](/PerfilUsuario/Personass/PersonasSIGAA) |
+| [Bruno](https://github.com/brunocva), [Larissa](https://github.com/SkywalkerSupreme) e [Pedro](https://github.com/Izarias) | [Personas no Projeto](/PerfilUsuario/Personass/PersonasSIGAA) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
