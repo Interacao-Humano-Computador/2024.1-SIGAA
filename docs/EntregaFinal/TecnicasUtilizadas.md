@@ -119,6 +119,8 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 | Larissa Stéfane | [Entrevista com o professor André Barros de Sales](/PerfilUsuario/Professores/Entrevistas/Gravacoes/AndreSales) |
 | Larissa Stéfane | [Entrevista com uma professora anônima](/PerfilUsuario/Professores/Entrevistas/Gravacoes/Anonimo) |
 | Larissa Stéfane | [Entrevista com a professora Elaine Venson](/PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson) |
+| Larissa Stéfane | [Entrevista com o professor Mario de Oliveira Andrade](/PerfilUsuario/Professores/Entrevistas/Gravacoes/MarioAndrade) |
+| Larissa Stéfane | [Entrevista com convidada especial: Cecília Alves](/PerfilUsuario/Estudantes/Entrevistas/Gravacao/CeciliaAlves) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
@@ -144,6 +146,8 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 11. <b>ENTREVISTA COM O PROFESSOR ANDRÉ BARROS DE SALES</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/AndreSales>. Acesso em: 08 jul. 2024.
 12. <b>ENTREVISTA COM UMA PROFESSORA ANÔNIMA</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/Anonimo>. Acesso em: 08 jul. 2024.
 13. <b>ENTREVISTA COM A PROFESSORA ELAINE VENSON</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson>. Acesso em: 08 jul. 2024.
+14. <b>ENTREVISTA COM O PROFESSOR MARIO DE OLIVEIRA ANDRADE</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Entrevistas/Gravacoes/MarioAndrade>. Acesso em: 08 jul. 2024.
+15. <b>ENTREVISTA COM CONVIDADA ESPECIAL:</b> Cecília Alves. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Estudantes/Entrevistas/Gravacao/CeciliaAlves>. Acesso em: 08 jul. 2024.
 
 
 ## Histórico de Versão
