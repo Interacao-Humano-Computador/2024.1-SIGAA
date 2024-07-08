@@ -30,9 +30,6 @@ Com base na análise de requisitos, foram criados protótipos de alta fidelidade
 #### 3. Implementação
 A implementação foi realizada em sprints, conforme planejado na metodologia Scrum. O código foi desenvolvido de forma modular, com ênfase na reutilização de componentes e na manutenção do código.
 
-#### 4. Testes
-Foram realizados testes funcionais e de usabilidade para garantir que as funcionalidades atendessem aos requisitos definidos. Também foram conduzidos testes de acessibilidade para assegurar a inclusão de todos os usuários.
-
 ### Desafios e Soluções
 Durante a execução do projeto, enfrentamos alguns desafios, tais como:
 
