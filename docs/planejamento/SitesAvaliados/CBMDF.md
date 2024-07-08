@@ -4,7 +4,7 @@
 
 <center>
 	
-<img src= "/docs/Midia/imagem_2024-04-11_191716792.png"/>
+<img src= "https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/imagem_2024-04-11_191716792.png"/>
 
  </center>
 
