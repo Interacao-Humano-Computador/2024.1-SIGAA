@@ -58,20 +58,28 @@ Com relação as partes do protótipo que foram menos satisfatórias ou que o us
 
 #### Interface intuitiva
 
-
+Sobre o sentimento do usuário com o sistema de ser incentivado a explorar novas funcionalidades e recursos do SIGAA, todas as respostas foram positivas e sem maiores detalhes ou complemento.
 
 #### Usuário se sentiu orientado para completar a tarefa
 
-
+Sobre a pergunta referente as orientações do sistema para o usuário realizar as tarefas, todas as respostas foram positivas. Houveram ainda comentários sobre o tema, como a [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/erika.md) que disse ter sido fácil de navegar e o [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/pietro.md) que disse ter sido orientado pelo próprio sistema a completar as tarefas necessárias para a funcionalidade.
 
 #### Consistência visual da interface
 
-
+A questão que aborda se o sistema matém um padrão de interface sobre todas as páginas do protótipo, teve todas as suas respostas positivas por parte dos entrevistados, tendo ainda um comentário em que um [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/douglas.md) detalha o fato das cores e tipografias se manterem as mesmas ao longo do site.
 
 #### Usuário teve o controle sobre a navegação no protótipo
 
+A cerca da questão que aborda sobre o controle do usuário no momento da navegação pelo protótipo, todos os usuários tiveram resposta positiva, apenas com um adendo feito por um [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/pietro.md) que alega ter tipo problemas quanto ao "scroll", mas não sendo esse relacionado ao protótipo.
 
 #### Satisfação pessoal ao completar a tarefa
+
+Por fim, a décima pergunta fala sobre a satisfação pessoal do usuário ao interagir com o protótipo e novamente tivemos unanimidade positiva quanto as respostas porém cada uma delas com um complemento sobre sua experiência geral. A seguir veremos todas as respostas:
+- [Participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/douglas.md) 1: Acredito que funciona bem para o que se propõe e é algo bem visual, que auxilia no projeto.
+- [Participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/erika.md) 2: Foi ótimo, bem fácil de navegar, não houve nenhum problema, a interface está bem moderna e fácil de localizar.
+- [Participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/kaio.md) 3: Foi relativamente fácil de fazer.
+- [Participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/pietro.md) 4: De 0 a 10 dou um 9.
+- [Participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/rafaela.md) 5: Eu gostei desse protótipo, ele é bem utilizavel e é fácil também.
 
 
 ## Obervações Gerais
