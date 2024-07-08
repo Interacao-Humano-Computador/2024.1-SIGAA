@@ -121,6 +121,12 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Guia de Estilo: Resultados de análise](Requisitos2/GuiaEstilo/GuiaEstilo.md) | Pedro Izarias | Bruno Araújo |
 | [Guia de Estilo: Elementos de Ação](Requisitos2/GuiaEstilo/GuiaEstilo.md) | Luana Medeiros | Breno Alexandre	 |
 | [Guia de Estilo: Elementos de Interação](Requisitos2/GuiaEstilo/GuiaEstilo.md) | Bruno Araújo | Breno Alexandre	 |
+| [Metas de Usabilidade](Requisitos2/MetasUsabilidade/MetasUsabilidade.md) | Luana e Pedro | Breno e Pedro	 |
+| [Metas de Usabilidade](Requisitos2/MetasUsabilidade/MetasUsabilidade.md) | Luana e Pedro | Breno e Pedro	 |
+| [Características da Plataforma: SIGAA](Requisitos2/CaracteristicasGerais.md) | Larissa Stéfane | Breno Alexandre |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
 
 
 
