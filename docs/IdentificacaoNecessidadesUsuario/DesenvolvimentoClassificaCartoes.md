@@ -20,15 +20,17 @@ Após a definição dos participantes e da data para a execução da atividade, 
 
 ### Participante Manuela Alcantara
 
+Figura 1: Grupos de Manuela
+
 <center>
-  <font size="2"><p style="text-align: center">Figura 1: Grupos de Manuela</p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/CardsManuela.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
  </center>
+
+ Fonte: [Pedro Izarias](https://github.com/Izarias)
  
  A figura 1 mostra a classificação feita pela participante. A tarefa foi realizada de maneira remota e com instruções iniciais claras sobre como deveria ser feito, para que não houvesse nenhuma obstrução por parte do pesquisador durante a atividade. A escolha da participante foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado e cada grupo por ela feito. 
 
-<center><font size="2"><p style="text-align: center">Tabela 1: Itens e Títulos Manuela</p></font></center>
+Tabela 1: Itens e Títulos Manuela
 
 |Título escolhido|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|
 |-----|-----|-----|-----|-----|-----|-----|-----|
@@ -37,19 +39,21 @@ Após a definição dos participantes e da data para a execução da atividade, 
 | Curso |  Coordenação de curso | Avaliação institucional  | Ambientes virtuais | Necessidades educacionais específicas | - | - | - |
 | Estudante |  Meus relatórios | Consultar minhas notas | Emitir histórico | Consultar ações | Calendário acadêmico | Certificados e declarações | Emitir Carteirinha estudantil |
 
-<center><font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font></center>
+ Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 ### Participante Fernando Vela
 
+Figura 2: Grupos de Fernando
+
 <center>
-  <font size="2"><p style="text-align: center">Figura 2: Grupos de Fernando</p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/CardsFernando.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font>
  </center>
+
+Fonte: [Pedro Izarias](https://github.com/Izarias)
  
  A figura 2 mostra a classificação feita pelo participante. A tarefa foi realizada de maneira remota e com instruções iniciais claras sobre como deveria ser feito, para que não houvesse nenhuma obstrução por parte do pesquisador durante a atividade. Sua escolha foi dividir os cartões em cinco grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado e cada grupo por ele feito. 
 
-<center><font size="2"><p style="text-align: center">Tabela 2: Itens e Títulos Fernando</p></font></center>
+Tabela 2: Itens e Títulos Fernando
 
 |Título escolhido|Item do grupo|Item do grupo|Item do grupo|Item do grupo|
 |-----|-----|-----|-----|-----|
@@ -59,20 +63,22 @@ Após a definição dos participantes e da data para a execução da atividade, 
 | Trabalho Junior |  Gerenciar estágios | Pré-cadastro de estágio | Visualizar resultados das inscrições | Consultar ações | 
 | Outros | Plano de Trabalho | Consultar minhas notas | Calendário Acadêmico | Certificados e declarações |
 
-<center><font size="2"><p style="text-align: center">Fonte: Pedro Izarias</p></font></center>
+Fonte: [Pedro Izarias](https://github.com/Izarias)
 
 
 ### Participante Pedro Siqueira
 
+Figura 3: Grupos de Pedro
+
 <center>
-  <font size="2"><p style="text-align: center">Figura 3: Grupos de Pedro</p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/CardsPedro.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
  </center>
+
+ Fonte: [Luana Medeiros](https://github.com/LuaMedeiros)
  
  A figura 3 mostra a classificação feita pelo participante. A tarefa foi realizada de maneira remota e com instruções iniciais claras sobre como deveria ser feito, para que não houvesse nenhuma obstrução por parte do pesquisador durante a atividade. A escolha do participante foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado e cada grupo por ele feito. 
 
-<center><font size="2"><p style="text-align: center">Tabela 3: Itens e Títulos Pedro</p></font></center>
+Tabela 3: Itens e Títulos Pedro
 
 |Título escolhido|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|
 |----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
@@ -81,20 +87,22 @@ Após a definição dos participantes e da data para a execução da atividade, 
 | Certificação e Documentos | Certificados e declarações | Consultar minhas notas | Meus relatórios | Certificados e declarações  | - | - | - |
 | Período Letivo Anual | Calendário Acadêmico | Emitir histórico | Mural de vagas | Ambientes virtuais | Coordenação de curso | Emitir Carteirinha estudantil | - |
 
-<center><font size="2"><p style="text-align: center">Fonte: Luana Medeiros </p></font></center>
+ Fonte: [Luana Medeiros](https://github.com/LuaMedeiros)
 
 
 ### Participante Leonardo Ramiro
 
+Figura 4: Grupos de Leonardo
+
 <center>
-  <font size="2"><p style="text-align: center">Figura 4: Grupos de Leonardo</p></font>
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/assets/CardsLeonardo.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: Luana Medeiros</p></font>
  </center>
+
+Fonte: [Luana Medeiros](https://github.com/LuaMedeiros)
  
  A figura 4 mostra a classificação feita pelo participante. A tarefa foi realizada de maneira remota e com instruções iniciais claras sobre como deveria ser feito, para que não houvesse nenhuma obstrução por parte do pesquisador durante a atividade. A escolha do participante foi dividir os cartões em quatro grupos com quantidades diferentes de cartas e de acordo com sua impressão de semelhança entre os itens de acordo com orientação prévia feita pelo aplicador. A seguir, veremos o título dado e cada grupo por ele feito. 
 
-<center><font size="2"><p style="text-align: center">Tabela 4: Itens e Títulos Leonardo</p></font></center>
+Tabela 4: Itens e Títulos Leonardo
 
 |Título escolhido|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|Item do grupo|
 |----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
@@ -103,7 +111,7 @@ Após a definição dos participantes e da data para a execução da atividade, 
 | Institucional e Educacional | Calendário Acadêmico | Consultar Ações | Emitir histórico | Consultar minhas notas | Ambientes virtuais | Meus relatórios | Avaliação Institucional |
 | Coordenação         | Necessidades Educacionais Específicas | Emitir Carteirinha estudantil | Coordenação de curso | - | - | - | - |
 
-<center><font size="2"><p style="text-align: center">Fonte: Luana Medeiros </p></font></center>
+Fonte: [Luana Medeiros](https://github.com/LuaMedeiros)
 
 
 ## Conclusão
