@@ -114,6 +114,37 @@ Abaixo estão as tabelas com as checklists criadas, os autores e os revisores.
 
 </details>
 
+</details>
+
+
+<details>
+
+<summary><b>Nós - Grupo 2 - SIGAA - UnB</b></summary>
+<br>
+
+<details>
+
+<summary><b>Análise de Requisitos</b></summary>
+<br>
+<center>
+
+<b>Tabela 1:</b> Listas de verificação da etapa de Análise de Requisitos do Grupo 2.
+
+| Lista de Verificação | Autor | Revisor |
+| - | - | - |
+| [Verificação dos Aspectos Éticos](/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/AspectosEticos) | [Luana Medeiros](https://github.com/LuaMedeiros) | [Iago Passaglia](https://github.com/Paxxaglia) |
+| [Verificação dos Cenários](/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Cenarios) | [Luana Medeiros](https://github.com/LuaMedeiros) | [Iago Passaglia](https://github.com/Paxxaglia) |
+| [Verificação do Perfil de Usuário](/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/ValidacaoPerfilDeUsuario) | [Iago Passaglia](https://github.com/Paxxaglia) | [Luana Medeiros](https://github.com/LuaMedeiros) | 
+| [Verificação de Personas](/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/VerificacaoPersonas) | [Iago Passaglia](https://github.com/Paxxaglia) | [Bruno Araújo](https://github.com/brunocva) |
+| [Verificação dos Questionários](/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Questionários) | [Pedro Izarias](https://github.com/Izarias) | [Luana Medeiros](https://github.com/LuaMedeiros) | 
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
 
 </details>
 
