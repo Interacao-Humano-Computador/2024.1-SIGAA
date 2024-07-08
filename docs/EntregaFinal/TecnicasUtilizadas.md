@@ -164,6 +164,25 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 </details>
 
 
+<details>
+
+<summary><b>Brainstorming</b></summary>
+<br>
+<center>
+
+<b>Tabela 7:</b> Técnica utilizada no projeto: Brainstorming.
+
+| Participantes | Rastreabilidade |
+| - | - |
+| Breno, Bruno e Iago | [Desenvolvimento do Brainstorming](/IdentificacaoNecessidadesUsuario/ExecBrainstorm) |
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
