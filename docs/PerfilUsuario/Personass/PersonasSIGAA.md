@@ -1,9 +1,13 @@
 # Personas no Projeto
 
 ## Sumário
+
 *[Introdução](#Introdução)
+
 *[Metodologia](#Metodologia)
+
 *[Personas](#Personas)
+
 *[Histórico de Versão](#Histórico-de-Versão)
 
 ## Introdução
