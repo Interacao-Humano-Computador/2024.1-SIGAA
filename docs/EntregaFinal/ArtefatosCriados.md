@@ -227,6 +227,8 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Entrevistas da Grade Sugerida: Douglas](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/GradeSugerida/Douglas.md) | Luana Medeiros | Larissa Stéfane |
 | [Entrevistas da Grade Sugerida: Pietro](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/GradeSugerida/Pietro.md) | Luana Medeiros | Larissa Stéfane |
 | [Entrevistas da Grade Sugerida: Rafaela](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/GradeSugerida/Rafaela.md) | Luana Medeiros | Larissa Stéfane |
+| [Entrevistas da Matrícula: Douglas](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/GradeSugerida/Rafaela.md) | Pedro Izarias |  Luana Medeiros | 
+| [Entrevistas da Matrícula: Erika](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/Matricula/erika.md) | Pedro Izarias |  Luana Medeiros | 
 
 | [Planejamento entrevistas (Outro)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistaNovo.md) | Pedro Izarias | Bruno Araújo |
 | [Entrevistas de acordo com planejamento(outro)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas.md) | Bruno, Iago e Pedro | Bruno |
