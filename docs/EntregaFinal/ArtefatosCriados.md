@@ -49,4 +49,12 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Análise de Documentos: Estudantes](PerfilUsuario/Estudantes/AnaliseDocumentalEstudantes.md)          | Larissa Stéfane  | Bruno Araújo |
 | [Perfil do Usuário Estudante](PerfilUsuario/Estudantes/perfilEstudante.md)                            |  Larissa Stéfane | Breno Alexandre |
 | [Planejamento Entrevistas com Professores](PerfilUsuario/Professores/Entrevistas/PlanejamentoProfessores.md) | Larissa Stéfane | Breno Alexandre |
+| [Entrevista com o professor André Barros de Sales](PerfilUsuario/Professores/Entrevistas/Gravacoes/AndreSales.md) | Larissa Stéfane | Breno Alexandre |
+| [Entrevista com uma professora anônima](PerfilUsuario/Professores/Entrevistas/Gravacoes/Anonimo.md) | Larissa Stéfane | Breno Alexandre |
+| [Entrevista com a professora Elaine Venson](PerfilUsuario/Professores/Entrevistas/Gravacoes/ElaineVenson.md) | Larissa Stéfane | Breno Alexandre |
+| [Entrevista com o professor Mario de Oliveira Andrade](PerfilUsuario/Professores/Entrevistas/Gravacoes/MarioAndrade.md) | Larissa Stéfane | Breno Alexandre |
+| [Análise dos Resultados das Entrevistas](PerfilUsuario/Professores/Entrevistas/ResultadoEntrevista.md) | Larissa Stéfane | Breno Alexandre |
+| [Planejamento questionário professores](PerfilUsuario/Professores/Questionarios/Planejamento.md)  | Larissa Stéfane | Breno Alexandre |
+| [Resultados do questionário para Professores](PerfilUsuario/Professores/Questionarios/AnaliseResultados.md) | Larissa Stéfane | Breno Alexandre |
+| [Análise de Documentos: Professores](PerfilUsuario/Professores/AnaliseDocumentoProfessor.md)      | Larissa Stéfane | - |
 
