@@ -30,12 +30,12 @@ A FGA, sigla para Faculdade UnB do Gama, é uma das unidades acadêmicas da Univ
 
 Na figura 2, é possível visualizar o campus:
 
+Figura 2:
  <div align="center">
-   Figura 2:
+   
   <img src="https://lh6.googleusercontent.com/proxy/eYO0B1AlLK_W9TfYm9kyuF7J55kqVsvCXCTz0vMn9QbR8iXH495FZHcKRYjIxsPX0CYUOhRsFqNSUiHK">
- Fonte: FGA 
-
 </div>
+ Fonte: [FGA](https://fga.unb.br/)
 
 Devido a isso, a FGA possui uma forte ênfase em pesquisa e inovação ao colaborar com empresas e instituições para desenvolver soluções tecnológicas e, assim, contribuir para o avanço científico e tecnológico do país.
 
