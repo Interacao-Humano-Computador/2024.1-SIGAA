@@ -97,4 +97,4 @@ Abaixo, há as respostas escritas dadas durante a entrevista.
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
-| 1.0 | Criação e realização do documento | Pedro Izarias| - | 08/07/2024 |
+| 1.0 | Criação e realização do documento | Pedro Izarias| Luana Medeiros | 08/07/2024 |
