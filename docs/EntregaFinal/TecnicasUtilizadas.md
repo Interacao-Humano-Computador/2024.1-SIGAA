@@ -60,7 +60,6 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 | - | - |
 | Larissa Stéfane | [Avaliação por Heurísticas do SIGAA](/planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA) |
 
-
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
 </center>
@@ -80,12 +79,53 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 | - | - |
 | Bruno, Larissa e Pedro | [Personas no Projeto](/PerfilUsuario/Personass/PersonasSIGAA) |
 
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
+<details>
+
+<summary><b>Questionário</b></summary>
+<br>
+<center>
+
+<b>Tabela 4:</b> Técnicas utilizadas no projeto: Questionário.
+
+| Participantes | Rastreabilidade |
+| - | - |
+| Larissa Stéfane | [Resultados do questionário para Professores](/PerfilUsuario/Professores/Questionarios/AnaliseResultados) |
+| Breno, Bruno, Iago, Larissa, Luana e Pedro | [Resultados do questionário para estudantes](/PerfilUsuario/Estudantes/Questionarios/AnáliseResultados) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
 </center>
 
 </details>
+
+
+<details>
+
+<summary><b>Questionário</b></summary>
+<br>
+<center>
+
+<b>Tabela 5:</b> Técnicas utilizadas no projeto: Questionário.
+
+| Participantes | Rastreabilidade |
+| - | - |
+| Larissa Stéfane | [Resultados do questionário para Professores](/PerfilUsuario/Professores/Questionarios/AnaliseResultados) |
+| Breno, Bruno, Iago, Larissa, Luana e Pedro | [Resultados do questionário para estudantes](/PerfilUsuario/Estudantes/Questionarios/AnáliseResultados) |
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
 
 
 ## Referências Bibliográficas
@@ -98,6 +138,8 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 6. <b>AVALIAÇÃO DO SITE:</b> Distribuição Linux Debian. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/Site_Debian>. Acesso em: 08 jul. 2024.
 7. <b>AVALIAÇÃO POR HEURÍSTICAS DO SIGAA</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SiteEscolhidoSIGAA/Avalia%C3%A7%C3%A3o_Heuristica_SIGAA>. Acesso em: 08 jul. 2024.
 8. <b>PERSONAS NO PROJETO</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Personass/PersonasSIGAA>. Acesso em: 08 jul. 2024.
+9. <b>RESULTADOS DO QUESTIONÁRIO PARA PROFESSORES</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/Questionarios/AnaliseResultados>. Acesso em: 08 jul. 2024.
+10. <b>RESULTADOS DO QUESTIONÁRIO PARA ESTUDANTES</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Estudantes/Questionarios/An%C3%A1liseResultados?id=resultados-do-question%c3%a1rio-para-estudantes>. Acesso em: 08 jul. 2024.
 
 
 
