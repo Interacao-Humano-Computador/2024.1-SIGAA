@@ -24,7 +24,9 @@ A metodologia adotada no desenvolvimento do projeto de Interação Humano-Comput
 
 ## Entrega 1
 
-A tabela 1 mostra os artefatos criados para aprimeira entrega:
+A tabela 1 mostra os artefatos criados para a primeira entrega:
+
+**Tabela 1:** Entrega 1.
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
@@ -49,6 +51,11 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 
 
 ## Entrega 2
+
+A tabela 2 mostra os artefatos criados para a segunda entrega:
+
+**Tabela 2:** Entrega 2.
+
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
@@ -127,6 +134,10 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 
 ## Entrega 3
 
+A tabela 3 mostra os artefatos criados para a terceira entrega:
+
+**Tabela 3:** Entrega 3.
+
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
 | [Planejamento Princípios Gerais do Projeto](Requisitos2/principiosGerais/planejamento.md)  | Larissa Stéfane | Bruno Araújo |
@@ -152,6 +163,10 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 
 
 ## Entrega 4
+
+A tabela 4 mostra os artefatos criados para a quarta entrega:
+
+**Tabela 4:** Entrega 4.
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
@@ -179,6 +194,10 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 
 
 ## Entrega 5
+
+A tabela 5 mostra os artefatos criados para a quinta entrega
+
+**Tabela 5:** Entrega 5
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
