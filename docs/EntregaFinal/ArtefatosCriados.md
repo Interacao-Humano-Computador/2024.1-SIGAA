@@ -25,3 +25,21 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
+
+## Entrega 2
+
+| Artefato | Autor(es) | Revisor(es) |
+| ---------  | ----------   | -------------  | 
+| [Planejamento de entrevistas com Estudantes](PerfilUsuario/Estudantes/Entrevistas/PlanejamentoEntrevista.md)             | Larissa Stéfane | Breno Alexandre| 
+| [Entrevista com a estudante Ana Clara Rosário Silva](PerfilUsuario/Estudantes/Entrevistas/Gravacao/AnaClara.md) | Breno Alexandre | Luana Medeiros |
+| [Entrevista com o estudante Bruno Martins Bomfim](PerfilUsuario/Estudantes/Entrevistas/Gravacao/BrunoMartins.md) | Larissa Stéfane | Breno Alexandre |
+| [Entrevista com o estudante Caio Felipe Alves Braga](PerfilUsuario/Estudantes/Entrevistas/Gravacao/CaioBraga.md) | Larissa Stéfane | Breno Alexandre |
+| [Entrevista com o estudante Carlos Gabriel Cardoso Ramos.](PerfilUsuario/Estudantes/Entrevistas/Gravacao/CarlosGabriel.md) | Larissa Stéfane | Breno Alexandre  |
+| [Entrevista com convidada especial: Cecília Alves](PerfilUsuario/Estudantes/Entrevistas/Gravacao/CeciliaAlves.md) | Larissa Stéfane | Breno Alexandre  |
+| [Entrevista com o estudante Gabriel Lopes Barros](PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielLopes.md) | Larissa Stéfane | Breno Alexandre   |
+| [Entrevista com o estudante Gabriel Rodrigo Martins de Andrade](PerfilUsuario/Estudantes/Entrevistas/Gravacao/GabrielRodrigo.md) | Larissa Stéfane | Breno Alexandre   | |
+| [Entrevista com o estudante Isaque Santos](PerfilUsuario/Estudantes/Entrevistas/Gravacao/IsaqueSantos.md) | Larissa Stéfane | Breno Alexandre  |
+| [Entrevista com a estudante Lavínia Inácia Mota](PerfilUsuario/Estudantes/Entrevistas/Gravacao/LavíniaInácia.md) | Larissa Stéfane | Breno Alexandre |
+| [Entrevista com o estudante Leonardo Gonçalvez Machado](PerfilUsuario/Estudantes/Entrevistas/Gravacao/Leonardo.md) | Larissa Stéfane | Breno Alexandre |
+| [Entrevista com o estudante Rodrigo Vaz](PerfilUsuario/Estudantes/Entrevistas/Gravacao/RodrigoVaz.md) | Larissa Stéfane | Breno Alexandre |
+| [Análise dos Resultados das Entrevistas](PerfilUsuario/Estudantes/Entrevistas/ResultadoEntrevista.md) | Larissa Stéfane | Breno Alexandre |
