@@ -4,7 +4,7 @@
 
 * [Introdução](#Introdução)
 * [Cronograma](#Cronograma)
-* [Observações Antes do Uso](#Observações-Antes-do-Uso)
+* [Termos de Consetimento](#Termos-de-Consentimento)
 * [Gravação](#Gravação)
 * [Respostas](#Respostas)
 * [Conclusão](#Conclusão)
@@ -31,28 +31,22 @@ A tabela 1 apresenta o cronograma da entrevista.
 
 <b> Autora: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-## Observações Antes do Uso
+## Termos de Consentimento
 
-Pedido para dar monitoria:
-
-- Tudo ok.
-
-Verificar resultado da monitoria:
-
-- Tudo ok.
+O termo de consetimento foi lido e avaliado pelo participante antes da entrevista. O participante concordou com a participação da entrevista.
 
 ## Gravação
 
 O vídeo 1 mostra a entrevista
 
 
-vídeo 1: IHC - Teste de Usabilidade - Aba de Monitoria – Carlos Gabriel
+vídeo 1: IHC - Teste de Usabilidade - Matrícula – Kaio Takumi
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/I_Uw-LePI0U" title="IHC - Teste de Usabilidade - Aba Monitoria - Carlos Gabriel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1117" height="632" src="https://www.youtube.com/embed/vRM9OePQsbM" title="Avaliação 02 Protótipo de Alta Fidelidade - Matrícula" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
-Caso o vídeo acima não funcione, use este [link](https://youtu.be/I_Uw-LePI0U)
+Caso o vídeo acima não funcione, use este [link](https://www.youtube.com/embed/vRM9OePQsbM)
 
 
 ## Respostas
@@ -61,43 +55,43 @@ Abaixo, há as respostas escritas dadas durante a entrevista.
 
 1. **Você considera que o protótipo atende aos critérios ou necessidades para garantir que você possa utilizar a funcionalidade sem dificuldades? Na sua opinião.**
 
-- Sim, atendeu os critérios.
+- Sim.
 
 2. **Na sua opinião, a interface do protótipo segue os padrões visuais e de interação esperados para o SIGAA? Ela está alinhada com o formato que você conhece no SIGAA?**
 
-- O protótipo mantém. Os símbolos continuam consistentes e a página mantém o padrão.
+- Sim.
 
 3. **Você acha que os termos utilizados no protótipo são compreensíveis e consistentes com o contexto acadêmico e da funcionalidade?**
 
-- De início, os ícones estão específicos, então sem dificuldade. Sem o ícone de monitoria precisaria ir clicando até achar o que queria.
+- Sim.
 
 4. **Você encontrou dificuldades quando navegou nas funcionalidades do protótipo?**
 
-- Talvez a navegabilidade quando for verificar o resultado do pedido. Para tirar a dupla ideia do que vai acontecer e deixar mais específico.
+- Não.
 
 5. **Quais partes do protótipo você considera menos satisfatórias ou que poderiam ser melhoradas para proporcionar uma experiência mais positiva?**
 
-- Mudar o nome “Monitorar Monitoria” para não confundir.
+- Na parte de clicar na matrícula, ele só abre o sidebar, poderia abrir uma página.
 
 6. **A interface do protótipo incentivou você a explorar as suas funcionalidades e os recursos do SIGAA?**
 
-- Sim, a interface proporciona a vontade do usuário de continuar explorando.
+- Sim.
 
 7. **Você se sentiu orientado sobre quais passos tomar a seguir para completar suas tarefas no protótipo? Se sim, as orientações fornecidas foram claras e úteis?**
 
-- Sim, os ícones se mantém padronizados, e os nomes são específicos. Então me senti guiado.
+- Sim.
 
 8. **A interface do protótipo mantém uma consistência visual ao longo de todas as telas e elementos?**
 
-- Sim, ele mantém uma consistência visual em todas as etapas.
+- Sim.
 
 9. **Você sentiu que teve o controle sobre a navegação e a interação com o protótipo?**
 
-- Sim, a todo momento mantém esse controle.
+- Sim.
 
 10. **Como você define a sua satisfação pessoal ao completar tarefas da funcionalidade?**
 
-- Me considero satisfeito, porque foi tranquilo atingir os objetivos.
+- Foi relativamente fácil de fazer.
 
 ## Histórico de Versão
 
