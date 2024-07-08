@@ -689,6 +689,6 @@ Em conclusão, o cronograma apresentou uma organização eficiente das atividade
 
 | Descrição                    | Autor | Revisor | Data       |
 |------------------------------|-------|---------|------------|
-| Criação e elaboração do documento  | Luana Medeiros | - | 07/07/2024 |
+| Criação e elaboração do documento  | Luana Medeiros | Bruno Araújo | 07/07/2024 |
 
 
