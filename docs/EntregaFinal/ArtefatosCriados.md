@@ -16,6 +16,7 @@
 
 ## Introdução
 
+Este documento apresenta uma coleção de tabelas detalhando os artefatos criados durante o desenvolvimento do projeto de Interação Humano-Computador (IHC) sobre o site do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA). Desse modo, cada tabela lista os artefatos gerados, incluindo informações sobre seus respectivos autores e revisores, sendo que os autores considerados foram apenas os que colaboraram com algum conteúdo para o artefato. 
 
 
 
