@@ -4,8 +4,6 @@
 ## Sumário 
 * [Introdução](#Introdução)
 * [Desenvolvimento](#Desenvolvimento)
-* [Resultados](#Resultados)
-* [Análise dos resultados](#Análise-dos-resultados)
 * [Conclusão](#Conclusão)
 * [Bibliografia](#Bibliografia)
 * [Histórico de versões](#Histórico-de-versões)
