@@ -112,6 +112,49 @@ atende a necessidade.
 
 - Ele gostou da experiência. Deu nota 8 para o protótipo.
 
+## Observações do Protótipo e do Usuário
+
+1. **Como os usuários interagiram com o protótipo??**
+
+- Sem dificuldades, exploratório.
+
+2. **Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não)**
+
+- O tempo para atingir os objetivos foi de cerca 3 minutos
+
+3. **A interface está de acordo com os padrões de acessibilidade do W3C?**
+
+- Sim, porém, as fontes poderiam ser maiores.
+
+4. **A interface segue o padrão da interface do SIGAA e a lógica do site também?**
+
+- Sim
+
+5. **O usuário conseguiu operar o protótipo?**
+
+- Sim
+
+6. **O usuário pareceu confuso quando estava executando as tarefas?**
+
+- Não, porém, reservou a si um tempo para explorar as páginas
+
+7. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
+
+- Não foi observada a ocorrência de erro durante a interação
+
+8. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
+
+- Uma vez. Perdeu-se na navegação, retornou e retomou
+
+9. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
+
+- Pareceu gostar da experiência. Expressão segura
+
+10. **Qual foi o erro/problema mais recorrênte no protótipo? Qual a sua solução?**
+
+- Tamanho da fonte. A solução proposta é utilizar fontes um pouco maiores
+
+
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
