@@ -43,3 +43,10 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Entrevista com o estudante Leonardo Gonçalvez Machado](PerfilUsuario/Estudantes/Entrevistas/Gravacao/Leonardo.md) | Larissa Stéfane | Breno Alexandre |
 | [Entrevista com o estudante Rodrigo Vaz](PerfilUsuario/Estudantes/Entrevistas/Gravacao/RodrigoVaz.md) | Larissa Stéfane | Breno Alexandre |
 | [Análise dos Resultados das Entrevistas](PerfilUsuario/Estudantes/Entrevistas/ResultadoEntrevista.md) | Larissa Stéfane | Breno Alexandre |
+| [Planejamento Questionário para estudantes](PerfilUsuario/Estudantes/Questionarios/Planejamento.md)   | Larissa Stéfane | Breno Alexandre |
+| [Termo de consentimento do Questionário](PerfilUsuario/Estudantes/Questionarios/termoCosentimento.md) | Bruno e Larissa | Breno e Pedro   |
+| [Resultados do questionário para estudantes](PerfilUsuario/Estudantes/Questionarios/AnáliseResultados.md) | Larissa Stéfane | Breno e Luana |
+| [Análise de Documentos: Estudantes](PerfilUsuario/Estudantes/AnaliseDocumentalEstudantes.md)          | Larissa Stéfane  | Bruno Araújo |
+| [Perfil do Usuário Estudante](PerfilUsuario/Estudantes/perfilEstudante.md)                            |  Larissa Stéfane | Breno Alexandre |
+| [Planejamento Entrevistas com Professores](PerfilUsuario/Professores/Entrevistas/PlanejamentoProfessores.md) | Larissa Stéfane | Breno Alexandre |
+
