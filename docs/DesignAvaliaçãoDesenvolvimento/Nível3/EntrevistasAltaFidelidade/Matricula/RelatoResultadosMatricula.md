@@ -14,7 +14,7 @@
 
 ## Introdução
 
-
+A funcionalidade de matrícula no Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) é uma das mais cruciais para a vida acadêmica dos estudantes. Garantir que esta funcionalidade seja intuitiva e eficiente é essencial para promover uma boa experiência do usuário e reduzir possíveis erros durante o processo de matrícula. Este trabalho relata os resultados da avaliação de um protótipo de alta fidelidade da funcionalidade de matrícula no SIGAA, com o objetivo de identificar pontos fortes e áreas de melhoria na interface e na usabilidade do sistema.
 
 ## Metodologia
 
@@ -92,6 +92,9 @@ Por fim, a décima pergunta fala sobre a satisfação pessoal do usuário ao int
 
 ## Conclusão
 
+A avaliação do protótipo de alta fidelidade da funcionalidade de matrícula do SIGAA revelou tanto pontos positivos quanto áreas que necessitam de aprimoramento. A interface limpa e o design visual agradável são aspectos positivos que devem ser mantidos e refinados. No entanto, questões relacionadas à navegação, feedback do sistema e acessibilidade precisam ser abordadas para garantir uma experiência do usuário mais eficiente e inclusiva.
+
+As sugestões e observações coletadas durante esta avaliação fornecem uma base sólida para futuras melhorias no sistema. A implementação dessas mudanças contribuirá para uma funcionalidade de matrícula mais intuitiva, acessível e satisfatória para todos os usuários do SIGAA.
 
 ## Histórico de Versão
 
