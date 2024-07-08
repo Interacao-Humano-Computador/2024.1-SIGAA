@@ -57,4 +57,18 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Planejamento questionário professores](PerfilUsuario/Professores/Questionarios/Planejamento.md)  | Larissa Stéfane | Breno Alexandre |
 | [Resultados do questionário para Professores](PerfilUsuario/Professores/Questionarios/AnaliseResultados.md) | Larissa Stéfane | Breno Alexandre |
 | [Análise de Documentos: Professores](PerfilUsuario/Professores/AnaliseDocumentoProfessor.md)      | Larissa Stéfane | - |
+| [Perfil dos professores](PerfilUsuario/Professores/PerfilProfessor.md)                            | Larissa Stéfane | Breno Alexandre |
+| [Entrevista com o servidora Andressa Novais Rodrigues](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Andressa.md) | Bruno Araújo | Breno Alexandre |
+| [Entrevista com o servidor Francisco Cesar Borges Silva (Chiquinho)](PerfilUsuario/Tecnicos/Entrevistas/Gravacao/Francisco(Chiquinho).md) | Breno Alexandre | Bruno Araújo |
+| [Análise de Documentos: Servidores Técnicos e Administrativos](PerfilUsuario/Tecnicos/analiseDocumentosServidores.md)         | Larissa Stéfane | Breno Alexandre |
+| [Perfil dos Servidores Técnicos das Universidades](PerfilUsuario/Tecnicos/PerfilServidor.md)                           | Larissa Stéfane | Breno Alexandre |
+
+
+
+
+
+
+
+
+
 
