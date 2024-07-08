@@ -38,7 +38,7 @@ A tabela 1 apresenta o cronograma da entrevista.
 Este link leva ao termo de consentimento assinado manualmente por Henrique Batalha para participar da entrevista.
 
 
-Clique em: [Termo de consentimento assinado]()
+Clique em: [Termo de consentimento assinado](ignore/TermosPrototiposALtaFidelide/HenriqueBatalha.md)
 
 
 ## Observações Antes do Uso
