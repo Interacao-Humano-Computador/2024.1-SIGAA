@@ -95,8 +95,8 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 
 | Participantes | Rastreabilidade |
 | - | - |
-| Larissa Stéfane | [Resultados do questionário para Professores](/PerfilUsuario/Professores/Questionarios/AnaliseResultados) |
-| Breno, Bruno, Iago, Larissa, Luana e Pedro | [Resultados do questionário para estudantes](/PerfilUsuario/Estudantes/Questionarios/AnáliseResultados) |
+| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | [Resultados do questionário para Professores](/PerfilUsuario/Professores/Questionarios/AnaliseResultados) |
+| [Breno](https://github.com/brenoalexandre0), [Bruno](https://github.com/brunocva), [Iago](https://github.com/Paxxaglia), [Larissa](https://github.com/SkywalkerSupreme), [Luana](https://github.com/LuaMedeiros) e [Pedro](https://github.com/Izarias) | [Resultados do questionário para estudantes](/PerfilUsuario/Estudantes/Questionarios/AnáliseResultados) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
