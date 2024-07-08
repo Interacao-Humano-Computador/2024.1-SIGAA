@@ -91,4 +91,4 @@ Por fim, a décima pergunta fala sobre a satisfação pessoal do usuário ao int
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | ------ | --------------------------------- | --------------- | --------------- | ---------- |
-| 1.0 | Elaboração do documento com suas estruturas | Pedro Izarias |  - | 08/07/2024 |
+| 1.0 | Elaboração do documento com suas estruturas | Pedro Izarias |  Bruno Araújo | 08/07/2024 |
