@@ -998,7 +998,7 @@ A participante concordou com os termos da entrevista.
  </details>
 
 <details>
-  <summary size="20"><b> Realização de Matrícula </b></summary> 
+  <summary size="20"><b> Grade Sugerida </b></summary> 
   
 ### Funcionalidade: Grade Sugerida
   
