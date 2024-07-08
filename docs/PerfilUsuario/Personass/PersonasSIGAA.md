@@ -15,15 +15,12 @@ Foram divididos entre o grupo a criação de personas de cada tipo e ficou defin
 
 ## Personas
 
-<center>
-
 Figura 1: Persona João Pedro Silva
 
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/PerfilUsuario/Personass/PersonaJoaoPedro.png">
 
  <b> Autor: </b> <a href="https://github.com/Izarias">Pedro Izarias</a>.
 
- </center>
 
  
 Figura 2: Persona Adam Gabriel Lopez Cabral
@@ -32,21 +29,13 @@ Figura 2: Persona Adam Gabriel Lopez Cabral
 
  <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
- </center>
-
-
-<center>
 
 Figura 3: Persona Jorge Paulo Reinan
 
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/NovasFotos/Personas/Jorge%20Paulo%20Reinan.png">
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>
 
- </center>
-
-
-<center>
 
 Figura 4: Persona Talya Eloise Moretti Valente
 
@@ -54,9 +43,6 @@ Figura 4: Persona Talya Eloise Moretti Valente
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
- </center>
-
- <center>
 
 Figura 5: Persona Ana
 
@@ -64,16 +50,14 @@ Figura 5: Persona Ana
 
 <b> Autor: </b> <a href="https://github.com/Paxxaglia">Iago Passaglia</a>.
 
- </center>
 
 Figura 6: Persona Juliana Moraes
 
 ![Juliana Moraes(2)](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/assets/140026699/2868ad98-c0f5-4672-9c73-77e905855b2a)
 
 
-<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
+<b> Autor: </b> <a href="https://github.com/brunocva">Bruno Araújo</a>
 
- </center>
 
 ## Histórico de versão
 | Versão | Alteração                           | Responsável     | Revisor         | Data       |
