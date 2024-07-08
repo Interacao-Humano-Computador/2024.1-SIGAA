@@ -83,8 +83,17 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Cenário - Aba Estágio](Requisitos1/Cenarios/estagio.md)         | Iago Passaglia | Breno Alexandre |
 | [Planejamento Análise Hierárquica de Tarefas para as funcionalidades de Bolsas](Requisitos1/AnaliseTarefas/Bolsas/Planejamento.md) | Bruno Araújo  | Iago Passaglia |
 | [Análise de Tarefas: Declaração de Bolsista](Requisitos1/AnaliseTarefas/Bolsas/DeclaraçãodeBolsista2.md)                 | Bruno Araújo  | Iago Passaglia |
-| [Análise de Tarefas: Solicitação de Bolsas](docs/Requisitos1/AnaliseTarefas/Bolsas/SolicitaçãodeBolsas2.md) | Bruno Araújo  | Iago Passaglia |
-
+| [Análise de Tarefas: Solicitação de Bolsas](Requisitos1/AnaliseTarefas/Bolsas/SolicitaçãodeBolsas2.md) | Bruno Araújo  | Iago Passaglia |
+| [GOMS: Estágio](Requisitos1/AnaliseTarefas/Estagio/estagioGoms.md) | Iago Passaglia |  Breno Alexandre |
+| [Análise Hierárquica: Aba Estágio](Requisitos1/AnaliseTarefas/Estagio/estagioHierarquica.md) | Iago Passaglia |  Breno Alexandre |
+| [Planejamento Análise Hierárquica de Tarefas para a aba de Grade Sugerida](Requisitos1/AnaliseTarefas/GradeSugerida/Planejamento.md) | Luana Medeiros | Iago Passaglia |
+| [Análise de Tarefas: Grade Sugerida](Requisitos1/AnaliseTarefas/GradeSugerida/AnaliseGradeSugerida.md)  | Luana Medeiros | Iago Passaglia |
+| [Planejamento Análise Hierárquica de Tarefas para a aba de Histórico](Requisitos1/AnaliseTarefas/Histórico/Planejamento.md)  | Luana Medeiros | Breno Alexandre |
+| [Análise de Tarefas: Histórico](Requisitos1/AnaliseTarefas/Histórico/AnaliseHistorico.md) | Luana Medeiros | Breno Alexandre |
+| [Análise de Tarefas: Tarefas de estágio na visão do estudante (GOMS)](Requisitos1/AnaliseTarefas/Matrícula/MatriculaGOMS.md) | Pedro Izarias |  Breno Alexandre |
+| [Análise Hierárquica de Tarefas no SIGAA - Matrícula (Visão do aluno)](Requisitos1/AnaliseTarefas/Matrícula/FazerMatriculaHierarquica.md) | Pedro Izarias |  Breno e Iago |
+| [Planejamento Análise Hierárquica de Tarefas para a aba de Monitoria](Requisitos1/AnaliseTarefas/Monitoria/Planejamento.md) | Larissa Stéfane | Breno Alexandre |
+| [Análise de Tarefas: Analisar monitor na visão do estudante](Requisitos1/AnaliseTarefas/Monitoria/AnaliseAvaliarMonitor.md) | Larissa Stéfane | Breno Alexandre |
 
 
 
