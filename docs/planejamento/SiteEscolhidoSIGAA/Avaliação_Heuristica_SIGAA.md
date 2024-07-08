@@ -71,7 +71,8 @@ Os pontos observados serão analisados uma segunda vez a fim de se conferir se o
 
 O grau de severidade será feito em uma escala de 1 a 5, como mostra a tabela 2.
 
-Tabela 2.
+Tabela 2:
+
 | Número | Grau de severidade | Significado |
 | -----------| --------------------------- | --------------- |
 | 1 | Baixa severidade | Não interfere significativamente na usabilidade.
