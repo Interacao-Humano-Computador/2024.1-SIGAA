@@ -114,43 +114,43 @@ Abaixo, há as respostas escritas dadas durante a entrevista.
 
 1. **Como os usuários interagiram com o protótipo??**
 
-- 
+- Sem dificuldades
 
-3. **Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não)**
+2. **Quanto tempo que os usuários levam para atingir seus objetivos? (Considerar se ficaram perdidos ou não)**
 
-- 
+- O tempo para atingir os objetivos foi de até 2 minutos.
 
-4. **A interface está de acordo com os padrões de acessibilidade do W3C?**
+3. **A interface está de acordo com os padrões de acessibilidade do W3C?**
 
-- 
+- Sim.
 
-5. **A interface segue o padrão da interface do SIGAA e a lógica do site também?**
+4. **A interface segue o padrão da interface do SIGAA e a lógica do site também?**
 
-- 
+- Sim.
 
-6. **O usuário conseguiu operar o protótipo?**
+5. **O usuário conseguiu operar o protótipo?**
 
-- 
+- Sim.
 
-7. **O usuário pareceu confuso quando estava executando as tarefas?**
+6. **O usuário pareceu confuso quando estava executando as tarefas?**
 
-- 
+- Não.
 
-8. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
+7. **Quantos erros o participante cometeu enquanto estava interagindo com o protótipo?**
 
-- 
+- Não foi observada a ocorrência de erro durante a interação.
 
-9. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
+8. **Quantas vezes o participante teve que parar de interagir com o protótipo para tirar dúvidas?**
 
-- 
+- Nenhuma.
 
-10. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
+9. **No geral, como o participante se sentiu interagindo com o protótipo? Qual foi a expressão facial predominante?**
 
-- 
+- Pareceu estar bem seguro. Sugeriu melhor apresentação da listagem de disciplinas cursadas.
 
-11. **Qual foi o erro/problema mais recorrênte no protótipo? Qual a sua solução?**
+10. **Qual foi o erro/problema mais recorrênte no protótipo? Qual a sua solução?**
 
-- 
+- Não foi observado.
 
 
 
