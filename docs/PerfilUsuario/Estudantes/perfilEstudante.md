@@ -180,16 +180,21 @@ Ao seguir o livro Interação Humano-Computador e Experiência do Usuário¹, na
 
 Tabela 1: Tipo de Perfil A
 
-| Característica | Definição              |
-| -------------- | ---------------------  |
-| Etnia          |  Branca                |
-| Faixa Etária   |  entre 18 e 24 anos    |
-| Gênero         |  Feminino ou Masculino |
-| Nacionalidade  |  Brasileira            |
-| Etnia          |  Branca                |
-| Faixa Etária   |  entre 18 e 24 anos    |
-| Gênero         |  Feminino ou Masculino |
-| Nacionalidade  |  Brasileira            |
+| Característica              | Definição                      |
+| --------------------------- | -----------------------------  |
+| Etnia                       |  Branca                        |
+| Faixa Etária                |  entre 18 e 24 anos            |
+| Gênero                      |  Feminino ou Masculino         |
+| Nacionalidade               |  Brasileira                    |
+| Status Socioeconômico       |  Classe média                  |
+| Objetivos                   |  aprender o máximo do conteúdo teórico para aplicar na vida profissional, preparar-se para o mercado de trabalho, estudar no exterior, entre outros.    |
+| Preferência de Aprendizado  | Visual                         |
+| Alfabetismo Computacional   |  Intermediário                 |
+| Disposição para Explorar Novas Tecnologias  | Dispostos a explorar                         |
+| Dispositivos Tecnológicos que mais utilizam no cotidiano   |  smartphone android e computador portátil/notebook    |
+| Idiomas e Conhecimento do Domínio | Protuguês (Idioma de origem) e inglês |
+| Tempo de Estudo Individua   | 5 e 10 horas semanais |
+| Dificuldades no meio acadêmico | Nível de exigência acadêmica |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
