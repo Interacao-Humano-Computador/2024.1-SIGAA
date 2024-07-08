@@ -20,7 +20,7 @@ Este documento apresenta uma coleção de tabelas detalhando os artefatos criado
 
 ## Metodologia
 
-A metodologia adotada no desenvolvimento do projeto de Interação Humano-Computador (IHC) sobre o site do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) envolveu a criação e avaliação de artefatos ao longo de nove entregas distintas, que serão documentadas nas tabelas de 1 a 8 abaixo. COm isso, cada tabela detalha os artefatos específicos gerados em cada fase do projeto.
+A metodologia adotada no desenvolvimento do projeto de Interação Humano-Computador (IHC) sobre o site do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) envolveu a criação e avaliação de artefatos ao longo de nove entregas distintas, que serão documentadas nas tabelas de 1 a 8 abaixo. Com isso, cada tabela detalha os artefatos específicos gerados em cada fase do projeto.
 
 ## Entrega 1
 
