@@ -183,6 +183,44 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 </details>
 
 
+<details>
+
+<summary><b>Estudo de Campo</b></summary>
+<br>
+<center>
+
+<b>Tabela 8:</b> Técnica utilizada no projeto: Estudo de Campo.
+
+| Participantes | Rastreabilidade |
+| - | - |
+| Pedro Izarias | [Desenvolvimento do Estudo de Campo](/IdentificacaoNecessidadesUsuario/DesenvolvimentoEstudosDeCampo) |
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
+<details>
+
+<summary><b>Classificação por Cartões</b></summary>
+<br>
+<center>
+
+<b>Tabela 9:</b> Técnica utilizada no projeto: Classificação por Cartões.
+
+| Participantes | Rastreabilidade |
+| - | - |
+| Luana e Pedro | [Desenvolvimento da Classificação por Cartões](/IdentificacaoNecessidadesUsuario/DesenvolvimentoClassificaCartoes) |
+
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
 ## Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
