@@ -1,5 +1,13 @@
 # Facilidades e Dificuldades Encontradas
 
+## Sumário
+
+1. [Introdução](#introdução)
+2. [Facilidades](#facilidades)
+3. [Dificuldades](#dificuldades)
+4. [Conclusão](#conclusão)
+5. [Histórico de Versões](#histórico-de-versões)
+
 ## Introdução
 Este documento descreve as facilidades e dificuldades encontradas ao longo do projeto.
 
