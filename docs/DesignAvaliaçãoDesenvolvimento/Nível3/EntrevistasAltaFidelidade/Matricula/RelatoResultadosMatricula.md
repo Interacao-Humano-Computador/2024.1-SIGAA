@@ -18,17 +18,16 @@
 
 ## Metodologia
 
-
-
+A metodologia utilizada para realização da 
   
-**Tabela 2:** Perfil dos entrevistados.
+**Tabela 1:** Lista de entrevistados
 
 | Entrevistadores(s) | Entrevistado(s) | Perfil | Funcionalidade |
-| ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
+| Pedro Izarias | Erika Iwakiri | Estudante de Letras da UnB | Matrícula |
+| Pedro Izarias | Kaio Takumi | Estudante de Administração da UnB | Matrícula |
+| Pedro Izarias | Douglas Martins | Estudante de Eng. de Software da FGA | Matrícula |
+| Pedro Izarias | Pietro Calegari | Estudante de Eng. de Software da FGA | Matrícula |
+| Pedro Izarias | Rafaela | Estudante de Eng. Automotiva da FGA | Matrícula |
 
 
 
