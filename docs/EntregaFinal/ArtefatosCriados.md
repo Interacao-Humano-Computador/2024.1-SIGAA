@@ -219,6 +219,10 @@ A tabela 5 mostra os artefatos criados para a quinta entrega
 
 ## Entrega 6.1 - Verificação dos artefatos I
 
+A tabela 6 mostra os artefatos criados para a primeira parte da entrega 6 entrega:
+
+**Tabela 6:** Entrega 6.
+
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
 | [Planejamento Verificação do Grupo 3](VerificacaoArtefatos/Grupo3/PlanejamentoVerificação.md) | Breno e Larissa | Bruno e Larissa |
@@ -249,6 +253,10 @@ A tabela 5 mostra os artefatos criados para a quinta entrega
 
 
 ## Entregas 7 e 8 
+
+A tabela 7 mostra os artefatos criados para a sétima e oitava entrega:
+
+**Tabela 7:** Entrega 7.
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
