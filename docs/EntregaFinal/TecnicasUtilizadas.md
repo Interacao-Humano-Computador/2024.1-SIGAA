@@ -193,7 +193,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 
 | Participantes | Rastreabilidade |
 | - | - |
-| [Pedro](https://github.com/Izarias) | [Desenvolvimento do Estudo de Campo](/IdentificacaoNecessidadesUsuario/DesenvolvimentoEstudosDeCampo) |
+| [Pedro Izarias](https://github.com/Izarias) | [Desenvolvimento do Estudo de Campo](/IdentificacaoNecessidadesUsuario/DesenvolvimentoEstudosDeCampo) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
@@ -212,7 +212,7 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 
 | Participantes | Rastreabilidade |
 | - | - |
-| Luana e Pedro | [Desenvolvimento da Classificação por Cartões](/IdentificacaoNecessidadesUsuario/DesenvolvimentoClassificaCartoes) |
+| [Luana](https://github.com/LuaMedeiros) e [Pedro](https://github.com/Izarias) | [Desenvolvimento da Classificação por Cartões](/IdentificacaoNecessidadesUsuario/DesenvolvimentoClassificaCartoes) |
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
