@@ -39,7 +39,7 @@ O SIGAA oferece um conjunto de funcionalidades em diversos campos. Desse modo, a
  
   **Figura 2**: Site Sigaa no portal público
   
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa2.png">
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2024.1-SIGAA/main/docs/Midia/sigaa2.png"><br>
    
    Fonte: Site do SIGAA  
 
