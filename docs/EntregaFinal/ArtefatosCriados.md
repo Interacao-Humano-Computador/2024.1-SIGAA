@@ -63,9 +63,15 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Análise de Documentos: Servidores Técnicos e Administrativos](PerfilUsuario/Tecnicos/analiseDocumentosServidores.md)         | Larissa Stéfane | Breno Alexandre |
 | [Perfil dos Servidores Técnicos das Universidades](PerfilUsuario/Tecnicos/PerfilServidor.md)                           | Larissa Stéfane | Breno Alexandre |
 | [Personas](PerfilUsuario/Personass/PersonasSIGAA.md)                    | Bruno, Larissa e Pedro | Pedro e Luana |
+| [Planejamento da Classificação por Cartões](IdentificacaoNecessidadesUsuario/PlanejaClassificaCartoes.md)            | Luana e Pedro | Breno Alexandre |
 | [Desenvolvimento da Classificação por Cartões](IdentificacaoNecessidadesUsuario/DesenvolvimentoClassificaCartoes.md) | Luana e Pedro | Breno Alexandre |
+| [Resultado da Classificação por Cartões](IdentificacaoNecessidadesUsuario/ResultadoClassificaCartoes.md)             | Luana Medeiros| Breno Alexandre |
+| [Planejamento do Estudo de Campo](IdentificacaoNecessidadesUsuario/PlanejaEstudosDeCampo.md)                         | Pedro Izarias | Breno Alexandre |
 | [Desenvolvimento do Estudo de Campo](IdentificacaoNecessidadesUsuario/DesenvolvimentoEstudosDeCampo.md)              | Pedro Izarias | Breno Alexandre |
-
+| [Resultado do Estudo de Campo](IdentificacaoNecessidadesUsuario/ResultadoEstudoDeCampo.md)                           | Pedro Izarias | Breno Alexandre |
+| [Planejamento do Brainstorming](IdentificacaoNecessidadesUsuario/PlanejaBrainstorm.md)                               | Iago Passaglia | Bruno Araújo |
+| [Desenvolvimento do Brainstorming](IdentificacaoNecessidadesUsuario/ExecBrainstorm.md)  | Iago Passaglia | Bruno Araújo |
+| [
 
 
 
