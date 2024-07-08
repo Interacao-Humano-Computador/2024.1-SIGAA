@@ -24,9 +24,11 @@ Através de uma análise dos artefatos criados, será documentado em uma tabela 
 
 Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a técnica e a rastreabilidade.
 
-<center>
+<details>
 
-#### Framework DECIDE
+<summary><b>Framework DECIDE</b></summary>
+<br>
+<center>
 
 <b>Tabela 1:</b> Técnicas utilizadas no projeto: Framework DECIDE.
 
@@ -39,15 +41,43 @@ Abaixo estão as tabelas com as técnicas usadas, os participantes que usaram a 
 | Luana Medeiros | [Avaliação do site: Alistamento Militar](/planejamento/SitesAvaliados/AlistamentoMilitar) |
 | Pedro Izarias | [Avaliação do site: Distribuição Linux Debian](/planejamento/SitesAvaliados/Site_Debian) |
 
+<b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
+
+</center>
+
+</details>
+
+
+<details>
+
+<summary><b>Avaliação Heurística</b></summary>
+<br>
+<center>
+
+<b>Tabela 2:</b> Técnicas utilizadas no projeto: Avaliação Heurística.
+
+| Participantes | Rastreabilidade |
+| - | - |
+| Larissa Stéfane | [Avaliação por Heurísticas do SIGAA](/planejamento/SiteEscolhidoSIGAA/Avaliação_Heuristica_SIGAA) |
+
 
 <b>Autor:</b> <a href="https://github.com/brenoalexandre0/">Breno Alexandre</a>.
 
 </center>
 
+</details>
+
 
 ## Referências Bibliográficas
 
-1.
+1. <b>AVALIAÇÃO DO SITE:</b> Inep Enem. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/Site_enem>. Acesso em: 08 jul. 2024.
+2. <b>AVALIAÇÃO DO SITE:</b> Corpo de Bombeiros Militar do Distrito Federal. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/CBMDF>. Acesso em: 08 jul. 2024.
+3. <b>AVALIAÇÃO DO SITE:</b> SIGAA - UnB. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/Site_Sigaa>. Acesso em: 08 jul. 2024.
+4. <b>AVALIAÇÃO DO SITE:</b> Secretaria da Pessoa com Deficiência do GDF. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/Site_Secretaria_PND_GDF>. Acesso em: 08 jul. 2024.
+5. <b>AVALIAÇÃO DO SITE:</b> Alistamento Militar. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/AlistamentoMilitar>. Acesso em: 08 jul. 2024.
+6. <b>AVALIAÇÃO DO SITE:</b> Distribuição Linux Debian. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SitesAvaliados/Site_Debian>. Acesso em: 08 jul. 2024.
+7. <b>AVALIAÇÃO POR HEURÍSTICAS DO SIGAA</b>. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/planejamento/SiteEscolhidoSIGAA/Avalia%C3%A7%C3%A3o_Heuristica_SIGAA>. Acesso em: 08 jul. 2024.
+
 
 
 ## Histórico de Versão
