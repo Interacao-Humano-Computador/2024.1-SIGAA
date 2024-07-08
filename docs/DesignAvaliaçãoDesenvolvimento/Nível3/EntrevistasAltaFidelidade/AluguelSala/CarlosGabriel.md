@@ -72,7 +72,7 @@ Verificar aluguel vigente:
 
 ## Gravação
 
-O vídeo 1 mostra a entrevista com o Genilson
+O vídeo 1 mostra a entrevista com o Carlos Gabriel
 
 vídeo 1: IHC - Teste de Usabilidade – Aluguel de Sala – Carlos Gabriel
 
