@@ -117,10 +117,10 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Princípios Gerais: Visibilidade e Reconhecimento no projeto](Requisitos2/principiosGerais/PrincipiosGerais.md) | Luana Medeiros | Bruno Araújo  |
 | [Planejamento do Guia de estilo](Requisitos2/GuiaEstilo/planejamento.md) | Larissa Stéfane | Breno Alexandre |
 | [Guia de Estilo: Elementos de Interface](Requisitos2/GuiaEstilo/GuiaEstilo.md) | Breno Alexandre | Bruno Araújo |
-| [
- 
-
-
+| [Guia de Estilo: Vocabulário e Padrões](Requisitos2/GuiaEstilo/GuiaEstilo.md) | Iago Passaglia | Larissa Stéfane |
+| [Guia de Estilo: Resultados de análise](Requisitos2/GuiaEstilo/GuiaEstilo.md) | Pedro Izarias | Bruno Araújo |
+| [Guia de Estilo: Elementos de Ação](Requisitos2/GuiaEstilo/GuiaEstilo.md) | Luana Medeiros | Breno Alexandre	 |
+| [Guia de Estilo: Elementos de Interação](Requisitos2/GuiaEstilo/GuiaEstilo.md) | Bruno Araújo | Breno Alexandre	 |
 
 
 
