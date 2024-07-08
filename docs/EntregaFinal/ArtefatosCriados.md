@@ -170,6 +170,14 @@ A tabela 1 mostra os artefatos criados para aprimeira entrega:
 | [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Pré-Cadastro de Estágio](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Iago Pasaglia | Pedro Izarias |
 | [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Realização de Matrícula](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Pedro Izarias |Iago Pasaglia |
 | [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Solicitação de Bolsas](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) |  Bruno Araújo |  Luana Medeiros |
+| [Planejamento do Relato da Avaliação do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoRelatoPrototipoPapel.md) | Larissa Stéfane | Bruno Araújo | [Relato da Avaliação do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/RelatoAvaliacaoPrototipoPapel.md) | Breno, Bruno, Iago, Larissa, Luana, Pedro | Bruno, Luana e Pedro |
+
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+
+
+
 
 
 
