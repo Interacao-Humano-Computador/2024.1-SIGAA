@@ -305,6 +305,7 @@ A tabela 8 mostra os artefatos criados para a sétima e oitava entrega:
 | [Entrevistas da Grade Sugerida: Douglas](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/GradeSugerida/Douglas.md) | Luana Medeiros | Larissa Stéfane |
 | [Entrevistas da Grade Sugerida: Pietro](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/GradeSugerida/Pietro.md) | Luana Medeiros | Larissa Stéfane |
 | [Entrevistas da Grade Sugerida: Rafaela](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/GradeSugerida/Rafaela.md) | Luana Medeiros | Larissa Stéfane |
+| [Entrevistas da Grade Sugerida: Leonardo](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/GradeSugerida/Leonardo.md) | Luana Medeiros | Larissa Stéfane |
 | [Entrevistas da Matrícula: Douglas](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/GradeSugerida/Rafaela.md) | Pedro Izarias |  Luana Medeiros | 
 | [Entrevistas da Matrícula: Erika](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/Matricula/erika.md) | Pedro Izarias |  Luana Medeiros | 
 | [Entrevistas da Matrícula: Kaio](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/Matricula/kaio.md) | Pedro Izarias |  Luana Medeiros | 
