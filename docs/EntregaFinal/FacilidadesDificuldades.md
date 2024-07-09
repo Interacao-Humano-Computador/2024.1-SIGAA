@@ -49,10 +49,10 @@ O projeto também apresentou diversos desafios, especialmente na gestão do temp
 ### Luana Medeiros
 
 #### Facilidades
-
+Durante o semestre, me senti confortável com as exigências técnicas e metodológicas dos projetos. Minha experiência anterior com a documentação de sistemas e ferramentas colaborativas, como o GitHub, ajudou bastante a manter tudo organizado e padronizado. Além disso, a monitoria foi um grande suporte, ajudando a esclarecer dúvidas e solucionar problemas ao longo do caminho.
 
 #### Dificuldades
-
+Equilibrar as atividades acadêmicas com os projetos foi um grande desafio, especialmente com prazos tão apertados e uma carga de trabalho intensa. Gerenciar meu tempo foi crucial e muitas vezes tive que reorganizar minhas prioridades para conseguir cumprir todas as entregas. A sincronização das agendas dos membros da equipe foi outro obstáculo, dificultando a realização de reuniões e a distribuição equilibrada das tarefas. Isso levou a uma sobrecarga de trabalho para alguns de nós. Além disso, a comunicação dentro do grupo nem sempre foi eficaz, resultando em alguns mal-entendidos e atrasos.
 
 ### Pedro Izarias
 
