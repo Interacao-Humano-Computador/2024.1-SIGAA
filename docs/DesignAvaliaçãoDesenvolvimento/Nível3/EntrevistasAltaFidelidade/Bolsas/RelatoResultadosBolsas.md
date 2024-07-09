@@ -29,7 +29,7 @@
 | Bruno Araújo      | Melinna Orrico   | Estudante de História na UnB | Solicitação de Bolsas |
 | Bruno Araújo      | Marcus Vinicius  | Estudante de Direito na UnB | Solicitação de Bolsas |
 | Bruno Araújo      | Daniela Araújo         | Estudante de Farmácia na UnB | Solicitação de Bolsas |
-| Bruno Araújo      | Myllena Lacerda       | Professora na UNB | Solicitação de Bolsas |
+| Bruno Araújo      | Myllena Lacerda       | Professora Voluntária do departamento ded Letras na UNB | Solicitação de Bolsas |
 
 ## Teste Piloto
 
@@ -44,20 +44,19 @@ Sobre esse tema, todos os participantes responderam de maneira positiva sobre o 
 
 #### Protótipo e o padrão do SIGAA
 
-Sobre a questão que verifica se o protótipo segue os padrões esperados de interface para o SIGAA, houve também unanimidade positiva quanto aos feedbacks recebidos pelos usuários. A maior parte dos participantes apenas afirmou que o protótipo segue o padrão esperado, porém, uma [entrevistada](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/rafaela.md) acrescendou que o sistema é intuitivo e fácil de usar. Outro [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/pietro.md) também acrescentou que a interface escolhida para o protótipo é "Ainda melhor!" que a interface original.
-
+Sobre a questão que verifica se o protótipo segue os padrões esperados de interface para o SIGAA, houve também unanimidade positiva quanto aos feedbacks recebidos pelos usuários. A maior parte dos participantes apenas afirmou que o protótipo segue o padrão esperado, porém, uma [entrevistada](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Bolsas/Melinna.md) acrescendou que o sistema é bem prático. 
 
 #### Termos utilizados no protótipo
 
-Quanto aos termos utilizados no protótipo e se os mesmos se adéquam ao contexto acadêmico ao qual estão inseridos, ocorreu unanimidade positiva mais uma vez e ainda um comentário feito por um [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/SolicitacaoBolsas/douglas.md) atesta que os termos são compreensíveis. O comentário em questão diz que os termos ficaram simplificados e que com uma breve leitura, já se tem compreensão do que se trata.
+Quanto aos termos utilizados no protótipo e se os mesmos se adéquam ao contexto acadêmico ao qual estão inseridos, ocorreu unanimidade positiva mais uma vez, com unanimidade entre os entrevistados.
 
 #### Dificuldades para navegar no protótipo
 
-Sobre as dificuldades dos participantes em utilizar e navegar no protótipo, apenas um entrevistado relatou complicações ao realizar o teste de usabilidade. O [usuário](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/SolicitacaoBolsas/pietro.md) em questão, disse ter tido dificuldades em rolar a página para baixo pelo fato de estar utilizando um trackpad de notebook e não um mouse. Fato esse que não se refere ao protótipo em sí, mas ao hardware escolhido para a dinâmica.
+Sobre as dificuldades dos participantes em utilizar e navegar no protótipo, apenas um entrevistado acrescentou que é bem fácil de navegar [usuário](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Bolsas/Melinna.md).
 
 #### Partes menos satisfatórias do protótipo
 
-Com relação as partes do protótipo que foram menos satisfatórias ou que o usuário sugeriria alguma alteração, tivemos alguns feedbacks interessantes sobre diferentes partes do sistema. Dois participantes acreditam que ao realizar a solicitação de bolsas e clicar em imprimir comprovante, o sistema deveria voltar para a parte de cima da tela automaticamente, sem a necessidade de utilizar a barra de rolagem. Outra [entrevistada](https://github.com/Interacao-Humano-Computador/2024.1SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/SolicitacaoBolsas/erika.md) menciona que a fonte escolhida poderia ser um pouco maior, pois um usuário de smartphones ou tables que possuem menor tela, poderiam ter dificuldades para ler. Por fim, outro usuário sugeriu que no lugar de uma barra lateral para as opções de solicitação de bolsas, tivesse uma página própria, facilitando a visualização das informações.
+Com relação as partes do protótipo que foram menos satisfatórias ou que o usuário sugeriria alguma alteração, tivemos alguns feedbacks interessantes sobre diferentes partes do sistema. Dois participantes falara sobre o tamanho da fonte[entrevistada](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Bolsas/Myllena.md), um outro, que a a cor do link de retornar ao portal do discente poderia ser outro [entrevistado](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Bolsas/Marcus.md) menciona que a fonte escolhida poderia ser um pouco maior, pois um usuário de smartphones ou tables que possuem menor tela, poderiam ter dificuldades para ler. Por fim, outro usuário sugeriu que no lugar de uma barra lateral para as opções de solicitação de bolsas, tivesse uma página própria, facilitando a visualização das informações.
 
 #### Interface intuitiva
 
@@ -65,15 +64,15 @@ Sobre o sentimento do usuário com o sistema de ser incentivado a explorar novas
 
 #### Usuário se sentiu orientado para completar a tarefa
 
-Sobre a pergunta referente as orientações do sistema para o usuário realizar as tarefas, todas as respostas foram positivas. Houveram ainda comentários sobre o tema, como a [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/SolicitacaoBolsas/erika.md) que disse ter sido fácil de navegar e o [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/SolicitacaoBolsas/pietro.md) que disse ter sido orientado pelo próprio sistema a completar as tarefas necessárias para a funcionalidade.
+Sobre a pergunta referente as orientações do sistema para o usuário realizar as tarefas, todas as respostas foram positivas. Houveram ainda comentários sobre o tema, como está tudo bem definido [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Bolsas/Melinna.md).
 
 #### Consistência visual da interface
 
-A questão que aborda se o sistema matém um padrão de interface sobre todas as páginas do protótipo, teve todas as suas respostas positivas por parte dos entrevistados, tendo ainda um comentário em que um [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/SolicitacaoBolsas/douglas.md) detalha o fato das cores e tipografias se manterem as mesmas ao longo do site.
+A questão que aborda se o sistema matém um padrão de interface sobre todas as páginas do protótipo, teve todas as suas respostas positivas por parte dos entrevistados.
 
 #### Usuário teve o controle sobre a navegação no protótipo
 
-A cerca da questão que aborda sobre o controle do usuário no momento da navegação pelo protótipo, todos os usuários tiveram resposta positiva, apenas com um adendo feito por um [participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/SolicitacaoBolsas/pietro.md) que alega ter tipo problemas quanto ao "scroll", mas não sendo esse relacionado ao protótipo.
+A cerca da questão que aborda sobre o controle do usuário no momento da navegação pelo protótipo, todos os usuários tiveram resposta positiva.
 
 #### Satisfação pessoal ao completar a tarefa
 
