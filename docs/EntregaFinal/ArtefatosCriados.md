@@ -265,6 +265,10 @@ A tabela 6 mostra os artefatos criados para a primeira parte da entrega 6 entreg
 | [Insperção das Metas de Usabilidade](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/MetasUsabilidade.md) | Bruno Araújo| Luana Medeiros |
 | [Lista de Verificação do Questionário](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Questionários.md) | Pedro Izarias | Luana Medeiros |
 | [Inspeção de Verificação do Questionário](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Questionários.md) | Pedro Izarias | Luana Medeiros |
+| [Lista de Verificação do Perfil do Usuário](docs/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/ValidacaoPerfilDeUsuario.md) | Larissa Stéfane | Luana Medeiros |
+| [Inspeção de Verificação do Perfil do Usuário](docs/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/ValidacaoPerfilDeUsuario.md) | Iago Passaglia | Luana Medeiros |
+| [Lista de Verificação para as Personas](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/VerificacaoPersonas.md) | Pedro Izarias | Luana Medeiros |
+| [Inspeção de Verificação para as Personas](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/VerificacaoPersonas.md) | Iago Passaglia | Pedro Izarias | 
 
 
 | [Lista de Verificação da Técnica de Grupo de Foco](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/GrupoFoco.md) | Breno Alexandre | Luana Medeiros |
