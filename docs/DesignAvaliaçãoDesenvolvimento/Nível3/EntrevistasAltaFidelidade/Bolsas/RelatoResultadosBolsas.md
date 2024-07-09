@@ -33,7 +33,7 @@
 
 ## Teste Piloto
 
-Para visualizar o teste piloto, click no link [Teste piloto[(https://youtu.be/_tXCLOMld0I)
+Para visualizar o teste piloto, click no link [Teste piloto](https://youtu.be/_tXCLOMld0I)
 
 ## Dados Coletados
 
