@@ -53,7 +53,7 @@ Nesta etapa, o designer elaborou o projeto completo da interface em alta fidelid
 
 **Artefatos Produzidos:** Projeto de Alta Fidelidade, Documentação de Design, Protótipos em Figma.
 
-Para mais detalhes sobre as ferramentas utilizadas no projeto, consulte o link: [Ferramentas Utilizadas](link para ferramentas).
+Para mais detalhes sobre as ferramentas utilizadas no projeto, consulte o link: [Ferramentas Utilizadas](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/EntregaFinal/FerramentasUtilizadas.md).
 
 ## Conclusão
 
