@@ -269,6 +269,9 @@ A tabela 6 mostra os artefatos criados para a primeira parte da entrega 6 entreg
 | [Inspeção de Verificação do Perfil do Usuário](docs/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/ValidacaoPerfilDeUsuario.md) | Iago Passaglia | Luana Medeiros |
 | [Lista de Verificação para as Personas](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/VerificacaoPersonas.md) | Pedro Izarias | Luana Medeiros |
 | [Inspeção de Verificação para as Personas](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/VerificacaoPersonas.md) | Iago Passaglia | Pedro Izarias | 
+| [Lista de Verificação para o Guia de Estilo](VerificacaoArtefatos/Grupo2/AnaliseRequisitos2/GuiaEstilo.md) | Iago Passaglia | Bruno Araújo |
+| [Inspeção de Verificação para o Guia de Estilo](VerificacaoArtefatos/Grupo2/AnaliseRequisitos2/GuiaEstilo.md) | Pedro Izarias | Luana Medeiros  |
+
 
 
 | [Lista de Verificação da Técnica de Grupo de Foco](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/GrupoFoco.md) | Breno Alexandre | Luana Medeiros |
