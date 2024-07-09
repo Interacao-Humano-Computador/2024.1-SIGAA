@@ -7,6 +7,7 @@
 * [Metodologia](#Metodologia)
 * [Objetivos e Escopo da Avaliação](#Objetivos-e-Escopo-da-Avaliação)
 * [Metodologia da Avaliação](#Metodologia-da-Avaliação)
+* [Teste Piloto](#Teste-Piloto)
 * [Dados Coletados](#Dados-Coletados)
 * [Conclusão](#Conclusão)
 * [Histórico de Versão](#Histórico-de-Versão)
@@ -31,6 +32,11 @@ A metodologia utilizada para realizar as avaliações dos protótipos de alta fi
 | Luana Medeiros | Rafaela | Estudante de Eng. Automotiva da FGA | Grade Sugerida |
 
 Fonte: [Luana Medeiros](https://github.com/LuaMedeiros)
+
+## Teste Piloto
+A seguir está o video do teste piloto para o protótipo de alta fidelidade da grade sugerida.
+
+<iframe width="1519" height="534" src="https://www.youtube.com/embed/G7crbjP2VZA" title="Teste Piloto - Protótipo Alta Fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Dados Coletados
 
