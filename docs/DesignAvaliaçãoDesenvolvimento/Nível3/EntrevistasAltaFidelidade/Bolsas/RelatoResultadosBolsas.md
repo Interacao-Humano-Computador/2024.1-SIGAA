@@ -33,7 +33,10 @@
 
 ## Teste Piloto
 
-Para visualizar o teste piloto, click no link [Teste piloto](https://youtu.be/_tXCLOMld0I)
+A seguir está o video do teste piloto para o protótipo de alta fidelidade da funcionalidade de solicitação de bolsas:
+<iframe width="1117" height="632" src="https://youtu.be/_tXCLOMld0I" title="Teste piloto - Avaliação do Protótipo de Alta Fidelidade - Grupo 2 - solicitação de bolsas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+Caso o vídeo não funcione, click no link [Teste piloto](https://youtu.be/_tXCLOMld0I)
 
 ## Dados Coletados
 
