@@ -24,11 +24,11 @@ A equipe enfrentou dificuldades em realizar reuniões remotas devido às discrep
 
 #### Facilidades
 
-O grupo manteve boa comunicação e flexibilidade em distribuir tarefas e marcar reuniões, o aplicativo foi escolhido por mim por se tratar de um instrumento muito importante de desburocratização na minha visão. Foi muito bom também ter um membro no grupo que fez uma matéria com o professor André e também uma monitora disponível para auxiliar o grupo.
+O grupo manteve boa comunicação e flexibilidade em distribuir tarefas e marcar reuniões no início do projeto. Foi muito bom também ter um membro no grupo que fez uma matéria com o professor André e também uma monitora disponível para auxiliar o grupo.
 
 #### Dificuldades
 
-Apesar da flexibilidade com reuniões ter sido um ponto positivo, acabou por causar alguns transtornos, principalmente por conta da ausência de alguns membros nas reuniões, a distribuição de tarefas acabou por ser gerar desigual também. Outra dificuldade foi o alinhamento com a organização dos artefatos e tarefas. 
+Apesar da flexibilidade com reuniões ter sido um ponto positivo, acabou por causar alguns transtornos, principalmente por conta da ausência de alguns membros nas reuniões, a distribuição de tarefas acabou por gerar desigualdade também. Outra dificuldade foi o alinhamento com a organização dos artefatos e tarefas. 
 
 ### Iago Passaglia
 
