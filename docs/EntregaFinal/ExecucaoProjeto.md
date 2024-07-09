@@ -33,7 +33,7 @@ Nesta fase, os conceitos iniciais foram refinados e detalhados. O designer defin
 **Nível 3:**
 Nesta etapa, o designer da interface em alta fidelidade, considerando aspectos visuais, como cores, fontes, ícones e layout. Esses projetos foram criados utilizando o FIGMA, o que forneceu uma representação precisa e fiel da interface que serviu como base para a implementação das funcionalidades trabalhadas por cada membro do grupo.
 
-Para mais detalhes das ferramentas utiliziadas, click no link[ferramentas](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/EntregaFinal/FerramentasUtilizadas.md).
+Para mais detalhes das ferramentas utiliziadas no projeto, click no link: [ferramentas](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/EntregaFinal/FerramentasUtilizadas.md).
 
 ### Conclusão
 
