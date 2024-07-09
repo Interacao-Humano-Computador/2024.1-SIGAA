@@ -1,49 +1,47 @@
-# Execução do Projeto
+## Execução do Projeto
 
-## Introdução
+### Introdução
+
 Este documento descreve a execução do projeto, detalhando as etapas realizadas, as metodologias aplicadas e as ferramentas utilizadas ao longo do desenvolvimento. O objetivo é fornecer um panorama completo das atividades do projeto, desde a definição dos requisitos até a entrega final.
 
-## Objetivo do Documento
+### Objetivo do Documento
+
 O objetivo deste documento é registrar de maneira detalhada as fases de execução do projeto, destacando as principais atividades realizadas, os desafios enfrentados e as soluções adotadas para garantir o sucesso do projeto.
 
-## Planejamento do Projeto
+### Fases de Desenvolvimento
 
-### Definição dos Requisitos
-A fase inicial do projeto envolveu a definição clara dos requisitos funcionais e não funcionais. Foram realizadas reuniões com os stakeholders para entender as necessidades e expectativas em relação ao site SIGAA.
+##### Análise de Requisitos
 
-### Metodologia
-Foi adotada a metodologia ágil Scrum para a gestão do projeto. A escolha dessa metodologia se deu pela sua flexibilidade e foco na entrega contínua de valor. As principais etapas incluíram:
+Nessa fase, as metas de usabilidade foram definidas considerando o perfil dos usuários, a análise de tarefas, a plataforma e os princípios de design de IHC. As metas foram apresentadas em guias de estilo que incluem diretrizes para elementos da interface do usuário.
+
+**Artefatos:** Perfil de Usuário, Análise Hierárquica de Tarefas, GOMS, Características Gerais, Princípios Gerais, Metas de Usabilidade e Guia de Estilo.
+
+##### Design, Avaliação e Desenvolvimento
+
+Esta fase buscou criar uma interface que atendesse às metas de usabilidade definidas anteriormente. O processo ocorreu em três níveis de detalhe: protótipos de baixa fidelidade, protótipos de média fidelidade e projeto detalhado da interface em alta fidelidade.
+
+**Nível 1:**
+Com base nos requisitos identificados, o designer criou um conceito inicial e uma proposta para a interface do usuário. Esses conceitos foram representados por rascunhos, esboços ou diagramas, permitindo avaliação preliminar e feedback de usuários e outras partes interessadas.
+
+**Artefatos:** Planejamento da Avaliação da Análise de Tarefas, Planejamento do Relato dos Resultados da Avaliação, Relato do Resultado - Análise de Tarefas, Planejamento da Avaliação do Storyboard, Planejamento do Relato dos Resultados - Storyboard, Relato do Resultado - Storyboard e Storyboards.
+
+**Nível 2:**
+Nesta fase, os conceitos iniciais foram refinados e detalhados. O designer definiu as interações, fluxos de trabalho e a estrutura da interface. Foram criados protótipos de baixa fidelidade, que puderam ser testados e iterados para garantir a usabilidade e a adequação às necessidades dos usuários.
+
+**Artefatos:** Planejamento da Avaliação do Protótipo de Papel, Planejamento do Relato dos Resultados - Protótipo de Papel, Relato dos Resultados do Protótipo de Papel e Protótipo de Papel.
+
+**Nível 3:**
+Nesta etapa, o designer realizou o projeto completo da interface em alta fidelidade, considerando aspectos visuais, como cores, fontes, ícones e layout. Esses projetos foram geralmente criados utilizando softwares de design gráfico ou de interface do usuário, fornecendo uma representação precisa e finalizada da interface que serviu como base para a implementação.
+
+#### Desafios e Soluções
 
 
--  Reuniões semananais para acompanhamento do progresso e resolução de impedimentos.
-- **Sprint Review:** Revisão das entregas realizadas ao final de cada sprint.
-- **Sprint Retrospective:** Análise do que funcionou bem e do que pode ser melhorado para as próximas sprints.
+### Conclusão
 
-### Etapas de Desenvolvimento
-
-#### 1. Análise de Requisitos
-A análise detalhada dos requisitos foi conduzida com base nos princípios de IHC. Utilizamos o framework DECIDE e as heurísticas de Nielsen para avaliar a interface atual do SIGAA e identificar áreas de melhoria.
-
-#### 2. Design da Solução
-Com base na análise de requisitos, foram criados protótipos de alta fidelidade utilizando o Figma. O design foi iterado com base no feedback dos stakeholders e testes de usabilidade.
-
-#### 3. Implementação
-A implementação foi realizada em sprints, conforme planejado na metodologia Scrum. O código foi desenvolvido de forma modular, com ênfase na reutilização de componentes e na manutenção do código.
-
-### Desafios e Soluções
-Durante a execução do projeto, enfrentamos alguns desafios, tais como:
-
-- Otimizações foram necessárias para garantir a performance adequada do site.
-- Implementamos melhorias contínuas para garantir que o site fosse acessível a todos os usuários.
-
-As soluções para esses desafios incluíram reuniões técnicas para alinhamento, uso de ferramentas de monitoramento de performance e revisões de código focadas em acessibilidade.
-
-## Conclusão
 A execução do projeto seguiu as etapas planejadas, com adaptações necessárias ao longo do desenvolvimento para superar desafios e garantir a entrega de um produto de qualidade. A aplicação da metodologia ágil permitiu um desenvolvimento flexível e colaborativo, assegurando que as entregas atendessem às expectativas dos stakeholders.
 
-## Histórico de Versões
+### Histórico de Versões
 
-Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ------ | ---------- | ----------
-1.0 | 07/07/2024 | Criação do documento | Bruno Araújo| ---- |
-
+| Versão | Data      | Descrição             | Autor(es)     | Revisor(es)   |
+|--------|-----------|-----------------------|---------------|---------------|
+| 1.0    | 07/07/2024| Criação do documento  | Bruno Araújo  | ----          |
