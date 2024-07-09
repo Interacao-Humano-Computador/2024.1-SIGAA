@@ -86,8 +86,12 @@ Por fim, a décima pergunta fala sobre a satisfação pessoal do usuário ao int
 
 ## Obervações Gerais
 
+A avaliação ocorreu bem e o protótipo mostrou-se satisfatório, necessitando de pequenos ajustes em relação ao design, como tamanho de fonte e cor.
 
 ## Conclusão
+
+O protótipo de alta fidelidade obteve êxito em desemenho, tendo sido bem avaliado por todos os participantes que não tiveram nenhum dificuldade em executar as tarefas propostas, apenas algumas mudanças podem ser feitas para melhor a experiência do usuário e tornar a navegação mais confortável, ao que foi observado,
+por uma preferência de design.
 
 ## Histórico de Versão
 
