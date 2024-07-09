@@ -14,7 +14,7 @@ O objetivo deste documento é registrar de maneira detalhada as fases de execuç
 
 Nessa fase, as metas de usabilidade foram definidas considerando o perfil dos usuários, a análise de tarefas, a plataforma e os princípios de design de IHC. As metas foram apresentadas em guias de estilo que incluem diretrizes para elementos da interface do usuário.
 
-**Artefatos:** Perfil de Usuário, Análise Hierárquica de Tarefas, GOMS, Características Gerais, Princípios Gerais, Metas de Usabilidade e Guia de Estilo.
+**Artefatos:** Perfil de Usuário, Análise Hierárquica de Tarefas (HTA), GOMS, Características Gerais, Princípios Gerais, Metas de Usabilidade e Guia de Estilo.
 
 ##### Design, Avaliação e Desenvolvimento
 
