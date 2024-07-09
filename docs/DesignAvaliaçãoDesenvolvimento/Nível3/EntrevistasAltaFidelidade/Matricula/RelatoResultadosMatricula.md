@@ -8,7 +8,6 @@
 * [Metodologia](#Metodologia)
 * [Teste Piloto](#Teste-Piloto)
 * [Dados Coletados](#Dados-Coletados)
-* [Obervações Gerais](#Obervações-Gerais)
 * [Conclusão](#Conclusão)
 * [Histórico de Versão](#Histórico-de-Versão)
 
@@ -91,10 +90,6 @@ Por fim, a décima pergunta fala sobre a satisfação pessoal do usuário ao int
 - [Participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/kaio.md) 3: Foi relativamente fácil de fazer.
 - [Participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/pietro.md) 4: De 0 a 10 dou um 9.
 - [Participante](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel3/EntrevistasAltaFidelidade/Matricula/rafaela.md) 5: Eu gostei desse protótipo, ele é bem utilizavel e é fácil também.
-
-
-## Obervações Gerais
-
 
 ## Conclusão
 
