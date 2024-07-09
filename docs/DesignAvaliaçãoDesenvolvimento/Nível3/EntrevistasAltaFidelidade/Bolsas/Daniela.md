@@ -42,11 +42,11 @@ O vídeo 1 mostra a entrevista
 
 vídeo 1: IHC - Teste de Usabilidade - Solicitação de Bolsas – Daniela Araújo
 
-<iframe width="1117" height="632" src="https://https://[youtu.be/qcGyWr7rYGA](https://youtu.be/xX1cwZrOYog)" title="Avaliação 01 do Protótipo de Alta Fidelidade - Matrícula" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1117" height="632" src="https://youtu.be/xX1cwZrOYog" title="Avaliação 01 do Protótipo de Alta Fidelidade - Matrícula" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <b>Autor:</b> <a href="https://github.com/brunocva">Bruno Araújo</a>.
 
-Caso o vídeo acima não funcione, use este [link]([https://https://youtu.be/qcGyWr7rYGA](https://youtu.be/xX1cwZrOYog))
+Caso o vídeo acima não funcione, use este [link]([https://https://youtu.be/qcGyWr7rYGA])
 
 
 ## Respostas
