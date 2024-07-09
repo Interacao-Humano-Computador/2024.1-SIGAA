@@ -29,7 +29,7 @@
 | Bruno Araújo      | Melinna Orrico   | Estudante de História na UnB | Solicitação de Bolsas |
 | Bruno Araújo      | Marcus Vinicius  | Estudante de Direito na UnB | Solicitação de Bolsas |
 | Bruno Araújo      | Daniela Araújo         | Estudante de Farmácia na UnB | Solicitação de Bolsas |
-| Bruno Araújo      | Myllena Lacerda       | Professora Voluntária do departamento ded Letras na UNB | Solicitação de Bolsas |
+| Bruno Araújo      | Myllena Lacerda       | Professora Voluntária do departamento de Letras na UNB | Solicitação de Bolsas |
 
 ## Teste Piloto
 
