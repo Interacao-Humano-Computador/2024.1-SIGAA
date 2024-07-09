@@ -18,10 +18,10 @@ Nessa fase, as metas de usabilidade foram definidas considerando o perfil dos us
 
 ##### Design, Avaliação e Desenvolvimento
 
-Esta fase buscou criar uma interface que atendesse às metas de usabilidade definidas anteriormente. O processo ocorreu em três níveis de detalhe: protótipos de baixa fidelidade, protótipos de média fidelidade e projeto detalhado da interface em alta fidelidade.
+Esta fase buscou criar uma interface que atendesse às metas de usabilidade definidas anteriormente. O processo ocorreu em três níveis de detalhe: protótipos de baixa fidelidade e projeto detalhado da interface em alta fidelidade.
 
 **Nível 1:**
-Com base nos requisitos identificados, o designer criou um conceito inicial e uma proposta para a interface do usuário. Esses conceitos foram representados por rascunhos, esboços ou diagramas, permitindo avaliação preliminar e feedback de usuários e outras partes interessadas.
+Com base nos requisitos identificados, o designer criou um conceito inicial e uma proposta para a interface do usuário. Esses conceitos foram representados por esboços ou diagramas, permitindo avaliação preliminar.
 
 **Artefatos:** Planejamento da Avaliação da Análise de Tarefas, Planejamento do Relato dos Resultados da Avaliação, Relato do Resultado - Análise de Tarefas, Planejamento da Avaliação do Storyboard, Planejamento do Relato dos Resultados - Storyboard, Relato do Resultado - Storyboard e Storyboards.
 
@@ -31,10 +31,9 @@ Nesta fase, os conceitos iniciais foram refinados e detalhados. O designer defin
 **Artefatos:** Planejamento da Avaliação do Protótipo de Papel, Planejamento do Relato dos Resultados - Protótipo de Papel, Relato dos Resultados do Protótipo de Papel e Protótipo de Papel.
 
 **Nível 3:**
-Nesta etapa, o designer realizou o projeto completo da interface em alta fidelidade, considerando aspectos visuais, como cores, fontes, ícones e layout. Esses projetos foram geralmente criados utilizando softwares de design gráfico ou de interface do usuário, fornecendo uma representação precisa e finalizada da interface que serviu como base para a implementação.
+Nesta etapa, o designer da interface em alta fidelidade, considerando aspectos visuais, como cores, fontes, ícones e layout. Esses projetos foram criados utilizando o FIGMA, o que forneceu uma representação precisa e fiel da interface que serviu como base para a implementação das funcionalidades trabalhadas por cada membro do grupo.
 
-#### Desafios e Soluções
-
+Para mais detalhes das ferramentas utiliziadas, click no link[ferramentas](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/EntregaFinal/FerramentasUtilizadas.md).
 
 ### Conclusão
 
