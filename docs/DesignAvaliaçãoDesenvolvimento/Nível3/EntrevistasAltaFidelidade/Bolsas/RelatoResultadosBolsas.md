@@ -37,7 +37,7 @@
 
 #### Critérios para utilizar a funcionalidade
 
-Sobre esse tema, todos os participantes responderam de maneira positiva sobre o fato do protótipo atender todos os critérios ou necessidades para possibilitar o acesso a funcionalidade de realizar matrícula, tendo ainda um adendo sobre o fato do protótipo mudar a identidade visual do site e ainda manter as características que possibilitam esse acesso.
+Sobre esse tema, todos os participantes responderam de maneira positiva sobre o fato do protótipo atender todos os critérios ou necessidades para possibilitar o acesso a funcionalidade de solicitação de bolsas, tendo ainda um adendo sobre o fato do protótipo mudar a identidade visual do site e ainda manter as características que possibilitam esse acesso.
 
 
 #### Protótipo e o padrão do SIGAA
