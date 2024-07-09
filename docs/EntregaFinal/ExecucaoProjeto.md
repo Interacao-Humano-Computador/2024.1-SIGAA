@@ -10,7 +10,14 @@ Registrar de forma detalhada as fases de execução do projeto, destacando as pr
 
 ### Planejamento do Projeto
 
-A fase inicial do projeto desenvolveu o estabelecimento de um cronograma para cada entrega, em que o grupo seguia um artefato de planejado e posteriormente o do executado, para verificar eventuais falta de documentação. Foram realizadas reuniões semanais para alinhamento do projeto, considerando as necessidades e expectativas em relação ao projeto, qual seja, o site SIGAA.
+A fase inicial do projeto envolveu o estabelecimento de um cronograma para cada entrega, em que o grupo seguia um artefato planejado e posteriormente o do executado, para verificar eventuais faltas de documentação. Foram realizadas reuniões semanais para alinhamento do projeto, considerando as necessidades e expectativas em relação ao site SIGAA.
+
+### Heatmap e Cronograma
+
+Para otimizar a coordenação entre os membros do grupo, utilizamos um heatmap para alinhar os horários de todos. Alinhado ao heatmap, também elaboramos um cronograma para organizar as tarefas ao longo do semestre, garantindo que todas as atividades fossem programadas adequadamente.
+Análise de Ferramentas
+
+Realizamos uma análise para determinar quais aplicações e ferramentas seriam mais eficazes para o desenvolvimento do projeto. Esse levantamento foi essencial para garantir que todas as ferramentas necessárias fossem identificadas e preparadas para uso.
 
 ### Metodologia
 
