@@ -5,7 +5,8 @@
 * [Introdução](#Introdução)
 * [Metodologia](#Metodologia)
 * [Objetivos e Escopo da Avaliação](#Objetivos-e-Escopo-da-Avaliação)
-* [Metodologia da Avaliação](#Metodologia-da-Avaliação)
+* [Metodologia](#Metodologia)
+* [Teste Piloto](#Teste-Piloto)
 * [Dados Coletados](#Dados-Coletados)
 * [Obervações Gerais](#Obervações-Gerais)
 * [Conclusão](#Conclusão)
@@ -34,6 +35,11 @@ A seguir, temos a lista de participantes das entrevistas relacionadas a funciona
 | Pedro Izarias | Rafaela | Estudante de Eng. Automotiva da FGA | Matrícula |
 
 Fonte: [Pedro Izarias](https://github.com/Izarias)
+
+## Teste Piloto
+A seguir está o video do teste piloto para o protótipo de alta fidelidade da funcionalidade de realizar matrícula:
+
+<iframe width="1117" height="632" src="https://www.youtube.com/embed/vC3psmKwLUY" title="Teste piloto - Avaliação do Protótipo de Alta Fidelidade - Grupo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Dados Coletados
 
