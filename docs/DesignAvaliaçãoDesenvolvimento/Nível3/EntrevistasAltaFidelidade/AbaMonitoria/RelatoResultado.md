@@ -22,11 +22,11 @@
 
 ## Introdução
 
-Este documento apresenta os resultados gerais das avaliações do protótipo da aba de monitoria do SIGAA. O objetivo foi coletar feedback dos usuários sobre a usabilidade e eficácia do protótipo, identificando pontos fortes e áreas que precisam de melhorias.
+Este documento apresenta os resultados gerais das avaliações do protótipo da aba de monitoria do SIGAA. COm isso, o objetivo ao coletar os feedback dos usuários sobre a usabilidade e eficácia do protótipo, foi possível identificar pontos fortes e áreas que precisam de melhorias.
 
 ## Metodologia
 
-As avaliações foram conduzidas seguindo o método DECIDE, com um conjunto de entrevistas semiestruturadas com usuários do sistema. Os dados coletados foram analisados para extrair informações sobre a usabilidade do protótipo.
+As avaliações foram conduzidas seguindo o método DECIDE, com um conjunto de entrevistas semiestruturadas com usuários do sistema. Assim, os dados coletados foram analisados para extrair informações sobre a usabilidade do protótipo.
 
 ## Objetivos e Escopo da Avaliação
 
