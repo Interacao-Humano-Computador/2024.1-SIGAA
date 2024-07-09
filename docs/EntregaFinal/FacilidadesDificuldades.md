@@ -26,6 +26,7 @@ Tive facilidade em encontrar usuários para validar nossos artefatos/protótipos
 
 ### Larissa Stéfane
 
+A experiência com o projeto da disciplina de IHC sobre o site do SIGAA foi enriquecedora em muitos aspectos. Por exemplo, uma das principais facilidades encontradas foi a realização de pesquisas, de leitura de documentos e com a elaboração e o planejamento de documentos. Isso, porque sempre gostei de ler e fazer resumos, então essa etapa do projeto foi bastante prazerosa para mim. Além disso, as pesquisas me permitiram explorar profundamente o contexto e as necessidades dos usuários.
 
 
 
@@ -33,7 +34,7 @@ Tive facilidade em encontrar usuários para validar nossos artefatos/protótipos
 
 
 
-# Pedro Izarias
+### Pedro Izarias
 
 O fato de o projeto utilizar o Github Pages facilitou o acompanhamento ao longo do projeto visando as mudanças feitas por cada integrante
 
@@ -50,12 +51,11 @@ A equipe enfrentou dificuldades em realizar reuniões remotas devido às discrep
 
 ### Iago Passaglia
 
-Encontrei dificuldade em me adequar às entregas, a matéria de IHC em conjunto com Requisitos de Software acabou demandando muito tempo de estudo e trabalho nos artefatos, o prazo das entregas geralmente era curto considerando as duas matérias
-e isso tornava o processo um pouco mais complexo. É um projeto grande e muitas vezes tive que deixar de lado algumas coisas para que tudo corresse bem nas entregas.
+Encontrei dificuldade em me adequar às entregas, pois a matéria de IHC acabou demandando muito tempo de estudo e trabalho nos artefatos. Os prazos das entregas geralmente eram curtos, o que tornava o processo um pouco mais complexo. É um projeto grande e, muitas vezes, tive que deixar de lado algumas coisas para que tudo corresse bem nas entregas.
 
 ### Larissa Stéfane
 
-
+O projeto também apresentou diversos desafios, especialmente na gestão do tempo e na organização da equipe. Assim, devido à minha neurodivergência, demoro mais para concluir algumas tarefas, principalmente quando envolvem a leitura de textos extensos. Isso, junto com a carga de trabalho condensada, me levou a virar noites para conseguir cumprir os prazos. Além disso, a organização da equipe foi um ponto crítico, pois a coordenação e distribuição de tarefas nem sempre foram eficientes.
 
 ### Luana Medeiros
 
