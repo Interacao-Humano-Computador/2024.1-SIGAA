@@ -9,9 +9,9 @@
 * [Entrega 3](#Entrega-3)
 * [Entrega 4](#Entrega-4)
 * [Entrega 5](#Entrega-5)
-* [Entrega 6.1](#Entrega-6.1)
+* [Entrega 6.1 - Verificação dos artefatos I](#Entrega-6.1---Verificação-dos-artefatos-I)
 * [Entrega 6.2](#Entrega-6.2)
-* [Entrega 7 e 8](#Entrega-7-e-8)
+* [Entrega 7 e 8](#Entregas-7-e-8)
 * [Histórico de versão](#Histórico-de-versão)
 
 
