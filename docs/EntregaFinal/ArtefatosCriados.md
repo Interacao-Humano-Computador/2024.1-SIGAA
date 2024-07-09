@@ -273,6 +273,9 @@ A tabela 6 mostra os artefatos criados para a primeira parte da entrega 6 entreg
 | [Inspeção de Verificação para o Guia de Estilo](VerificacaoArtefatos/Grupo2/AnaliseRequisitos2/GuiaEstilo.md) | Pedro Izarias | Luana Medeiros  |
 | [Lista de Verificação para o Planejamento da Avaliação da Análise de tarefas](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoHTA.md) | Iago Passaglia | Luana Medeiros	|
 | [Lista de Verificação para o Planejamento da Avaliação da Análise de tarefas](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoHTA.md) | Bruno Araújo | Luana Medeiros	|
+| [Lista de Verificação para o Planejamento da Avaliação do Storyboard](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) | Pedro Izarias | Luana Medeiros |
+| [Inspeção de Verificação para o Planejamento da Avaliação do Storyboard](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) | Bruno Araújo | Luana Medeiros |
+
 
 
 | [Lista de Verificação da Técnica de Grupo de Foco](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/GrupoFoco.md) | Breno Alexandre | Luana Medeiros |
