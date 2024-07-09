@@ -1,45 +1,66 @@
-## Execução do Projeto
+# Execução do Projeto
 
-### Introdução
+## Introdução
 
-Este documento descreve a execução do projeto, detalhando as etapas realizadas, as metodologias aplicadas e as ferramentas utilizadas ao longo do desenvolvimento. O objetivo é fornecer um panorama completo das atividades do projeto, desde a definição dos requisitos até a entrega final.
+Este documento apresenta a execução do projeto, detalhando as etapas realizadas, as metodologias aplicadas e as ferramentas utilizadas ao longo do desenvolvimento. Busca-se fornecer uma visão abrangente das atividades do projeto, desde a definição dos requisitos até a entrega final.
 
-### Objetivo do Documento
+## Objetivo do Documento
 
-O objetivo deste documento é registrar de maneira detalhada as fases de execução do projeto, destacando as principais atividades realizadas, os desafios enfrentados e as soluções adotadas para garantir o sucesso do projeto.
+Registrar de forma detalhada as fases de execução do projeto, destacando as principais atividades realizadas, os desafios enfrentados e as soluções implementadas para assegurar o sucesso do projeto.
 
-### Fases de Desenvolvimento
+### Planejamento do Projeto
 
-##### Análise de Requisitos
+A fase inicial do projeto desenvolveu o estabelecimento de um cronograma para cada entrega, em que o grupo seguia um artefato de planejado e posteriormente o do executado, para verificar eventuais falta de documentação. Foram realizadas reuniões semanais para alinhamento do projeto, considerando as necessidades e expectativas em relação ao projeto, qual seja, o site SIGAA.
 
-Nessa fase, as metas de usabilidade foram definidas considerando o perfil dos usuários, a análise de tarefas, a plataforma e os princípios de design de IHC. As metas foram apresentadas em guias de estilo que incluem diretrizes para elementos da interface do usuário.
+### Metodologia
 
-**Artefatos:** Perfil de Usuário, Análise Hierárquica de Tarefas (HTA), GOMS, Características Gerais, Princípios Gerais, Metas de Usabilidade e Guia de Estilo.
+Durante o ciclo de desenvolvimento, foram conduzidas reuniões semanais para acompanhar o progresso e resolver impedimentos, além de realizar revisões das entregas depois do feedback do professor e dos monitores. A metodologia ágil permitiu uma abordagem iterativa e colaborativa, essencial para adaptar o projeto às mudanças e garantir que as soluções entregues estivessem alinhadas às expectativas dos stakeholders
 
-##### Design, Avaliação e Desenvolvimento
+## Fases de Desenvolvimento
 
-Esta fase buscou criar uma interface que atendesse às metas de usabilidade definidas anteriormente. O processo ocorreu em três níveis de detalhe: protótipos de baixa fidelidade e projeto detalhado da interface em alta fidelidade.
+### Análise de Requisitos
 
-**Nível 1:**
-Com base nos requisitos identificados, o designer criou um conceito inicial e uma proposta para a interface do usuário. Esses conceitos foram representados por esboços ou diagramas, permitindo avaliação preliminar.
+Nessa fase, as metas de usabilidade foram definidas considerando o perfil dos usuários, a análise de tarefas, a plataforma e os princípios de design de Interação Humano-Computador (IHC). As metas foram compiladas em guias de estilo, que incluíam diretrizes para elementos da interface do usuário.
 
-**Artefatos:** Planejamento da Avaliação da Análise de Tarefas, Planejamento do Relato dos Resultados da Avaliação, Relato do Resultado - Análise de Tarefas, Planejamento da Avaliação do Storyboard, Planejamento do Relato dos Resultados - Storyboard, Relato do Resultado - Storyboard e Storyboards.
+**Artefatos Produzidos:** Perfil de Usuário, Análise Hierárquica de Tarefas (HTA), GOMS, Características Gerais, Princípios Gerais, Metas de Usabilidade e Guia de Estilo.
 
-**Nível 2:**
-Nesta fase, os conceitos iniciais foram refinados e detalhados. O designer definiu as interações, fluxos de trabalho e a estrutura da interface. Foram criados protótipos de baixa fidelidade, que puderam ser testados e iterados para garantir a usabilidade e a adequação às necessidades dos usuários.
+### Design, Avaliação e Desenvolvimento
 
-**Artefatos:** Planejamento da Avaliação do Protótipo de Papel, Planejamento do Relato dos Resultados - Protótipo de Papel, Relato dos Resultados do Protótipo de Papel e Protótipo de Papel.
+O processo de design e desenvolvimento foi dividido em três níveis de detalhe: protótipos de baixa fidelidade, protótipos de média fidelidade e projeto detalhado da interface em alta fidelidade.
 
-**Nível 3:**
-Nesta etapa, o designer da interface em alta fidelidade, considerando aspectos visuais, como cores, fontes, ícones e layout. Esses projetos foram criados utilizando o FIGMA, o que forneceu uma representação precisa e fiel da interface que serviu como base para a implementação das funcionalidades trabalhadas por cada membro do grupo.
+**Nível 1: Conceito Inicial**
 
-Para mais detalhes das ferramentas utiliziadas no projeto, click no link: [ferramentas](https://github.com/Interacao-Humano-Computador/2024.1-SIGAA/blob/main/docs/EntregaFinal/FerramentasUtilizadas.md).
+Com base nos requisitos identificados, o designer criou um conceito inicial e uma proposta para a interface do usuário. Esses conceitos foram representados por esboços ou diagramas, permitindo uma avaliação preliminar e feedback dos usuários e stakeholders.
 
-### Conclusão
+**Artefatos Produzidos:** Planejamento da Avaliação da Análise de Tarefas, Planejamento do Relato dos Resultados da Avaliação, Relato do Resultado - Análise de Tarefas, Planejamento da Avaliação do Storyboard, Planejamento do Relato dos Resultados - Storyboard, Relato do Resultado - Storyboard e Storyboards.
+
+**Nível 2: Refinamento**
+
+Nesta fase, os conceitos iniciais foram refinados e detalhados. O designer definiu as interações, fluxos de trabalho e a estrutura da interface. Foram criados protótipos de média fidelidade, que puderam ser testados e iterados para garantir a usabilidade e a adequação às necessidades dos usuários.
+
+**Artefatos Produzidos:** Planejamento da Avaliação do Protótipo de Papel, Planejamento do Relato dos Resultados - Protótipo de Papel, Relato dos Resultados do Protótipo de Papel e Protótipo de Papel.
+
+**Nível 3: Projeto Detalhado**
+
+Nesta etapa, o designer elaborou o projeto completo da interface em alta fidelidade, considerando aspectos visuais como cores, fontes, ícones e layout. Esses projetos foram criados utilizando o Figma, fornecendo uma representação precisa e detalhada da interface que serviu como base para a implementação.
+
+**Artefatos Produzidos:** Projeto de Alta Fidelidade, Documentação de Design, Protótipos em Figma.
+
+Para mais detalhes sobre as ferramentas utilizadas no projeto, consulte o link: [Ferramentas Utilizadas](link para ferramentas).
+
+## Desafios e Soluções
+
+Durante a execução do projeto, enfrentamos diversos desafios, tais como a necessidade de otimizações para garantir a performance adequada do site e assegurar a acessibilidade para todos os usuários. As soluções adotadas incluíram reuniões técnicas para alinhamento, utilização de ferramentas de monitoramento de performance e revisões de código focadas em acessibilidade.
+
+## Conclusão
 
 A execução do projeto seguiu as etapas planejadas, com adaptações necessárias ao longo do desenvolvimento para superar desafios e garantir a entrega de um produto de qualidade. A aplicação da metodologia ágil permitiu um desenvolvimento flexível e colaborativo, assegurando que as entregas atendessem às expectativas dos stakeholders.
 
-### Histórico de Versões
+## Considerações Finais
+
+Este documento serve não apenas como um registro das atividades do projeto, mas também como uma base para futuros desenvolvimentos e melhorias. As lições aprendidas e as melhores práticas identificadas serão fundamentais para a continuidade do projeto e o aprimoramento de novas iniciativas.
+
+## Histórico de Versões
 
 | Versão | Data      | Descrição             | Autor(es)     | Revisor(es)   |
 |--------|-----------|-----------------------|---------------|---------------|
