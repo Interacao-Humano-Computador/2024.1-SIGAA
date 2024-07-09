@@ -55,10 +55,6 @@ Nesta etapa, o designer elaborou o projeto completo da interface em alta fidelid
 
 Para mais detalhes sobre as ferramentas utilizadas no projeto, consulte o link: [Ferramentas Utilizadas](link para ferramentas).
 
-## Desafios e Soluções
-
-Durante a execução do projeto, enfrentamos diversos desafios, tais como a necessidade de otimizações para garantir a performance adequada do site e assegurar a acessibilidade para todos os usuários. As soluções adotadas incluíram reuniões técnicas para alinhamento, utilização de ferramentas de monitoramento de performance e revisões de código focadas em acessibilidade.
-
 ## Conclusão
 
 A execução do projeto seguiu as etapas planejadas, com adaptações necessárias ao longo do desenvolvimento para superar desafios e garantir a entrega de um produto de qualidade. A aplicação da metodologia ágil permitiu um desenvolvimento flexível e colaborativo, assegurando que as entregas atendessem às expectativas dos stakeholders.
