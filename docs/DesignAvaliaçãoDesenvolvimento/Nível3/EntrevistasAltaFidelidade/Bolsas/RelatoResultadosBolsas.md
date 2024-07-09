@@ -23,12 +23,13 @@
   
 **Tabela 2:** Perfil dos entrevistados.
 
-| Entrevistadores(s) | Entrevistado(s) | Perfil | Funcionalidade |
-| ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
-| ------------------ | ------------------ | ----------------- | -------- |
+| Entrevistador(es) | Entrevistado(s) | Perfil | Funcionalidade |
+| ----------------- | --------------- | ------ | -------------- |
+| Bruno Araújo      | Helena Jungman   | Estudante de Desenho Industrial na UnB| Solicitação de Bolsas |
+| Bruno Araújo      | Melinna Orrico   | Estudante de História na UnB | Solicitação de Bolsas |
+| Bruno Araújo      | Marcus Vinicius  | Estudante de Direito na UnB | Solicitação de Bolsas |
+| Bruno Araújo      | Daniela Araújo         | Estudante de Farmácia na UnB | Solicitação de Bolsas |
+| Bruno Araújo      | Myllena Lacerda       | Professora na UNB | Solicitação de Bolsas |
 
 
 
