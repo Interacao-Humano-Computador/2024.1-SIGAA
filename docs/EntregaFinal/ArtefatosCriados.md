@@ -188,9 +188,9 @@ A tabela 4 mostra os artefatos criados para a quarta entrega:
 | [Planejamento da Avaliação da Análise de Tarefas: Decidir como lidar com as questões éticas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) | Luana Medeiros | Larissa Stéfane |
 | [Planejamento da Avaliação da Análise de Tarefas: Avaliar, interpretar e apresentar os dados](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoAvaliaçãoAnáliseTarefas.md) | Pedro Izarias  | Bruno Araújo |
 | [Planejamento do Relato da análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/PlanejamentoRelatoAnáliseTarefas.md) | Bruno Araújo | Larissa e Stéfane |
-| [Relato dos Resultados da Avaliação da Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/RelatoResultadosAnalise.md) | Breno, Iago, Larissa e Pedro | Bruno, Iago, Luana e Pedro |
+| [Relato dos Resultados da Avaliação da Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/AnáliseTarefas/RelatoResultadosAnalise.md) | Breno, Iago, Larissa, Luana e Pedro | Bruno, Iago, Luana e Pedro |
 | [Planejamento das Entrevistas para Storyboard e ANálise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/planejamentoEntrevistas.md) | Larissa Stéfane | Bruno Araújo |
-| [Execução das Entrevistas para Avaliação do Storyboard e da Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/Execucao_Entrevistas.md) | Breno, Bruno, Iago, Larissa, Pedro | Breno, Bruno, Iago e Pedro |
+| [Execução das Entrevistas para Avaliação do Storyboard e da Análise de Tarefas](DesignAvaliaçãoDesenvolvimento/Nível1/Entrevistas_Avaliacao/Execucao_Entrevistas.md) | Breno, Bruno, Iago, Larissa, Luana e Pedro | Breno, Bruno, Iago, Luana e Pedro |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -205,7 +205,7 @@ A tabela 5 mostra os artefatos criados para a quinta entrega
 | ---------  | ----------   | -------------  | 
 | [Planejamento da Avaliação do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/PlanejamentoAvaliacaoPrototipoPapel.md) | Larissa Stéfane | Breno Alexandre |
 | [Planejamento das Entrevistas para Avaliação do Protótipo de Papel](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/PlanejamentoEntrevistaPrototipoPapel.md) | Larissa Stéfane | Breno Alexandre |
-| [Testes Pilotos para as enttrevistas](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/PlanejamentoEntrevistaPrototipoPapel.md) | Breno, Bruno, Iago, Larissa e Pedro | Iago, Larissa e Pedro |
+| [Testes Pilotos para as enttrevistas](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/PlanejamentoEntrevistaPrototipoPapel.md) | Breno, Bruno, Iago, Larissa, Luana e Pedro | Iago, Larissa e Pedro |
 | [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Aba de Monitoria](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Larissa Stéfane | Pedro Izarias |
 | [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Aba do RU](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Breno Alexandre | Luana Medeiros |
 | [Execução das Entrevistas para Avaliação dos Protótipos de Papel: Aluguel de Sala](DesignAvaliaçãoDesenvolvimento/Nível2/Entrevistas/ExecucaoEntrevistas.md) | Larissa Stéfane | Pedro Izarias |
