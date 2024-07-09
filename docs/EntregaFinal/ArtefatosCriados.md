@@ -253,12 +253,15 @@ A tabela 6 mostra os artefatos criados para a primeira parte da entrega 6 entreg
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
+## Entrega 6.2
+
+
 
 ## Entregas 7 e 8 
 
-A tabela 7 mostra os artefatos criados para a sétima e oitava entrega:
+A tabela 8 mostra os artefatos criados para a sétima e oitava entrega:
 
-**Tabela 7:** Entrega 7.
+**Tabela 8:** Entrega 7 e 8.
 
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
