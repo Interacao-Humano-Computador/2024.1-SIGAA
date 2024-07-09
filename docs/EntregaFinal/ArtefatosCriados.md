@@ -262,7 +262,10 @@ A tabela 6 mostra os artefatos criados para a primeira parte da entrega 6 entreg
 | [Lista de Verificação dos Cenários](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Cenarios.md) | Larissa Stéfane | Bruno Araújo |
 | [Insperção da Verificação dos Cenários](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Cenarios.md) | Luana Medeiros | Iago Passaglia	 |
 | [Lista de Verificação das Metas de Usabilidade](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/MetasUsabilidade.md) | Pedro Izarias | Bruno Araújo | 
-| [Insperção das Metas de Usabilidade](docs/VerificacaoArtefatos/Grupo2/AnaliseRequisitos/MetasUsabilidade.md) | Bruno Araújo| Luana Medeiros |
+| [Insperção das Metas de Usabilidade](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/MetasUsabilidade.md) | Bruno Araújo| Luana Medeiros |
+| [Lista de Verificação do Questionário](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Questionários.md) | Pedro Izarias | Luana Medeiros |
+| [Inspeção de Verificação do Questionário](VerificacaoArtefatos/Grupo2/AnaliseRequisitos/Questionários.md) | Pedro Izarias | Luana Medeiros |
+
 
 | [Lista de Verificação da Técnica de Grupo de Foco](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/GrupoFoco.md) | Breno Alexandre | Luana Medeiros |
 | [Lista de Verificação da Análise HTA](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/HTA.md) | Pedro Izarias | Bruno Araújo |
