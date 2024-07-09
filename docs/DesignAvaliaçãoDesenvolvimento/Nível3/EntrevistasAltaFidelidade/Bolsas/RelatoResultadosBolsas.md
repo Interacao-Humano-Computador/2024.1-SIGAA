@@ -31,7 +31,9 @@
 | Bruno Araújo      | Daniela Araújo         | Estudante de Farmácia na UnB | Solicitação de Bolsas |
 | Bruno Araújo      | Myllena Lacerda       | Professora na UNB | Solicitação de Bolsas |
 
+## Teste Piloto
 
+Para visualizar o teste piloto, click no link [Teste piloto[(https://youtu.be/_tXCLOMld0I)
 
 ## Dados Coletados
 
