@@ -290,7 +290,7 @@ A tabela 8 mostra os artefatos criados para a sétima e oitava entrega:
 | Artefato | Autor(es) | Revisor(es) |
 | ---------  | ----------   | -------------  | 
 | [Planejamento da Avaliação do Protótipo de Alta Fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoAvaliacaoPrototipoAltaFidelidade.md) | Larissa Stéfane | Bruno Araújo |
-| [Planejamento Entrevistas de acordo com o Planejamento da Avaliação](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistas.md) | Larissa Stéfane | ago Passaglia |
+| [Planejamento Entrevistas de acordo com o Planejamento da Avaliação](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistas.md) | Larissa Stéfane | Iago Passaglia |
 | [Entrevistas da Aba de Monitoria: Carlos Gabriel](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/CarlosGabriel.md) | Larissa Stéfane | - |
 | [Entrevistas da Aba de Monitoria: Felipe Ferreira](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/FelipeFerreira.md) | Larissa Stéfane | - |
 | [Entrevistas da Aba de Monitoria: Genilson Silva](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/AbaMonitoria/Genilson.md) | Larissa Stéfane | - |
@@ -311,7 +311,7 @@ A tabela 8 mostra os artefatos criados para a sétima e oitava entrega:
 | [Entrevistas da Matrícula: Pietro](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/Matricula/pietro.md) | Pedro Izarias |  Luana Medeiros | 
 | [Entrevistas da Matrícula: Rafaela](DesignAvaliaçãoDesenvolvimento/Nível3/EntrevistasAltaFidelidade/Matricula) | Pedro Izarias |  Luana Medeiros | 
 | [Planejamento entrevistas (Outro)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas/PlanejamentoEntrevistaNovo.md) | Pedro Izarias | Bruno Araújo |
-| [Entrevistas de acordo com planejamento(outro)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas.md) | Bruno, Iago e Pedro | Bruno |
+| [Entrevistas de acordo com planejamento(outro)](DesignAvaliaçãoDesenvolvimento/Nível3/Entrevistas.md) | Bruno, Iago e Pedro | Bruno Araújo |
 | [Planejamento do Relato da Avaliação do Protótipo de Alta Fidelidade](DesignAvaliaçãoDesenvolvimento/Nível3/PlanejamentoRelatoResultados.md) | Larissa Stéfane | Bruno Araújo |
 
 
