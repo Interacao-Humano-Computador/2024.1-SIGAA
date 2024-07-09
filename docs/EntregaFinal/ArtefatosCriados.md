@@ -275,28 +275,8 @@ A tabela 6 mostra os artefatos criados para a primeira parte da entrega 6 entreg
 | [Lista de Verificação para o Planejamento da Avaliação da Análise de tarefas](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoHTA.md) | Bruno Araújo | Luana Medeiros	|
 | [Lista de Verificação para o Planejamento da Avaliação do Storyboard](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) | Pedro Izarias | Luana Medeiros |
 | [Inspeção de Verificação para o Planejamento da Avaliação do Storyboard](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) | Bruno Araújo | Luana Medeiros |
-
-
-
-| [Lista de Verificação da Técnica de Grupo de Foco](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/GrupoFoco.md) | Breno Alexandre | Luana Medeiros |
-| [Lista de Verificação da Análise HTA](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/HTA.md) | Pedro Izarias | Bruno Araújo |
-| [Insperção da Análise HTA](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/HTA.md) | Bruno e Luana | Iago e Luana |
-| [Lista de Verificação do Perfil do Usuário](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/PerfilUsuário.md) | Larissa Stéfane | Luana Medeiros |
-| [Lista de Verificação para as Personas](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/Personas.md) | Pedro Izarias | Luana Medeiros |
-| [Lista de Verificação do Questionário](VerificacaoArtefatos/Grupo3/AnaliseRequisitos/Questionario.md) | Larissa Stéfane | Luana Medeiros |
-| [Lista de Verificação das Metas de Usabilidade](VerificacaoArtefatos/Grupo3/AnaliseRequisitos2/MetasUsabilidade.md) | Pedro Izarias | Bruno Araújo | 
-| [Insperção das Metas de Usabilidade](VerificacaoArtefatos/Grupo3/AnaliseRequisitos2/MetasUsabilidade.md) | Bruno e Luana | Bruno Araújo |
-| [Planejamento do Relato dos Resultados do Protótipo de Papel](VerificacaoArtefatos/Grupo3/AnaliseRequisitos2/Relato_Prototipo_papel.md) | Bruno Araújo | Iago Passaglia |
-| [Lista de Verificação para o Guia de Estilo](VerificacaoArtefatos/Grupo3/AnaliseRequisitos2/analiseGuiaDeEstilo.md) | Iago Passaglia | Bruno Araújo |
-| [Lista de Verificação para o GOMS](VerificacaoArtefatos/Grupo3/AnaliseTarefas/avaliacaoGoms.md) | Iago Passaglia | Bruno Araújo |
-| [Inspeção da Verificação para o GOMS](VerificacaoArtefatos/Grupo3/AnaliseTarefas/avaliacaoGoms.md) | Bruno Araújo | Luana Medeiros |
-| [Lista de Verificação para o Planejamento da Avaliação da Análise de tarefas](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoHTA.md) | Iago Passaglia | Luana Medeiros	|
-| [Lista de Verificação para o Planejamento da Avaliação do Storyboard](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) | Pedro Izarias | Luana Medeiros |
-| [Inspeção para Planejamento da Avaliação do Storyboard](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoAvaliacaoStoryboard.md) | Luana Medeiros | Iago Passaglia |
-| [Lista de Verificação do Planejamento de Avaliação da Análise de Tarefas](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/PlanejamentoDeAvaliaçãoDaAnáliseDeTarefas.md) | Luana Medeiros | Iago Passaglia	|
-| [Lista de Verificação dos StoryBoards](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md) | Luana Medeiros | Iago Passaglia |
-| [Inspeção dos StoryBoards](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md) | Bruno Araújo | Luana Medeiros |
-| [Lista de Verificação o Relato dos resultados da Avaliação do Storyboard](VerificacaoArtefatos/Grupo3/DesignAvaliacaoDesenvolvimento/Nivel1/relatoAvaliacaoRelatoStoryboard.md) | Iago Passaglia | Luana Medeiros |
+| [Lista de Verificação dos StoryBoards](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md) | Luana Medeiros | Iago Passaglia |
+| [Inspeção de Verificação dos StoryBoards](VerificacaoArtefatos/Grupo2/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard.md) | Pedro Izarias | Luana Medeiros | 
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
