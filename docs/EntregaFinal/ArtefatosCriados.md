@@ -255,6 +255,8 @@ A tabela 6 mostra os artefatos criados para a primeira parte da entrega 6 entreg
 
 ## Entrega 6.2
 
+| Artefato | Autor(es) | Revisor(es) |
+| ---------  | ----------   | -------------  | 
 
 
 ## Entregas 7 e 8 
